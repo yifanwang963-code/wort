@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "g-a1-11",
+    "level": "A1",
+    "order": 12,
+    "title": "sein/haben 过去式",
+    "titleDe": "Präteritum: war & hatte",
+    "table": {
+      "caption": "只有这两个动词日常口语里也用过去式，先整表认脸",
+      "headers": [
+        "",
+        "sein：war",
+        "haben：hatte"
+      ],
+      "rows": [
+        [
+          "ich",
+          "war",
+          "hatte"
+        ],
+        [
+          "du",
+          "warst",
+          "hattest"
+        ],
+        [
+          "er/sie/es",
+          "war",
+          "hatte"
+        ],
+        [
+          "wir",
+          "waren",
+          "hatten"
+        ],
+        [
+          "ihr",
+          "wart",
+          "hattet"
+        ],
+        [
+          "sie/Sie",
+          "waren",
+          "hatten"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "讲昨天的事一般用完成时（上一单元），但 sein 和 haben 例外：口语里也直接用 war / hatte——Gestern war ich müde. Ich hatte keine Zeit.",
+      "高频搭配先整记：war krank / war zu Hause / war gut；hatte Hunger / hatte Zeit / hatte Glück（有运气）",
+      "语序不变：war / hatte 照样占第二位，时间词顶到句首时主语倒装——Gestern war ich zu Hause.",
+      "本单元目标是认得出、用得准这两个；其他动词的过去式是书面语的事，B1 再说"
+    ],
+    "examples": [
+      {
+        "de": "Gestern war das Wetter gut.",
+        "zh": "昨天天气很好。"
+      },
+      {
+        "de": "Ich war am Montag krank.",
+        "zh": "我周一病了。"
+      },
+      {
+        "de": "Er hatte heute Morgen keine Zeit.",
+        "zh": "他今天早上没时间。"
+      },
+      {
+        "de": "Wir waren im Urlaub in Berlin.",
+        "zh": "我们假期去了柏林。"
+      }
+    ],
+    "pitfalls": [
+      "war 不是英语的 war（战争），是 sein 的过去式「是/在」",
+      "hatte 后面直接跟名词（hatte Zeit），别再加分词——它本身就是完整谓语，不是完成时的助动词",
+      "du 形式有一家两个：warst / hattest，别漏 -st"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Gestern ___ ich krank. (sein)",
+        "answer": "war",
+        "explain": "sein 的 ich 过去式 war。"
+      },
+      {
+        "type": "fill",
+        "q": "Er ___ keine Zeit. (haben)",
+        "answer": "hatte",
+        "explain": "haben 的 er 形式 hatte，与 ich 同形。"
+      },
+      {
+        "type": "choice",
+        "q": "Wir ___ im Kino.",
+        "options": [
+          "war",
+          "wart",
+          "waren"
+        ],
+        "answer": 2,
+        "explain": "wir 过去式带 -en：waren。"
+      },
+      {
+        "type": "fill",
+        "q": "Du ___ Hunger. (haben)",
+        "answer": "hattest",
+        "explain": "du 形式 hattest，带 -st。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "war",
+          "ich",
+          "Gestern",
+          "zu Hause"
+        ],
+        "answer": [
+          "Gestern",
+          "war",
+          "ich",
+          "zu Hause"
+        ],
+        "explain": "时间顶句首，动词第二位、主语倒装。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich hatte gewesen müde.",
+          "Ich war müde.",
+          "Ich war habe müde."
+        ],
+        "answer": 1,
+        "explain": "war 本身就是谓语，不再叠助动词和分词。"
+      },
+      {
+        "type": "fill",
+        "q": "Ihr ___ in Berlin. (sein)",
+        "answer": "wart",
+        "explain": "ihr 的过去式 wart。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie (她) ___ Glück. (haben)",
+        "answer": "hatte",
+        "explain": "hatte Glück = 她（当时）运气好。"
+      },
+      {
+        "type": "choice",
+        "q": "「Das Wetter war gut.」说的是？",
+        "options": [
+          "天气现在很好",
+          "天气当时很好（过去）",
+          "天气会好"
+        ],
+        "answer": 1,
+        "explain": "war 是过去式。"
+      },
+      {
+        "type": "fill",
+        "q": "Am Samstag ___ wir lange im Büro. (sein)",
+        "answer": "waren",
+        "explain": "wir → waren。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "hatte",
+          "keine",
+          "Zeit",
+          "Er"
+        ],
+        "answer": [
+          "Er",
+          "hatte",
+          "keine",
+          "Zeit"
+        ],
+        "explain": "hatte 第二位，keine Zeit 是宾语。"
+      },
+      {
+        "type": "fill",
+        "q": "___ du gestern zu Hause? (sein)",
+        "answer": "Warst",
+        "explain": "是非问句动词提前，du 的过去式 warst，句首大写。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "war",
+        "q": "你听到的是哪个动词的过去式？",
+        "options": [
+          "haben",
+          "sein",
+          "werden"
+        ],
+        "answer": 1,
+        "explain": "war 是 sein 的过去式。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich hatte keine Zeit.",
+        "display": "Ich ___ keine Zeit.",
+        "answer": "hatte",
+        "explain": "hatte，haben 的过去式。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Gestern war ich krank.",
+        "answer": "Gestern war ich krank.",
+        "explain": "时间开头 + war 第二位 + 主语倒装，全在这一句里。"
+      }
+    ],
+    "reading": {
+      "text": "Gestern war ein langer Tag. Ich war um acht Uhr im Büro. Ich hatte viel Arbeit und keine Zeit für Kaffee. Am Abend war ich sehr müde.",
+      "questions": [
+        {
+          "q": "Wo war der Sprecher um acht Uhr?",
+          "options": [
+            "zu Hause",
+            "im Büro",
+            "im Café"
+          ],
+          "answer": 1,
+          "explain": "war im Büro。"
+        },
+        {
+          "q": "Warum war er am Abend müde?（为什么晚上累）",
+          "options": [
+            "Er war krank.",
+            "Er hatte viel Arbeit.",
+            "Er war im Urlaub."
+          ],
+          "answer": 1,
+          "explain": "hatte viel Arbeit。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用 war / hatte 写 4 句昨天的你（在哪、忙不忙、有没有时间、累不累）。",
+      "sample": "Gestern war ich im Büro. Ich hatte viel Arbeit. Ich hatte keine Zeit für Sport. Am Abend war ich müde."
+    }
+  },
+  {
+    "id": "g-a1-12",
+    "level": "A1",
+    "order": 13,
+    "title": "人称代词（主格+宾格）",
+    "titleDe": "Personalpronomen: Nominativ & Akkusativ",
+    "table": {
+      "caption": "宾格代词——把名词换成代词，避免一句话里同一个词出现两遍",
+      "headers": [
+        "主格（主语）",
+        "ich",
+        "du",
+        "er",
+        "sie",
+        "es",
+        "wir",
+        "ihr",
+        "sie",
+        "Sie"
+      ],
+      "rows": [
+        [
+          "宾格（宾语）",
+          "mich",
+          "dich",
+          "ihn",
+          "sie",
+          "es",
+          "uns",
+          "euch",
+          "sie",
+          "Sie"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "代词替代已经提过的名词：指 der 类用 er/ihn，指 die 类用 sie/sie，指 das 类用 es/es，指人同理——Ich sehe den Mann. → Ich sehe ihn.",
+      "只有阳性宾格换脸（er→ihn），其余主宾同形或小变（ich→mich, du→dich, wir→uns, ihr→euch），和冠词的规律一个道理：变的还是阳性那一路",
+      "代词宾语紧跟变位动词站，别隔太远：Ich sehe ihn heute.（不是 Ich sehe heute ihn 也通顺，但 A1 先按紧跟动词练）",
+      "sie 是三合一：她（主/宾）、他们（主/宾）、它（阴性宾）——靠前文指代对象分辨；Sie 大写永远是「您/您们」",
+      "问「谁」站主格用 Wer，站宾格用 Wen（第九单元已见）：Wen rufst du an? — Ihn."
+    ],
+    "examples": [
+      {
+        "de": "Ich kenne den Lehrer. Ich sehe ihn jeden Tag.",
+        "zh": "我认识那位老师。我每天见到他。"
+      },
+      {
+        "de": "Die Tasche ist schön. Ich kaufe sie.",
+        "zh": "包很好看。我买它（这个包）。"
+      },
+      {
+        "de": "Hast du das Buch? — Ja, ich lese es gerade.",
+        "zh": "你有这本书吗？——有，我正在看。"
+      },
+      {
+        "de": "Wir kommen morgen. Besucht uns!",
+        "zh": "我们明天来。你们来看我们吧！"
+      }
+    ],
+    "pitfalls": [
+      "指物也用代词且按性别：das Buch → es，不是按中文「它」一律 es——die Tasche 要用 sie",
+      "ihn 和 ihm 别混：ihm 是与格（下一单元预告），本单元宾格只有 ihn",
+      "euch 是 ihr 的宾格：Ich sehe euch（我看见你们），别写成 Ich sehe ihr"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich sehe den Mann. Ich sehe ___.（代词）",
+        "answer": "ihn",
+        "explain": "der 类宾格代词 ihn。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie kauft die Tasche. Sie kauft ___.",
+        "answer": "sie",
+        "explain": "die 类宾格还是 sie。"
+      },
+      {
+        "type": "choice",
+        "q": "Das Buch ist neu. Ich lese ___.",
+        "options": [
+          "ihn",
+          "es",
+          "sie"
+        ],
+        "answer": 1,
+        "explain": "das 类用 es。"
+      },
+      {
+        "type": "fill",
+        "q": "Kennst du mich? — Ja, ich kenne ___.（你）",
+        "answer": "dich",
+        "explain": "du 的宾格 dich。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir hören den Lehrer nicht. Wir hören ___ nicht.",
+        "answer": "ihn",
+        "explain": "ihn 紧跟动词，nicht 在后面。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "ihn",
+          "Ich",
+          "sehe",
+          "heute"
+        ],
+        "answer": [
+          "Ich",
+          "sehe",
+          "ihn",
+          "heute"
+        ],
+        "explain": "代词宾语紧跟变位动词。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich sehe euch morgen.",
+          "Ich sehe ihr morgen.",
+          "Ich sehe euer morgen."
+        ],
+        "answer": 0,
+        "explain": "ihr 的宾格是 euch。"
+      },
+      {
+        "type": "fill",
+        "q": "Die Kinder spielen. Ich sehe ___.（他们）",
+        "answer": "sie",
+        "explain": "复数宾格代词 sie。"
+      },
+      {
+        "type": "fill",
+        "q": "A 问：「Hörst du uns?」B 答：「Ja, ich höre ___.」",
+        "answer": "euch",
+        "explain": "回答时人称要转换：提问方自称的 uns（我们），在回答方嘴里是 euch（你们）。"
+      },
+      {
+        "type": "choice",
+        "q": "「Wen rufst du an?」的回答应该是？",
+        "options": [
+          "Er.",
+          "Ihn.",
+          "Ihm."
+        ],
+        "answer": 1,
+        "explain": "Wen 问宾格，答 ihn；ihm 是与格，下一单元。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Auto ist teuer. Er kauft ___ nicht.",
+        "answer": "es",
+        "explain": "das Auto → es，nicht 在代词后。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "sie",
+          "liebt",
+          "Er"
+        ],
+        "answer": [
+          "Er",
+          "liebt",
+          "sie"
+        ],
+        "explain": "sie 做宾格，指她/它（阴性）。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "ihn",
+        "q": "你听到的是？",
+        "options": [
+          "他（主格）",
+          "他（宾格）",
+          "它（中性）"
+        ],
+        "answer": 1,
+        "explain": "ihn 是阳性宾格。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich sehe dich morgen.",
+        "display": "Ich sehe ___ morgen.",
+        "answer": "dich",
+        "explain": "dich，du 的宾格。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Wir kennen ihn gut.",
+        "answer": "Wir kennen ihn gut.",
+        "explain": "ihn 紧跟动词 kennen。"
+      }
+    ],
+    "reading": {
+      "text": "Das ist Herr Braun, unser Lehrer. Wir kennen ihn gut. Er erklärt die Grammatik, und wir verstehen ihn. Am Freitag schreiben wir einen Test. Wir machen ihn zusammen.",
+      "questions": [
+        {
+          "q": "Wen kennen die Schüler gut?",
+          "options": [
+            "den Test",
+            "Herrn Braun",
+            "die Grammatik"
+          ],
+          "answer": 1,
+          "explain": "kennen ihn，ihn 指 Herr Braun。"
+        },
+        {
+          "q": "Was machen die Schüler am Freitag zusammen?",
+          "options": [
+            "einen Test",
+            "Grammatik lernen",
+            "Kaffee trinken"
+          ],
+          "answer": 0,
+          "explain": "schreiben einen Test，machen ihn zusammen 里的 ihn 指 Test（der 类）。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "把 3 个带名词宾语的句子改写成代词版，再自创 1 句。",
+      "sample": "Ich sehe den Bus. → Ich sehe ihn. / Sie liest das Buch. → Sie liest es. / Wir kaufen die Blumen. → Wir kaufen sie. / 自创：Ich rufe dich morgen an."
+    }
+  },
+  {
+    "id": "g-a1-13",
+    "level": "A1",
+    "order": 14,
+    "title": "与格预告",
+    "titleDe": "Dativ (Vorschau): mit, bei, von, zu, nach, aus",
+    "table": {
+      "caption": "与格形式——本单元只跟介词走，先把介词后的样子认熟",
+      "headers": [
+        "",
+        "主格",
+        "与格"
+      ],
+      "rows": [
+        [
+          "der 类",
+          "der / ein",
+          "dem / einem"
+        ],
+        [
+          "die 类",
+          "die / eine",
+          "der / einer"
+        ],
+        [
+          "das 类",
+          "das / ein",
+          "dem / einem"
+        ],
+        [
+          "复数",
+          "die / —",
+          "den（名词常加 -n：mit den Kindern）"
+        ],
+        [
+          "人称代词",
+          "ich / du / er / sie / wir / ihr / sie",
+          "mir / dir / ihm / ihr / uns / euch / ihnen（您 Ihnen）"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "本单元六个与格介词，各记一个招牌用法",
+        "headers": [
+          "介词",
+          "招牌用法",
+          "例"
+        ],
+        "rows": [
+          [
+            "mit",
+            "和某人一起 / 乘交通工具",
+            "mit dem Bus, mit meiner Freundin"
+          ],
+          [
+            "bei",
+            "在某人那儿 / 在某公司",
+            "bei Anna, bei Siemens"
+          ],
+          [
+            "von",
+            "来自某人 / 某人的",
+            "von meinem Bruder, von Berlin"
+          ],
+          [
+            "zu",
+            "去某人那儿 / 去（市内）某地",
+            "zu Anna, zur Schule（zu + der = zur）, zum Arzt（zu + dem = zum）"
+          ],
+          [
+            "nach",
+            "去城市/国家 / 回家",
+            "nach Berlin, nach Hause"
+          ],
+          [
+            "aus",
+            "来自城市/国家（出身）",
+            "aus China, aus Shanghai"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "本单元是「预告」：与格的完整体系（哪些动词带与格、双宾语语序）放 A2，这里只学一件事——这六个介词后面永远用与格形式，见到它们就切换",
+      "冠词变化记三点：der→dem、das→dem、die→der，复数 die→den 且名词词尾常补 -n（den Kindern, den Freunden）",
+      "高频口语整句先背下来：Wie geht es dir?（你怎么样）— Mir geht es gut. / Das gehört mir.（这是我的。gehören 带与格）",
+      "zu 和 nach 分工：去城市、国家、回家用 nach；去某人家里、市内某个具体地点用 zu（zur Schule 上学去、zum Arzt 去看医生）"
+    ],
+    "examples": [
+      {
+        "de": "Ich fahre mit dem Bus zur Arbeit.",
+        "zh": "我坐公交去上班。"
+      },
+      {
+        "de": "Am Wochenende bin ich bei meiner Freundin.",
+        "zh": "周末我在我女朋友那儿。"
+      },
+      {
+        "de": "Er kommt aus China und wohnt jetzt in Berlin.",
+        "zh": "他来自中国，现在住柏林。"
+      },
+      {
+        "de": "Nach der Arbeit gehe ich nach Hause.",
+        "zh": "下班后我回家。"
+      }
+    ],
+    "pitfalls": [
+      "mit 后面别用宾格：mit den Bus 是错的，要 mit dem Bus",
+      "die 类与格变 der：mit der Frau，别和主格搞混——这里的 der 不是阳性",
+      "去上学别说 nach Schule：学校是市内地点，用 zu → zur Schule"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich fahre mit ___ Bus. (der)",
+        "answer": "dem",
+        "explain": "mit 后用与格，der→dem。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie wohnt bei ___ Freundin.（她的，die 类）",
+        "answer": "ihrer",
+        "explain": "bei 后与格，ihr 的与格形式 ihrer（物主 ihr + 与格阴性词尾 -er，与 ein 同轨）。"
+      },
+      {
+        "type": "choice",
+        "q": "Wir fahren ___ Berlin.",
+        "options": [
+          "zu",
+          "nach",
+          "bei"
+        ],
+        "answer": 1,
+        "explain": "去城市用 nach。"
+      },
+      {
+        "type": "fill",
+        "q": "Er geht ___ Schule.（去上学）",
+        "answer": "zur",
+        "explain": "zu + der（Schule 阴性与格）缩合为 zur。"
+      },
+      {
+        "type": "choice",
+        "q": "„Wie geht es ___?\"（问你）",
+        "options": [
+          "dich",
+          "dir",
+          "du"
+        ],
+        "answer": 1,
+        "explain": "固定句型用与格 dir。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Geschenk ist von ___ Bruder.（我的）",
+        "answer": "meinem",
+        "explain": "von 后与格，mein + 与格阳性词尾 -em。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "dem",
+          "Ich",
+          "mit",
+          "fahre",
+          "Bus"
+        ],
+        "answer": [
+          "Ich",
+          "fahre",
+          "mit",
+          "dem",
+          "Bus"
+        ],
+        "explain": "mit dem Bus 整体作方式状语。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie kommt ___ China.",
+        "answer": "aus",
+        "explain": "表示出身、来源用 aus。"
+      },
+      {
+        "type": "choice",
+        "q": "Ich bin heute bei ___.（在我朋友那儿，der Freund）",
+        "options": [
+          "den Freund",
+          "dem Freund",
+          "der Freund"
+        ],
+        "answer": 1,
+        "explain": "bei 后与格 dem。"
+      },
+      {
+        "type": "fill",
+        "q": "Er spielt mit ___ Kindern. (die, 复数)",
+        "answer": "den",
+        "explain": "复数与格 den，Kindern 词尾补 n。"
+      },
+      {
+        "type": "choice",
+        "q": "下班回家：Nach der Arbeit gehe ich ___.",
+        "options": [
+          "zu Hause",
+          "nach Hause",
+          "bei Hause"
+        ],
+        "answer": 1,
+        "explain": "回家固定搭配 nach Hause。"
+      },
+      {
+        "type": "fill",
+        "q": "Der Brief ist von ___.（她）",
+        "answer": "ihr",
+        "explain": "sie 的与格是 ihr。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "dem",
+        "q": "你听到的 dem 在这里是什么格？",
+        "options": [
+          "主格",
+          "宾格",
+          "与格"
+        ],
+        "answer": 2,
+        "explain": "dem 只出现在与格（阳性/中性）。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Sie fährt mit dem Auto.",
+        "display": "Sie fährt mit ___ Auto.",
+        "answer": "dem",
+        "explain": "mit 后与格，das→dem。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Er wohnt bei seiner Mutter.",
+        "answer": "Er wohnt bei seiner Mutter.",
+        "explain": "bei + 与格，sein 的与格阴性 seiner。"
+      }
+    ],
+    "reading": {
+      "text": "Am Samstag fahre ich mit dem Zug nach Hamburg. Ich besuche meinen Bruder. Er wohnt bei seiner Freundin. Am Abend gehen wir zusammen ins Kino.",
+      "questions": [
+        {
+          "q": "Wie fährt der Sprecher nach Hamburg?",
+          "options": [
+            "mit dem Bus",
+            "mit dem Zug",
+            "mit dem Auto"
+          ],
+          "answer": 1,
+          "explain": "mit dem Zug。"
+        },
+        {
+          "q": "Bei wem wohnt der Bruder?",
+          "options": [
+            "bei seiner Mutter",
+            "bei seiner Freundin",
+            "bei mir"
+          ],
+          "answer": 1,
+          "explain": "wohnt bei seiner Freundin。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用 mit / bei / nach / aus 各写一句你的真实情况。",
+      "sample": "Ich fahre mit dem Bus zur Arbeit. Am Wochenende bin ich bei meinem Freund. Ich komme aus China. Im Urlaub fahre ich nach Japan.\n（注：zur Arbeit 的 zur 已在附加表出现，可直接用。）"
+    }
+  },
+  {
+    "id": "g-a1-14",
+    "level": "A1",
+    "order": 15,
+    "title": "陈述句语序",
+    "titleDe": "Satzbau: Das Verb steht auf Position 2",
+    "table": {
+      "caption": "陈述句骨架——变位动词焊在第二位，第一位可以换人",
+      "headers": [
+        "第一位",
+        "第二位（动词）",
+        "后面"
+      ],
+      "rows": [
+        [
+          "Ich",
+          "lerne",
+          "heute Deutsch."
+        ],
+        [
+          "Heute",
+          "lerne",
+          "ich Deutsch."
+        ],
+        [
+          "Deutsch",
+          "lerne",
+          "ich heute.（少见，先认）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "前面学过的「括号」都是这条规则的变体",
+        "headers": [
+          "结构",
+          "括号长什么样"
+        ],
+        "rows": [
+          [
+            "情态动词",
+            "Ich kann heute nicht kommen."
+          ],
+          [
+            "可分动词",
+            "Ich stehe um sieben Uhr auf."
+          ],
+          [
+            "完成时",
+            "Ich habe gestern Deutsch gelernt."
+          ],
+          [
+            "否定 nicht",
+            "… steht am Ende vor dem zweiten Verbteil：Ich kann nicht kommen."
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "德语陈述句的铁律只有一条：变位动词永远站在第二位。第一位放什么都行——主语、时间、地点——但只要第一位不是主语，主语就要退到动词后面（倒装）：Heute lerne ich，不是 Heute ich lerne",
+      "「第二位」数的是成分不是词数：Am Samstag Morgen 是两个词、一个成分，动词仍紧跟其后",
+      "时间通常靠前、地点靠后：Ich fahre heute（时间） nach Berlin（地点）；两个都顶到句首时只留一个在第一位",
+      "否定、情态、可分、完成时全是同一个骨架：第二位站变位动词，句尾收另一半"
+    ],
+    "examples": [
+      {
+        "de": "Am Abend lese ich ein Buch.",
+        "zh": "晚上我读一本书。"
+      },
+      {
+        "de": "Morgen fährt er nach Berlin.",
+        "zh": "明天他去柏林。"
+      },
+      {
+        "de": "In der Schule lernt sie Deutsch.",
+        "zh": "在学校她学德语。"
+      },
+      {
+        "de": "Heute kann ich nicht kommen.",
+        "zh": "今天我来不了。"
+      }
+    ],
+    "pitfalls": [
+      "中国人第一大语序错：时间顶到前面后主语不倒装——Heute ich lerne 是错的，必须 Heute lerne ich",
+      "别把动词数成「第二个词」：Am Samstag（一个成分）后动词立刻跟上",
+      "英语思维把动词放句尾（SOV 日韩式）或紧跟主语不看位置，都不对，德语只认第二位"
+    ],
+    "exercises": [
+      {
+        "type": "order",
+        "tokens": [
+          "ich",
+          "Heute",
+          "lerne",
+          "Deutsch"
+        ],
+        "answer": [
+          "Heute",
+          "lerne",
+          "ich",
+          "Deutsch"
+        ],
+        "explain": "Heute 占第一位，动词第二，主语倒装到动词后。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Morgen ich fahre nach Hause.",
+          "Morgen fahre ich nach Hause.",
+          "Morgen ich nach Hause fahre."
+        ],
+        "answer": 1,
+        "explain": "时间开头必须倒装。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "spielt",
+          "Am Abend",
+          "er",
+          "Fußball"
+        ],
+        "answer": [
+          "Am Abend",
+          "spielt",
+          "er",
+          "Fußball"
+        ],
+        "explain": "同倒装规则。"
+      },
+      {
+        "type": "fill",
+        "q": "In Berlin ___ sie Deutsch. (lernen)",
+        "answer": "lernt",
+        "explain": "地点开头，动词仍第二位，sie 配 lernt。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich heute lerne Deutsch.",
+          "Ich lerne heute Deutsch.",
+          "Heute ich lerne Deutsch."
+        ],
+        "answer": 1,
+        "explain": "主语开头时动词第二、时间在后。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "kann",
+          "ich",
+          "Heute",
+          "nicht",
+          "kommen"
+        ],
+        "answer": [
+          "Heute",
+          "kann",
+          "ich",
+          "nicht",
+          "kommen"
+        ],
+        "explain": "情态括号 + 倒装，nicht 在 kommen 前。"
+      },
+      {
+        "type": "fill",
+        "q": "Am Sonntag ___ wir lange. (schlafen)",
+        "answer": "schlafen",
+        "explain": "wir 形式同原形，倒装后仍在第二位。"
+      },
+      {
+        "type": "choice",
+        "q": "「Deutsch lerne ich heute.」这句把什么顶到了第一位？",
+        "options": [
+          "主语",
+          "宾语",
+          "动词"
+        ],
+        "answer": 1,
+        "explain": "宾语 Deutsch 占第一位，所以主语 ich 退到动词后。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "auf",
+          "Ich",
+          "stehe",
+          "um",
+          "sieben",
+          "Uhr"
+        ],
+        "answer": [
+          "Ich",
+          "stehe",
+          "um",
+          "sieben",
+          "Uhr",
+          "auf"
+        ],
+        "explain": "可分括号：stehe 第二位，auf 压尾。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Gestern ich habe Deutsch gelernt.",
+          "Gestern habe ich Deutsch gelernt.",
+          "Gestern ich Deutsch gelernt habe."
+        ],
+        "answer": 1,
+        "explain": "完成时同样倒装：Gestern habe ich … gelernt。"
+      },
+      {
+        "type": "fill",
+        "q": "Nach der Arbeit ___ er nach Hause. (gehen)",
+        "answer": "geht",
+        "explain": "时间段占第一位（一个成分），geht 第二位。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "liest",
+          "Sie",
+          "Am Morgen",
+          "die Zeitung"
+        ],
+        "answer": [
+          "Am Morgen",
+          "liest",
+          "Sie",
+          "die Zeitung"
+        ],
+        "explain": "倒装 + lesen 的 e→ie。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Heute lerne ich Deutsch.",
+        "q": "这句的第一位是什么成分？",
+        "options": [
+          "主语",
+          "时间",
+          "宾语"
+        ],
+        "answer": 1,
+        "explain": "Heute 是时间，占第一位，所以主语倒装。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Morgen fährt er nach Berlin.",
+        "display": "Morgen ___ er nach Berlin.",
+        "answer": "fährt",
+        "explain": "动词第二位，fahren 的 er 形式 fährt。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Am Abend lesen wir ein Buch.",
+        "answer": "Am Abend lesen wir ein Buch.",
+        "explain": "地点时间成分开头 + lesen 第二位。"
+      }
+    ],
+    "reading": {
+      "text": "Jeden Tag stehe ich um sieben Uhr auf. Am Morgen trinke ich einen Kaffee. Dann fahre ich mit dem Bus zur Arbeit. Am Abend lerne ich Deutsch. Heute lerne ich die Grammatik.",
+      "questions": [
+        {
+          "q": "Was macht er am Abend?",
+          "options": [
+            "Er trinkt Kaffee.",
+            "Er lernt Deutsch.",
+            "Er fährt Bus."
+          ],
+          "answer": 1,
+          "explain": "Am Abend lerne ich Deutsch。"
+        },
+        {
+          "q": "Welche Zeit steht im letzten Satz an Position 1?（最后一句第一位是什么）",
+          "options": [
+            "ich",
+            "Heute",
+            "die Grammatik"
+          ],
+          "answer": 1,
+          "explain": "Heute lerne ich …，Heute 占第一位。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句你的一天，要求至少两句用时间词开头（倒装）。",
+      "sample": "Um sieben Uhr stehe ich auf. Am Morgen trinke ich einen Tee. Dann arbeite ich. Am Abend lerne ich Deutsch."
+    }
+  },
+  {
+    "id": "g-a1-15",
+    "level": "A1",
+    "order": 16,
+    "title": "提问句",
+    "titleDe": "Fragen: W-Fragen & Ja/Nein-Fragen",
+    "table": {
+      "caption": "疑问词全家——每个词锁定一类答案，听到词就知道在问什么",
+      "headers": [
+        "疑问词",
+        "问什么",
+        "例问",
+        "例答"
+      ],
+      "rows": [
+        [
+          "wer",
+          "谁（主格）",
+          "Wer ist das?",
+          "Das ist Anna."
+        ],
+        [
+          "wen",
+          "谁（宾格）",
+          "Wen siehst du?",
+          "Ich sehe Peter."
+        ],
+        [
+          "was",
+          "什么",
+          "Was ist das?",
+          "Das ist ein Buch."
+        ],
+        [
+          "wo",
+          "在哪里",
+          "Wo wohnst du?",
+          "In Shanghai."
+        ],
+        [
+          "wohin",
+          "去哪里",
+          "Wohin fährst du?",
+          "Nach Berlin."
+        ],
+        [
+          "woher",
+          "从哪里来",
+          "Woher kommst du?",
+          "Aus China."
+        ],
+        [
+          "wann",
+          "什么时候",
+          "Wann kommst du?",
+          "Um acht Uhr."
+        ],
+        [
+          "wie",
+          "怎样 / 如何",
+          "Wie geht es dir?",
+          "Gut, danke."
+        ],
+        [
+          "warum",
+          "为什么",
+          "Warum lernst du Deutsch?",
+          "Ich will in Deutschland arbeiten."
+        ],
+        [
+          "wie viel / wie viele",
+          "多少",
+          "Wie viel kostet das?",
+          "Zehn Euro."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "W 问句结构：疑问词第一位 + 变位动词第二位 + 主语其后——和陈述句的倒装是同一条规则",
+      "是非问句（没有疑问词）：变位动词直接站第一位——Kommst du heute? 回答 Ja / Nein；对方问了带否定的问题、你却要肯定回答，用 Doch：Kommst du nicht? — Doch, ich komme!（不，我来！）",
+      "wo / wohin / woher 三兄弟分工：wo 问静止位置，wohin 问移动方向，woher 问来源——方向类问题与第十八单元 in 的格变化正好配套",
+      "welcher（哪一个）先认脸：Welches Buch ist deins? 词尾随名词变，A2 细练"
+    ],
+    "examples": [
+      {
+        "de": "Woher kommen Sie?",
+        "zh": "您从哪里来？"
+      },
+      {
+        "de": "Wohin fährt der Bus?",
+        "zh": "这趟车开去哪里？"
+      },
+      {
+        "de": "Hast du heute Zeit?",
+        "zh": "你今天有时间吗？"
+      },
+      {
+        "de": "Warum ist der Kaffee so teuer?",
+        "zh": "咖啡为什么这么贵？"
+      }
+    ],
+    "pitfalls": [
+      "是非问句别把动词留在第二位：Du kommst heute? 那是带疑问语调的陈述句（口语能用），标准问句要 Hast/Kommst 开头",
+      "warum 的回答别用 weil 起句硬套（weil 把动词踢到句尾，是 A2 的活）；A1 先用 denn 或直接陈述回答",
+      "wie 不是英语的 who：wie = 怎样；「你叫什么名字」是 Wie heißt du?（字面：你怎样被称呼）"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "___ kommst du?（从哪里来）",
+        "answer": "Woher",
+        "explain": "问来源用 woher。"
+      },
+      {
+        "type": "fill",
+        "q": "___ fährst du?（去哪里）",
+        "answer": "Wohin",
+        "explain": "问移动方向用 wohin。"
+      },
+      {
+        "type": "choice",
+        "q": "„___ geht es dir?\"",
+        "options": [
+          "Wer",
+          "Wie",
+          "Was"
+        ],
+        "answer": 1,
+        "explain": "固定问候句 Wie geht es dir。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "du",
+          "Hast",
+          "heute",
+          "Zeit"
+        ],
+        "answer": [
+          "Hast",
+          "du",
+          "heute",
+          "Zeit"
+        ],
+        "explain": "是非问句动词占第一位。"
+      },
+      {
+        "type": "fill",
+        "q": "___ kostet das Buch?",
+        "answer": "Wie viel",
+        "explain": "问价格 Wie viel kostet …。"
+      },
+      {
+        "type": "choice",
+        "q": "对方问 „Kommst du heute nicht?\"，你其实会去，回答？",
+        "options": [
+          "Ja.",
+          "Nein.",
+          "Doch."
+        ],
+        "answer": 2,
+        "explain": "反驳否定问句用 Doch。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "Wo",
+          "wohnst",
+          "du"
+        ],
+        "answer": [
+          "Wo",
+          "wohnst",
+          "du"
+        ],
+        "explain": "疑问词第一、动词第二。"
+      },
+      {
+        "type": "fill",
+        "q": "___ ist das? — Das ist mein Lehrer.（问「谁」主格）",
+        "answer": "Wer",
+        "explain": "问主格的人用 Wer。"
+      },
+      {
+        "type": "fill",
+        "q": "___ siehst du? — Ich sehe den Lehrer.（问「看见谁」）",
+        "answer": "Wen",
+        "explain": "问宾格的人用 Wen。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是标准的是非问句？",
+        "options": [
+          "Du hast einen Hund?",
+          "Hast du einen Hund?",
+          "Du einen Hund hast?"
+        ],
+        "answer": 1,
+        "explain": "动词提前到第一位。"
+      },
+      {
+        "type": "fill",
+        "q": "___ lernst du Deutsch? — Ich will in Deutschland arbeiten.",
+        "answer": "Warum",
+        "explain": "答案给的是原因，问 warum。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "der",
+          "Bus",
+          "Wohin",
+          "fährt"
+        ],
+        "answer": [
+          "Wohin",
+          "fährt",
+          "der",
+          "Bus"
+        ],
+        "explain": "wohin 第一、fährt 第二。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Woher kommst du?",
+        "q": "这句在问什么？",
+        "options": [
+          "去哪里",
+          "从哪里来",
+          "在哪里"
+        ],
+        "answer": 1,
+        "explain": "woher 问来源。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Wann beginnt der Film?",
+        "display": "___ beginnt der Film?",
+        "answer": "Wann",
+        "explain": "问时间用 wann；beginnen（开始）靠题干认读。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Hast du einen Hund?",
+        "answer": "Hast du einen Hund?",
+        "explain": "是非问句，动词第一位。"
+      }
+    ],
+    "reading": {
+      "text": "— Guten Tag! Wie heißen Sie? — Ich heiße Chen Wei. — Woher kommen Sie? — Ich komme aus China. — Und was machen Sie in Berlin? — Ich lerne Deutsch.",
+      "questions": [
+        {
+          "q": "Woher kommt Chen Wei?",
+          "options": [
+            "aus Berlin",
+            "aus China",
+            "aus Deutschland"
+          ],
+          "answer": 1,
+          "explain": "Ich komme aus China。"
+        },
+        {
+          "q": "Was macht Chen Wei in Berlin?",
+          "options": [
+            "Er arbeitet.",
+            "Er lernt Deutsch.",
+            "Er macht Urlaub."
+          ],
+          "answer": 1,
+          "explain": "Ich lerne Deutsch。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 5 个问句采访你的同桌：名字、来源、住址、工作、为什么学德语。",
+      "sample": "Wie heißt du? Woher kommst du? Wo wohnst du? Was bist du von Beruf? Warum lernst du Deutsch?\n（注：von Beruf「职业上」整句背。）"
+    }
+  },
+  {
+    "id": "g-a1-16",
+    "level": "A1",
+    "order": 17,
+    "title": "介词（一）宾格介词 + 时间介词",
+    "titleDe": "Präpositionen I: für, ohne, um, gegen + Zeit",
+    "table": {
+      "caption": "四个宾格介词——后面永远宾格，和与格介词正好两队",
+      "headers": [
+        "介词",
+        "意思",
+        "例"
+      ],
+      "rows": [
+        [
+          "für",
+          "为了 / 给",
+          "Das ist für dich. / für den Lehrer"
+        ],
+        [
+          "ohne",
+          "没有 / 不带",
+          "Kaffee ohne Zucker（ohne 后名词常光杆）"
+        ],
+        [
+          "um",
+          "围绕 / 在…点钟（见附加表）",
+          "um die Stadt fahren"
+        ],
+        [
+          "gegen",
+          "反对 / 朝向",
+          "gegen den Plan"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "时间介词三件套——um / am / im 各管一摊",
+        "headers": [
+          "介词",
+          "管什么",
+          "例"
+        ],
+        "rows": [
+          [
+            "um",
+            "钟点",
+            "um acht Uhr, um halb eins"
+          ],
+          [
+            "am",
+            "星期 / 日期 / 一天中的时段",
+            "am Montag, am Abend（例外：in der Nacht 夜里）"
+          ],
+          [
+            "im",
+            "月份 / 季节",
+            "im Januar, im Sommer"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "介词决定格：für / ohne / um / gegen 后面永远宾格（der→den、einen 照旧规则）；第十四单元的六个是永远与格——介词记两队，格跟着介词走，不用每个句子现推",
+      "für + 人称代词超高频：für mich / dich / ihn / sie / uns / euch——送礼物、留话都用它",
+      "ohne 后面的名词常常不带冠词：ohne Zucker, ohne Milch（不可数名词光杆上场）",
+      "时间三件套别混：钟点 um、星期与时段 am、月份与季节 im；„am Morgen / am Mittag / am Abend\"，唯独夜是 in der Nacht"
+    ],
+    "examples": [
+      {
+        "de": "Das Geschenk ist für meine Mutter.",
+        "zh": "礼物是给我妈妈的。"
+      },
+      {
+        "de": "Ich trinke den Kaffee ohne Zucker.",
+        "zh": "我喝不加糖的咖啡。"
+      },
+      {
+        "de": "Der Film beginnt um zwanzig Uhr.",
+        "zh": "电影二十点开始。"
+      },
+      {
+        "de": "Im Sommer fahren wir ans Meer.",
+        "zh": "夏天我们去海边。——ans = an das，下一单元"
+      }
+    ],
+    "pitfalls": [
+      "für 后别用与格：für dem Lehrer 是错的，宾格 für den Lehrer",
+      "星期别用 im：im Montag 错，要 am Montag",
+      "um 既是介词又是钟点词：um acht Uhr 的 um 是时间用法，不是「围绕八点」"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Das ist für ___ Lehrer. (der)",
+        "answer": "den",
+        "explain": "für 后宾格，der→den。"
+      },
+      {
+        "type": "fill",
+        "q": "Ich möchte einen Kaffee ohne ___.（糖）",
+        "answer": "Zucker",
+        "explain": "ohne 后不可数名词光杆：Zucker，不加冠词。"
+      },
+      {
+        "type": "choice",
+        "q": "Wir treffen uns ___ Montag.",
+        "options": [
+          "um",
+          "am",
+          "im"
+        ],
+        "answer": 1,
+        "explain": "星期用 am。"
+      },
+      {
+        "type": "fill",
+        "q": "Der Kurs beginnt ___ neun Uhr.",
+        "answer": "um",
+        "explain": "钟点用 um。"
+      },
+      {
+        "type": "choice",
+        "q": "___ Winter ist es kalt.",
+        "options": [
+          "Am",
+          "Um",
+          "Im"
+        ],
+        "answer": 2,
+        "explain": "季节用 im。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Buch ist für ___.（我）",
+        "answer": "mich",
+        "explain": "für + 宾格代词 mich。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "dich",
+          "für",
+          "ist",
+          "Das"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "für",
+          "dich"
+        ],
+        "explain": "für dich 整体作表语。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Sie ist gegen den Plan.",
+          "Sie ist gegen dem Plan.",
+          "Sie ist gegen der Plan."
+        ],
+        "answer": 0,
+        "explain": "gegen 后宾格 den。"
+      },
+      {
+        "type": "fill",
+        "q": "___ Abend sehe ich fern.",
+        "answer": "Am",
+        "explain": "一天中的时段用 am：am Abend。"
+      },
+      {
+        "type": "fill",
+        "q": "Er fährt um ___ Stadt. (die, 绕城)",
+        "answer": "die",
+        "explain": "um 后宾格，die 不变。"
+      },
+      {
+        "type": "choice",
+        "q": "夜里怎么说？",
+        "options": [
+          "am Nacht",
+          "in der Nacht",
+          "im Nacht"
+        ],
+        "answer": 1,
+        "explain": "唯独夜是 in der Nacht（Nacht 阴性与格 der，先整记）。"
+      },
+      {
+        "type": "fill",
+        "q": "___ Januar ist es sehr kalt.",
+        "answer": "Im",
+        "explain": "月份用 im。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "am",
+        "q": "你听到的时间介词管哪一类？",
+        "options": [
+          "钟点",
+          "星期与时段",
+          "月份与季节"
+        ],
+        "answer": 1,
+        "explain": "am 管星期和一天中的时段。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Das ist für meinen Vater.",
+        "display": "Das ist für ___ Vater.",
+        "answer": "meinen",
+        "explain": "für 后宾格，mein 的宾格阳性 meinen。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Der Film beginnt um acht Uhr.",
+        "answer": "Der Film beginnt um acht Uhr.",
+        "explain": "钟点前 um，别写 am。"
+      }
+    ],
+    "reading": {
+      "text": "Am Freitag fliege ich nach Berlin. Der Flug geht um neun Uhr. Ich fahre für eine Woche nach Berlin. Im Gepäck habe ich einen Pullover für meinen Bruder.",
+      "questions": [
+        {
+          "q": "Wann fliegt er?",
+          "options": [
+            "am Montag",
+            "am Freitag",
+            "im Winter"
+          ],
+          "answer": 1,
+          "explain": "Am Freitag。"
+        },
+        {
+          "q": "Für wen ist der Pullover?",
+          "options": [
+            "für mich",
+            "für meinen Bruder",
+            "für meine Mutter"
+          ],
+          "answer": 1,
+          "explain": "für meinen Bruder（宾格）。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句：一次见面安排（星期、钟点）、一份给谁的礼物、一杯不加什么的饮料、一个季节的计划。",
+      "sample": "Wir treffen uns am Samstag um zehn Uhr. Das Geschenk ist für meine Schwester. Ich trinke Tee ohne Zucker. Im Winter fahre ich nach Hause."
+    }
+  },
+  {
+    "id": "g-a1-17",
+    "level": "A1",
+    "order": 18,
+    "title": "介词（二）in / an 二格介词入门",
+    "titleDe": "Wechselpräpositionen: in & an — Wo? Dativ / Wohin? Akkusativ",
+    "table": {
+      "caption": "判断法只有一问——问得出「去哪儿」用宾格，问得出「在哪儿」用与格",
+      "headers": [
+        "",
+        "Wo?（静止 → 与格）",
+        "Wohin?（移动 → 宾格）"
+      ],
+      "rows": [
+        [
+          "in + der 类",
+          "in dem = im",
+          "in den"
+        ],
+        [
+          "in + das 类",
+          "in dem = im",
+          "in das = ins"
+        ],
+        [
+          "in + die 类",
+          "in der",
+          "in die"
+        ],
+        [
+          "an + das 类",
+          "an dem = am",
+          "an das = ans"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "extraTables": [],
+    "rules": [
+      "in 和 an 是「二格介词」：同一个介词带哪个格，取决于句子在说静止还是移动——先问自己：这句话能问 Wo?（在哪儿）还是 Wohin?（去哪儿）",
+      "动词是信号灯：sein / bleiben / lernen / arbeiten / wohnen 这类「待着」的动词多半 Wo → 与格；gehen / fahren / kommen / fliegen 这类「移动」的动词多半 Wohin → 宾格",
+      "缩合形式必须顺手：in dem = im, in das = ins, an dem = am, an das = ans——口语里几乎只用缩合式",
+      "an 的地盘：垂直面与边缘——an der Wand（墙上）、am See（湖边）、am Meer（海边）；in 的地盘：空间内部——im Zimmer, in der Stadt"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin im Büro.",
+        "zh": "我在办公室里。——Wo，与格"
+      },
+      {
+        "de": "Ich gehe ins Büro.",
+        "zh": "我去办公室。——Wohin，宾格"
+      },
+      {
+        "de": "Das Bild hängt an der Wand.",
+        "zh": "画挂在墙上。"
+      },
+      {
+        "de": "Wir fahren ans Meer.",
+        "zh": "我们去海边。"
+      }
+    ],
+    "pitfalls": [
+      "别按介词本身定格：in 不是永远与格也不是永远宾格，先分 Wo 还是 Wohin",
+      "gehen 是移动动词：Ich gehe in dem Büro 是错的（那是「我在办公室里走来走去」，日常表达去某地必须 ins Büro）",
+      "im / ins 只差一个字母却是格的生死线：im = 已经在里面，ins = 正在进去"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Ich lerne ___ Schule.（在学校学，静止）",
+        "options": [
+          "in die",
+          "in der",
+          "in den"
+        ],
+        "answer": 1,
+        "explain": "Wo → 与格，die 类与格 der。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie geht ___ Kino. (das)",
+        "answer": "ins",
+        "explain": "Wohin → 宾格，in das 缩合 ins。"
+      },
+      {
+        "type": "fill",
+        "q": "Er ist ___ Büro. (das)",
+        "answer": "im",
+        "explain": "Wo → 与格，in dem 缩合 im。"
+      },
+      {
+        "type": "choice",
+        "q": "Wir fahren ___ See.（去湖边）",
+        "options": [
+          "am",
+          "ans",
+          "im"
+        ],
+        "answer": 1,
+        "explain": "移动到边缘用 an + 宾格，an das = ans。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "Er",
+          "geht",
+          "ins",
+          "Bett"
+        ],
+        "answer": [
+          "Er",
+          "geht",
+          "ins",
+          "Bett"
+        ],
+        "explain": "上床是移动，ins。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Kind spielt ___ Garten. (der, 在花园里)",
+        "answer": "im",
+        "explain": "Wo → 与格，der 类与格 dem，与 in 缩合 im。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich gehe im Supermarkt.",
+          "Ich gehe in den Supermarkt.",
+          "Ich gehe in dem Supermarkt einkaufen（语义偏）"
+        ],
+        "answer": 1,
+        "explain": "去超市是移动，in den（阳性宾格）。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie wohnt ___ Berlin.",
+        "answer": "in",
+        "explain": "城市名前用 in，wohnen 是静止（Berlin 无冠词，不变格形）。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Bild hängt an ___ Wand. (die)",
+        "answer": "der",
+        "explain": "挂着是静止，an + 与格 der。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "Meer",
+          "Wir",
+          "ans",
+          "fahren"
+        ],
+        "answer": [
+          "Wir",
+          "fahren",
+          "ans",
+          "Meer"
+        ],
+        "explain": "fahren 移动，ans = an das。"
+      },
+      {
+        "type": "choice",
+        "q": "Ich bleibe heute ___.（待在家里）",
+        "options": [
+          "ins Haus",
+          "im Haus",
+          "in das Haus"
+        ],
+        "answer": 1,
+        "explain": "bleiben 是待着，Wo → im。"
+      },
+      {
+        "type": "fill",
+        "q": "Kommst du mit ___ Park? (der, 去公园)",
+        "answer": "in den",
+        "explain": "去公园是移动，in + 阳性宾格 den，不缩合（in den 不缩）。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "ins",
+        "q": "你听到的形式表示？",
+        "options": [
+          "已经在里面（Wo）",
+          "正在进去（Wohin）"
+        ],
+        "answer": 1,
+        "explain": "ins = in das，宾格，移动。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Wir sind im Garten.",
+        "display": "Wir sind ___ Garten.",
+        "answer": "im",
+        "explain": "sind 是静止，im。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Er geht in die Schule.",
+        "answer": "Er geht in die Schule.",
+        "explain": "geht 移动，in die（阴性宾格不变形，靠动词判断）。"
+      }
+    ],
+    "reading": {
+      "text": "Am Morgen ist Lena in der Küche. Sie trinkt einen Kaffee. Dann geht sie ins Bad. Um acht Uhr geht sie in die Schule. Am Nachmittag ist sie im Park.",
+      "questions": [
+        {
+          "q": "Wo ist Lena am Morgen zuerst?",
+          "options": [
+            "im Bad",
+            "in der Küche",
+            "im Park"
+          ],
+          "answer": 1,
+          "explain": "in der Küche（与格，静止）。"
+        },
+        {
+          "q": "Wohin geht sie um acht Uhr?",
+          "options": [
+            "in die Schule",
+            "im Park",
+            "ins Büro"
+          ],
+          "answer": 0,
+          "explain": "geht in die Schule（宾格，移动）。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句你早上的移动路线：两个 Wo（与格）、两个 Wohin（宾格）。",
+      "sample": "Ich bin im Bett. Dann gehe ich ins Bad. Ich bin in der Küche und trinke Tee. Dann fahre ich ins Büro."
+    }
+  },
+  {
+    "id": "g-a1-18",
+    "level": "A1",
+    "order": 19,
+    "title": "连词与否定收尾",
+    "titleDe": "Konjunktionen: und, aber, oder, denn + Negation (Wiederholung)",
+    "table": {
+      "caption": "四个连词，四个都是「零位」——不占位，后面小句动词照常第二位",
+      "headers": [
+        "连词",
+        "逻辑",
+        "例"
+      ],
+      "rows": [
+        [
+          "und",
+          "并列、追加",
+          "Ich lerne Deutsch und er lernt Englisch."
+        ],
+        [
+          "aber",
+          "转折",
+          "Ich bin müde, aber ich lerne noch."
+        ],
+        [
+          "oder",
+          "二选一",
+          "Trinkst du Kaffee oder Tee?"
+        ],
+        [
+          "denn",
+          "原因（因为）",
+          "Ich lerne Deutsch, denn ich will in Berlin arbeiten."
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "nicht 位置总复习——A1 否定的最后一张图",
+        "headers": [
+          "场景",
+          "nicht 站位",
+          "例"
+        ],
+        "rows": [
+          [
+            "否定整句",
+            "句尾区",
+            "Ich komme heute nicht."
+          ],
+          [
+            "有名词宾语",
+            "宾语后",
+            "Ich trinke den Kaffee nicht."
+          ],
+          [
+            "情态 / 可分 / 完成时",
+            "句尾动词前",
+            "Ich kann nicht kommen. / Ich habe es nicht gelernt."
+          ],
+          [
+            "形容词前",
+            "紧贴形容词",
+            "Das ist nicht gut."
+          ],
+          [
+            "名词否定",
+            "不用 nicht，用 kein",
+            "Ich habe kein Auto."
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "und / aber / oder / denn 连接两个完整主句，连词本身站在两个句子中间的「零位」，后句语序一切照旧（动词第二位、该倒装倒装）——这和 A2 的 weil（把动词踢到句尾）是两条路，本单元先把主句连词练熟",
+      "连词前加逗号：aber、denn 前必须有逗号；und / oder 连接两个完整句子时也加",
+      "denn 给原因时，后句是完整陈述句；回答 Warum 既可以另起一句，也可以 denn 接上",
+      "收尾自查一张表：否定先问「否的是名词吗」——是且带 ein/光杆 → kein；其余 → nicht，再按附加表找站位"
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke Kaffee, aber sie trinkt Tee.",
+        "zh": "我喝咖啡，但她喝茶。"
+      },
+      {
+        "de": "Wir bleiben zu Hause, denn das Wetter ist schlecht.",
+        "zh": "我们待在家，因为天气不好。"
+      },
+      {
+        "de": "Lernst du Deutsch oder Englisch?",
+        "zh": "你学德语还是英语？"
+      },
+      {
+        "de": "Er ist müde, aber er arbeitet noch.",
+        "zh": "他累了，但还在工作。"
+      }
+    ],
+    "pitfalls": [
+      "denn 后面别把动词放句尾：denn ich will arbeiten（对），denn ich arbeiten will 是 weil 的影子，A1 别抢跑",
+      "aber 前漏逗号是德语写作的硬伤，标点也算语法",
+      "oder 问句别用 Fragewort 语序：Oder trinkst du Tee? 应为 Trinkst du Kaffee oder Tee?"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Ich bin müde, ___ ich lerne noch.",
+        "options": [
+          "und",
+          "aber",
+          "oder"
+        ],
+        "answer": 1,
+        "explain": "前后转折（累却还学），用 aber。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie bleibt zu Hause, ___ sie ist krank.（因为）",
+        "answer": "denn",
+        "explain": "给原因用 denn，后句语序照常。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "Tee",
+          "Trinkst",
+          "oder",
+          "du",
+          "Kaffee"
+        ],
+        "answer": [
+          "Trinkst",
+          "du",
+          "Kaffee",
+          "oder",
+          "Tee"
+        ],
+        "explain": "oder 在问句内部连接两个选项，动词仍第一位。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich lerne Deutsch, denn ich in Berlin arbeiten will.",
+          "Ich lerne Deutsch, denn ich will in Berlin arbeiten."
+        ],
+        "answer": 1,
+        "explain": "denn 后是正常主句，情态括号 will … arbeiten 不变。"
+      },
+      {
+        "type": "fill",
+        "q": "Er trinkt den Kaffee ___.（否定）",
+        "answer": "nicht",
+        "explain": "带定冠词的宾语，nicht 站宾语后。"
+      },
+      {
+        "type": "fill",
+        "q": "Ich habe ___ Auto.（否定）",
+        "answer": "kein",
+        "explain": "否定光杆名词用 kein。"
+      },
+      {
+        "type": "choice",
+        "q": "Ich kann heute ___ kommen.",
+        "options": [
+          "kein",
+          "nicht",
+          "keine"
+        ],
+        "answer": 1,
+        "explain": "情态句否定动词用 nicht，站在 kommen 前。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "sie",
+          "aber",
+          "Tee",
+          "trinkt",
+          "Ich",
+          "Kaffee",
+          "trinke"
+        ],
+        "answer": [
+          "Ich",
+          "trinke",
+          "Kaffee",
+          "aber",
+          "sie",
+          "trinkt",
+          "Tee"
+        ],
+        "explain": "aber 零位，两边各自完整主句。"
+      },
+      {
+        "type": "fill",
+        "q": "Das ist ___ gut.",
+        "answer": "nicht",
+        "explain": "否定形容词，nicht 紧贴 gut。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich gehe nicht, denn ich bin müde.",
+          "Ich gehe nicht, denn ich müde bin."
+        ],
+        "answer": 0,
+        "explain": "denn 后面是正常主句，bin 必须在第二位；把动词放句尾的是 weil，那是 A2 的内容。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir singen ___ tanzen.（和）",
+        "answer": "und",
+        "explain": "并列动作用 und。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "nicht",
+          "Er",
+          "hat",
+          "es",
+          "gelernt"
+        ],
+        "answer": [
+          "Er",
+          "hat",
+          "es",
+          "nicht",
+          "gelernt"
+        ],
+        "explain": "完成时否定，nicht 站分词前。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "aber",
+        "q": "你听到的连词表示什么逻辑？",
+        "options": [
+          "并列",
+          "转折",
+          "原因"
+        ],
+        "answer": 1,
+        "explain": "aber 是转折。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich bleibe zu Hause, denn ich bin krank.",
+        "display": "Ich bleibe zu Hause, ___ ich bin krank.",
+        "answer": "denn",
+        "explain": "原因连词 denn，注意后句 bin 在第二位。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Sie ist müde, aber sie arbeitet noch.",
+        "answer": "Sie ist müde, aber sie arbeitet noch.",
+        "explain": "aber 前有逗号，后句主语 sie 照常站在动词前。"
+      }
+    ],
+    "reading": {
+      "text": "Heute bleibe ich zu Hause, denn ich bin ein bisschen krank. Ich trinke Tee und lese ein Buch. Meine Schwester kauft Brot und Milch für mich. Am Abend bin ich nicht mehr krank, aber ich bleibe noch zu Hause.",
+      "questions": [
+        {
+          "q": "Warum bleibt er zu Hause?",
+          "options": [
+            "Er hat kein Buch.",
+            "Er ist krank.",
+            "Er arbeitet."
+          ],
+          "answer": 1,
+          "explain": "denn ich bin krank。"
+        },
+        {
+          "q": "Was macht die Schwester?",
+          "options": [
+            "Sie trinkt Tee.",
+            "Sie kauft Brot und Milch.",
+            "Sie liest ein Buch."
+          ],
+          "answer": 1,
+          "explain": "kauft Brot und Milch für mich。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句小短文，und、aber、oder（问句）、denn 各用一次。",
+      "sample": "Ich lerne Deutsch und mein Bruder lernt Englisch. Ich bin heute müde, aber ich lerne noch eine Stunde. Trinkst du Kaffee oder Tee? Ich trinke Tee, denn Kaffee ist zu stark für mich."
+    }
+  }
+]

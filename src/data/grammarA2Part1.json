@@ -1,0 +1,3466 @@
+[
+  {
+    "id": "p-a2-01",
+    "level": "A2",
+    "order": 1,
+    "title": "连读与弱读",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（语流里变弱的词——重读版 → 弱读版）",
+      "headers": [
+        "词",
+        "单独读",
+        "句子里常读成",
+        "例"
+      ],
+      "rows": [
+        [
+          "der/die/das",
+          "[deːɐ̯/diː/das]",
+          "[dɐ/di/dəs]",
+          "Ich sehe den Mann.（den 几乎吞掉）"
+        ],
+        [
+          "ein/eine",
+          "[aɪ̯n/ˈaɪ̯nə]",
+          "[n̩/ˈaɪ̯nə 轻读]",
+          "ein Brot → 听感像 „n Brot\""
+        ],
+        [
+          "ich/es",
+          "[ɪç/ɛs]",
+          "[ɪç] 轻、[s]",
+          "Wie geht's?（geht es 缩合）"
+        ],
+        [
+          "haben/habe",
+          "[ˈhaːbn̩/ˈhaːbə]",
+          "[ham/ˈhaːbɪç 连读]",
+          "Wir haben Zeit. → „Wir ham Zeit.\"（口语认读）"
+        ],
+        [
+          "nicht/noch",
+          "[nɪçt/nɔx]",
+          "轻读不断尾",
+          "Kommst du nicht?（nicht 弱化但不消失）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（词尾弱化）",
+        "headers": [
+          "结尾",
+          "读法",
+          "例"
+        ],
+        "rows": [
+          [
+            "-e（动词词尾/名词）",
+            "轻 [ə]，语速快时近乎消失",
+            "ich mache → „ich mach\"（口语认读）"
+          ],
+          [
+            "-en",
+            "[n̩] 鼻音成音节",
+            "haben [ˈhaːbn̩]、laufen [ˈlaʊ̯fn̩]"
+          ],
+          [
+            "-er",
+            "[ɐ]",
+            "aber、Kinder、Wasser（A1 已学，语流中更轻）"
+          ],
+          [
+            "-el",
+            "[l̩]",
+            "dunkel、Mantel"
+          ]
+        ],
+        "hl": []
+      },
+      {
+        "caption": "彩色总表 3（缩合扩展，A1 五个之外新增；标「认读」的只要求听懂）",
+        "headers": [
+          "缩合",
+          "全形",
+          "等级"
+        ],
+        "rows": [
+          [
+            "geht's / gibt's / ist's",
+            "geht es / gibt es / ist es",
+            "产出"
+          ],
+          [
+            "hast du's?",
+            "hast du es",
+            "认读"
+          ],
+          [
+            "aufm / übern",
+            "auf dem / über den",
+            "认读"
+          ],
+          [
+            "hammer（口语玩笑形）",
+            "haben wir",
+            "认读"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "弱读的规律：句子里有信息量的词重读（名词、动词、形容词），功能词变弱（冠词、代词、助动词、介词）。听力抓不到句子，往往是卡在弱读的功能词上——听的时候先抓重读词搭骨架，再回填功能词。",
+      "-en 结尾的 [n̩] 不是把 e 读轻，而是 e 整个不发音、靠 n 自己成音节：machen = mach + n。",
+      "连读：前词以辅音收尾、后词以元音开头时，听感连成一片（Kommst du mit uns ins Kino? 的 t-u、s-i 都相连）。德语没有法语式强制连音，但语速一快自然相连，听辨时按意群切分，别按词切分。",
+      "缩合与弱读是听力必修、口语选修：自己说的时候读全形永远正确；听不懂原声，多半就卡在这里。"
+    ],
+    "examples": [
+      {
+        "de": "Wie geht's dir heute?",
+        "zh": "你今天怎么样？"
+      },
+      {
+        "de": "Hast du das Brot gekauft?",
+        "zh": "das 弱读 [dəs]"
+      },
+      {
+        "de": "Wir haben den Film schon gesehen.",
+        "zh": "haben 弱读"
+      },
+      {
+        "de": "Er arbeitet in einem kleinen Büro.",
+        "zh": "einem 弱读"
+      },
+      {
+        "de": "Ich kann es nicht verstehen.",
+        "zh": "es 几乎只剩 [s]"
+      },
+      {
+        "de": "Kinder, kommt bitte herein!",
+        "zh": "-er、-en 弱读"
+      },
+      {
+        "de": "Auf dem Tisch liegt ein Brief.",
+        "zh": "auf dem 不缩合时的读法，对照认读 aufm"
+      },
+      {
+        "de": "Sie hat es mir gestern gegeben.",
+        "zh": "es mir 连读成片"
+      }
+    ],
+    "pitfalls": [
+      "把弱读当成「读错」：原声里 den 听起来像 [n̩]、das 像 [dəs] 都是正常语流，不是口音问题。",
+      "自己朗读时把每个词都平均用力，听起来反而最不像德语——重音落在信息词上，功能词一带而过才对。",
+      "geht's 里的 's 是 es 的缩合，只能跟在动词后，不能独立用（不能说 „Das 's gut.\"）。"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "q": "听句，选你听到的句意",
+        "explain": "geht's = geht es。",
+        "audio": "Wie geht's dir heute?",
+        "options": [
+          "我很好",
+          "你今天怎么样？",
+          "他今天怎么样？"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句，选原句",
+        "explain": "弱读的 haben 别漏听，schon 是关键信息词。",
+        "audio": "Wir haben den Film schon gesehen.",
+        "options": [
+          "Wir haben den Film schon gesehen.",
+          "Wir haben den Film noch nicht gesehen.",
+          "Wir sehen den Film heute."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "das 在语流里弱读成 [dəs]。",
+        "audio": "Hast du das Brot gekauft?",
+        "answer": "Hast du das Brot gekauft?"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "einem 弱读，先抓 arbeitet、Büro 两个重读词搭骨架。",
+        "audio": "Er arbeitet in einem kleinen Büro.",
+        "answer": "Er arbeitet in einem kleinen Büro."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听每项录音，哪句里有缩合形",
+        "explain": "geht's 是缩合，写出来带撇号。",
+        "optionAudio": true,
+        "options": [
+          "„Geht es dir gut?\"",
+          "„Wie geht's dir?\"",
+          "„Es geht mir gut.\""
+        ],
+        "answer": 1,
+        "audio": ""
+      },
+      {
+        "type": "fill",
+        "q": "缩合还原",
+        "explain": "'s = es，动词是 geht。",
+        "display": "Wie geht's dir? = Wie ＿＿ es dir?",
+        "answer": "geht"
+      },
+      {
+        "type": "fill",
+        "q": "缩合还原",
+        "explain": "gibt's = gibt es，句首大写。",
+        "display": "Gibt's heute Fisch? = ＿＿ es heute Fisch?",
+        "answer": "Gibt"
+      },
+      {
+        "type": "choice",
+        "q": "„hab' ich\"（口语形）对应的全形是",
+        "explain": "hab' ich 是 habe ich 的口语弱读形，认读即可。",
+        "options": [
+          "habe ich",
+          "hast du",
+          "haben wir"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "es 弱读得几乎只剩 [s]，靠句法位置补出来。",
+        "audio": "Ich kann es nicht verstehen.",
+        "display": "Ich kann ＿＿ nicht verstehen.",
+        "answer": "es"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "重读时间词 gestern 是骨架词，先抓它。",
+        "audio": "Sie hat es mir gestern gegeben.",
+        "display": "Sie hat es mir ＿＿ gegeben.",
+        "answer": "gestern"
+      },
+      {
+        "type": "choice",
+        "q": "哪个词在句子里通常重读",
+        "explain": "信息词重读，功能词弱读。",
+        "options": [
+          "冠词 das",
+          "名词 Brot",
+          "代词 es"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "把词分进两筐",
+        "explain": "按「有没有实际信息量」分。",
+        "groups": [
+          "信息词（重读）",
+          "功能词（弱读）"
+        ],
+        "items": [
+          {
+            "text": "Brot",
+            "group": 0
+          },
+          {
+            "text": "das",
+            "group": 1
+          },
+          {
+            "text": "schnell",
+            "group": 0
+          },
+          {
+            "text": "es",
+            "group": 1
+          },
+          {
+            "text": "kaufen",
+            "group": 0
+          },
+          {
+            "text": "haben（助动词）",
+            "group": 1
+          },
+          {
+            "text": "gestern",
+            "group": 0
+          },
+          {
+            "text": "in",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句（注意缩合）",
+        "explain": "geht's 整体一块，不要拆。",
+        "tokens": [
+          "geht's",
+          "Wie",
+          "dir"
+        ],
+        "answer": [
+          "Wie",
+          "geht's",
+          "dir"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听两遍同一句（慢速/常速），选常速版里弱读了几个功能词",
+        "explain": "habe 与 das 都弱读，Buch、gelesen、nicht 里 nicht 也偏轻但计入弱读的是 habe、das 两个典型。",
+        "audio": "Ich habe das Buch nicht gelesen.",
+        "options": [
+          "1 个",
+          "3 个",
+          "2 个"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "fill",
+        "q": "把句子改成缩合形",
+        "explain": "geht es → geht's。",
+        "display": "Wie geht es dir? → Wie ＿＿ dir?",
+        "answer": "geht's"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "-er 与 bitte 的 -e 都弱读。",
+        "audio": "Kinder, kommt bitte herein!",
+        "answer": "Kinder, kommt bitte herein!"
+      }
+    ],
+    "reading": {
+      "text": "Viele Lerner sagen: „Ich verstehe die Wörter, aber ich verstehe den Satz nicht.\" Das Problem sind oft die kleinen Wörter. Im Satz sind sie schwach: das wird [dəs], haben wird fast [ham], und es ist nur noch ein [s]. Die wichtigen Wörter sind laut: Brot, kaufen, gestern. Hören Sie also zuerst die lauten Wörter. Dann kommt der Rest fast allein. Sprechen müssen Sie so nicht — langsam und voll ist immer richtig.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Viele Lerner sagen: „Ich verstehe die Wörter, aber ich verstehe den Satz nicht.\" Das Problem sind oft die kleinen Wörter. Im Satz sind sie schwach: das wird [dəs], haben wird fast [ham], und es ist nur noch ein [s]. Die wichtigen Wörter sind laut: Brot, kaufen, gestern. Hören Sie also zuerst die lauten Wörter. Dann kommt der Rest fast allein. Sprechen müssen Sie so nicht — langsam und voll ist immer richtig."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①为什么学习者常常「词都懂、句不懂」？（答：小词在句中弱读，听不出来。）②听原声时先抓哪类词？（答：重读的信息词。）"
+    },
+    "writing": {
+      "task": "把 4 句改写成带缩合/弱读标记的朗读稿（在弱读词下加下划线、缩合直接写缩合形），并朗读一遍：①Wie geht es dir heute? ②Hast du es verstanden? ③Wir haben den Zug verpasst. ④Ich habe das nicht gesagt.",
+      "sample": "范文：①Wie **geht's** dir heute?（geht's 缩合，dir 弱读）②Hast du's verstanden?（du's 认读形；自己读可读全形 Hast du es verstanden?）③Wir **haben** den Zug verpasst.（haben 弱读下划线）④Ich **habe das** nicht gesagt.（habe、das 弱读）",
+      "selfcheck": "自查：缩合只用了学过的（geht's/gibt's/ist's）□；弱读标记只落在功能词上 □；信息词一个没标弱 □。"
+    }
+  },
+  {
+    "id": "p-a2-02",
+    "level": "A2",
+    "order": 2,
+    "title": "长句意群与叙事语调",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（意群切分点——在哪停）",
+      "headers": [
+        "切分点",
+        "例（",
+        "为停顿）"
+      ],
+      "rows": [
+        [
+          "逗号处（从句边界）",
+          "Als ich nach Hause kam,",
+          "war es schon dunkel."
+        ],
+        [
+          "连接词前",
+          "Ich blieb zu Hause,",
+          "weil ich krank war."
+        ],
+        [
+          "列举之间",
+          "Wir brauchen Brot,",
+          "Käse, | Eier und Milch."
+        ],
+        [
+          "长主语之后",
+          "Der Mann mit dem roten Auto",
+          "wohnt nebenan."
+        ],
+        [
+          "时间/地点状语之后",
+          "Gestern Abend",
+          "sind wir ins Kino gegangen."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（叙事语调三段）",
+        "headers": [
+          "段落",
+          "语调",
+          "例"
+        ],
+        "rows": [
+          [
+            "铺垫",
+            "平、稳，句尾轻降",
+            "Es war ein ganz normaler Tag. ↘"
+          ],
+          [
+            "高潮",
+            "音高升、速度略快、重音加重",
+            "Plötzlich hörte ich ein Geräusch! ↗"
+          ],
+          [
+            "收尾",
+            "降到底，速度放慢",
+            "Dann war alles wieder still. ↘↘"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "意群 = 一口气说完的意义块。切分的总原则：在意义断开的地方停，不在词组中间停——冠词和名词之间、动词和它的补足语之间不停。",
+      "从句前置时，主句在逗号后开始，逗号处必停，且停顿后主句动词紧跟（Als ich kam, war es dunkel. 的 war 别拖）。",
+      "转折词（aber、deshalb、trotzdem）前后有小停顿，转折后第一个词轻微加重：Ich war müde, | trotzdem bin ich weitergegangen.",
+      "朗读叙事时，语调跟着情节走：铺垫别抢，高潮处把 plötzlich、auf einmal 这类词加重，收尾句要「落到底」，听者才知道故事结束。",
+      "听力用法：原声的停顿就是免费的标点符号——听到停顿，先按意群理解一块，再听下一块，不要等整句结束才反应。"
+    ],
+    "examples": [
+      {
+        "de": "Als ich gestern nach Hause kam, | war das Essen schon fertig.",
+        "zh": "",
+        "audioParts": [
+          "Als ich gestern nach Hause kam,",
+          "war das Essen schon fertig."
+        ]
+      },
+      {
+        "de": "Ich wollte ins Kino gehen, | aber alle Karten waren weg.",
+        "zh": "",
+        "audioParts": [
+          "Ich wollte ins Kino gehen,",
+          "aber alle Karten waren weg."
+        ]
+      },
+      {
+        "de": "Zuerst haben wir eingekauft, | dann gekocht | und am Ende zusammen gegessen.",
+        "zh": "",
+        "audioParts": [
+          "Zuerst haben wir eingekauft,",
+          "dann gekocht",
+          "und am Ende zusammen gegessen."
+        ]
+      },
+      {
+        "de": "Es war einmal ein kleines Dorf | in den Bergen.",
+        "zh": "",
+        "audioParts": [
+          "Es war einmal ein kleines Dorf",
+          "in den Bergen."
+        ]
+      },
+      {
+        "de": "Plötzlich | fing es an zu regnen.",
+        "zh": "",
+        "audioParts": [
+          "Plötzlich",
+          "fing es an zu regnen."
+        ]
+      },
+      {
+        "de": "Der Zug, | der aus Hamburg kam, | hatte eine Stunde Verspätung.",
+        "zh": "",
+        "audioParts": [
+          "Der Zug,",
+          "der aus Hamburg kam,",
+          "hatte eine Stunde Verspätung."
+        ]
+      },
+      {
+        "de": "Weil das Wetter so schön war, | sind wir an den See gefahren.",
+        "zh": "",
+        "audioParts": [
+          "Weil das Wetter so schön war,",
+          "sind wir an den See gefahren."
+        ]
+      },
+      {
+        "de": "Am Ende | war alles gut.",
+        "zh": "",
+        "audioParts": [
+          "Am Ende",
+          "war alles gut."
+        ]
+      }
+    ],
+    "pitfalls": [
+      "在冠词后停顿（„Der Mann | mit dem Auto\"）：冠词和名词是一个意群，不能拆。",
+      "从句前置时在逗号后停太久，把主句动词和主语拆开（„Als ich kam, | es war dunkel\" 还把语序读错）。",
+      "叙事全程一个调，像读清单：考试和真实交流里，语调平直会让听者抓不住重点。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪种切分正确",
+        "explain": "在从句边界（逗号处）停。",
+        "options": [
+          "Als ich nach Hause kam | war es dunkel.",
+          "Als | ich nach Hause kam war es dunkel.",
+          "Als ich nach | Hause kam war es dunkel."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句，选停顿位置",
+        "explain": "停顿在从句结束处。",
+        "audio": "Weil das Wetter so schön war, sind wir an den See gefahren.",
+        "options": [
+          "war 之后",
+          "Wetter 之后",
+          "See 之后"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "选切分点",
+        "explain": "连接词前停，weil 领起的从句是一个意群。",
+        "display": "Ich blieb zu Hause, ＿＿ ich krank war.（weil 前后哪里停）",
+        "answer": "逗号处停",
+        "hintOptions": [
+          "逗号处停",
+          "weil 后停",
+          "不停"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补连接词",
+        "explain": "转折词前有停顿、词本身轻微加重，抓住这个节奏就能听出来。",
+        "audio": "Ich war müde, trotzdem bin ich weitergegangen.",
+        "display": "Ich war müde, ＿＿ bin ich weitergegangen.",
+        "answer": "trotzdem"
+      },
+      {
+        "type": "choice",
+        "q": "叙事的「高潮」句通常怎么读",
+        "explain": "高潮段升调加重，收尾才降到底。",
+        "options": [
+          "更平更慢",
+          "音高升、重音加重",
+          "句尾降到底"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "把句子分进叙事三段",
+        "explain": "看内容功能分：交代背景是铺垫、突发事件是高潮、结局是收尾。",
+        "groups": [
+          "铺垫",
+          "高潮",
+          "收尾"
+        ],
+        "items": [
+          {
+            "text": "Es war ein ganz normaler Tag.",
+            "group": 0
+          },
+          {
+            "text": "Wir wohnten damals in Leipzig.",
+            "group": 0
+          },
+          {
+            "text": "Plötzlich hörte ich ein Geräusch!",
+            "group": 1
+          },
+          {
+            "text": "Auf einmal war das Licht weg!",
+            "group": 1
+          },
+          {
+            "text": "Dann war alles wieder still.",
+            "group": 2
+          },
+          {
+            "text": "Am Ende gingen wir müde nach Hause.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "把打乱的意群排成通顺朗读顺序",
+        "explain": "从句意群在前，主句意群在后。",
+        "tokens": [
+          "war es schon dunkel",
+          "Als ich nach Hause kam"
+        ],
+        "answer": [
+          "Als ich nach Hause kam",
+          "war es schon dunkel"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写（按意群分两段播）",
+        "explain": "关系从句是插入意群，前后都有停顿。",
+        "audio": "Der Zug, der aus Hamburg kam, hatte eine Stunde Verspätung.",
+        "answer": "Der Zug, der aus Hamburg kam, hatte eine Stunde Verspätung."
+      },
+      {
+        "type": "fill",
+        "q": "给长句选正确的停顿位置",
+        "explain": "长主语整体是一个意群，在主语结束后停。",
+        "display": "Der Mann mit dem roten Auto wohnt nebenan. 停在",
+        "answer": "Auto 之后",
+        "hintOptions": [
+          "Auto 之后",
+          "Mann 之后",
+          "roten 之后"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句的停顿错误",
+        "explain": "冠词和名词之间不能停。",
+        "options": [
+          "Brot, | Käse | und Eier（列举）",
+          "Der | Mann kommt.（冠词后停）",
+          "Gestern | sind wir gefahren."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "q": "听叙事片段，选它处于哪一段",
+        "explain": "plötzlich + 突发事件 = 高潮段，语调上扬。",
+        "audio": "Plötzlich fing es stark an zu regnen.",
+        "options": [
+          "铺垫",
+          "高潮",
+          "收尾"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "把叙事三句按讲述顺序排",
+        "explain": "铺垫 → 高潮 → 收尾。",
+        "tokens": [
+          "Dann war alles wieder still.",
+          "Plötzlich hörte ich ein Geräusch.",
+          "Es war ein ganz normaler Tag."
+        ],
+        "answer": [
+          "Es war ein ganz normaler Tag.",
+          "Plötzlich hörte ich ein Geräusch.",
+          "Dann war alles wieder still."
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "转折处加重哪个词",
+        "explain": "转折词是逻辑重音。",
+        "display": "Ich war krank, trotzdem bin ich zur Arbeit gegangen. 朗读时轻微加重＿＿",
+        "answer": "trotzdem"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "收尾信号词，语调降到底。",
+        "audio": "Am Ende war alles gut.",
+        "display": "＿＿ war alles gut.",
+        "answer": "Am Ende"
+      },
+      {
+        "type": "choice",
+        "q": "听到原声的停顿，听力上应该怎么用",
+        "explain": "停顿是免费标点，按意群逐块理解。",
+        "options": [
+          "忽略它，继续等整句",
+          "把停顿前的一块先理解掉",
+          "停顿说明句子结束了"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": {
+      "text": "Es war einmal ein kleines Dorf | in den Bergen. | Die Menschen dort | lebten ruhig und einfach. | Aber eines Tages | kam ein Fremder in das Dorf. | Er trug einen alten Koffer | und ein großes Geheimnis mit sich. | Niemand wusste, | wer er war | und was er wollte.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Es war einmal ein kleines Dorf | in den Bergen. | Die Menschen dort | lebten ruhig und einfach. | Aber eines Tages | kam ein Fremder in das Dorf. | Er trug einen alten Koffer | und ein großes Geheimnis mit sich. | Niemand wusste, | wer er war | und was er wollte."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①故事的铺垫部分到哪一句结束？（答：「Die Menschen dort lebten ruhig und einfach.」之后，Aber eines Tages 起转入事件。）②„Aber eines Tages\" 为什么单独成一个意群？（答：转折信号，预告事件发生，停顿+加重抓听者注意。）"
+    },
+    "writing": {
+      "task": "把下面这段流水文改成带意群标记的朗读稿（用 | 标停顿、给高潮句标 ↗、收尾句标 ↘），并按标记朗读一遍：„Letzte Woche bin ich mit dem Zug nach Hamburg gefahren. Der Zug hatte Verspätung, weil das Wetter schlecht war. Plötzlich hat ein Mann laut gerufen. Am Ende bin ich zwei Stunden zu spät angekommen.\"",
+      "sample": "范文标记版：Letzte Woche | bin ich mit dem Zug nach Hamburg gefahren. | Der Zug hatte Verspätung, | weil das Wetter schlecht war. | Plötzlich ↗ | hat ein Mann laut gerufen. | Am Ende ↘ | bin ich zwei Stunden zu spät angekommen.",
+      "selfcheck": "自查：每个逗号处都有停顿 □；高潮句（Plötzlich…）标了升调 □；收尾句标了降调 □；没有在冠词后、词组中间乱停 □。"
+    }
+  },
+  {
+    "id": "g-a2-01",
+    "level": "A2",
+    "order": 3,
+    "title": "Perfekt 扩展与复盘",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（混合动词——变位像规则、分词带元音变化，两头都占）",
+      "headers": [
+        "原形",
+        "Präteritum",
+        "分词",
+        "义"
+      ],
+      "rows": [
+        [
+          "bringen",
+          "brachte",
+          "gebracht",
+          "拿来、带来"
+        ],
+        [
+          "denken",
+          "dachte",
+          "gedacht",
+          "想"
+        ],
+        [
+          "wissen",
+          "wusste",
+          "gewusst",
+          "知道（事实）"
+        ],
+        [
+          "kennen",
+          "kannte",
+          "gekannt",
+          "认识、熟悉"
+        ],
+        [
+          "nennen",
+          "nannte",
+          "genannt",
+          "称呼、说出名字"
+        ],
+        [
+          "rennen",
+          "rannte",
+          "gerannt（sein）",
+          "奔跑"
+        ],
+        [
+          "senden",
+          "sandte",
+          "gesandt",
+          "寄、发送（sendete/gesendet 为规则变体，认读）"
+        ],
+        [
+          "wenden",
+          "wandte",
+          "gewandt",
+          "转向（规则变体认读）"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（A2 新词的不规则分词，承接 A1 的 60 个体系）",
+        "headers": [
+          "原形",
+          "分词",
+          "助动词",
+          "例"
+        ],
+        "rows": [
+          [
+            "abschließen",
+            "abgeschlossen",
+            "haben",
+            "Ich habe die Tür abgeschlossen."
+          ],
+          [
+            "bestehen",
+            "bestanden",
+            "haben",
+            "Er hat die Prüfung bestanden."
+          ],
+          [
+            "verlieren",
+            "verloren",
+            "haben",
+            "Wir haben das Spiel verloren."
+          ],
+          [
+            "vergleichen",
+            "verglichen",
+            "haben",
+            "Sie hat die Preise verglichen."
+          ],
+          [
+            "teilnehmen",
+            "teilgenommen",
+            "haben",
+            "Hast du am Kurs teilgenommen?"
+          ],
+          [
+            "stattfinden",
+            "stattgefunden",
+            "haben",
+            "Das Fest hat gestern stattgefunden."
+          ],
+          [
+            "einsteigen",
+            "eingestiegen",
+            "sein",
+            "Sie ist in den Bus eingestiegen."
+          ],
+          [
+            "aussteigen",
+            "ausgestiegen",
+            "sein",
+            "Am Bahnhof sind wir ausgestiegen."
+          ],
+          [
+            "fallen",
+            "gefallen",
+            "sein",
+            "Das Glas ist auf den Boden gefallen."
+          ],
+          [
+            "wehtun",
+            "wehgetan",
+            "haben",
+            "Mein Rücken hat wehgetan."
+          ],
+          [
+            "leidtun",
+            "leidgetan",
+            "haben",
+            "Es hat mir leidgetan."
+          ],
+          [
+            "gefallen",
+            "gefallen",
+            "haben",
+            "Der Film hat mir gefallen.（与 fallen 同形，靠助动词分）"
+          ]
+        ],
+        "hl": [
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "混合动词的记法：词干元音变回原形元音的「祖先版」（denk→dach、bring→brach），词尾却走规则路线（-te、ge-…-t）。A1 的分词体系加上这 8 个和上表 12 个，常用分词就齐了。",
+      "gefallen 一词两命：fallen（掉落，sein）→ ist gefallen；gefallen（喜欢，haben）→ hat gefallen。听和读的时候先看助动词。",
+      "口语叙事的助动词选用复盘：讲过去的事，口语默认 Perfekt；只有 sein/haben 和情态动词口语里也常用 Präteritum（下一单元专练）——这是德语人真实的说话方式，不是语法书偷懒。",
+      "双不定式结构认读：„Ich habe das Auto reparieren lassen.\"、„Er hat kommen müssen.\"——情态/ lassen 的完成时里分词被原形顶替，A2 只要求看懂，产出留到 B1。"
+    ],
+    "examples": [
+      {
+        "de": "Er hat mir einen Kaffee gebracht.",
+        "zh": "bringen – brachte – gebracht"
+      },
+      {
+        "de": "Ich habe an dich gedacht.",
+        "zh": "denken – dachte – gedacht"
+      },
+      {
+        "de": "Das habe ich nicht gewusst.",
+        "zh": "wissen – wusste – gewusst"
+      },
+      {
+        "de": "Hast du die Tür abgeschlossen?",
+        "zh": "abschließen – schloss ab – abgeschlossen"
+      },
+      {
+        "de": "Sie hat ihre Geldbörse verloren.",
+        "zh": "verlieren – verlor – verloren"
+      },
+      {
+        "de": "Wir haben am Wettbewerb teilgenommen.",
+        "zh": "teilnehmen – nahm teil – teilgenommen"
+      },
+      {
+        "de": "Die Frau ist gerade eingestiegen.",
+        "zh": "einsteigen – stieg ein – eingestiegen"
+      },
+      {
+        "de": "Das Konzert hat am Samstag stattgefunden.",
+        "zh": "stattfinden – fand statt – stattgefunden"
+      }
+    ],
+    "pitfalls": [
+      "denken 的分词是 gedacht，不是 „gedenkt\"；bringen 是 gebracht，不是 „gebringt\"。",
+      "einsteigen/aussteigen 用 sein（位置移动），teilnehmen/ stattfinden 用 haben，别被 -nehmen、-finden 带偏。",
+      "„Es hat mir gefallen.\" 里主语是 der Film/das Buch 这类东西，「喜欢」的是它，不是我——句式和中文正好反着。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "denken 的分词",
+        "explain": "混合动词，元音变 + -t 结尾。",
+        "options": [
+          "gedenkt",
+          "gedacht",
+          "gedenen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "bringen–gebracht。",
+        "display": "Er hat mir einen Kaffee ＿＿.（bringen）",
+        "answer": "gebracht"
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "wissen–gewusst。",
+        "display": "Das habe ich nicht ＿＿!（wissen）",
+        "answer": "gewusst"
+      },
+      {
+        "type": "classify",
+        "q": "分三筐",
+        "explain": "看词干变没变、词尾是 -t 还是 -en。",
+        "groups": [
+          "混合动词分词",
+          "不规则分词",
+          "规则分词"
+        ],
+        "items": [
+          {
+            "text": "gebracht",
+            "group": 0
+          },
+          {
+            "text": "verloren",
+            "group": 1
+          },
+          {
+            "text": "gemacht",
+            "group": 2
+          },
+          {
+            "text": "gedacht",
+            "group": 0
+          },
+          {
+            "text": "bestanden",
+            "group": 1
+          },
+          {
+            "text": "gelernt",
+            "group": 2
+          },
+          {
+            "text": "gewusst",
+            "group": 0
+          },
+          {
+            "text": "teilgenommen",
+            "group": 1
+          },
+          {
+            "text": "gekannt",
+            "group": 0
+          },
+          {
+            "text": "organisiert",
+            "group": 2
+          },
+          {
+            "text": "verglichen",
+            "group": 1
+          },
+          {
+            "text": "reserviert",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "„Das Fest ＿＿ gestern ＿＿.\"（stattfinden）",
+        "explain": "stattfinden 用 haben，分词 stattgefunden。",
+        "options": [
+          "hat … stattgefunden",
+          "ist … stattgefunden",
+          "hat … stattgefunnt"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "助动词选择",
+        "explain": "einsteigen 是位移动词，用 sein。",
+        "display": "Sie ＿＿ in den Zug eingestiegen.",
+        "answer": "ist"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "hat gefallen = gefallen（喜欢），haben 助动词是关键。",
+        "audio": "Der Film hat mir sehr gefallen.",
+        "options": [
+          "我很喜欢这部电影",
+          "电影掉到了地上",
+          "我看了电影"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写三连读后写分词",
+        "explain": "verlieren–verloren，-en 结尾不规则。",
+        "audio": "verlieren – verlor – verloren",
+        "display": "分词是＿＿",
+        "answer": "verloren"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "分词 abgeschlossen 回句尾。",
+        "tokens": [
+          "hat",
+          "Er",
+          "Tür",
+          "abgeschlossen",
+          "die"
+        ],
+        "answer": [
+          "Er",
+          "hat",
+          "die",
+          "Tür",
+          "abgeschlossen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "teilnehmen 分词 teilgenommen，前缀不拆。",
+        "display": "Wir haben am Kurs ＿＿.（teilnehmen）",
+        "answer": "teilgenommen"
+      },
+      {
+        "type": "choice",
+        "q": "哪个分词对",
+        "explain": "bestehen 无 ge-（be- 不可分），分词 bestanden。",
+        "options": [
+          "(bestehen) bestanden",
+          "bestat",
+          "gebestehen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "混合动词填空",
+        "explain": "nennen–genannt。",
+        "display": "Sie hat das Kind beim Namen ＿＿.（nennen）",
+        "answer": "genannt"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补分词",
+        "explain": "verlieren 的分词。",
+        "audio": "Ich habe meine Geldbörse verloren.",
+        "display": "Ich habe meine Geldbörse ＿＿.",
+        "answer": "verloren"
+      },
+      {
+        "type": "choice",
+        "q": "认读题——„Er hat kommen müssen.\" 的意思",
+        "explain": "双不定式结构：完成时里 müssen 顶替分词，表过去的义务。",
+        "options": [
+          "他必须来过",
+          "他当时不得不来",
+          "他来了两次"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "hat + 分词句尾。",
+        "tokens": [
+          "stattgefunden",
+          "Das",
+          "hat",
+          "Konzert",
+          "gestern"
+        ],
+        "answer": [
+          "Das",
+          "Konzert",
+          "hat",
+          "gestern",
+          "stattgefunden"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "wehtun 分词 wehgetan。",
+        "display": "Mein Bauch hat gestern sehr ＿＿.（wehtun）",
+        "answer": "wehgetan"
+      },
+      {
+        "type": "classify",
+        "q": "助动词分筐",
+        "explain": "位移/状态变化用 sein，其余 haben；gefallen 看助动词辨义。",
+        "groups": [
+          "用 sein",
+          "用 haben"
+        ],
+        "items": [
+          {
+            "text": "eingestiegen",
+            "group": 0
+          },
+          {
+            "text": "ausgestiegen",
+            "group": 0
+          },
+          {
+            "text": "gefallen（掉落）",
+            "group": 0
+          },
+          {
+            "text": "teilgenommen",
+            "group": 1
+          },
+          {
+            "text": "stattgefunden",
+            "group": 1
+          },
+          {
+            "text": "gefallen（喜欢）",
+            "group": 1
+          },
+          {
+            "text": "verloren",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句，选分词",
+        "explain": "denken 是混合动词。",
+        "audio": "Ich habe an dich gedacht.",
+        "options": [
+          "gedacht",
+          "gedenkt",
+          "denken"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Am Samstag hat unser Sportfest stattgefunden. Ich habe an einem Wettbewerb teilgenommen, aber ich habe leider verloren. Mein Freund hat mir danach einen Kaffee gebracht und gesagt: „Nächstes Mal!\" Am Abend haben wir einen Film gesehen. Er hat mir sehr gefallen. Auf dem Weg nach Hause habe ich meine Geldbörse verloren — nein, zum Glück nicht: Sie war in meiner Tasche. Ich habe das erst zu Hause gewusst.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Am Samstag hat unser Sportfest stattgefunden. Ich habe an einem Wettbewerb teilgenommen, aber ich habe leider verloren. Mein Freund hat mir danach einen Kaffee gebracht und gesagt: „Nächstes Mal!\" Am Abend haben wir einen Film gesehen. Er hat mir sehr gefallen. Auf dem Weg nach Hause habe ich meine Geldbörse verloren — nein, zum Glück nicht: Sie war in meiner Tasche. Ich habe das erst zu Hause gewusst."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①作者参加比赛的结果如何？（答：输了。）②„Er hat mir sehr gefallen.\" 里的 er 指什么？（答：前句的 Film。）"
+    },
+    "writing": {
+      "task": "用完成时写 5 句「上周末我做了什么」，至少用 2 个本单元的新分词（混合或不规则）和 1 个 sein 助动词句。",
+      "sample": "范文：Letztes Wochenende habe ich an einem Kochkurs teilgenommen. Ich habe ein neues Rezept gelernt und viel gelacht. Am Sonntag bin ich früh aufgestanden und eine Stunde gerannt. Danach hat mir mein Rücken ein bisschen wehgetan. Aber der Kurs hat mir sehr gefallen.",
+      "selfcheck": "自查：用了 ≥2 个新分词 □；sein 助动词句助动词没用错 □；分词都回到了句尾 □。"
+    },
+    "audioChips": [
+      {
+        "group": "原形→过去式→分词",
+        "items": [
+          {
+            "label": "bringen – brachte – gebracht",
+            "speak": "bringen ， brachte ， gebracht"
+          },
+          {
+            "label": "denken – dachte – gedacht",
+            "speak": "denken ， dachte ， gedacht"
+          },
+          {
+            "label": "wissen – wusste – gewusst",
+            "speak": "wissen ， wusste ， gewusst"
+          },
+          {
+            "label": "abschließen – schloss ab – abgeschlossen",
+            "speak": "abschließen ， schloss ab ， abgeschlossen"
+          },
+          {
+            "label": "verlieren – verlor – verloren",
+            "speak": "verlieren ， verlor ， verloren"
+          },
+          {
+            "label": "teilnehmen – nahm teil – teilgenommen",
+            "speak": "teilnehmen ， nahm teil ， teilgenommen"
+          },
+          {
+            "label": "einsteigen – stieg ein – eingestiegen",
+            "speak": "einsteigen ， stieg ein ， eingestiegen"
+          },
+          {
+            "label": "stattfinden – fand statt – stattgefunden",
+            "speak": "stattfinden ， fand statt ， stattgefunden"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g-a2-02",
+    "level": "A2",
+    "order": 4,
+    "title": "Präteritum（一）：sein / haben / 情态动词",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（过去式全表——口语里这组词也用过去式，不用 Perfekt）",
+      "headers": [
+        "原形",
+        "ich/er",
+        "du",
+        "wir/sie",
+        "ihr"
+      ],
+      "rows": [
+        [
+          "sein",
+          "war",
+          "warst",
+          "waren",
+          "wart"
+        ],
+        [
+          "haben",
+          "hatte",
+          "hattest",
+          "hatten",
+          "hattet"
+        ],
+        [
+          "müssen",
+          "musste",
+          "musstest",
+          "mussten",
+          "musstet"
+        ],
+        [
+          "können",
+          "konnte",
+          "konntest",
+          "konnten",
+          "konntet"
+        ],
+        [
+          "dürfen",
+          "durfte",
+          "durftest",
+          "durften",
+          "durftet"
+        ],
+        [
+          "wollen",
+          "wollte",
+          "wolltest",
+          "wollten",
+          "wolltet"
+        ],
+        [
+          "sollen",
+          "sollte",
+          "solltest",
+          "sollten",
+          "solltet"
+        ],
+        [
+          "mögen",
+          "mochte",
+          "mochtest",
+          "mochten",
+          "mochtet"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "这 8 个词是德语口语里的「过去式特区」：说 „Ich war müde.\" 不说 „Ich bin müde gewesen.\"；„Ich musste gehen.\" 不说 „Ich habe gehen gemusst.\"（后者有双不定式结构，认读即可）。其他动词口语仍用 Perfekt，书面叙事才大面积用 Präteritum——下一单元练。",
+      "变位规律：词干 + -te（ich/er 同形），du 加 -st，wir/sie 用复数 -ten。只有 war 是例外：ich war、du warst、wir waren。",
+      "mochte ≠ möchte：mochte 是 mögen 的过去式（当时喜欢/想吃），möchte 是虚拟式（现在想要）。„Als Kind mochte ich Spinat nicht.\"（小时候不爱吃菠菜）vs „Ich möchte einen Kaffee.\"（现在来杯咖啡）。",
+      "叙事开场框：Früher war alles anders.（从前）/ Als Kind hatte ich ein Fahrrad. / Letzte Woche musste ich viel arbeiten. / Damals konnten wir …——用这组词起头，故事立刻有了过去感。"
+    ],
+    "examples": [
+      {
+        "de": "Gestern war ich den ganzen Tag zu Hause.",
+        "zh": ""
+      },
+      {
+        "de": "Als Kind hatte ich einen kleinen Hund.",
+        "zh": ""
+      },
+      {
+        "de": "Wir mussten am Sonntag arbeiten.",
+        "zh": ""
+      },
+      {
+        "de": "Er konnte nicht kommen, weil er krank war.",
+        "zh": ""
+      },
+      {
+        "de": "Wolltest du das wirklich?",
+        "zh": ""
+      },
+      {
+        "de": "Sie durfte nicht mitfahren.",
+        "zh": ""
+      },
+      {
+        "de": "Als Kind mochte ich keinen Fisch.",
+        "zh": ""
+      },
+      {
+        "de": "Die Kinder sollten leise sein.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把普通动词也套进这个模式：„Ich arbeitete gestern\" 在口语里不是错，但听起来像在念小说——口语说 Ich habe gestern gearbeitet. 本单元的 8 个词之外，先别扩。",
+      "war 和 wart 混淆：ihr wart（你们当时在），别和 warten 搞混。",
+      "„Ich wollte ein Eis.\" 是过去（当时想要），现在想要用 möchte，别用错时态表现在愿望。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "sein 的过去式（ich）",
+        "explain": "ich war。",
+        "options": [
+          "war",
+          "wart",
+          "hatte"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "haben→hatte。",
+        "display": "Als Kind ＿＿ ich einen Hund.（haben）",
+        "answer": "hatte"
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "wir mussten。",
+        "display": "Wir ＿＿ am Montag lange arbeiten.（müssen）",
+        "answer": "mussten"
+      },
+      {
+        "type": "classify",
+        "q": "把句子分筐",
+        "explain": "sein/haben/情态动词口语用过去式，其余动词口语用完成时、小说用过去式。",
+        "groups": [
+          "口语首选",
+          "小说体"
+        ],
+        "items": [
+          {
+            "text": "Ich war müde.",
+            "group": 0
+          },
+          {
+            "text": "Der König ging in den Garten.",
+            "group": 1
+          },
+          {
+            "text": "Wir mussten gehen.",
+            "group": 0
+          },
+          {
+            "text": "Sie kaufte ein Brot und aß es.",
+            "group": 1
+          },
+          {
+            "text": "Sie konnte nicht kommen.",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "mochte 是 mögen 的过去式。",
+        "audio": "Als Kind mochte ich keinen Fisch.",
+        "options": [
+          "我现在想吃鱼",
+          "我小时候不喜欢鱼",
+          "我小时候想吃鱼"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "现在想要一杯茶，用哪个",
+        "explain": "现在愿望用 möchte。",
+        "options": [
+          "Ich mochte einen Tee.",
+          "Ich möchte einen Tee.",
+          "Ich mag einen Tee."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "dürfen→durfte。",
+        "display": "Er ＿＿ nicht mitkommen.（dürfen）",
+        "answer": "durfte"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "war 占第二位。",
+        "tokens": [
+          "war",
+          "Gestern",
+          "ich",
+          "krank"
+        ],
+        "answer": [
+          "Gestern",
+          "war",
+          "ich",
+          "krank"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "mussten 是骨架词。",
+        "audio": "Wir mussten am Sonntag arbeiten.",
+        "answer": "Wir mussten am Sonntag arbeiten."
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "du wolltest，句首大写。",
+        "display": "＿＿ du das wirklich?（wollen）",
+        "answer": "Wolltest"
+      },
+      {
+        "type": "choice",
+        "q": "ihr 对应的 sein 过去式",
+        "explain": "ihr wart。",
+        "options": [
+          "waren",
+          "wart",
+          "warst"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "sollen→sollten。",
+        "display": "Die Kinder ＿＿ leise sein.（sollen）",
+        "answer": "sollten"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "können 过去式 konnte。",
+        "audio": "Sie konnte nicht kommen, weil sie krank war.",
+        "display": "Sie ＿＿ nicht kommen, weil sie krank war.",
+        "answer": "konnte"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "从句式开场后主句动词第二位。",
+        "tokens": [
+          "hatte",
+          "Als Kind",
+          "ich",
+          "ein Fahrrad"
+        ],
+        "answer": [
+          "Als Kind",
+          "hatte",
+          "ich",
+          "ein Fahrrad"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句是口语里最自然的「我当时没时间」",
+        "explain": "haben 口语用 hatte。",
+        "options": [
+          "Ich habe keine Zeit gehabt.",
+          "Ich hatte keine Zeit.",
+          "Ich keine Zeit hatte."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "叙事开场框 Früher war …",
+        "display": "Früher ＿＿ alles anders.（sein）",
+        "answer": "war"
+      }
+    ],
+    "reading": {
+      "text": "Als ich ein Kind war, waren die Sommer immer lang. Wir hatten einen großen Garten und viel Zeit. Ich durfte jeden Tag draußen spielen. Mein Bruder wollte immer Fußball spielen, aber ich mochte lieber die Tiere. Einmal konnte unser Hund nicht schlafen, weil ein Gewitter kam. Da mussten wir alle lachen — der große Hund hatte Angst vor dem Donner!",
+      "parts": [
+        {
+          "label": "",
+          "text": "Als ich ein Kind war, waren die Sommer immer lang. Wir hatten einen großen Garten und viel Zeit. Ich durfte jeden Tag draußen spielen. Mein Bruder wollte immer Fußball spielen, aber ich mochte lieber die Tiere. Einmal konnte unser Hund nicht schlafen, weil ein Gewitter kam. Da mussten wir alle lachen — der große Hund hatte Angst vor dem Donner!"
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①小时候作者更喜欢做什么？（答：和动物玩，而不是踢足球。）②大狗怕什么？（答：打雷。）"
+    },
+    "writing": {
+      "task": "用过去式写 5 句「小时候的我」（Als ich ein Kind war, … 开头），至少用 war、hatte 和一个情态动词过去式。",
+      "sample": "范文：Als ich ein Kind war, war unser Haus sehr klein. Ich hatte ein rotes Fahrrad und viele Bücher. Am Wochenende durfte ich lange draußen bleiben. Ich mochte keinen Spinat, aber ich wollte immer Eis. Mein bester Freund konnte sehr schnell rennen.",
+      "selfcheck": "自查：war/hatte 用对人称 □；情态过去式 ≥1 个 □；没有把普通动词误用成口语过去式（叙事框内除外）□。"
+    }
+  },
+  {
+    "id": "g-a2-03",
+    "level": "A2",
+    "order": 5,
+    "title": "Präteritum（二）：常用动词过去式",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（规则型：词干 + te，叙事里照样高频）",
+      "headers": [
+        "原形",
+        "Präteritum",
+        "例"
+      ],
+      "rows": [
+        [
+          "arbeiten",
+          "arbeitete",
+          "Er arbeitete bis acht Uhr.（-t 结尾词干加 et）"
+        ],
+        [
+          "lernen / machen / sagen / hören / spielen / leben / kaufen / wohnen",
+          "lernte / machte / sagte / hörte / spielte / lebte / kaufte / wohnte",
+          "Sie sagte nichts."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（不规则高频，按元音变化分组记）",
+        "headers": [
+          "组",
+          "动词 → 过去式"
+        ],
+        "rows": [
+          [
+            "ei → ie/i",
+            "bleiben→blieb、schreiben→schrieb、steigen→stieg、schweigen→schwieg（认读）、schneiden→schnitt"
+          ],
+          [
+            "e → a",
+            "sehen→sah、lesen→las、essen→aß、geben→gab、sitzen→saß、liegen→lag（i→a：finden→fand、trinken→trank、singen→sang、schwimmen→schwamm、sinken→sank（认读））"
+          ],
+          [
+            "特殊组",
+            "gehen→ging、kommen→kam、stehen→stand、tun→tat、fahren→fuhr、tragen→trug、waschen→wusch、schlafen→schlief、laufen→lief、rufen→rief、helfen→half、sprechen→sprach、treffen→traf、sterben→starb、fallen→fiel、fangen→fing（认读）、beginnen→begann（认读）、gewinnen→gewann（认读）、verlieren→verlor、nehmen→nahm、fliegen→flog、ziehen→zog、hängen→hing、lassen→ließ"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "用途定位再说一遍：Präteritum 是书面叙事和正式讲述的主时态（小说、新闻、报告、童话 Es war einmal…）；日常口语讲昨天干了什么，用 Perfekt + war/hatte/情态。两边都会，才算 A2 的过去时完整。",
+      "人称词尾：ich 与 er/sie/es 同形（er ging），du 加 -st（du gingst，规则动词 du lerntest），wir/sie -en（wir gingen），ihr -t（ihr gingt，规则动词 ihr lerntet）。",
+      "记法：按元音组背链条（sehen–sah–gesehen：过去式和分词一起记），别逐个孤立背。",
+      "否定与提问不加 do 式辅助：Er kam nicht. / Kam er? 直接倒装，和现在时同理。"
+    ],
+    "examples": [
+      {
+        "de": "Der Zug ging um acht Uhr.",
+        "zh": "gehen – ging – gegangen"
+      },
+      {
+        "de": "Wir sahen einen alten Film.",
+        "zh": "sehen – sah – gesehen"
+      },
+      {
+        "de": "Zum Mittagessen aß er nur eine Suppe.",
+        "zh": "essen – aß – gegessen"
+      },
+      {
+        "de": "Sie fand den Schlüssel unter dem Tisch.",
+        "zh": "finden – fand – gefunden"
+      },
+      {
+        "de": "Das Kind schlief schon um sieben.",
+        "zh": "schlafen – schlief – geschlafen"
+      },
+      {
+        "de": "Ein Mann half mir mit dem Koffer.",
+        "zh": "helfen – half – geholfen"
+      },
+      {
+        "de": "Sie trug einen schweren Rucksack.",
+        "zh": "tragen – trug – getragen"
+      },
+      {
+        "de": "Die Mannschaft verlor das Spiel 0:2.",
+        "zh": "verlieren – verlor – verloren"
+      }
+    ],
+    "pitfalls": [
+      "过去式与分词混用：„Ich ging\"（过去式）vs „Ich bin gegangen\"（完成时），不能拼成 „Ich bin ging\"。",
+      "du 形漏词尾：du gingst、du lerntest，常被读成和 ich 同形。",
+      "新闻里读到 „ging, kam, sah\" 不认识——它们就是 gehen/kommen/sehen 的过去式，是阅读 A2 文本的第一道门槛。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "gehen 的过去式",
+        "explain": "gehen–ging–gegangen。",
+        "options": [
+          "gehte",
+          "ging",
+          "gegangen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "wir sahen。",
+        "display": "Wir ＿＿ einen alten Film.（sehen）",
+        "answer": "sahen"
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "规则型，词干以 t 结尾加 -ete。",
+        "display": "Er ＿＿ bis acht Uhr.（arbeiten）",
+        "answer": "arbeitete"
+      },
+      {
+        "type": "classify",
+        "q": "按元音组分筐",
+        "explain": "按过去式元音归组。",
+        "groups": [
+          "ei→ie",
+          "e/i→a",
+          "其他"
+        ],
+        "items": [
+          {
+            "text": "blieb",
+            "group": 0
+          },
+          {
+            "text": "sah",
+            "group": 1
+          },
+          {
+            "text": "ging",
+            "group": 2
+          },
+          {
+            "text": "fand",
+            "group": 1
+          },
+          {
+            "text": "schrieb",
+            "group": 0
+          },
+          {
+            "text": "schlief",
+            "group": 2
+          },
+          {
+            "text": "trank",
+            "group": 1
+          },
+          {
+            "text": "trug",
+            "group": 2
+          },
+          {
+            "text": "stieg",
+            "group": 0
+          },
+          {
+            "text": "gab",
+            "group": 1
+          },
+          {
+            "text": "half",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选原形",
+        "explain": "fand = finden 的过去式。",
+        "audio": "Sie fand den Schlüssel unter dem Tisch.",
+        "options": [
+          "finden",
+          "verlieren",
+          "suchen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "du 形正确的",
+        "explain": "du gingst，加 -st。",
+        "options": [
+          "du ging",
+          "du gingst",
+          "du gingen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "schlafen–schlief。",
+        "display": "Das Kind ＿＿ schon um sieben.（schlafen）",
+        "answer": "schlief"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "aß 第二位。",
+        "tokens": [
+          "aß",
+          "Er",
+          "Suppe",
+          "eine",
+          "nur"
+        ],
+        "answer": [
+          "Er",
+          "aß",
+          "nur",
+          "eine",
+          "Suppe"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写链条后写过去式",
+        "explain": "helfen–half。",
+        "audio": "helfen – half – geholfen",
+        "display": "过去式是＿＿",
+        "answer": "half"
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "同上，叙事句。",
+        "display": "Ein Mann ＿＿ mir mit dem Koffer.（helfen）",
+        "answer": "half"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是规范的书面叙事",
+        "explain": "书面叙事全程 Präteritum。",
+        "options": [
+          "Ich bin gestern ins Kino gegangen und habe einen Film gesehen.（口语报告）",
+          "Gestern ging ich ins Kino und sah einen Film.（书面叙事）",
+          "Ich ging gestern ins Kino und habe einen Film gesehen.（混搭）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "verlieren–verlor。",
+        "display": "Die Mannschaft ＿＿ das Spiel.（verlieren）",
+        "answer": "verlor"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补过去式",
+        "explain": "tragen–trug。",
+        "audio": "Sie trug einen schweren Rucksack.",
+        "display": "Sie ＿＿ einen schweren Rucksack.",
+        "answer": "trug"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ankommen 过去式 kam … an，前缀仍回句尾。",
+        "tokens": [
+          "kam",
+          "Der Zug",
+          "Verspätung",
+          "mit",
+          "an"
+        ],
+        "answer": [
+          "Der Zug",
+          "kam",
+          "mit",
+          "Verspätung",
+          "an"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "过去式填空",
+        "explain": "essen–aß。",
+        "display": "Zum Frühstück ＿＿ er nur ein Ei.（essen）",
+        "answer": "aß"
+      },
+      {
+        "type": "choice",
+        "q": "nehmen 的过去式",
+        "explain": "nehmen–nahm–genommen。",
+        "options": [
+          "nahmte",
+          "nahm",
+          "genomm"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选时态判断",
+        "explain": "Es war einmal… 是叙事标志开场。",
+        "audio": "Es war einmal ein kleines Dorf in den Bergen.",
+        "options": [
+          "这是日常口语闲聊",
+          "这是故事/书面叙事的开头"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "把口语句改成书面叙事",
+        "explain": "fahren 过去式 wir fuhren，去掉完成时框架。",
+        "display": "口语：Wir sind nach Hause gefahren. → 书面：Wir ＿＿ nach Hause.",
+        "answer": "fuhren"
+      }
+    ],
+    "reading": {
+      "text": "Es war einmal ein kleiner Bahnhof in einem kleinen Dorf. Jeden Morgen kam der Zug um sieben Uhr an. Der alte Bahnhofsvorsteher stand schon um sechs auf dem Bahnsteig. Er trug eine blaue Uniform und eine große Uhr. Eines Tages kam der Zug nicht. Die Leute warteten und warteten. Da lief der Vorsteher ins Büro und rief in der Stadt an. „Der Zug hatte einen Unfall\", sagte eine Stimme. Zum Glück war niemand verletzt.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Es war einmal ein kleiner Bahnhof in einem kleinen Dorf. Jeden Morgen kam der Zug um sieben Uhr an. Der alte Bahnhofsvorsteher stand schon um sechs auf dem Bahnsteig. Er trug eine blaue Uniform und eine große Uhr. Eines Tages kam der Zug nicht. Die Leute warteten und warteten. Da lief der Vorsteher ins Büro und rief in der Stadt an. „Der Zug hatte einen Unfall\", sagte eine Stimme. Zum Glück war niemand verletzt."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①站长每天几点站在站台上？（答：早上六点。）②火车为什么没来？（答：出了事故，所幸无人受伤。）"
+    },
+    "writing": {
+      "task": "把下面 5 句口语完成时改写成连贯的书面叙事（全程 Präteritum，war/hatte 可用）：①Ich bin am Samstag früh aufgestanden. ②Ich habe in der Küche Kaffee gemacht. ③Dann ist ein Freund gekommen. ④Wir sind zusammen in die Berge gefahren. ⑤Am Abend sind wir müde nach Hause gekommen.",
+      "sample": "范文：Am Samstag stand ich früh auf. Ich machte in der Küche Kaffee. Dann kam ein Freund. Wir fuhren zusammen in die Berge. Am Abend kamen wir müde nach Hause.",
+      "selfcheck": "自查：5 句全是过去式、无完成时残留 □；du/ich/er 词尾对（ich/er 同形）□；可分动词前缀回句尾（stand … auf、kam … an 类）□。"
+    },
+    "audioChips": [
+      {
+        "group": "原形→过去式→分词",
+        "items": [
+          {
+            "label": "gehen – ging – gegangen",
+            "speak": "gehen ， ging ， gegangen"
+          },
+          {
+            "label": "sehen – sah – gesehen",
+            "speak": "sehen ， sah ， gesehen"
+          },
+          {
+            "label": "essen – aß – gegessen",
+            "speak": "essen ， aß ， gegessen"
+          },
+          {
+            "label": "finden – fand – gefunden",
+            "speak": "finden ， fand ， gefunden"
+          },
+          {
+            "label": "schlafen – schlief – geschlafen",
+            "speak": "schlafen ， schlief ， geschlafen"
+          },
+          {
+            "label": "helfen – half – geholfen",
+            "speak": "helfen ， half ， geholfen"
+          },
+          {
+            "label": "tragen – trug – getragen",
+            "speak": "tragen ， trug ， getragen"
+          },
+          {
+            "label": "verlieren – verlor – verloren",
+            "speak": "verlieren ， verlor ， verloren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-a2-03",
+    "level": "A2",
+    "order": 6,
+    "title": "预约、改期与取消",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（四种动作的句型库）",
+      "headers": [
+        "动作",
+        "句型"
+      ],
+      "rows": [
+        [
+          "提出预约",
+          "Ich hätte gern einen Termin bei Dr. Sommer. / Geht es am Donnerstag um zehn? / Ich brauche einen Termin für eine Kontrolle."
+        ],
+        [
+          "确认",
+          "Ja, das passt mir gut. / Gut, dann am Donnerstag um zehn. Ich bin da."
+        ],
+        [
+          "改期",
+          "Könnten wir den Termin auf Freitag verschieben? / Am Donnerstag kann ich leider nicht. Geht es auch später? / Ich muss den Termin leider verschieben."
+        ],
+        [
+          "取消",
+          "Ich muss den Termin am Montag leider absagen. / Es tut mir leid, aber ich kann nicht kommen."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（理由句——改期取消必带理由，这是礼貌规则）",
+        "headers": [
+          "理由类型",
+          "例"
+        ],
+        "rows": [
+          [
+            "工作",
+            "Ich muss länger arbeiten. / Ich habe eine wichtige Besprechung."
+          ],
+          [
+            "健康",
+            "Ich bin krank. / Mein Kind ist krank geworden."
+          ],
+          [
+            "交通/意外",
+            "Mein Zug ist ausgefallen. / Es gab einen Unfall."
+          ],
+          [
+            "连接",
+            "…, weil ich länger arbeiten muss. / …, deshalb rufe ich an. / …, denn mein Zug ist ausgefallen.（denn 认读）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "预约三件套：说清什么事（für eine Kontrolle / wegen der Schmerzen）、什么时候（am Donnerstag um zehn Uhr）、留个确认（Passt Ihnen das? / Ist der Termin noch frei?）。",
+      "verschieben（改期）与 absagen（取消）别混：改期要给出或问出新时间，光说 „Ich kann nicht\" 不是改期。",
+      "电话里改期的话术顺序：道歉（Es tut mir leid）→ 理由（weil…）→ 新提议（Geht es am Freitag?）→ 感谢确认（Vielen Dank, bis Freitag!）。",
+      "hätte gern / könnten 是礼貌骨架（Konjunktiv II 在 g-a2-16/17 系统学，这里整体先用起来）。"
+    ],
+    "examples": [
+      {
+        "de": "Guten Tag, ich hätte gern einen Termin für nächste Woche.",
+        "zh": ""
+      },
+      {
+        "de": "Geht es am Donnerstag um zehn Uhr?",
+        "zh": ""
+      },
+      {
+        "de": "Es tut mir leid, ich muss den Termin verschieben.",
+        "zh": ""
+      },
+      {
+        "de": "Könnten wir den Termin auf Freitag legen?",
+        "zh": ""
+      },
+      {
+        "de": "Ich muss den Termin am Montag leider absagen, weil ich krank bin.",
+        "zh": ""
+      },
+      {
+        "de": "Ist der Freitagstermin noch frei?",
+        "zh": ""
+      },
+      {
+        "de": "Ja, das passt mir gut. Vielen Dank!",
+        "zh": ""
+      },
+      {
+        "de": "Ich rufe an, weil mein Zug ausgefallen ist.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "只取消不解释：„Ich komme nicht.\" 在德国办事场景里显得很生硬，理由句是标配。",
+      "verschieben 后面要落点：verschieben auf Freitag（改到周五），漏掉 auf + 新时间等于没说完。",
+      "um 和 am 分工：am Donnerstag（天）+ um zehn Uhr（钟点），别说反。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "想预约，说哪句",
+        "explain": "hätte gern + Termin 是标准开场。",
+        "options": [
+          "Ich hätte gern einen Termin.",
+          "Ich habe einen Termin gestern.",
+          "Termin ich gern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句型填空",
+        "explain": "verschieben auf + 新时间。",
+        "display": "Könnten wir den Termin ＿＿ Freitag verschieben?",
+        "answer": "auf"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听电话选动作",
+        "explain": "absagen = 取消。",
+        "audio": "Es tut mir leid, ich muss den Termin am Montag absagen.",
+        "options": [
+          "这是在预约",
+          "这是在取消",
+          "这是在确认"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "改期和取消的区别",
+        "explain": "改期必须有新时间落点。",
+        "options": [
+          "verschieben 是换时间，absagen 是不来了",
+          "两个一样",
+          "verschieben 是不来了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "理由句填空",
+        "explain": "weil 引理由，动词回句尾。",
+        "display": "Ich kann nicht kommen, ＿＿ ich krank bin.",
+        "answer": "weil"
+      },
+      {
+        "type": "order",
+        "q": "组句（改期话术）",
+        "explain": "疑问句动词提前，verschieben 原形回句尾。",
+        "tokens": [
+          "wir",
+          "den Termin",
+          "Könnten",
+          "verschieben",
+          "auf Freitag"
+        ],
+        "answer": [
+          "Könnten",
+          "wir",
+          "den Termin",
+          "auf Freitag",
+          "verschieben"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "钟点用 um。",
+        "audio": "Geht es am Donnerstag um zehn Uhr?",
+        "display": "Geht es am Donnerstag ＿＿ zehn Uhr?",
+        "answer": "um"
+      },
+      {
+        "type": "classify",
+        "q": "把句子分进三个动作筐",
+        "explain": "看动词：hätte gern/Geht es 是预约，verschieben 是改期，absagen 是取消。",
+        "groups": [
+          "预约",
+          "改期",
+          "取消"
+        ],
+        "items": [
+          {
+            "text": "Ich hätte gern einen Termin.",
+            "group": 0
+          },
+          {
+            "text": "Geht es am Montag um neun?",
+            "group": 0
+          },
+          {
+            "text": "Könnten wir den Termin auf Dienstag verschieben?",
+            "group": 1
+          },
+          {
+            "text": "Am Montag kann ich leider nicht.",
+            "group": 1
+          },
+          {
+            "text": "Ich muss den Termin leider absagen.",
+            "group": 2
+          },
+          {
+            "text": "Es tut mir leid",
+            "group": 2
+          },
+          {
+            "text": "ich kann nicht kommen.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "礼貌顺序填词",
+        "explain": "道歉开场 Es tut mir leid。",
+        "display": "＿＿ mir leid, ich muss den Termin verschieben.",
+        "answer": "Es tut"
+      },
+      {
+        "type": "choice",
+        "q": "确认预约回哪句",
+        "explain": "Das passt mir gut. = 时间合适。",
+        "options": [
+          "Das passt mir gut.",
+          "Das passt mir gestern.",
+          "Ich passe gut."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "理由句是骨架，整句听写。",
+        "audio": "Ich muss den Termin leider absagen, weil ich krank bin.",
+        "answer": "Ich muss den Termin leider absagen, weil ich krank bin."
+      },
+      {
+        "type": "order",
+        "q": "组句（理由）",
+        "explain": "weil 从句动词回句尾。",
+        "tokens": [
+          "bin",
+          "Ich",
+          "nicht",
+          "kann",
+          "kommen",
+          "weil",
+          "ich",
+          "krank"
+        ],
+        "answer": [
+          "Ich",
+          "kann",
+          "nicht",
+          "kommen",
+          "weil",
+          "ich",
+          "krank",
+          "bin"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "句型填空",
+        "explain": "noch frei = 还有空。",
+        "display": "Ist der Termin am Freitag noch ＿＿?",
+        "answer": "frei"
+      },
+      {
+        "type": "choice",
+        "q": "哪个改期请求不完整",
+        "explain": "改期必须落到新时间。",
+        "options": [
+          "Könnten wir auf Freitag verschieben?",
+          "Ich kann am Montag nicht.（只说不行，没给新时间）",
+          "Geht es auch am Dienstag?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "q": "听短信朗读选内容",
+        "explain": "bestätigt = 已确认。",
+        "audio": "Guten Tag, Ihr Termin am Dienstag um 14 Uhr ist bestätigt. Praxis Dr. Sommer.",
+        "options": [
+          "短信在确认预约",
+          "短信在取消预约",
+          "短信在改期"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "完整话术填空",
+        "explain": "Ich rufe an, weil… 电话自报+理由的标准框。",
+        "display": "Guten Tag, hier spricht Frau Lan. Ich ＿＿ an, weil mein Zug ausgefallen ist.",
+        "answer": "rufe"
+      }
+    ],
+    "reading": {
+      "text": "Guten Tag, Frau Lan, Ihr Termin bei Dr. Sommer ist am Donnerstag, 12. März, um 10:30 Uhr bestätigt. Bitte bringen Sie Ihre Versichertenkarte mit. Praxis am Markt\nGuten Tag, vielen Dank für die Nachricht. Am Donnerstag muss ich leider länger arbeiten. Könnten wir den Termin auf Freitagvormittag verschieben? Es tut mir leid und danke für Ihr Verständnis. Mit freundlichen Grüßen, Lan",
+      "parts": [
+        {
+          "label": "短信（诊所）",
+          "text": "Guten Tag, Frau Lan, Ihr Termin bei Dr. Sommer ist am Donnerstag, 12. März, um 10:30 Uhr bestätigt. Bitte bringen Sie Ihre Versichertenkarte mit. Praxis am Markt"
+        },
+        {
+          "label": "回复（Frau Lan）",
+          "text": "Guten Tag, vielen Dank für die Nachricht. Am Donnerstag muss ich leider länger arbeiten. Könnten wir den Termin auf Freitagvormittag verschieben? Es tut mir leid und danke für Ihr Verständnis. Mit freundlichen Grüßen, Lan"
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①原预约是什么时候？（答：3 月 12 日周四 10:30。）②Frau Lan 的回复包含了改期话术的哪几步？（答：道歉/说明理由 länger arbeiten、新提议 Freitagvormittag、致谢，三步齐全。）"
+    },
+    "writing": {
+      "task": "给诊所写一条改期短信（4–5 句）：说明原时间、道歉、给理由、提出新时间、致谢。",
+      "sample": "范文：Guten Tag, ich habe einen Termin am Montag um 9 Uhr bei Dr. Sommer. Es tut mir leid, aber ich muss an diesem Tag länger arbeiten. Könnten wir den Termin auf Mittwoch verschieben? Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Mei Chen",
+      "selfcheck": "自查：原时间写清（am + 天、um + 钟点）□；有道歉句 □；有理由 □；新时间有落点（auf …）□。"
+    }
+  },
+  {
+    "id": "g-a2-04",
+    "level": "A2",
+    "order": 7,
+    "title": "形容词词尾（一）：定冠词后的词尾",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（der / die / das / dieser / welcher / jeder / alle 之后——形容词只剩两个词尾 -e 和 -en）",
+      "headers": [
+        "格",
+        "阳性 m",
+        "阴性 f",
+        "中性 n",
+        "复数 pl"
+      ],
+      "rows": [
+        [
+          "主格 Nom",
+          "der kleine Hund",
+          "die kleine Katze",
+          "das kleine Haus",
+          "die kleinen Kinder"
+        ],
+        [
+          "宾格 Akk",
+          "den kleinen Hund",
+          "die kleine Katze",
+          "das kleine Haus",
+          "die kleinen Kinder"
+        ],
+        [
+          "与格 Dat",
+          "dem kleinen Hund",
+          "der kleinen Katze",
+          "dem kleinen Haus",
+          "den kleinen Kindern"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+    "extraTables": [],
+    "rules": [
+      "记忆法一句话：冠词已经把格和性说清楚了，形容词就偷懒——只在两个地方用 -e（主格全部单数、宾格的阴/中），其余一律 -en。",
+      "换个说法：-e 只出现在「der/die/das 原形没变」的位置（主格三性 + 宾格阴中——它们的冠词和主格长一样）；冠词一变形（den、dem、der 与格、die 复数），形容词立刻 -en。",
+      "复数最省事：der 词后复数任何格都是 -en（die kleinen Kinder / den kleinen Kindern）。",
+      "二格（Genitiv）认读：des kleinen Hundes、der kleinen Stadt——形容词也是 -en，见到认识即可，产出留 B1。",
+      "dieser/jeder/welcher/manche(r) 属于同一组（der 词家族），词尾规则相同：jeder kleine Hund、diese kleinen Kinder。"
+    ],
+    "examples": [
+      {
+        "de": "Der kleine Hund spielt im Garten.",
+        "zh": ""
+      },
+      {
+        "de": "Ich sehe den kleinen Hund.",
+        "zh": ""
+      },
+      {
+        "de": "Das kleine Haus steht am See.",
+        "zh": ""
+      },
+      {
+        "de": "Sie hilft der kleinen Frau.",
+        "zh": "与格阴性 -en"
+      },
+      {
+        "de": "Die kleinen Kinder spielen draußen.",
+        "zh": ""
+      },
+      {
+        "de": "Er gibt den kleinen Kindern ein Buch.",
+        "zh": ""
+      },
+      {
+        "de": "Dieser alte Mann wohnt hier.",
+        "zh": ""
+      },
+      {
+        "de": "Welche schöne Blume ist das?",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "主格阳性写成 -en（„der kleinen Hund\"）：主格单数永远 -e，是全表最常考的点。",
+      "宾格阳性忘变：den kleinen——冠词变 den，词尾必须跟变。",
+      "与格阴性 der kleinen Frau：冠词 der 在这里是与格阴性，不是主格阳性，别按主格给 -e。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Der ＿＿ Mann ist mein Lehrer.",
+        "explain": "主格阳性 -e。",
+        "options": [
+          "klein",
+          "kleine",
+          "kleinen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "宾格阳性 -en。",
+        "display": "Ich sehe den groß＿＿ Hund.",
+        "answer": "en"
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "主格中性 -e。",
+        "display": "Das klein＿＿ Haus steht am See.",
+        "answer": "e"
+      },
+      {
+        "type": "choice",
+        "q": "Die ＿＿ Kinder spielen.",
+        "explain": "复数一律 -en。",
+        "options": [
+          "kleine",
+          "kleinen",
+          "kleiner"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选词尾",
+        "explain": "与格 -en。",
+        "audio": "Er gibt dem kleinen Kind ein Buch.",
+        "options": [
+          "kleinen",
+          "kleine"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "与格阴性也是 -en。",
+        "display": "Sie hilft der alt＿＿ Frau.",
+        "answer": "en"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "den + 形容词 -en。",
+        "tokens": [
+          "sehe",
+          "Ich",
+          "den",
+          "Hund",
+          "kleinen"
+        ],
+        "answer": [
+          "Ich",
+          "sehe",
+          "den",
+          "kleinen",
+          "Hund"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "把短语按词尾分筐",
+        "explain": "冠词没变形的给 -e，变形的给 -en。",
+        "groups": [
+          "-e",
+          "-en"
+        ],
+        "items": [
+          {
+            "text": "der kleine Hund",
+            "group": 0
+          },
+          {
+            "text": "die schöne Stadt",
+            "group": 0
+          },
+          {
+            "text": "das neue Auto",
+            "group": 0
+          },
+          {
+            "text": "die kleine Katze（宾格）",
+            "group": 0
+          },
+          {
+            "text": "den kleinen Hund",
+            "group": 1
+          },
+          {
+            "text": "dem kleinen Kind",
+            "group": 1
+          },
+          {
+            "text": "die kleinen Kinder",
+            "group": 1
+          },
+          {
+            "text": "der kleinen Frau（与格）",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "dieser 是 der 家族，主格阳性 -e。",
+        "display": "Dieser alt＿＿ Mann wohnt hier.",
+        "answer": "e"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词尾",
+        "explain": "主格阴性 -e。",
+        "audio": "Welche schöne Blume ist das?",
+        "display": "Welche schön＿＿ Blume ist das?",
+        "answer": "e"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "宾格复数 -en。",
+        "options": [
+          "Ich kaufe die roten Schuhe.",
+          "Ich kaufe die rote Schuhe.",
+          "Ich kaufe den roten Schuhe."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "与格中性 -en。",
+        "display": "Er wohnt in dem klein＿＿ Dorf.",
+        "answer": "en"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "复数 -en。",
+        "tokens": [
+          "Kinder",
+          "Die",
+          "spielen",
+          "kleinen",
+          "draußen"
+        ],
+        "answer": [
+          "Die",
+          "kleinen",
+          "Kinder",
+          "spielen",
+          "draußen"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "主格阳性 -e 别听成 -en。",
+        "audio": "Der kleine Hund spielt im Garten.",
+        "answer": "Der kleine Hund spielt im Garten."
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空（认读二格）",
+        "explain": "二格形容词也是 -en，认读即可。",
+        "display": "die Tür des klein＿＿ Hauses",
+        "answer": "en"
+      },
+      {
+        "type": "choice",
+        "q": "jeder 后的词尾：Jeden klein＿＿ Tag übt er Klavier.（宾格阳性）",
+        "explain": "jeden 是 der 家族宾格阳性，词尾 -en。（注：jeden Tag 是时间宾格）",
+        "display": "Jeden klein＿＿ Tag übt er Klavier.（宾格阳性）",
+        "options": [
+          "kleine",
+          "kleinen"
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": {
+      "text": "Gefunden! Am Montag hat jemand einen kleinen schwarzen Hund im Park gefunden. Der arme Hund wartet jetzt im Tierheim auf seinen Besitzer. Er trägt ein rotes Halsband, aber keine Marke. Wer den kleinen Hund kennt, ruft bitte im Tierheim an. Die netten Mitarbeiter dort helfen gern. Auch eine alte braune Tasche liegt im Fundbüro — mit einem blauen Schirm und einem dicken Buch darin.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Gefunden! Am Montag hat jemand einen kleinen schwarzen Hund im Park gefunden. Der arme Hund wartet jetzt im Tierheim auf seinen Besitzer. Er trägt ein rotes Halsband, aber keine Marke. Wer den kleinen Hund kennt, ruft bitte im Tierheim an. Die netten Mitarbeiter dort helfen gern. Auch eine alte braune Tasche liegt im Fundbüro — mit einem blauen Schirm und einem dicken Buch darin."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①小狗有什么特征？（答：小、黑色、戴红色项圈、在公园被找到。）②Fundbüro 里还有什么？（答：一只旧棕色包，里面有蓝伞和一本厚书。）"
+    },
+    "writing": {
+      "task": "写 5 句介绍「我住的地方」，至少用 3 个定冠词 + 形容词短语，其中 1 个宾格、1 个与格。",
+      "sample": "范文：Ich wohne in einer kleinen Stadt. Das alte Rathaus steht im Zentrum. Ich mag den großen Park neben dem Fluss. Jeden Morgen sehe ich die gleichen Leute im kleinen Café. Der freundliche Mann dort kennt alle Gäste.",
+      "selfcheck": "自查：主格短语词尾 -e □；宾格阳性用了 -en □；与格用了 -en □。"
+    }
+  },
+  {
+    "id": "g-a2-05",
+    "level": "A2",
+    "order": 8,
+    "title": "形容词词尾（二）：ein 词后与无冠词",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（ein / einen / einem / einer、mein、kein 之后——混合词尾：形容词要补上冠词没说出的信号）",
+      "headers": [
+        "格",
+        "m",
+        "f",
+        "n",
+        "pl"
+      ],
+      "rows": [
+        [
+          "Nom",
+          "ein kleiner Hund",
+          "eine kleine Katze",
+          "ein kleines Haus",
+          "keine kleinen Kinder"
+        ],
+        [
+          "Akk",
+          "einen kleinen Hund",
+          "eine kleine Katze",
+          "ein kleines Haus",
+          "keine kleinen Kinder"
+        ],
+        [
+          "Dat",
+          "einem kleinen Hund",
+          "einer kleinen Katze",
+          "einem kleinen Haus",
+          "keinen kleinen Kindern"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（形容词名词化，认读 + 高频产出）",
+        "headers": [
+          "形式",
+          "例",
+          "义"
+        ],
+        "rows": [
+          [
+            "der/die + 形容词大写",
+            "der Alte、die Neue（新同事）、die Deutschen",
+            "那个老人/新人"
+          ],
+          [
+            "etwas/nichts + 大写形容词 + es",
+            "etwas Neues、nichts Interessantes",
+            "新鲜事"
+          ],
+          [
+            "alles + 大写",
+            "Alles Gute!",
+            "一切顺利（祝福语）"
+          ]
+        ],
+        "hl": []
+      },
+      {
+        "caption": "彩色总表 3（无冠词——强词尾，认读线：见到能认出格与性即可）",
+        "headers": [
+          "格",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          [
+            "Nom",
+            "kalter Tee",
+            "kalte Milch",
+            "kaltes Wasser",
+            "kalte Getränke"
+          ],
+          [
+            "Akk",
+            "kalten Tee",
+            "kalte Milch",
+            "kaltes Wasser",
+            "kalte Getränke"
+          ],
+          [
+            "Dat",
+            "kaltem Tee",
+            "kalter Milch",
+            "kaltem Wasser",
+            "kalten Getränken"
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      }
+    ],
+    "extraTablesAfterRules": true,
+    "rules": [
+      "ein 家族的逻辑和 der 家族正相反：冠词词尾缺位的地方，形容词出来补位。ein 本身看不出性（ein Hund / ein Haus），所以主格阳性补 -er、中性补 -es，把信号喊出来；其余位置冠词已变形（einen/einem/einer），形容词就回归 -en/-e 的偷懒模式。",
+      "必背三个「补位格」：ein kleiner（m 主）、ein kleines（n 主/宾）、eine kleine（f 主/宾，和 der 家族同）。",
+      "复数注意：ein 没有复数，用 kein/物主代词的复数形，其后一律 -en（meine kleinen Kinder）。",
+      "无冠词时（强变化）认读为主：Nom/Akk 词尾 = der 词词尾（kleiner Hund、kleines Haus、kleine Katze、kaltes Wasser），与格阴性 -er（mit kalter Milch）等只要求认读；产出场景主要是 ein/der 两套，无冠词产出只练主宾格高频（Guten Tag! 类固定语不算）。"
+    ],
+    "extensionContent": [
+      "读法要点：无冠词时形容词自己扛起冠词的活——词尾基本照抄 der/die/das 的词尾（-er/-e/-es），只有与格阳/中用 -em、复数主宾用 -e。产出不作要求，菜单、广告、报刊标题里认得出就行（例：Frischer Fisch! Kaltes Wasser, warmer Tee）。"
+    ],
+    "examples": [
+      {
+        "de": "Ein kleiner Hund läuft über die Straße.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist ein schönes Haus.",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe einen großen Bruder.",
+        "zh": ""
+      },
+      {
+        "de": "Sie trinkt eine kalte Cola.",
+        "zh": ""
+      },
+      {
+        "de": "Er wohnt in einem kleinen Dorf.",
+        "zh": ""
+      },
+      {
+        "de": "Wir haben keine kleinen Kinder.",
+        "zh": ""
+      },
+      {
+        "de": "Gibt es etwas Neues?",
+        "zh": ""
+      },
+      {
+        "de": "Die Neue im Büro heißt Frau Lan.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "主格阳性漏补位：„ein kleine Hund\" 是最典型的 A2 错误，正确 ein kleiner Hund。",
+      "中性主/宾格：ein schönes Haus、Ich kaufe ein neues Handy. 词尾 -es 不能省。",
+      "被 der 家族带偏：einem kleinen（与格 -en 没错），但 einem kleinen Dorf 的 -en 是因为冠词已变形——和主格的补位 -er/-es 别混。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Ein ＿＿ Hund läuft dort.",
+        "explain": "ein 后主格阳性补 -er。",
+        "options": [
+          "kleiner",
+          "kleine",
+          "kleines"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "中性主格补 -es。",
+        "display": "Das ist ein schön＿＿ Haus.",
+        "answer": "es"
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "einen 后 -en。",
+        "display": "Ich habe einen groß＿＿ Bruder.",
+        "answer": "en"
+      },
+      {
+        "type": "choice",
+        "q": "Sie trinkt eine ＿＿ Cola.",
+        "explain": "eine 后阴性 -e。",
+        "options": [
+          "kalte",
+          "kalten",
+          "kalter"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选短语",
+        "explain": "与格 -en。",
+        "audio": "Er wohnt in einem kleinen Dorf.",
+        "options": [
+          "einem kleinen Dorf",
+          "einem kleiner Dorf"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "kein 复数 -en。",
+        "display": "Wir haben keine klein＿＿ Kinder.",
+        "answer": "en"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ein + -es 补位。",
+        "tokens": [
+          "ist",
+          "Das",
+          "ein",
+          "Haus",
+          "schönes"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "ein",
+          "schönes",
+          "Haus"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "按规则分筐",
+        "explain": "冠词无词尾处补位，其余 -en。",
+        "groups": [
+          "补位词尾（-er/-es/-e）",
+          "-en"
+        ],
+        "items": [
+          {
+            "text": "ein kleiner Hund",
+            "group": 0
+          },
+          {
+            "text": "ein schönes Haus",
+            "group": 0
+          },
+          {
+            "text": "eine kalte Cola",
+            "group": 0
+          },
+          {
+            "text": "einen kleinen Hund",
+            "group": 1
+          },
+          {
+            "text": "einem kleinen Dorf",
+            "group": 1
+          },
+          {
+            "text": "meine kleinen Kinder",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "名词化填空",
+        "explain": "etwas + 大写形容词 + es。",
+        "display": "Gibt es etwas ＿＿?（neu）",
+        "answer": "Neues"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词尾",
+        "explain": "形容词名词化，大写。",
+        "audio": "Die Neue im Büro heißt Frau Lan.",
+        "display": "Die ＿＿ im Büro heißt Frau Lan.",
+        "answer": "Neue"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "中性宾格 ein + -es。",
+        "options": [
+          "Ich kaufe ein neues Handy.",
+          "Ich kaufe ein neuen Handy.",
+          "Ich kaufe ein neue Handy."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "词尾填空",
+        "explain": "einem 后 -en。",
+        "display": "Sie hilft einem alt＿＿ Mann.",
+        "answer": "en"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "einen + -en。",
+        "tokens": [
+          "habe",
+          "Ich",
+          "einen",
+          "Hund",
+          "kleinen"
+        ],
+        "answer": [
+          "Ich",
+          "habe",
+          "einen",
+          "kleinen",
+          "Hund"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "ein kleiner 的 -er 是听辨点。",
+        "audio": "Ein kleiner Hund läuft über die Straße.",
+        "answer": "Ein kleiner Hund läuft über die Straße."
+      },
+      {
+        "type": "fill",
+        "q": "祝福语填空",
+        "explain": "Alles Gute! 固定祝福语。",
+        "display": "Alles ＿＿ zum Geburtstag!（gut）",
+        "answer": "Gute"
+      },
+      {
+        "type": "choice",
+        "q": "无冠词认读——„kaltes Wasser\" 里 Wasser 是什么格什么性",
+        "explain": "无冠词强变化，主格中性 -es。",
+        "options": [
+          "主格中性",
+          "与格阴性",
+          "宾格阳性"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "无冠词认读——„mit kalter Milch\" 里 kalter 是什么词尾",
+        "explain": "无冠词与格阴性用 -er，照总表 3 认读即可。",
+        "options": [
+          "与格阴性强词尾",
+          "主格阳性词尾",
+          "宾格复数词尾"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Schöne Wohnung frei! Eine helle, ruhige Wohnung mit einem großen Balkon ist ab sofort frei. Die Wohnung hat ein modernes Bad, eine kleine Küche und ein gemütliches Wohnzimmer. Sie liegt in einem alten Haus in einer grünen Straße. Keine lauten Nachbarn, keine teuren Überraschungen: Die Miete ist fair. Ideal für eine kleine Familie oder ein junges Paar. Interesse? Rufen Sie an!",
+      "parts": [
+        {
+          "label": "",
+          "text": "Schöne Wohnung frei! Eine helle, ruhige Wohnung mit einem großen Balkon ist ab sofort frei. Die Wohnung hat ein modernes Bad, eine kleine Küche und ein gemütliches Wohnzimmer. Sie liegt in einem alten Haus in einer grünen Straße. Keine lauten Nachbarn, keine teuren Überraschungen: Die Miete ist fair. Ideal für eine kleine Familie oder ein junges Paar. Interesse? Rufen Sie an!"
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①这套房有哪些房间/设施？（答：现代浴室、小厨房、舒适客厅、大阳台。）②广告用什么词形容街道和邻居？（答：grünen Straße、keine lauten Nachbarn。）"
+    },
+    "writing": {
+      "task": "写一则 5 句的失物/出售小广告（卖一辆自行车），至少用 3 个 ein 家族 + 形容词短语，含 1 个主格阳性补位 -er 或中性 -es。",
+      "sample": "范文：Verkaufe ein altes Fahrrad! Es ist ein stabiles Rad mit einem neuen Sattel. Der Preis ist fair, und eine gute Lampe gibt es dazu. Ich verkaufe es, weil ich ein neues E-Bike habe. Meldet euch schnell — ein besseres Angebot findet ihr nicht!",
+      "selfcheck": "自查：ein + 形容词出现 ≥3 次 □；至少 1 处补位 -er/-es 用对 □；宾格 einen + -en 用对 □。"
+    }
+  },
+  {
+    "id": "g-a2-06",
+    "level": "A2",
+    "order": 9,
+    "title": "比较的深化",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（比较句型全套）",
+      "headers": [
+        "句型",
+        "结构",
+        "例"
+      ],
+      "rows": [
+        [
+          "比较级 + als",
+          "A ist größer als B",
+          "Berlin ist größer als Leipzig."
+        ],
+        [
+          "同等 + wie",
+          "A ist so groß wie B",
+          "Sie ist so alt wie ich."
+        ],
+        [
+          "否定同等",
+          "A ist nicht so groß wie B",
+          "Mein Auto ist nicht so neu wie deins."
+        ],
+        [
+          "递进",
+          "immer + 比较级",
+          "Er läuft immer schneller."
+        ],
+        [
+          "最高级表语",
+          "am + -sten",
+          "Dieser Weg ist am kürzesten."
+        ],
+        [
+          "最高级定语",
+          "der/die/das + -ste（接形容词词尾）",
+          "der schnellste Zug、die beste Idee"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（不规则与高频比较形复盘 + 扩展）",
+        "headers": [
+          "原级",
+          "比较级",
+          "最高级（am）"
+        ],
+        "rows": [
+          [
+            "gut / viel / gern",
+            "besser / mehr / lieber",
+            "am besten / am meisten / am liebsten"
+          ],
+          [
+            "groß / alt / jung / lang / stark / kurz / kalt / warm",
+            "größer / älter / jünger / länger / stärker / kürzer / kälter / wärmer",
+            "am größten …（带 Umlaut 的一组）"
+          ],
+          [
+            "hoch / nah / oft / bald",
+            "höher / näher / öfter（häufiger 也可） / eher",
+            "am höchsten / am nächsten / am ehesten"
+          ],
+          [
+            "teuer / dunkel",
+            "teurer（省一个 e） / dunkler",
+            "am teuersten / am dunkelsten"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "als 与 wie 的分工是 A2 的标志性考点：有比较级用 als，一样/同等用 so…wie。口语里 „größer wie\" 很常见，但在考试与规范书面里算错，别学。",
+      "比较对象要同类可比且格一致：„Sie ist größer als ich.\"（不是 als mich）——als 后按「补全句子」想：als ich (groß bin)。",
+      "immer + 比较级 = 越来越…：Das Wetter wird immer wärmer. 叙事和描述变化必备。",
+      "定语最高级要带形容词词尾（本包前两单元刚练）：der schnellste Zug（主格阳性 -e → der schnellste），die beste Idee，das größte Haus——最高级词干 + der 家族词尾。",
+      "je … desto … 认读：„Je mehr du übst, desto besser sprichst du.\"（越…越…），结构认识即可，产出留 B1。"
+    ],
+    "examples": [
+      {
+        "de": "Berlin ist größer als Leipzig.",
+        "zh": ""
+      },
+      {
+        "de": "Sie ist so alt wie ihre Schwester.",
+        "zh": ""
+      },
+      {
+        "de": "Mein Fahrrad ist nicht so neu wie deins.",
+        "zh": ""
+      },
+      {
+        "de": "Das Wetter wird immer wärmer.",
+        "zh": ""
+      },
+      {
+        "de": "Dieser Weg ist am kürzesten.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist der schnellste Zug nach Hamburg.",
+        "zh": ""
+      },
+      {
+        "de": "Sie hat die beste Idee von allen.",
+        "zh": ""
+      },
+      {
+        "de": "Je mehr du übst, desto besser wirst du.",
+        "zh": "认读"
+      }
+    ],
+    "pitfalls": [
+      "„als ich\" 写成 „als mich\"：比较对象与主语同格（主格）。",
+      "am -sten 用错场景：跟在动词后作表语用 am besten（Er läuft am schnellsten.）；放在名词前必须换 der/die/das + -ste（der schnellste Läufer）。",
+      "„mehr besser\" 双重比较：有比较级就不再加 mehr（mehr 只用于 viel 的比较级本身）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Berlin ist größer ＿＿ Leipzig.",
+        "explain": "比较级后用 als。",
+        "options": [
+          "als",
+          "wie",
+          "so"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句型填空",
+        "explain": "so … wie 表同等。",
+        "display": "Sie ist so alt ＿＿ ich.",
+        "answer": "wie"
+      },
+      {
+        "type": "fill",
+        "q": "比较级填空",
+        "explain": "immer + 比较级。",
+        "display": "Das Wetter wird immer ＿＿.（warm）",
+        "answer": "wärmer"
+      },
+      {
+        "type": "choice",
+        "q": "哪句规范",
+        "explain": "als + 主格。",
+        "options": [
+          "Er ist größer als ich.",
+          "Er ist größer wie ich.",
+          "Er ist größer als mich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "nicht so … wie = 不如。",
+        "audio": "Mein Auto ist nicht so neu wie deins.",
+        "options": [
+          "我的车比你的新",
+          "我的车没你的新",
+          "两辆车一样新"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "最高级填空",
+        "explain": "表语最高级 am + -sten。",
+        "display": "Dieser Weg ist ＿＿ kürzesten.",
+        "answer": "am"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "定语最高级 der + -ste。",
+        "tokens": [
+          "ist",
+          "der",
+          "Zug",
+          "schnellste",
+          "Das"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "der",
+          "schnellste",
+          "Zug"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "把句子分筐",
+        "explain": "有比较级用 als，有 so 用 wie。",
+        "groups": [
+          "als 组",
+          "wie 组"
+        ],
+        "items": [
+          {
+            "text": "Berlin ist größer als Leipzig.",
+            "group": 0
+          },
+          {
+            "text": "Er läuft schneller als ich.",
+            "group": 0
+          },
+          {
+            "text": "Sie ist so alt wie ich.",
+            "group": 1
+          },
+          {
+            "text": "Das ist so teuer wie gestern.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "比较级填空（不规则）",
+        "explain": "gut–besser。",
+        "display": "Er kann ＿＿ singen als ich.（gut）",
+        "answer": "besser"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "定语最高级 die beste。",
+        "audio": "Sie hat die beste Idee von allen.",
+        "display": "Sie hat die ＿＿ Idee von allen.",
+        "answer": "beste"
+      },
+      {
+        "type": "choice",
+        "q": "teuer 的比较级",
+        "explain": "teuer 比较级省 e：teurer。",
+        "options": [
+          "teurer",
+          "teuerer",
+          "am teuersten"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句型填空（认读）",
+        "explain": "je … desto … 越…越…。",
+        "display": "Je mehr du übst, ＿＿ besser sprichst du.",
+        "answer": "desto"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "immer 紧贴比较级前。",
+        "tokens": [
+          "wird",
+          "Das Wetter",
+          "immer",
+          "wärmer"
+        ],
+        "answer": [
+          "Das Wetter",
+          "wird",
+          "immer",
+          "wärmer"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "am kürzesten 表语最高级。",
+        "audio": "Dieser Weg ist am kürzesten.",
+        "answer": "Dieser Weg ist am kürzesten."
+      },
+      {
+        "type": "fill",
+        "q": "比较级填空",
+        "explain": "nah–näher–am nächsten。",
+        "display": "Von hier ist der Bahnhof ＿＿ als das Hotel.（nah 的比较级）",
+        "answer": "näher"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "besser 单独使用，不加 mehr。",
+        "options": [
+          "Sie spricht besser Deutsch als früher.",
+          "Sie spricht mehr besser Deutsch.",
+          "Sie spricht gut als früher."
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Leipzig ist kleiner als Berlin, aber viele sagen: Leipzig ist ruhiger und die Mieten sind billiger. In Berlin ist mehr los — die Stadt ist lauter, schneller und am Wochenende nie leer. „Je länger ich in Leipzig lebe, desto besser gefällt es mir hier\", sagt Frau Lan. „Mein Weg zur Arbeit ist kürzer, und die Luft ist besser als in der Hauptstadt.\" Aber ihr Bruder findet Berlin spannender: „Für junge Leute ist Berlin einfach am besten.\"",
+      "parts": [
+        {
+          "label": "",
+          "text": "Leipzig ist kleiner als Berlin, aber viele sagen: Leipzig ist ruhiger und die Mieten sind billiger. In Berlin ist mehr los — die Stadt ist lauter, schneller und am Wochenende nie leer. „Je länger ich in Leipzig lebe, desto besser gefällt es mir hier\", sagt Frau Lan. „Mein Weg zur Arbeit ist kürzer, und die Luft ist besser als in der Hauptstadt.\" Aber ihr Bruder findet Berlin spannender: „Für junge Leute ist Berlin einfach am besten.\""
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①Frau Lan 为什么越来越喜欢莱比锡？（答：上班路更短、空气比首都好。）②她哥哥为什么更喜欢柏林？（答：对年轻人来说柏林最精彩/最热闹。）"
+    },
+    "writing": {
+      "task": "写 5 句比较你熟悉的两个地方（或两种交通方式），至少用：als 句 1 个、so…wie 句 1 个、am -sten 句 1 个。",
+      "sample": "范文：Mein Heimatort ist kleiner als Shanghai. Das Leben dort ist ruhiger, und die Luft ist besser als hier. Aber Shanghai ist so spannend wie keine andere Stadt für mich. Im Sommer ist es in Shanghai am heißesten. Mein Weg zur Arbeit ist hier länger, aber die U-Bahn ist schneller als der Bus.",
+      "selfcheck": "自查：als/wie 没混用 □；als 后比较对象格正确 □；am -sten 用在表语位置 □。"
+    }
+  }
+]

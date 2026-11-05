@@ -1,0 +1,3630 @@
+{
+  "replacement": {
+    "id": "g-a1-13",
+    "level": "A1",
+    "order": 24,
+    "title": "Der Dativ（与格）",
+    "titleDe": "Der Dativ: Artikel, Pronomen & Verben",
+    "table": {
+      "caption": "与格全家福——冠词、物主、人称三套一次给齐，与主格宾格对照着记",
+      "headers": [
+        "",
+        "阳性 der",
+        "阴性 die",
+        "中性 das",
+        "复数 die"
+      ],
+      "rows": [
+        [
+          "定冠词",
+          "dem",
+          "der",
+          "dem",
+          "den（名词加 -n：den Kindern）"
+        ],
+        [
+          "不定冠词",
+          "einem",
+          "einer",
+          "einem",
+          "—"
+        ],
+        [
+          "kein",
+          "keinem",
+          "keiner",
+          "keinem",
+          "keinen"
+        ],
+        [
+          "物主（mein 为例）",
+          "meinem",
+          "meiner",
+          "meinem",
+          "meinen"
+        ],
+        [
+          "人称代词",
+          "mir（我）/ dir（你）/ ihm（他/它）",
+          "ihr（她）",
+          "ihm（它）",
+          "ihnen / Ihnen（您）"
+        ],
+        [
+          "人称（我们/你们）",
+          "uns",
+          "euch",
+          "—",
+          "—"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "与格介词全套——这 8 个后面永远跟与格，没有例外",
+        "headers": [
+          "介词",
+          "意思",
+          "例句"
+        ],
+        "rows": [
+          [
+            "aus",
+            "从…出来/来自",
+            "Ich komme aus China."
+          ],
+          [
+            "bei",
+            "在…（人）家/在…附近",
+            "Ich wohne bei meinen Eltern."
+          ],
+          [
+            "mit",
+            "和…一起/用（工具交通）",
+            "Ich fahre mit dem Bus."
+          ],
+          [
+            "nach",
+            "到…去（城市国家）/在…之后",
+            "Wir fliegen nach Berlin. / nach der Arbeit"
+          ],
+          [
+            "seit",
+            "自从…（认读，细讲在 A2）",
+            "Ich lerne seit einem Jahr Deutsch."
+          ],
+          [
+            "von",
+            "从…/…的",
+            "Das Geschenk ist von meiner Mutter."
+          ],
+          [
+            "zu",
+            "到…（人/地点）去",
+            "Ich gehe zum Arzt.（zu dem = zum；zu der = zur）"
+          ],
+          [
+            "gegenüber",
+            "在…对面（认读）",
+            "Die Bank ist gegenüber dem Bahnhof.（多放名词后）"
+          ]
+        ],
+        "hl": []
+      },
+      {
+        "caption": "与格动词核心清单——这些动词后面的「人」用与格，是 A1 句子的半壁江山",
+        "headers": [
+          "动词",
+          "句型",
+          "例句"
+        ],
+        "rows": [
+          [
+            "helfen",
+            "jdm（与） helfen",
+            "Kannst du mir helfen?"
+          ],
+          [
+            "danken",
+            "jdm danken",
+            "Ich danke dir."
+          ],
+          [
+            "gehören",
+            "etw gehört jdm",
+            "Das Buch gehört mir."
+          ],
+          [
+            "gefallen",
+            "etw gefällt jdm",
+            "Der Film gefällt ihr."
+          ],
+          [
+            "schmecken",
+            "etw schmeckt jdm",
+            "Die Suppe schmeckt ihm gut."
+          ],
+          [
+            "passen",
+            "etw passt jdm",
+            "Die Schuhe passen mir nicht."
+          ],
+          [
+            "stehen",
+            "etw steht jdm（合身/相配）",
+            "Rot steht dir gut."
+          ],
+          [
+            "wehtun",
+            "etw tut jdm weh（可分）",
+            "Mir tut der Kopf weh."
+          ],
+          [
+            "antworten",
+            "jdm antworten",
+            "Bitte antworte mir bald."
+          ],
+          [
+            "folgen",
+            "jdm folgen（认读）",
+            "Der Hund folgt dem Kind."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "与格回答 Wem?（给谁/对谁）；句子里「东西」多半是宾格、「人」多半是与格：Ich gebe dem Kind（人，与格） das Buch（东西，宾格）",
+      "双宾语顺序：两个都是名词时 与格在前、宾格在后（dem Kind das Buch）；有一个是代词时 代词优先（Ich gebe es dem Kind. / 双代词 Ich gebe es ihm. 后者先认读）",
+      "健康与感受的固定句整组背：Wie geht es dir? — Mir geht es gut. / Es tut mir leid. / Mir ist kalt.（我觉得冷）",
+      "zu 的缩合 zum（zu dem）/ zur（zu der）是常态，不缩合反而少见；mit 不缩合",
+      "复数与格别忘名词尾巴 -n：mit den Händen、bei den Eltern（Eltern 本来就带 n 的除外）"
+    ],
+    "examples": [
+      {
+        "de": "Ich gebe meiner Schwester das Buch.",
+        "zh": "我把书给我姐姐。"
+      },
+      {
+        "de": "Kannst du mir bitte helfen?",
+        "zh": "你能帮我一下吗？"
+      },
+      {
+        "de": "Der Kuchen schmeckt den Kindern gut.",
+        "zh": "蛋糕孩子们很爱吃。"
+      },
+      {
+        "de": "Wir fahren mit dem Zug nach Hamburg.",
+        "zh": "我们坐火车去汉堡。"
+      },
+      {
+        "de": "Mir tut der Bauch weh.",
+        "zh": "我肚子疼。——看医生场景预埋"
+      }
+    ],
+    "pitfalls": [
+      "阴性与格 der 和阳性主格 der 长得一样，看位置分：helfen 后面的人称与女性名词都是与格",
+      "helfen / danken 后面绝不能用宾格：dir 不是 dich——„Ich helfe dich\" 是中国学生最高频错误之一",
+      "gefallen 的主语是物：Mir gefällt der Film. 字面是「电影讨我喜欢」，别说 Ich gefalle den Film"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich helfe ___（我，代词）。",
+        "explain": "helfen + 与格人称。",
+        "answer": "mir"
+      },
+      {
+        "type": "fill",
+        "q": "Das Buch gehört ___ Lehrer.",
+        "explain": "阳性与格 dem。",
+        "answer": "dem"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "explain": "danken 后面用与格 dir。",
+        "options": [
+          "Ich danke dich.",
+          "Ich danke dir."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Ich fahre mit ___ Bus.",
+        "explain": "mit 永远带与格，中性 dem。",
+        "answer": "dem"
+      },
+      {
+        "type": "fill",
+        "q": "Sie wohnt bei ___ Eltern.（她的父母，复数）",
+        "explain": "复数物主与格 ihren；bei + 与格。",
+        "answer": "ihren"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "与格（人）在前，宾格（物）在后。",
+        "tokens": [
+          "gebe",
+          "Ich",
+          "Buch",
+          "das",
+          "Schwester",
+          "meiner"
+        ],
+        "answer": [
+          "Ich",
+          "gebe",
+          "meiner",
+          "Schwester",
+          "das",
+          "Buch"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Kannst du mir helfen?",
+        "display": "Kannst du ___ helfen?",
+        "explain": "求助句的标配与格。",
+        "answer": "mir"
+      },
+      {
+        "type": "choice",
+        "q": "„Wie geht es ___?\"（问朋友）",
+        "explain": "固定句型用与格 dir。",
+        "options": [
+          "dich",
+          "dir",
+          "du"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Der Film gefällt ___（她）。",
+        "explain": "ihr 在这里是与格「她」，不是物主。",
+        "answer": "ihr"
+      },
+      {
+        "type": "fill",
+        "q": "Wir gehen ___ Arzt.（缩合形式）",
+        "explain": "zu dem = zum。",
+        "answer": "zum"
+      },
+      {
+        "type": "choice",
+        "q": "哪句的与格对？",
+        "explain": "中性与格 dem。",
+        "options": [
+          "Ich gebe den Kind das Buch.",
+          "Ich gebe dem Kind das Buch."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Mir tut der Kopf weh.",
+        "q": "哪里不舒服？",
+        "explain": "der Kopf 头；wehtun 的与格是 Mir。",
+        "options": [
+          "肚子",
+          "头",
+          "背"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Die Suppe schmeckt ___（他）gut.",
+        "explain": "schmecken + 与格 ihm。",
+        "answer": "ihm"
+      },
+      {
+        "type": "fill",
+        "q": "Ich antworte ___ Lehrer heute Abend.",
+        "explain": "antworten + 与格。",
+        "answer": "dem"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "gehören 的所有者用与格。",
+        "tokens": [
+          "gehört",
+          "Das",
+          "mir",
+          "Auto"
+        ],
+        "answer": [
+          "Das",
+          "Auto",
+          "gehört",
+          "mir"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "mit 的后面永远是哪个格？",
+        "explain": "与格介词没有例外。",
+        "options": [
+          "宾格",
+          "与格"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich danke dir für die Hilfe.",
+        "explain": "danken + 与格 + für。",
+        "answer": "Ich danke dir für die Hilfe."
+      },
+      {
+        "type": "fill",
+        "q": "Ich kaufe ___ Kindern ein Eis.（复数定冠词与格）",
+        "explain": "复数与格 den，Kindern 本身已带 -n。",
+        "answer": "den"
+      }
+    ],
+    "reading": {
+      "text": "Heute besuche ich meine Freundin Anna. Ich bringe ihr einen Kuchen mit. Der Kuchen schmeckt ihr sehr gut. Am Abend fahren wir mit dem Bus in die Stadt. Anna zeigt mir die Stadt.（mitbringen 给某人带来；zeigen 展示，本课认读）",
+      "questions": [
+        {
+          "q": "Wem bringt er einen Kuchen mit?",
+          "options": [
+            "seiner Mutter",
+            "Anna",
+            "dem Lehrer"
+          ],
+          "answer": 1,
+          "explain": "bringe ihr——ihr 指 Anna。"
+        },
+        {
+          "q": "Wie fahren sie in die Stadt?",
+          "options": [
+            "mit dem Auto",
+            "mit dem Bus",
+            "zu Fuß"
+          ],
+          "answer": 1,
+          "explain": "mit dem Bus。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用与格写 4 句：给朋友一件礼物（geben）、向人道谢（danken）、说一件东西属于你（gehören）、说一种食物合你口味（schmecken）。",
+      "sample": "范文：Ich gebe meinem Freund ein Buch. Ich danke ihm für seine Hilfe. Das Buch gehört jetzt ihm. Die Suppe schmeckt mir sehr gut."
+    }
+  },
+  "additions": {
+    "g-a1-01": {
+      "content": [
+        {
+          "label": "新增表 1（词干尾音决定 du 的拼法）",
+          "text": "词干以 -s/-ss/-z/-tz 结尾时，du 的 -st 只剩 -t：reisen→du reist、heißen→du heißt、tanzen→du tanzt、sitzen→du sitzt；词干以 -d/-t 结尾时中间加 e：arbeiten→du arbeitest、warten→du wartest（原单元 -e- 规则与此合并成一张表呈现）。"
+        },
+        {
+          "label": "新增表 2（werden 与 wissen 两张不规则表）",
+          "text": "werden: werde, wirst, wird, werden, werdet, werden（用途先认：Ich werde Lehrer. 我将成为老师）；wissen: weiß, weißt, weiß, wissen, wisst, wissen。"
+        },
+        {
+          "label": "新增清单（不规则现在时芯片，24 个，与 g-a1-02 的元音变化组有重叠的以链接互指、不重复计数）",
+          "text": "sein, haben, werden, wissen, essen, geben, sehen, lesen, sprechen, helfen, nehmen, treffen, fahren, schlafen, laufen, tragen, waschen, halten, fallen, lassen, gefallen, vergessen, empfehlen（认读）, einladen。"
+        },
+        {
+          "label": "新增规则",
+          "text": "-eln/-ern 动词认读（lächeln: ich lächle；wandern: ich wandere），产出不要求。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "du ___（tanzen）",
+          "explain": "词干以 z 结尾，du 只加 t。",
+          "answer": "tanzt"
+        },
+        {
+          "type": "choice",
+          "q": "heißen 的 du 形式？",
+          "explain": "ß 后不双写 s。",
+          "options": [
+            "heißst",
+            "heißt"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Er ___ Lehrer.（werden，将成为）",
+          "explain": "werden 的 er 形式 wird。",
+          "answer": "wird"
+        },
+        {
+          "type": "choice",
+          "q": "wissen 的 ich 形式？",
+          "explain": "ich weiß。",
+          "options": [
+            "wisse",
+            "weiß"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Weißt du das?",
+          "display": "___ du das?",
+          "explain": "weißt 是 wissen 的 du 形式。",
+          "answer": "Weißt"
+        },
+        {
+          "type": "fill",
+          "q": "du ___（sitzen）",
+          "explain": "tz 结尾同样只加 t。",
+          "answer": "sitzt"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "t 词干要加 e 缓冲。",
+          "options": [
+            "Du arbeitest viel.",
+            "Du arbeitst viel."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "werden + 职业名词（不带冠词）。",
+          "tokens": [
+            "wird",
+            "Er",
+            "Arzt"
+          ],
+          "answer": [
+            "Er",
+            "wird",
+            "Arzt"
+          ]
+        }
+      ]
+    },
+    "g-a1-02": {
+      "content": [
+        {
+          "label": "新增规则（变化类补全到五类）",
+          "text": "a→ä、au→äu（laufen→er läuft）、e→i、e→ie、o→ö（stoßen→er stößt，认读）。"
+        },
+        {
+          "label": "清单扩到 24 个（全量列出，逐个芯片点读 du 与 er 两形）",
+          "text": "fahren, schlafen, tragen, waschen, halten, lassen, laufen, fallen, anfangen, einladen, gefallen, essen, geben, helfen, lesen, sehen, sprechen, treffen, nehmen, vergessen, empfehlen（认读）, raten（认读）, stoßen（认读），外加 1 个假朋友 backen（不变音，er backt，专列在易错点里防误伤）。"
+        },
+        {
+          "label": "新增易错点",
+          "text": "backen、schaffen 这类 a 动词不变音，别见 a 就加两点；变化只发生在 du 和 er/sie/es，wir/ihr/Sie 永远用原形词干。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Er ___（laufen）schnell.",
+          "explain": "au→äu。",
+          "answer": "läuft"
+        },
+        {
+          "type": "choice",
+          "q": "哪个动词不发生元音变化？",
+          "explain": "backen 是规则动词。",
+          "options": [
+            "fahren",
+            "backen",
+            "tragen"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Wir ___（schlafen）lange.",
+          "explain": "wir 形式不变化。",
+          "answer": "schlafen"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Sie wäscht das Auto.",
+          "q": "wäscht 的原形是？",
+          "explain": "waschen→wäscht。",
+          "options": [
+            "waschen",
+            "wachen",
+            "wachsen"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Der Film ___（gefallen）mir.",
+          "explain": "gefallen 的 er 形式 gefällt，后接与格。",
+          "answer": "gefällt"
+        },
+        {
+          "type": "choice",
+          "q": "er ___（halten）",
+          "explain": "a→ä。",
+          "options": [
+            "halt",
+            "hält"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Er ___（anfangen）um acht Uhr.（写出完整谓语，分开写也可）",
+          "explain": "anfangen 可分 + 元音变化，两件事叠加。",
+          "answer": "fängt an"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Er lässt das Auto hier.",
+          "explain": "lassen→lässt。",
+          "answer": "Er lässt das Auto hier."
+        }
+      ]
+    },
+    "g-a1-03": {
+      "content": [
+        {
+          "label": "新增表 1（sollen 全表与用法）",
+          "text": "soll, sollst, soll, sollen, sollt, sollen；用法两条：①别人交代的任务（Der Arzt sagt, ich soll viel trinken.）②征求指示（Was soll ich machen?）。"
+        },
+        {
+          "label": "新增表 2（mögen 与 gern 的分工）",
+          "text": "mögen + 名词（Ich mag Tee. / Ich mag keinen Kaffee.）；gern + 动词（Ich trinke gern Tee.）；möchte 是 mögen 的礼貌版（原单元已有，互指）。"
+        },
+        {
+          "label": "新增表 3（否定辖域三兄弟）",
+          "text": "nicht müssen = 不必（Du musst nicht kommen. 你不用过来）；nicht dürfen = 不许（Du darfst nicht rauchen.）；nicht sollen = 不应该（Du sollst nicht lügen.）——中文都像「不能」，德语是三个不同的意思，这是本单元最重要的新内容。"
+        },
+        {
+          "label": "新增认读行",
+          "text": "情态 + 完成时（Ich habe nicht kommen können.）只认读，A2 细讲。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Was ___ ich machen?（我该做什么）",
+          "explain": "征求指示用 sollen。",
+          "answer": "soll"
+        },
+        {
+          "type": "choice",
+          "q": "「你不必来」是？",
+          "explain": "nicht müssen = 不必；nicht dürfen 是不许，意思完全不同。",
+          "options": [
+            "Du musst nicht kommen.",
+            "Du darfst nicht kommen."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "choice",
+          "q": "「这里不许停车」是？",
+          "explain": "禁止用 dürfen 的否定。",
+          "options": [
+            "Man muss hier nicht parken.",
+            "Man darf hier nicht parken."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Der Arzt sagt, ich ___ viel Wasser trinken.",
+          "explain": "转述医嘱用 sollen。",
+          "answer": "soll"
+        },
+        {
+          "type": "fill",
+          "q": "Ich ___ keinen Kaffee.（mögen）",
+          "explain": "mag + 名词宾格，否定 keinen。",
+          "answer": "mag"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Du sollst nicht lügen.",
+          "q": "这句话的意思是？",
+          "explain": "sollen 的否定是义务层面的「不应该」。",
+          "options": [
+            "你不必说谎",
+            "你不应该说谎",
+            "你不能说谎（没能力）"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "gern 修饰动词，不用 mögen 重复表达。",
+          "tokens": [
+            "trinke",
+            "Ich",
+            "gern",
+            "Tee"
+          ],
+          "answer": [
+            "Ich",
+            "trinke",
+            "gern",
+            "Tee"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Er ___ Fußball.（他喜欢足球，mögen）",
+          "explain": "mag。",
+          "answer": "mag"
+        }
+      ]
+    },
+    "g-a1-04": {
+      "content": [
+        {
+          "label": "新增表（不可分前缀全套）",
+          "text": "be-（besuchen, bezahlen）、emp-（empfehlen）、ent-（entkommen 认读）、er-（erzählen）、ge-（gefallen, gehören）、miss-（missverstehen 认读）、ver-（verstehen, vergessen）、zer-（zerbrechen 认读）——判定法：带这些前缀的动词永不拆、重音在词干、分词不带 ge-（与 g-a1-06 互指）。"
+        },
+        {
+          "label": "清单扩容（可分动词补到 30 个，新增以下 12 个，其余为原单元已有）",
+          "text": "aufwachen, anziehen, ausziehen, umziehen, fernsehen, aufräumen, abholen, einsteigen, aussteigen, umsteigen, zurückkommen, weitergehen。"
+        },
+        {
+          "label": "新增规则",
+          "text": "可分与不可分长得像的对子要成对记：umziehen（搬家/换衣，可分）没有不可分双胞胎，但 aufstehen（起床）vs verstehen（理解）是重音对子（回指 P5）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "choice",
+          "q": "哪个动词不可分？",
+          "explain": "ver- 前缀永不分开。",
+          "options": [
+            "aufstehen",
+            "verstehen",
+            "einkaufen"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Ich ___ um sechs Uhr ___.（aufwachen）",
+          "explain": "可分动词词干站第二位，前缀去句尾。",
+          "answer": "wache / auf"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "aussteigen 的前缀 aus 落句尾。",
+          "tokens": [
+            "aus",
+            "dem",
+            "Er",
+            "steigt",
+            "Bus",
+            "aus"
+          ],
+          "answer": [
+            "Er",
+            "steigt",
+            "aus",
+            "dem",
+            "Bus",
+            "aus"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Sie ___（fernsehen）am Abend.",
+          "explain": "fernsehen→sieht fern（兼元音变化）。",
+          "answer": "sieht fern"
+        },
+        {
+          "type": "choice",
+          "q": "besuchen 的分词是？",
+          "explain": "不可分前缀，分词不带 ge-（为 g-a1-06 扩容预热）。",
+          "options": [
+            "gebesucht",
+            "besucht"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Wir räumen die Wohnung auf.",
+          "display": "Wir räumen die Wohnung ___.",
+          "explain": "aufräumen 的前缀在句尾。",
+          "answer": "auf"
+        },
+        {
+          "type": "fill",
+          "q": "Wir steigen am Bahnhof ___.（einsteigen 的前缀填空）",
+          "explain": "可分前缀落在句尾。",
+          "answer": "ein"
+        },
+        {
+          "type": "choice",
+          "q": "umziehen（搬家）的重音在？",
+          "explain": "可分前缀重读。",
+          "options": [
+            "UM-ziehen",
+            "um-ZIE-hen"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "g-a1-05": {
+      "content": [
+        {
+          "label": "新增表（wir 命令式与标识命令）",
+          "text": "wir 形 = Wir-Form 直接用：Gehen wir!（我们走吧）/ Fangen wir an! / Essen wir!；公开标识全套认读：Drücken（推）/ Ziehen（拉）/ Nicht rauchen（禁止吸烟）/ Bitte warten（请等候）/ Vorsicht!（小心）/ Eintritt frei（免费入内）。"
+        },
+        {
+          "label": "新增规则",
+          "text": "否定命令 nicht 放句尾方向：Komm nicht zu spät! / Fahr nicht so schnell!；对 Sie 的命令永远带 bitte 或放软语气（原单元已有，补两例）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "choice",
+          "q": "「我们走吧」是？",
+          "explain": "wir 命令式。",
+          "options": [
+            "Geht ihr!",
+            "Gehen wir!",
+            "Geh!"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "___ wir anfangen!",
+          "explain": "Fangen wir an! 前缀 an 在尾，fangen 站前。",
+          "answer": "Fangen"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Drücken",
+          "q": "你应该怎么做？",
+          "explain": "Drücken 是推。",
+          "options": [
+            "拉门",
+            "推门"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Komm nicht zu ___!（别迟到）",
+          "explain": "否定命令句型。",
+          "answer": "spät"
+        },
+        {
+          "type": "choice",
+          "q": "标识 „Nicht rauchen\" 的意思？",
+          "explain": "公共标识的否定命令。",
+          "options": [
+            "请勿吸烟",
+            "这里可以吸烟"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "wir 命令 + 不定式。",
+          "tokens": [
+            "wir",
+            "Gehen",
+            "spazieren"
+          ],
+          "answer": [
+            "Gehen",
+            "wir",
+            "spazieren"
+          ]
+        }
+      ]
+    },
+    "g-a1-11": {
+      "content": [
+        {
+          "label": "新增表（情态动词过去式认读表）",
+          "text": "können→konnte、müssen→musste、wollen→wollte、dürfen→durfte、sollen→sollte、mögen→mochte——只要求在叙事里认出「这是过去」，产出仍只考 war / hatte。**新增短文段**（替换原短文，二选一保留原短文亦可，本段作第二短文追加）：Als Kind wollte ich Lehrer werden. Ich konnte gut singen, aber ich musste viel lernen. Am Wochenende durfte ich lange spielen."
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "choice",
+          "q": "konnte 是哪个动词的过去式？",
+          "explain": "können→konnte。",
+          "options": [
+            "können",
+            "kennen",
+            "kommen"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Gestern ___ ich nicht kommen.（不能，过去）",
+          "explain": "叙事认读填空。",
+          "answer": "konnte"
+        },
+        {
+          "type": "choice",
+          "q": "mochte 对应的现在时是？",
+          "explain": "mögen→mochte。",
+          "options": [
+            "macht",
+            "mag",
+            "musste"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich musste arbeiten.",
+          "q": "事情发生在？",
+          "explain": "musste 是过去式。",
+          "options": [
+            "现在",
+            "过去"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Wir ___ (wollen，过去）ins Kino.",
+          "explain": "wollten。",
+          "answer": "wollten"
+        },
+        {
+          "type": "choice",
+          "q": "哪句是过去叙事？",
+          "explain": "durfte + gestern。",
+          "options": [
+            "Ich darf heute spielen.",
+            "Ich durfte gestern spielen."
+          ],
+          "answer": 1
+        }
+      ],
+      "additionalReading": "（替换原短文，二选一保留原短文亦可，本段作第二短文追加）：Als Kind wollte ich Lehrer werden. Ich konnte gut singen, aber ich musste viel lernen. Am Wochenende durfte ich lange spielen.\n理解题 1：Was wollte er als Kind werden?｜选项 Arzt / Lehrer / Sänger｜答 1｜解析：wollte Lehrer werden。\n理解题 2：Was musste er viel machen?｜选项 singen / lernen / spielen｜答 1｜解析：musste viel lernen。"
+    },
+    "g-a1-07": {
+      "content": [
+        {
+          "label": "新增表 1（复合名词定性别）",
+          "text": "复合名词的性别 = 最后一个成分的性别：der Bahnhof + die Uhr → die Bahnhofsuhr；das Kinderzimmer（der? Zimmer 是 das → das）；die Haustür（die Tür）。"
+        },
+        {
+          "label": "新增表 2（特殊名词三组）",
+          "text": "变小 -chen/-lein 永远 das 且常变元音：das Mädchen、das Häuschen、das Brötchen；只有复数：die Leute（人们）、die Eltern（父母）、die Ferien（假期）；只有单数（认读）：das Gepäck（行李）、die Milch、der Verkehr（交通）。"
+        },
+        {
+          "label": "新增表 3（性别倾向补全）",
+          "text": "-ismus/-ist→der（der Tourismus）；-ei/-heit/-keit/-schaft/-ung/-ion/-tät→die；-chen/-lein/-um/-ment→das（das Zentrum, das Dokument 认读）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "choice",
+          "q": "die Bahnhofsuhr 的性别为什么是 die？",
+          "explain": "看最后一个成分。",
+          "options": [
+            "因为 Bahnhof",
+            "因为 Uhr 是 die"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "___ Mädchen（冠词）",
+          "explain": "-chen 永远 das。",
+          "answer": "Das"
+        },
+        {
+          "type": "choice",
+          "q": "哪个名词只有复数形式？",
+          "explain": "Leute 只有复数。",
+          "options": [
+            "die Leute",
+            "der Mann",
+            "das Kind"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "___ Eltern（我的父母）",
+          "explain": "Eltern 是复数，物主用复数形。",
+          "answer": "Meine"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "die Ferien",
+          "q": "意思？",
+          "explain": "Ferien 只有复数。",
+          "options": [
+            "假期",
+            "渡轮",
+            "节日"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "choice",
+          "q": "-ung 结尾的名词性别？",
+          "explain": "-ung 永远 die（die Zeitung, die Wohnung）。",
+          "options": [
+            "der",
+            "die",
+            "das"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "___ Zentrum ist alt.",
+          "explain": "-um 结尾多为 das。",
+          "answer": "Das"
+        },
+        {
+          "type": "order",
+          "q": "组词（复合名词）",
+          "explain": "成分拼接，性别随 Uhr。",
+          "tokens": [
+            "Bahnhof",
+            "Uhr",
+            "die"
+          ],
+          "answer": [
+            "die",
+            "Bahnhof",
+            "Uhr"
+          ],
+          "displayAnswer": "die Bahnhofsuhr",
+          "compound": true
+        }
+      ]
+    },
+    "g-a1-08": {
+      "content": [
+        {
+          "label": "新增表（宾格时间状语整组）",
+          "text": "jeden Tag / jeden Morgen / jeden Abend / nächste Woche / nächsten Montag / diesen Sommer / letztes Jahr——时间名词表「每…/下…/这…」时整段用宾格，这是宾格的第二大用途（第一是宾语）。"
+        },
+        {
+          "label": "新增规则",
+          "text": "es gibt + 宾格（Es gibt einen Park. / Es gibt kein Kino hier.）。"
+        },
+        {
+          "label": "动词清单扩到 30（新增以下）",
+          "text": "brauchen, suchen, finden, kennen, lieben, bestellen, bezahlen, verstehen, vergessen, mögen, sehen（已有互指不重复计数）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich laufe ___ Tag.（每天）",
+          "explain": "时间状语用宾格 jeden。",
+          "answer": "jeden"
+        },
+        {
+          "type": "fill",
+          "q": "Es gibt ___ Supermarkt hier.",
+          "explain": "es gibt + 宾格。",
+          "answer": "einen"
+        },
+        {
+          "type": "choice",
+          "q": "„nächsten Montag\" 里 nächsten 是哪个格？",
+          "explain": "时间状语的宾格。",
+          "options": [
+            "主格",
+            "宾格",
+            "与格"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Ich brauche einen Stift.",
+          "display": "Ich brauche ___ Stift.",
+          "explain": "brauchen + 宾格。",
+          "answer": "einen"
+        },
+        {
+          "type": "fill",
+          "q": "Sie bestellt ___ Salat.",
+          "explain": "bestellen 的宾语。",
+          "answer": "einen"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "kennen + 宾格 den。",
+          "options": [
+            "Ich kenne den Mann.",
+            "Ich kenne der Mann."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Wir sehen uns ___ Woche.（下周见）",
+          "explain": "阴性宾格形与主格同形：nächste Woche。",
+          "answer": "nächste"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "es gibt + kein 宾格。",
+          "tokens": [
+            "gibt",
+            "Es",
+            "Kino",
+            "kein",
+            "hier"
+          ],
+          "answer": [
+            "Es",
+            "gibt",
+            "kein",
+            "Kino",
+            "hier"
+          ]
+        }
+      ]
+    },
+    "g-a1-09": {
+      "content": [
+        {
+          "label": "新增表（否定词家族补全）",
+          "text": "nicht mehr（不再：Ich rauche nicht mehr.）/ noch nicht（还没：Ich bin noch nicht fertig.）/ nie（从不：Er trinkt nie Kaffee.）/ kein … mehr（没有…了：Ich habe kein Geld mehr.）。"
+        },
+        {
+          "label": "新增规则（doch 的完整用法）",
+          "text": "doch 回答否定问句表示「不，恰恰相反」：Kommst du nicht mit? — Doch, ich komme mit!；doch 也可作语气词放句中加强（Das ist doch klar. 认读）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich rauche ___ mehr.",
+          "explain": "nicht mehr = 不再（动作停止）。",
+          "answer": "nicht"
+        },
+        {
+          "type": "fill",
+          "q": "Ich habe ___ Geld mehr.",
+          "explain": "kein … mehr = 没有…了（名词清零）。",
+          "answer": "kein"
+        },
+        {
+          "type": "choice",
+          "q": "「我还没弄完」是？",
+          "explain": "noch nicht = 还没；nicht mehr fertig 不是德语说法。",
+          "options": [
+            "Ich bin noch nicht fertig.",
+            "Ich bin nicht mehr fertig."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Er trinkt ___ Alkohol.（从不）",
+          "explain": "nie 是否定频率。",
+          "answer": "nie"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Kommst du nicht mit? — Doch!",
+          "q": "回答者的意思是？",
+          "explain": "Doch 推翻否定问句。",
+          "options": [
+            "不去",
+            "去"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "Hunger 是阳性，宾格 keinen。",
+          "options": [
+            "Hast du kein Hunger?",
+            "Hast du keinen Hunger?"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "否定具体时间点的到来，nicht 在句尾区。",
+          "tokens": [
+            "nicht",
+            "Er",
+            "kommt",
+            "heute"
+          ],
+          "answer": [
+            "Er",
+            "kommt",
+            "heute",
+            "nicht"
+          ]
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Ich habe keine Zeit mehr.",
+          "explain": "keine … mehr。",
+          "answer": "Ich habe keine Zeit mehr."
+        }
+      ]
+    },
+    "g-a1-10": {
+      "content": [
+        {
+          "label": "新增内容",
+          "text": "主表追加与格一行：meinem / meiner / meinem / meinen（其余人称类推：deinem…, seinem…, ihrem…, unserem…, eurem…, ihrem/Ihrem…），并在原表下加注：三格对照自查法——主格看「是谁的+主语」，宾格看宾语，与格看 helfen/geben/mit 的对象。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich fahre mit ___ Bruder.（我的）",
+          "explain": "mit + 与格，阳性 meinem。",
+          "answer": "meinem"
+        },
+        {
+          "type": "fill",
+          "q": "Sie gibt ___ Mutter einen Kuchen.（她的）",
+          "explain": "与格阴性 ihrer。",
+          "answer": "ihrer"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "helfen + 与格。",
+          "options": [
+            "Ich helfe meinen Vater.",
+            "Ich helfe meinem Vater."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Wir wohnen bei unseren Eltern.",
+          "display": "Wir wohnen bei ___ Eltern.",
+          "explain": "bei + 与格复数 unseren。",
+          "answer": "unseren"
+        },
+        {
+          "type": "fill",
+          "q": "Er dankt ___ Schwester.（他的）",
+          "explain": "danken + 与格阴性 seiner。",
+          "answer": "seiner"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "与格复数 seinen + 名词 -n。",
+          "tokens": [
+            "hilft",
+            "Er",
+            "Freunden",
+            "seinen"
+          ],
+          "answer": [
+            "Er",
+            "hilft",
+            "seinen",
+            "Freunden"
+          ]
+        }
+      ]
+    },
+    "g-a1-12": {
+      "content": [
+        {
+          "label": "新增内容",
+          "text": "主表追加与格一列全表：mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen；加注 ihm 一词三用（阳性/中性与格都是 ihm）、ihr 三用辨认法（主格「她」/与格「她」/物主「她的」，靠位置分，与 g-a1-13 互指）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich schreibe ___（她）einen Brief.",
+          "explain": "与格 ihr。",
+          "answer": "ihr"
+        },
+        {
+          "type": "choice",
+          "q": "„ihm\" 可以指？",
+          "explain": "ihm = 阳性/中性的与格。",
+          "options": [
+            "阳性与中性都可以",
+            "只有阴性"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Der Lehrer hilft ___（你们）。",
+          "explain": "与格 euch。",
+          "answer": "euch"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich gebe ihm das Buch.",
+          "q": "书给谁？",
+          "explain": "ihm 在此为阳性与格。",
+          "options": [
+            "给她",
+            "给他",
+            "给您"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Kommst du mit ___?（我们）",
+          "explain": "mit uns。",
+          "answer": "uns"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "正式场合 Ihnen 大写。",
+          "tokens": [
+            "danke",
+            "Ich",
+            "Ihnen"
+          ],
+          "answer": [
+            "Ich",
+            "danke",
+            "Ihnen"
+          ]
+        }
+      ]
+    },
+    "g-a1-14": {
+      "content": [
+        {
+          "label": "新增表（句子中段的排序）",
+          "text": "状语大顺序 时间 → 方式 → 地点（TeKaMoLo 在 A1 只取三件：Wann → Wie → Wo）：Ich fahre morgen（时间） mit dem Bus（方式） nach Berlin（地点）.；代词宾语紧贴动词：Ich sehe ihn heute.（代词比时间状语更靠前）；双代词顺序认读：Ich gebe es ihm.（宾格代词在与格代词前）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "时间—方式—地点。",
+          "tokens": [
+            "fahre",
+            "Ich",
+            "Bus",
+            "dem",
+            "mit",
+            "Berlin",
+            "nach",
+            "morgen"
+          ],
+          "answer": [
+            "Ich",
+            "fahre",
+            "morgen",
+            "mit",
+            "dem",
+            "Bus",
+            "nach",
+            "Berlin"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "代词宾语紧跟动词。",
+          "options": [
+            "Ich sehe heute ihn.",
+            "Ich sehe ihn heute."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "choice",
+          "q": "哪句的词序更自然？",
+          "explain": "时间状语靠前。",
+          "options": [
+            "Wir gehen heute ins Kino.",
+            "Wir gehen ins Kino heute."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich gebe es ihm.",
+          "q": "es 和 ihm 谁先出现？",
+          "explain": "双代词时宾格在前。",
+          "options": [
+            "es 先",
+            "ihm 先"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "宾格时间状语 jeden Morgen 在宾语前。",
+          "tokens": [
+            "trinkt",
+            "Er",
+            "Kaffee",
+            "Morgen",
+            "jeden"
+          ],
+          "answer": [
+            "Er",
+            "trinkt",
+            "jeden",
+            "Morgen",
+            "Kaffee"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "情态句的框架是？",
+          "explain": "变位动词第二位、不定式句尾的框架不变。",
+          "options": [
+            "Ich muss heute arbeiten.",
+            "Ich heute muss arbeiten."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "choice",
+          "q": "哪个词序对？",
+          "explain": "动词第二位是铁律。",
+          "options": [
+            "Sie lernt abends Deutsch.",
+            "Sie Deutsch lernt abends."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Ich rufe dich morgen an.",
+          "explain": "代词 dich 紧跟动词，an 在句尾。",
+          "answer": "Ich rufe dich morgen an."
+        }
+      ]
+    },
+    "g-a1-15": {
+      "content": [
+        {
+          "label": "新增表 1（welcher 主格/宾格）",
+          "text": "welcher（阳，宾格 welchen）/ welche（阴与复数不变）/ welches（中）——Welches Buch liest du? / Welchen Film siehst du?"
+        },
+        {
+          "label": "新增表 2（was für ein）",
+          "text": "Was für ein Auto hast du?（主格 ein/eine/ein；宾格 einen/eine/ein）——问「什么样的/哪一种」。"
+        },
+        {
+          "label": "新增问句三件",
+          "text": "Wie lange?（多久）/ Wie oft?（多常）/ Von wann bis wann?（从何时到何时）；Seit wann? 只认读。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "___ Film siehst du?（哪个，阳性宾格）",
+          "explain": "welchen。",
+          "answer": "Welchen"
+        },
+        {
+          "type": "fill",
+          "q": "Was für ___ Buch ist das?",
+          "explain": "中性主格 ein。",
+          "answer": "ein"
+        },
+        {
+          "type": "choice",
+          "q": "问时长用？",
+          "explain": "Wie lange 问持续时间。",
+          "options": [
+            "Wie lange?",
+            "Wie alt?"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Wie oft gehst du ins Kino?",
+          "q": "在问什么？",
+          "explain": "Wie oft = 多常。",
+          "options": [
+            "频率",
+            "时长",
+            "年龄"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "___ lange bleibst du?",
+          "explain": "Wie lange。",
+          "answer": "Wie"
+        },
+        {
+          "type": "order",
+          "q": "组问句",
+          "explain": "was für ein + 宾格主语序倒装。",
+          "tokens": [
+            "für",
+            "Was",
+            "Auto",
+            "ein",
+            "hast",
+            "du"
+          ],
+          "answer": [
+            "Was",
+            "für",
+            "ein",
+            "Auto",
+            "hast",
+            "du"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "Welche 的宾格（阴性）是？",
+          "explain": "阴性主宾同形 welche。",
+          "options": [
+            "welchen",
+            "welche"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Von wann bis wann ist Pause?",
+          "display": "___ wann bis wann ist Pause?",
+          "explain": "时段问句的固定开头。",
+          "answer": "Von"
+        }
+      ]
+    },
+    "g-a1-16": {
+      "content": [
+        {
+          "label": "新增内容",
+          "text": "宾格介词补 durch（穿过：durch den Park / durch die Stadt），宾格介词五人组到此齐：durch, für, gegen, ohne, um；时间介词补 ab（ab morgen 从明天起）/ bis（bis Montag）/ von … bis …；vor / nach 作时间介词带与格：vor dem Essen（饭前）、nach der Arbeit（下班后）、vor einer Woche（一周前）。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Wir gehen durch ___ Park.",
+          "explain": "durch + 宾格。",
+          "answer": "den"
+        },
+        {
+          "type": "choice",
+          "q": "哪个介词不带宾格？",
+          "explain": "mit 是与格介词。",
+          "options": [
+            "für",
+            "durch",
+            "mit"
+          ],
+          "answer": 2
+        },
+        {
+          "type": "fill",
+          "q": "___ der Arbeit trinke ich Kaffee.（下班后）",
+          "explain": "nach + 与格作时间。",
+          "answer": "Nach"
+        },
+        {
+          "type": "fill",
+          "q": "___ dem Essen wasche ich die Hände.（饭前）",
+          "explain": "vor + 与格。",
+          "answer": "Vor"
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Ab morgen lerne ich jeden Tag.",
+          "display": "___ morgen lerne ich jeden Tag.",
+          "explain": "ab + 时间起点。",
+          "answer": "Ab"
+        },
+        {
+          "type": "fill",
+          "q": "Ich bleibe ___ Freitag hier.（直到）",
+          "explain": "bis 单独用时直接跟时间名词。",
+          "answer": "bis"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "durch 引导的短语在中段。",
+          "tokens": [
+            "läuft",
+            "Er",
+            "Stadt",
+            "die",
+            "durch"
+          ],
+          "answer": [
+            "Er",
+            "läuft",
+            "durch",
+            "die",
+            "Stadt"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "„vor einer Woche\" 的意思？",
+          "explain": "vor + 与格时间 = …之前。",
+          "options": [
+            "一周后",
+            "一周前"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "g-a1-17": {
+      "content": [
+        {
+          "label": "新增表（方位动词对，认读 + 受控产出）",
+          "text": "位置用 stehen/liegen/sitzen/hängen（Das Buch liegt auf dem Tisch.），动作放用 stellen/legen/setzen/hängen（Ich lege das Buch auf den Tisch.）——A1 产出只要求 legen/stellen 各两句的公式替换。"
+        },
+        {
+          "label": "新增规则",
+          "text": "im = in dem、am = an dem、ans = an das、ins = in das 四个缩合必须熟。"
+        }
+      ],
+      "tables": [
+        {
+          "caption": "新增主表（九个二格介词全量）",
+          "headers": [
+            "介词",
+            "Wo（位置，与格）",
+            "Wohin（方向，宾格）"
+          ],
+          "rows": [
+            [
+              "an",
+              "an der Wand（墙上）",
+              "an die Wand（挂到墙上）"
+            ],
+            [
+              "auf",
+              "auf dem Tisch",
+              "auf den Tisch"
+            ],
+            [
+              "hinter",
+              "hinter dem Haus",
+              "hinter das Haus"
+            ],
+            [
+              "in",
+              "in der Schule",
+              "in die Schule"
+            ],
+            [
+              "neben",
+              "neben dem Bett",
+              "neben das Bett"
+            ],
+            [
+              "über",
+              "über dem Tisch（上方）",
+              "über den Tisch"
+            ],
+            [
+              "unter",
+              "unter dem Bett",
+              "unter das Bett"
+            ],
+            [
+              "vor",
+              "vor der Tür",
+              "vor die Tür"
+            ],
+            [
+              "zwischen",
+              "zwischen den Stühlen",
+              "zwischen die Stühle"
+            ]
+          ],
+          "hl": []
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Die Lampe hängt ___ der Decke.（an，与格位置）",
+          "explain": "Wo 问，与格。",
+          "answer": "an"
+        },
+        {
+          "type": "fill",
+          "q": "Er geht ___ die Küche.（in，方向）",
+          "explain": "Wohin 问，宾格：in die Küche。",
+          "answer": "in"
+        },
+        {
+          "type": "choice",
+          "q": "„auf dem Stuhl\" 回答的是？",
+          "explain": "与格 = 位置。",
+          "options": [
+            "Wo",
+            "Wohin"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Die Katze ist ___ dem Bett.（在床下）",
+          "explain": "unter + 与格表位置。",
+          "answer": "unter"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Stell die Flasche auf den Tisch!",
+          "q": "这是位置还是动作？",
+          "explain": "stellen + 宾格 = 摆放动作。",
+          "options": [
+            "位置（已经在）",
+            "动作（放过去）"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Das Bild hängt schon ___ Wand.（已经挂好了）",
+          "explain": "位置用 an + 与格：an der Wand。",
+          "answer": "an der"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "legen + 方向宾格。",
+          "tokens": [
+            "lege",
+            "Ich",
+            "Buch",
+            "das",
+            "Tisch",
+            "den",
+            "auf"
+          ],
+          "answer": [
+            "Ich",
+            "lege",
+            "das",
+            "Buch",
+            "auf",
+            "den",
+            "Tisch"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Er sitzt ___ mir.（在我旁边）",
+          "explain": "neben + 与格 mir。",
+          "answer": "neben"
+        },
+        {
+          "type": "choice",
+          "q": "zwischen 的位置说法？",
+          "explain": "位置用与格复数 den。",
+          "options": [
+            "zwischen den Stühlen",
+            "zwischen die Stühle"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Der Hund liegt unter dem Tisch.",
+          "explain": "liegen + unter 与格。",
+          "answer": "Der Hund liegt unter dem Tisch."
+        }
+      ]
+    },
+    "g-a1-18": {
+      "content": [
+        {
+          "label": "新增表（weil / dass 受控产出 + sondern 分工）",
+          "text": "weil 引导原因从句，动词去句尾：Ich lerne Deutsch, weil ich in Deutschland arbeiten will.（先只练带情态动词和一般现在时的公式句，每类 3 句）；dass 引导宾语从句：Ich glaube, dass Deutsch wichtig ist.；sondern 用在「否定前件、肯定后件」的纠正：nicht …, sondern …（Das ist kein Auto, sondern ein Bus.），aber 是普通转折不挑否定。"
+        }
+      ],
+      "tables": [],
+      "exercises": [
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "weil 把 will 踢到句尾。",
+          "tokens": [
+            "will",
+            "weil",
+            "lerne",
+            "Ich",
+            "ich",
+            "arbeiten",
+            "Deutsch",
+            "Deutschland",
+            "in"
+          ],
+          "answer": [
+            "Ich",
+            "lerne",
+            "Deutsch",
+            "weil",
+            "ich",
+            "in",
+            "Deutschland",
+            "arbeiten",
+            "will"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "从句动词在尾。",
+          "options": [
+            "Ich bleibe zu Hause, weil ich bin krank.",
+            "Ich bleibe zu Hause, weil ich krank bin."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Das ist nicht teuer, ___ billig.",
+          "explain": "否定 + 纠正用 sondern。",
+          "answer": "sondern"
+        },
+        {
+          "type": "fill",
+          "q": "Er ist müde, ___ er arbeitet weiter.",
+          "explain": "普通转折（前件不是否定）用 aber。",
+          "answer": "aber"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich denke, dass er heute kommt.",
+          "q": "dass 后面动词在哪？",
+          "explain": "dass 从句动词在尾。",
+          "options": [
+            "第二位",
+            "句尾"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "dass 从句。",
+          "tokens": [
+            "dass",
+            "glaube",
+            "Ich",
+            "wichtig",
+            "ist",
+            "Deutsch"
+          ],
+          "answer": [
+            "Ich",
+            "glaube",
+            "dass",
+            "Deutsch",
+            "wichtig",
+            "ist"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "___ lerne ich, dann esse ich, danach gehe ich spazieren.（首先）",
+          "explain": "zuerst—dann—danach 的顺序链。",
+          "answer": "Zuerst"
+        },
+        {
+          "type": "choice",
+          "q": "welche Konjunktion braucht den Verb-Endsatz? 题目中文化：哪个连词要求动词去句尾？",
+          "explain": "weil 是从属连词。",
+          "options": [
+            "und",
+            "weil",
+            "aber"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Sie bleibt zu Hause, weil sie krank ist.",
+          "display": "Sie bleibt zu Hause, ___ sie krank ist.",
+          "explain": "原因从句。",
+          "answer": "weil"
+        },
+        {
+          "type": "fill",
+          "q": "Nicht am Montag, ___ am Dienstag.（不是周一而是周二）",
+          "explain": "sondern 的典型纠正句。",
+          "answer": "sondern"
+        }
+      ]
+    },
+    "g-a1-06": {
+      "content": [
+        {
+          "label": "可分动词分词计数",
+          "text": "（可分动词的分词 ge- 插中间，原单元已讲：aufstehen→aufgestanden★、einkaufen→eingekauft、mitkommen→mitgekommen★，本表不重复；60 词的计数为四类表内 20+20+5+7 加可分常用 8 个：aufgestanden, eingekauft, mitgekommen, angefangen, eingeladen, aufgeräumt, ferngesehen, stattgefunden（认读））"
+        },
+        {
+          "label": "新增规则要点",
+          "text": "sein 助动词的名单一次给全：表示位移（gehen/fahren/kommen/laufen/fliegen/reisen）、状态变化（aufstehen/aufwachen/einschlafen/werden/sein 本人）、bleiben——口诀「动、变、bleiben，其余都用 haben」"
+        },
+        {
+          "label": "新增规则要点",
+          "text": "分词里的元音变化不用单独背：把「原形—分词」当一对词一起记（essen—gegessen），音频芯片三连读就是干这个的"
+        },
+        {
+          "label": "新增规则要点",
+          "text": "混合类只有一小撮高频词（bringen/denken/kennen/wissen），当例外整记"
+        },
+        {
+          "label": "新增规则要点",
+          "text": "无 ge- 的判定看词头：-ieren 结尾、不可分前缀（be-/ver-/er-/zer-/ent-/emp-/ge-/miss-）开头的，分词都不带 ge-"
+        }
+      ],
+      "tables": [
+        {
+          "caption": "过去分词的四种构成——先分类，再背词，60 个分词全在这张表里",
+          "headers": [
+            "类别",
+            "构成",
+            "分词清单（原形→分词，sein 动词标 ★）"
+          ],
+          "rows": [
+            [
+              "规则动词",
+              "ge- + 词干 + -t",
+              "machen→gemacht, lernen→gelernt, spielen→gespielt, arbeiten→gearbeitet, hören→gehört, sagen→gesagt, fragen→gefragt, kaufen→gekauft, leben→gelebt, wohnen→gewohnt, kochen→gekocht, tanzen→getanzt, lachen→gelacht, warten→gewartet, kosten→gekostet, öffnen→geöffnet, antworten→geantwortet, danken→gedankt, brauchen→gebraucht, suchen→gesucht"
+            ],
+            [
+              "不规则动词",
+              "ge- + 变词干 + -en",
+              "trinken→getrunken, essen→gegessen, sehen→gesehen, lesen→gelesen, fahren★→gefahren, gehen★→gegangen, kommen★→gekommen, schreiben→geschrieben, sprechen→gesprochen, helfen→geholfen, finden→gefunden, schlafen→geschlafen, laufen★→gelaufen, geben→gegeben, nehmen→genommen, sitzen→gesessen, liegen→gelegen, stehen→gestanden, bleiben★→geblieben, fliegen★→geflogen"
+            ],
+            [
+              "混合动词",
+              "变词干 + -t",
+              "bringen→gebracht, denken→gedacht, kennen→gekannt, wissen→gewusst, nennen→genannt（认读）"
+            ],
+            [
+              "无 ge-",
+              "三种情况：①-ieren 动词 ②不可分前缀动词 ③sein/haben 本身",
+              "studieren→studiert, reparieren→repariert, besuchen→besucht, verstehen→verstanden, beginnen→begonnen, sein→gewesen★, haben→gehabt"
+            ]
+          ],
+          "hl": []
+        }
+      ],
+      "exercises": [
+        {
+          "type": "classify",
+          "q": "把分词分进 haben / sein 两栏",
+          "groups": [
+            "sein",
+            "haben"
+          ],
+          "items": [
+            {
+              "text": "gefahren",
+              "group": 0
+            },
+            {
+              "text": "gegessen",
+              "group": 1
+            },
+            {
+              "text": "gegangen",
+              "group": 0
+            },
+            {
+              "text": "gemacht",
+              "group": 1
+            },
+            {
+              "text": "geblieben",
+              "group": 0
+            },
+            {
+              "text": "getrunken",
+              "group": 1
+            }
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Ich ___ gestern viel gelernt.",
+          "explain": "lernen 用 haben。",
+          "answer": "habe"
+        },
+        {
+          "type": "fill",
+          "q": "Wir ___ nach Berlin geflogen.",
+          "explain": "fliegen 是位移，用 sein。",
+          "answer": "sind"
+        },
+        {
+          "type": "choice",
+          "q": "essen 的分词？",
+          "explain": "gegessen。",
+          "options": [
+            "geesst",
+            "gegessen",
+            "geessen"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "bringen → ___",
+          "explain": "混合类 gebracht。",
+          "answer": "gebracht"
+        },
+        {
+          "type": "choice",
+          "q": "哪个分词不需要 ge-？",
+          "explain": "besuchen 是不可分前缀动词。",
+          "options": [
+            "gemacht",
+            "besucht",
+            "gekauft"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Er ist aufgestanden.",
+          "q": "助动词用的是？",
+          "explain": "aufstehen 是状态变化，用 sein。",
+          "options": [
+            "hat",
+            "ist"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Sie hat das Buch ___（lesen）。",
+          "explain": "gelesen。",
+          "answer": "gelesen"
+        },
+        {
+          "type": "choice",
+          "q": "wissen 的分词？",
+          "explain": "gewusst，混合类。",
+          "options": [
+            "gewisst",
+            "gewusst"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "sein 助动词 + 分词句尾。",
+          "tokens": [
+            "sind",
+            "Wir",
+            "gekommen",
+            "spät"
+          ],
+          "answer": [
+            "Wir",
+            "sind",
+            "spät",
+            "gekommen"
+          ]
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Ich habe lange gewartet.",
+          "display": "Ich habe lange ___.",
+          "explain": "warten 的分词 gewartet（词干以 t 结尾，多加 e）。",
+          "answer": "gewartet"
+        },
+        {
+          "type": "fill",
+          "q": "Er ___ zu Hause geblieben.",
+          "explain": "bleiben 永远用 sein。",
+          "answer": "ist"
+        }
+      ],
+      "audioChips": [
+        {
+          "group": "分词对",
+          "items": [
+            {
+              "label": "essen gegessen",
+              "speak": "essen, gegessen"
+            },
+            {
+              "label": "trinken getrunken",
+              "speak": "trinken, getrunken"
+            },
+            {
+              "label": "fahren gefahren",
+              "speak": "fahren, gefahren"
+            },
+            {
+              "label": "gehen gegangen",
+              "speak": "gehen, gegangen"
+            },
+            {
+              "label": "bringen gebracht",
+              "speak": "bringen, gebracht"
+            },
+            {
+              "label": "studieren studiert",
+              "speak": "studieren, studiert"
+            },
+            {
+              "label": "besuchen besucht",
+              "speak": "besuchen, besucht"
+            },
+            {
+              "label": "bleiben geblieben",
+              "speak": "bleiben, geblieben"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "newUnits": [
+    {
+      "id": "g-a1-26",
+      "level": "A1",
+      "order": 22,
+      "title": "指示与不定代词",
+      "titleDe": "dieser, man, jemand & Co.",
+      "table": {
+        "caption": "dieser「这一个」主格/宾格——词尾和定冠词同款",
+        "headers": [
+          "",
+          "阳性",
+          "阴性",
+          "中性",
+          "复数"
+        ],
+        "rows": [
+          [
+            "主格",
+            "dieser",
+            "diese",
+            "dieses",
+            "diese"
+          ],
+          [
+            "宾格",
+            "diesen",
+            "diese",
+            "dieses",
+            "diese"
+          ]
+        ],
+        "hl": []
+      },
+      "extraTables": [
+        {
+          "caption": "不定代词五人组",
+          "headers": [
+            "词",
+            "用法",
+            "例句"
+          ],
+          "rows": [
+            [
+              "man",
+              "泛指「人们/有人」，动词用 er 形式",
+              "Man spricht hier Deutsch."
+            ],
+            [
+              "jemand / niemand",
+              "有人 / 没人（主格产出；宾格 jemanden / niemanden 认读）",
+              "Jemand ist da. / Niemand versteht das."
+            ],
+            [
+              "etwas / nichts",
+              "某事某物 / 什么都不",
+              "Möchtest du etwas trinken? / Ich verstehe nichts."
+            ],
+            [
+              "alles / alle",
+              "一切 / 所有人",
+              "Alles ist gut. / Alle kommen mit."
+            ],
+            [
+              "jeder",
+              "每一个（主格 jeder/jede/jedes 认读为主）",
+              "Jeder braucht Zeit."
+            ]
+          ],
+          "hl": []
+        }
+      ],
+      "rules": [
+        "dieser 指向近处或刚提到的东西，常和 jener（那个，认读）成对；man 的句子没有具体主语，翻译常省主语；nichts 和 niemand 本身带否定，同句不再加 nicht。"
+      ],
+      "examples": [
+        {
+          "de": "Dieser Zug ist neu, dieser Bus ist alt.",
+          "zh": "这列火车是新的，这辆公交是旧的。"
+        },
+        {
+          "de": "Man kann hier gut essen.",
+          "zh": "这里吃得很好。"
+        },
+        {
+          "de": "Ich habe nichts gehört.",
+          "zh": "我什么都没听见。"
+        }
+      ],
+      "pitfalls": [
+        "diesen 只用在阳性宾格",
+        "man 后动词是第三人称单数（man spricht，不是 man sprechen）。"
+      ],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "___ Mann ist mein Lehrer.",
+          "explain": "阳性主格。",
+          "answer": "Dieser"
+        },
+        {
+          "type": "fill",
+          "q": "Ich kenne ___ Mann nicht.",
+          "explain": "阳性宾格。",
+          "answer": "diesen"
+        },
+        {
+          "type": "choice",
+          "q": "man 后面动词用？",
+          "explain": "man 按 er conjugieren。",
+          "options": [
+            "sprechen (wir 形）",
+            "spricht"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "___ ist an der Tür.（有人）",
+          "explain": "jemand 有人。",
+          "answer": "Jemand"
+        },
+        {
+          "type": "choice",
+          "q": "「没人知道」是？",
+          "explain": "niemand 自带否定。",
+          "options": [
+            "Niemand weiß das.",
+            "Jemand weiß nicht das."
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Möchtest du etwas essen?",
+          "display": "Möchtest du ___ essen?",
+          "explain": "etwas 某物。",
+          "answer": "etwas"
+        },
+        {
+          "type": "fill",
+          "q": "Ich verstehe ___.（什么都不）",
+          "explain": "nichts 不再加 nicht。",
+          "answer": "nichts"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "man + spricht。",
+          "tokens": [
+            "spricht",
+            "Man",
+            "Deutsch",
+            "hier"
+          ],
+          "answer": [
+            "Man",
+            "spricht",
+            "hier",
+            "Deutsch"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "dieses 对应哪个名词？",
+          "explain": "dieses 是中性。",
+          "options": [
+            "der Mann",
+            "das Kind",
+            "die Frau"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "___ kommen heute.（所有人）",
+          "explain": "alle 所有人。",
+          "answer": "Alle"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Alles ist in Ordnung.",
+          "q": "意思？",
+          "explain": "alles 一切，in Ordnung 没问题。",
+          "options": [
+            "一切都好",
+            "没人来",
+            "有人吗"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "___ Student braucht ein Buch.（每一个，主格阳性认读）",
+          "explain": "jeder。",
+          "answer": "Jeder"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "nichts 已是否定。",
+          "options": [
+            "Ich habe nichts nicht gehört.",
+            "Ich habe nichts gehört."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "dieser + 阳性主格。",
+          "tokens": [
+            "Zug",
+            "Dieser",
+            "neu",
+            "ist"
+          ],
+          "answer": [
+            "Dieser",
+            "Zug",
+            "ist",
+            "neu"
+          ]
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Niemand ist zu Hause.",
+          "explain": "niemand 没人。",
+          "answer": "Niemand ist zu Hause."
+        }
+      ],
+      "reading": {
+        "text": "In meiner Klasse sind zwölf Studenten. Jeder lernt Deutsch. Man spricht viel, man lacht viel. Niemand ist allein. Alles ist neu, aber alles ist gut.",
+        "questions": [
+          {
+            "q": "Wie viele Studenten sind in der Klasse?",
+            "options": [
+              "zehn",
+              "zwölf",
+              "zwanzig"
+            ],
+            "answer": 1,
+            "explain": "zwölf。"
+          },
+          {
+            "q": "Wie ist alles?",
+            "options": [
+              "schlecht",
+              "neu und gut",
+              "alt"
+            ],
+            "answer": 1,
+            "explain": "neu, aber gut。"
+          }
+        ]
+      },
+      "writing": {
+        "task": "用 dieser 写 2 句介绍你身边的东西，再用 man 写 1 句，用 nichts 或 niemand 写 1 句。",
+        "sample": "范文：Dieses Handy ist neu. Dieser Stuhl ist alt. Man lernt hier schnell. Niemand spricht Chinesisch."
+      }
+    },
+    {
+      "id": "g-a1-24",
+      "level": "A1",
+      "order": 23,
+      "title": "形容词与比较",
+      "titleDe": "Adjektive & Vergleiche",
+      "table": {
+        "caption": "表语形容词常用对子——放在 ist 后面不加词尾，先把这一批焊死",
+        "headers": [
+          "肯定",
+          "反义",
+          "肯定",
+          "反义"
+        ],
+        "rows": [
+          [
+            "groß 大",
+            "klein 小",
+            "alt 老/旧",
+            "neu 新 / jung 年轻"
+          ],
+          [
+            "gut 好",
+            "schlecht 差",
+            "schnell 快",
+            "langsam 慢"
+          ],
+          [
+            "teuer 贵",
+            "billig 便宜",
+            "leicht 容易/轻",
+            "schwer 难/重"
+          ],
+          [
+            "heiß 热",
+            "kalt 冷",
+            "warm 暖",
+            "kühl 凉"
+          ],
+          [
+            "gesund 健康",
+            "krank 病",
+            "müde 累",
+            "wach 醒/精神（认读）"
+          ],
+          [
+            "lang 长",
+            "kurz 短",
+            "hoch 高",
+            "niedrig 低（认读）"
+          ],
+          [
+            "schön 美",
+            "hässlich 丑（认读）",
+            "laut 吵",
+            "leise 安静"
+          ],
+          [
+            "stark 强",
+            "schwach 弱",
+            "voll 满",
+            "leer 空"
+          ]
+        ],
+        "hl": []
+      },
+      "extraTables": [
+        {
+          "caption": "形容词在名词前要戴词尾——A1 只管主格和宾格，看冠词类型查表",
+          "headers": [
+            "",
+            "阳性",
+            "阴性",
+            "中性",
+            "复数"
+          ],
+          "rows": [
+            [
+              "der 后（主/宾）",
+              "der große / den großen Tisch",
+              "die große Stadt",
+              "das große Haus",
+              "die großen Häuser"
+            ],
+            [
+              "ein 后 主格",
+              "ein großer Tisch",
+              "eine große Stadt",
+              "ein großes Haus",
+              "—"
+            ],
+            [
+              "ein 后 宾格",
+              "einen großen Tisch",
+              "eine große Stadt",
+              "ein großes Haus",
+              "—"
+            ]
+          ],
+          "hl": []
+        }
+      ],
+      "rules": [
+        "als 后面不加变化，先把「A ist … als B」句型练熟；am besten 这类最高级整体当副词用（Es schmeckt am besten. 这道菜最好吃）。"
+      ],
+      "examples": [
+        {
+          "de": "Der große Tisch ist teuer.",
+          "zh": "这张大桌子很贵。"
+        },
+        {
+          "de": "Ich kaufe einen kleinen Stuhl.",
+          "zh": "我买一把小椅子。"
+        },
+        {
+          "de": "Im Sommer ist es wärmer als im Winter.",
+          "zh": "夏天比冬天暖和。"
+        }
+      ],
+      "pitfalls": [
+        "表语位置不加词尾（Der Tisch ist groß. 不是 großes）",
+        "比较级后用 als 不用 wie（wie 是「和…一样」：so groß wie）。"
+      ],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Der Tisch ist ___.（groß，表语）",
+          "explain": "表语不加尾。",
+          "answer": "groß"
+        },
+        {
+          "type": "fill",
+          "q": "Ich kaufe einen ___ Tisch.（groß）",
+          "explain": "einen 后弱尾 -en。",
+          "answer": "großen"
+        },
+        {
+          "type": "choice",
+          "q": "ein + 中性主格：___ Haus",
+          "explain": "ein großes Haus。",
+          "options": [
+            "große",
+            "großes"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Die ___ Stadt ist alt.（groß，主格）",
+          "explain": "die 后 -e。",
+          "answer": "große"
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Sie hat ein kleines Kind.",
+          "display": "Sie hat ein ___ Kind.",
+          "explain": "ein + 中性宾格 -es。",
+          "answer": "kleines"
+        },
+        {
+          "type": "choice",
+          "q": "gut 的比较级？",
+          "explain": "gut–besser–am besten 不规则。",
+          "options": [
+            "guter",
+            "besser"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Berlin ist ___ als München.（groß，比较级）",
+          "explain": "größer als。",
+          "answer": "größer"
+        },
+        {
+          "type": "choice",
+          "q": "「和…一样大」是？",
+          "explain": "同级比较用 wie。",
+          "options": [
+            "so groß als",
+            "so groß wie"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "比较级 + als。",
+          "tokens": [
+            "ist",
+            "Auto",
+            "Mein",
+            "als",
+            "schneller",
+            "dein",
+            "Auto"
+          ],
+          "answer": [
+            "Mein",
+            "Auto",
+            "ist",
+            "schneller",
+            "als",
+            "dein",
+            "Auto"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Ich trinke ___ gern Wasser.（最喜欢喝水——最高级）",
+          "explain": "gern–lieber–am liebsten。",
+          "answer": "am liebsten"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Das Wetter ist heute besser.",
+          "q": "今天天气怎么样？",
+          "explain": "besser 更好。",
+          "options": [
+            "更差了",
+            "更好了"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Er sucht eine ___ Wohnung.（klein，宾格阴性）",
+          "explain": "eine 后宾格阴性 -e。",
+          "answer": "kleine"
+        },
+        {
+          "type": "choice",
+          "q": "hoch 的最高级？",
+          "explain": "am höchsten（c 脱落）。",
+          "options": [
+            "am hochsten",
+            "am höchsten"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Das ist das ___ Buch.（gut，定冠词后最高级作定语——认读题）",
+          "explain": "das beste Buch。",
+          "answer": "beste"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Mein Bruder ist größer als ich.",
+          "explain": "größer als ich。",
+          "answer": "Mein Bruder ist größer als ich."
+        }
+      ],
+      "reading": {
+        "text": "Meine Wohnung ist klein, aber neu. Das Zimmer ist groß und warm. Mein Bruder hat eine größere Wohnung, aber sie ist alt und kalt. Ich mag meine Wohnung lieber.",
+        "questions": [
+          {
+            "q": "Wie ist meine Wohnung?",
+            "options": [
+              "groß und alt",
+              "klein und neu"
+            ],
+            "answer": 1,
+            "explain": "klein, aber neu。"
+          },
+          {
+            "q": "Was ist größer?",
+            "options": [
+              "meine Wohnung",
+              "die Wohnung vom Bruder"
+            ],
+            "answer": 1,
+            "explain": "eine größere Wohnung。"
+          }
+        ]
+      },
+      "writing": {
+        "task": "比较两样东西写 3 句（你的手机和电脑 / 夏天和冬天），每句用比较级，一句用 am besten/liebsten。",
+        "sample": "范文：Mein Handy ist kleiner als mein Computer. Der Sommer ist wärmer als der Winter. Ich mag den Sommer am liebsten."
+      },
+      "extensionContent": [
+        "附加表 2（caption：比较级与最高级）：规则 比较级 -er、最高级 am …-(e)sten；不规则全表：gut–besser–am besten、gern–lieber–am liebsten、viel–mehr–am meisten、hoch–höher–am höchsten、nah–näher–am nächsten、groß–größer–am größten；比较句用 als：Mein Auto ist schneller als dein Auto."
+      ]
+    },
+    {
+      "id": "g-a1-23",
+      "level": "A1",
+      "order": 25,
+      "title": "反身动词入门",
+      "titleDe": "Reflexive Verben",
+      "table": {
+        "caption": "反身代词宾格全表——动作回到自己身上时多出来的那个词",
+        "headers": [
+          "主语",
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "Sie/sie（复数）"
+        ],
+        "rows": [
+          [
+            "反身代词",
+            "mich",
+            "dich",
+            "sich",
+            "uns",
+            "euch",
+            "sich"
+          ]
+        ],
+        "hl": []
+      },
+      "extraTables": [
+        {
+          "caption": "日常生活反身动词清单——晨间 routine 占一半",
+          "headers": [
+            "动词",
+            "例句"
+          ],
+          "rows": [
+            [
+              "sich waschen",
+              "Ich wasche mich am Morgen."
+            ],
+            [
+              "sich duschen",
+              "Er duscht sich schnell."
+            ],
+            [
+              "sich anziehen（可分）",
+              "Sie zieht sich an."
+            ],
+            [
+              "sich ausziehen（可分）",
+              "Zieh dich aus!（认读语境：换衣/就医）"
+            ],
+            [
+              "sich setzen",
+              "Setz dich bitte!"
+            ],
+            [
+              "sich hinlegen（可分，认读）",
+              "Ich lege mich hin."
+            ],
+            [
+              "sich freuen（+ auf/über，细讲 A2）",
+              "Wir freuen uns."
+            ],
+            [
+              "sich treffen",
+              "Wir treffen uns um acht Uhr."
+            ],
+            [
+              "sich beeilen（认读）",
+              "Beeil dich!"
+            ],
+            [
+              "sich interessieren für（认读）",
+              "Er interessiert sich für Musik."
+            ]
+          ],
+          "hl": []
+        }
+      ],
+      "rules": [
+        "反身代词站变位动词后（Ich wasche mich.）；可分 + 反身叠加时三件套顺序是 动词—反身—前缀：Ich ziehe mich an.；sich 本身对 er/sie/es、Sie 和复数 sie 四处通用。"
+      ],
+      "examples": [
+        {
+          "de": "Ich dusche mich und ziehe mich an.",
+          "zh": "我冲个澡然后穿衣。"
+        },
+        {
+          "de": "Wir treffen uns morgen.",
+          "zh": "我们明天见面。"
+        },
+        {
+          "de": "Setz dich! Wir essen jetzt.",
+          "zh": "坐下！我们现在吃饭。"
+        }
+      ],
+      "pitfalls": [
+        "mich/dich 别和 mir/dir 混：洗、穿这类动作宾语用 mich/dich（宾格）",
+        "sich treffen 的 uns 不是「我们自己」而是「彼此」，句意是见面。"
+      ],
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich wasche ___.",
+          "explain": "ich 的反身是 mich。",
+          "answer": "mich"
+        },
+        {
+          "type": "fill",
+          "q": "Er duscht ___.",
+          "explain": "er 用 sich。",
+          "answer": "sich"
+        },
+        {
+          "type": "choice",
+          "q": "wir 的反身代词？",
+          "explain": "wir→uns。",
+          "options": [
+            "uns",
+            "sich",
+            "euch"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "动词—反身—前缀。",
+          "tokens": [
+            "mich",
+            "Ich",
+            "an",
+            "ziehe"
+          ],
+          "answer": [
+            "Ich",
+            "ziehe",
+            "mich",
+            "an"
+          ]
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Wir treffen uns um acht Uhr.",
+          "display": "Wir treffen ___ um acht Uhr.",
+          "explain": "treffen uns 见面。",
+          "answer": "uns"
+        },
+        {
+          "type": "fill",
+          "q": "Setz ___ bitte!（请坐）",
+          "explain": "sich setzen 对 du 的命令：Setz dich!",
+          "answer": "dich"
+        },
+        {
+          "type": "choice",
+          "q": "「Beeil dich!」的意思？",
+          "explain": "sich beeilen 赶快。",
+          "options": [
+            "坐下",
+            "快点",
+            "慢点"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Sie（她）freut ___.",
+          "explain": "sie 单数用 sich。",
+          "answer": "sich"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich interessiere mich für Musik.",
+          "q": "他的爱好方向？",
+          "explain": "sich interessieren für + 宾格。",
+          "options": [
+            "运动",
+            "音乐",
+            "电影"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "freuen 的反身 uns。",
+          "tokens": [
+            "uns",
+            "Wir",
+            "freuen"
+          ],
+          "answer": [
+            "Wir",
+            "freuen",
+            "uns"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Ihr wascht ___.",
+          "explain": "ihr→euch。",
+          "answer": "euch"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "反身代词紧跟变位动词。",
+          "options": [
+            "Ich ziehe an mich.",
+            "Ich ziehe mich an."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Kinder, setzt ___!",
+          "explain": "ihr 的命令式 + euch。",
+          "answer": "euch"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Er wäscht sich die Hände.",
+          "explain": "反身 + 具体部位用定冠词（die Hände）。",
+          "answer": "Er wäscht sich die Hände."
+        },
+        {
+          "type": "choice",
+          "q": "sich hinlegen 的意思是？",
+          "explain": "hinlegen 躺下。",
+          "options": [
+            "站起来",
+            "躺下"
+          ],
+          "answer": 1
+        }
+      ],
+      "reading": {
+        "text": "Am Morgen stehe ich um sieben Uhr auf. Ich wasche mich, dusche mich und ziehe mich an. Dann frühstücke ich mit meiner Schwester. Wir freuen uns auf den Tag.",
+        "questions": [
+          {
+            "q": "Was macht er zuerst nach dem Aufstehen?",
+            "options": [
+              "Er frühstückt.",
+              "Er wäscht sich."
+            ],
+            "answer": 1,
+            "explain": "先 wasche mich。"
+          },
+          {
+            "q": "Mit wem frühstückt er?",
+            "options": [
+              "mit seiner Mutter",
+              "mit seiner Schwester"
+            ],
+            "answer": 1,
+            "explain": "mit meiner Schwester。"
+          }
+        ]
+      },
+      "writing": {
+        "task": "写你的晨间 routine 4 句，至少用两个反身动词。",
+        "sample": "范文：Ich stehe um halb acht auf. Ich wasche mich und ziehe mich schnell an. Dann trinke ich einen Kaffee. Ich freue mich auf die Arbeit."
+      }
+    },
+    {
+      "id": "g-a1-25",
+      "level": "A1",
+      "order": 27,
+      "title": "副词与小品词",
+      "titleDe": "Adverbien: Zeit, Ort & Grad",
+      "table": {
+        "caption": "副词五大家族——按问题分类，句子里各就各位",
+        "headers": [
+          "家族",
+          "成员（按强度/顺序排）"
+        ],
+        "rows": [
+          [
+            "时间",
+            "heute, morgen, gestern, jetzt, bald, sofort, morgens, abends"
+          ],
+          [
+            "频率",
+            "immer（100%) → oft → manchmal → selten → nie（0%)"
+          ],
+          [
+            "顺序",
+            "zuerst, dann, danach, zuletzt"
+          ],
+          [
+            "地点/方向",
+            "hier, da/dort, links, rechts, geradeaus, oben, unten, draußen, drinnen, weg"
+          ],
+          [
+            "程度/小品词",
+            "sehr, zu（太）, auch, nur, schon, noch, erst（认读）, vielleicht"
+          ]
+        ],
+        "hl": []
+      },
+      "extraTables": [],
+      "rules": [
+        "频率副词站动词后、宾语前（Ich trinke oft Kaffee.）；nie 本身带否定，句中不再加 nicht；schon = 已经（Ich bin schon fertig.)，noch = 还（Ich lerne noch.)，这一对管「时间进度」，是小品词里最高频的；zu + 形容词 = 太…了（zu teuer）。"
+      ],
+      "examples": [
+        {
+          "de": "Ich stehe morgens um sieben auf.",
+          "zh": "我每天早上七点起床。"
+        },
+        {
+          "de": "Zuerst lerne ich, dann schlafe ich.",
+          "zh": "我先学习，然后睡觉。"
+        },
+        {
+          "de": "Der Kaffee ist zu heiß.",
+          "zh": "咖啡太烫了。"
+        }
+      ],
+      "pitfalls": [
+        "morgen（明天，小写副词）和 der Morgen（早晨，名词大写）同音不同义，看大小写和位置分",
+        "oft 别放句首硬译「经常我…」德语要 Ich trinke oft … 或 Oft trinke ich …（放句首时动词仍第二位）。"
+      ],
+      "exercises": [
+        {
+          "type": "order",
+          "q": "频率从高到低把词归进顺序链——本题按 order 实现：tokens [nie, immer, manchmal, oft, selten]",
+          "explain": "100% 到 0% 的频率梯。",
+          "tokens": [
+            "nie",
+            "immer",
+            "manchmal",
+            "oft",
+            "selten"
+          ],
+          "answer": [
+            "immer",
+            "oft",
+            "manchmal",
+            "selten",
+            "nie"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Ich trinke ___ Kaffee.（经常）",
+          "explain": "频率副词站动词后。",
+          "answer": "oft"
+        },
+        {
+          "type": "choice",
+          "q": "schon 和 noch 哪句对？",
+          "explain": "还没结束用 noch。",
+          "options": [
+            "Ich lerne schon.（我还在学）",
+            "Ich lerne noch.（我还在学）"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Der Film ist ___ lang.（太）",
+          "explain": "zu + 形容词。",
+          "answer": "zu"
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich bin schon fertig.",
+          "q": "状态是？",
+          "explain": "schon fertig 已经完成。",
+          "options": [
+            "还没做完",
+            "已经做完了"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "顺序副词开头时动词仍第二位（倒装）。",
+          "tokens": [
+            "danach",
+            "Zuerst",
+            "ich",
+            "lerne",
+            "esse",
+            "ich"
+          ],
+          "answer": [
+            "Zuerst",
+            "lerne",
+            "ich",
+            "danach",
+            "esse",
+            "ich"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Geh ___!（一直往前走）",
+          "explain": "问路方向词。",
+          "answer": "geradeaus"
+        },
+        {
+          "type": "choice",
+          "q": "„draußen\" 的反义？",
+          "explain": "外面/里面。",
+          "options": [
+            "oben",
+            "drinnen"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Er kommt vielleicht morgen.",
+          "display": "Er kommt ___ morgen.",
+          "explain": "vielleicht 也许。",
+          "answer": "vielleicht"
+        },
+        {
+          "type": "fill",
+          "q": "Sie singt ___ gut.（非常）",
+          "explain": "sehr + 形容词。",
+          "answer": "sehr"
+        },
+        {
+          "type": "choice",
+          "q": "哪个词是「从不」？",
+          "explain": "nie = 0%。",
+          "options": [
+            "selten",
+            "nie",
+            "manchmal"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "___ gehen wir nach Hause.（最后）",
+          "explain": "顺序链的收尾。",
+          "answer": "Zuletzt"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Ich habe nur fünf Euro.",
+          "explain": "nur 只有。",
+          "answer": "Ich habe nur fünf Euro."
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "时间副词 abends + 可分动词框架。",
+          "tokens": [
+            "abends",
+            "Ich",
+            "fern",
+            "sehe"
+          ],
+          "answer": [
+            "Ich",
+            "sehe",
+            "abends",
+            "fern"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "morgen Abend 的意思是？",
+          "explain": "morgen 是明天（回指 T2）。",
+          "options": [
+            "今天早上",
+            "明天晚上"
+          ],
+          "answer": 1
+        }
+      ],
+      "reading": {
+        "text": "Mein Tag: Zuerst stehe ich um sieben auf. Dann frühstücke ich schnell. Ich arbeite oft bis fünf Uhr. Abends lerne ich Deutsch. Ich bin selten müde. Zuletzt gehe ich um elf ins Bett.",
+        "questions": [
+          {
+            "q": "Was macht er abends?",
+            "options": [
+              "Er arbeitet.",
+              "Er lernt Deutsch."
+            ],
+            "answer": 1,
+            "explain": "abends lerne ich Deutsch。"
+          },
+          {
+            "q": "Wie oft ist er müde?",
+            "options": [
+              "immer",
+              "selten"
+            ],
+            "answer": 1,
+            "explain": "selten müde。"
+          }
+        ]
+      },
+      "writing": {
+        "task": "用 zuerst / dann / danach / zuletzt 写你一天的 4 句流程，再用一个频率副词补 1 句。",
+        "sample": "范文：Zuerst stehe ich um halb acht auf. Dann fahre ich zur Arbeit. Danach lerne ich eine Stunde Deutsch. Zuletzt sehe ich einen Film. Ich gehe oft spazieren."
+      }
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "c1",
+      "title": "ihn 还是 ihm（宾格人称 vs 与格人称）",
+      "intro": "对照句：Ich sehe ihn.（我看见他——宾格）/ Ich helfe ihm.（我帮他——与格）。判定法：先看动词——sehen/kaufen/kennen 类要宾格，helfen/danken/geben（给某人）类要与格。",
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich sehe ___ jeden Tag.",
+          "explain": "sehen + 宾格。",
+          "answer": "ihn"
+        },
+        {
+          "type": "fill",
+          "q": "Ich helfe ___ gern.",
+          "explain": "helfen + 与格。",
+          "answer": "ihm"
+        },
+        {
+          "type": "choice",
+          "q": "Ich gebe ___ das Buch.",
+          "explain": "geben 的「给某人」是与格。",
+          "options": [
+            "ihn",
+            "ihm"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Ich kenne ihn nicht.",
+          "q": "代词是？",
+          "explain": "kennen + 宾格 ihn。",
+          "options": [
+            "ihn",
+            "ihm"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Sie dankt ___.",
+          "explain": "danken + 与格（此处指男性对象）。",
+          "answer": "ihm"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "zeigen 给某人看，与格在前。",
+          "tokens": [
+            "ihm",
+            "Ich",
+            "zeige",
+            "Stadt",
+            "die"
+          ],
+          "answer": [
+            "Ich",
+            "zeige",
+            "ihm",
+            "die",
+            "Stadt"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Wir treffen ___ um acht.",
+          "explain": "treffen + 宾格。",
+          "answer": "ihn"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Hilfst du ihm?",
+          "explain": "helfen 的与格别听成 ihn。",
+          "answer": "Hilfst du ihm?"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "in 方向还是位置（Wohin 宾格 vs Wo 与格）",
+      "intro": "对照句：Ich gehe in die Schule.（去学校，方向）/ Ich bin in der Schule.（在学校，位置）。",
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Er fährt in ___ Stadt.",
+          "explain": "方向（Wohin）用宾格 die。",
+          "answer": "die"
+        },
+        {
+          "type": "fill",
+          "q": "Er ist in ___ Stadt.",
+          "explain": "位置用与格 der。",
+          "answer": "der"
+        },
+        {
+          "type": "choice",
+          "q": "„auf den Tisch\" 是？",
+          "explain": "宾格表方向。",
+          "options": [
+            "位置",
+            "方向（放上去）"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_fill",
+          "audio": "Das Kind läuft in den Garten.",
+          "display": "Das Kind läuft in ___ Garten.",
+          "explain": "laufen 是移动，方向宾格。",
+          "answer": "den"
+        },
+        {
+          "type": "fill",
+          "q": "Wir wohnen ___ Berlin.",
+          "explain": "in + 城市名直接用。",
+          "answer": "in（格不变化，城市名无冠词）"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "ins 是 in das 的口语缩合形，已在 P6 与 g-a1-17 教过。",
+          "tokens": [
+            "gehe",
+            "Ich",
+            "Kino",
+            "das",
+            "in"
+          ],
+          "answer": [
+            "Ich",
+            "gehe",
+            "in",
+            "das",
+            "Kino"
+          ]
+        },
+        {
+          "type": "choice",
+          "q": "哪句是位置？",
+          "explain": "kochen 是原地活动，位置与格。",
+          "options": [
+            "Sie geht in die Küche.",
+            "Sie kocht in der Küche."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Er stellt die Lampe auf den Tisch.",
+          "explain": "stellen 摆放，方向。",
+          "answer": "Er stellt die Lampe auf den Tisch."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "kein 还是 nicht",
+      "intro": "对照句：Ich habe kein Auto.（否定名词）/ Ich komme heute nicht.（否定动词/全句）。判定三步在 g-a1-09，本组只打混编实战。",
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Das ist ___ richtig.",
+          "explain": "否定形容词。",
+          "answer": "nicht"
+        },
+        {
+          "type": "fill",
+          "q": "Ich trinke ___ Bier.",
+          "explain": "否定光杆名词。",
+          "answer": "kein"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "Zeit 是名词，用 keine。",
+          "options": [
+            "Er hat nicht Zeit.",
+            "Er hat keine Zeit."
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Sie singt nicht gut.",
+          "q": "否定的对象是？",
+          "explain": "nicht 否定 gut。",
+          "options": [
+            "唱歌这件事的质量",
+            "一个名词"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "Problem 是名词，用 kein 否定。",
+          "tokens": [
+            "kein",
+            "ist",
+            "Das",
+            "Problem"
+          ],
+          "answer": [
+            "Das",
+            "ist",
+            "kein",
+            "Problem"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Ich verstehe das ___.",
+          "explain": "否定动词 verstehen 的宾语是具体所指（das），用 nicht 且在句尾。",
+          "answer": "nicht"
+        },
+        {
+          "type": "fill",
+          "q": "Wir haben ___ Lehrer heute.（今天没有老师来——否定存在）",
+          "explain": "keinen，阳性宾格。",
+          "answer": "keinen"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Ich mag keinen Kaffee.",
+          "explain": "keinen 否定名词宾语。",
+          "answer": "Ich mag keinen Kaffee."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "kennen 还是 wissen",
+      "intro": "对照句：Ich kenne den Mann.（认识某人/熟悉某地，+ 宾格名词）/ Ich weiß die Antwort. / Ich weiß, dass er kommt.（知道事实，常接 dass/疑问从句）。",
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "___ du diese Stadt?（熟悉）",
+          "explain": "kennen + 地点。",
+          "answer": "Kennst"
+        },
+        {
+          "type": "fill",
+          "q": "___ du, wann der Zug kommt?",
+          "explain": "wissen + 从句。",
+          "answer": "Weißt"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "事实类答案用 wissen 更标准。",
+          "options": [
+            "Ich kenne die Antwort nicht.（可接受口语）",
+            "Ich weiß die Antwort nicht.（标准）"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Wir kennen den Lehrer gut.",
+          "q": "意思？",
+          "explain": "kennen 是认识、熟悉。",
+          "options": [
+            "我们知道老师",
+            "我们认识老师（很熟）"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Er ___ meine Adresse.（知道，事实）",
+          "explain": "weiß。",
+          "answer": "weiß"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "wissen 的否定句。",
+          "tokens": [
+            "weiß",
+            "Ich",
+            "nicht",
+            "das"
+          ],
+          "answer": [
+            "Ich",
+            "weiß",
+            "das",
+            "nicht"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "___ ihr den Weg?（你们知道路吗——事实）",
+          "explain": "ihr 的 wissen 形式 wisst。",
+          "answer": "Wisst"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Kennst du Berlin?",
+          "explain": "对城市的熟悉用 kennen。",
+          "answer": "Kennst du Berlin?"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "title": "完成时助动词 sein 还是 haben",
+      "intro": "对照句：Ich habe gegessen.（多数动词 haben）/ Ich bin gefahren.（位移/变化用 sein）。判定口诀回指 g-a1-06：动、变、bleiben。",
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Wir ___ geschlafen.",
+          "explain": "schlafen 用 haben。",
+          "answer": "haben"
+        },
+        {
+          "type": "fill",
+          "q": "Er ___ nach Hause gegangen.",
+          "explain": "gehen 用 sein。",
+          "answer": "ist"
+        },
+        {
+          "type": "choice",
+          "q": "welches Hilfsverb: „bleiben\"",
+          "explain": "bleiben 永远 sein。",
+          "options": [
+            "hat",
+            "ist"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Sie ist aufgewacht.",
+          "q": "用的是？",
+          "explain": "状态变化 aufwachen。",
+          "options": [
+            "hat",
+            "ist"
+          ],
+          "answer": 1
+        },
+        {
+          "type": "fill",
+          "q": "Ich ___ das Buch gelesen.",
+          "explain": "lesen 用 haben。",
+          "answer": "habe"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "kommen 用 sein。",
+          "tokens": [
+            "ist",
+            "Sie",
+            "gekommen",
+            "spät"
+          ],
+          "answer": [
+            "Sie",
+            "ist",
+            "spät",
+            "gekommen"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Die Kinder ___ gespielt.",
+          "explain": "spielen 用 haben。",
+          "answer": "haben"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Wir sind mit dem Zug gefahren.",
+          "explain": "fahren 表位移用 sein（骑车开车移动义）；作「驾驶某物」及物用法 A2 再分，本组只练位移义。",
+          "answer": "Wir sind mit dem Zug gefahren."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "title": "zu Hause 还是 nach Hause（及 in / nach 分工）",
+      "intro": "对照句：Ich bin zu Hause.（在家，位置）/ Ich gehe nach Hause.（回家，方向）；城市国家方向用 nach（nach Berlin），建筑物内部方向用 in（ins Kino）。",
+      "exercises": [
+        {
+          "type": "fill",
+          "q": "Ich bleibe heute ___.（在家）",
+          "explain": "位置。",
+          "answer": "zu Hause"
+        },
+        {
+          "type": "fill",
+          "q": "Wir gehen jetzt ___.（回家）",
+          "explain": "方向。",
+          "answer": "nach Hause"
+        },
+        {
+          "type": "choice",
+          "q": "哪句对？",
+          "explain": "国家方向用 nach。",
+          "options": [
+            "Er fliegt nach China.",
+            "Er fliegt in China.（作「飞往中国」时）"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "listen_choice",
+          "audio": "Sie geht ins Büro.",
+          "q": "方向是？",
+          "explain": "ins = in das，方向。",
+          "options": [
+            "进办公室",
+            "在办公室里"
+          ],
+          "answer": 0
+        },
+        {
+          "type": "fill",
+          "q": "Die Kinder spielen ___ Hause.（在家玩）",
+          "explain": "在家玩的固定搭配是 zu Hause。",
+          "answer": "zu Hause"
+        },
+        {
+          "type": "order",
+          "q": "组句",
+          "explain": "方向 nach Hause。",
+          "tokens": [
+            "Hause",
+            "Ich",
+            "nach",
+            "laufe"
+          ],
+          "answer": [
+            "Ich",
+            "laufe",
+            "nach",
+            "Hause"
+          ]
+        },
+        {
+          "type": "fill",
+          "q": "Fährst du ___ Hamburg?",
+          "explain": "城市方向 nach。",
+          "answer": "nach"
+        },
+        {
+          "type": "listen_dictation",
+          "audio": "Er bleibt krank zu Hause.",
+          "explain": "生病留在家里，位置用 zu Hause。",
+          "answer": "Er bleibt krank zu Hause."
+        }
+      ]
+    }
+  ]
+}

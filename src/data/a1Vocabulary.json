@@ -1,0 +1,5217 @@
+[
+  {
+    "german": "ab",
+    "article": "",
+    "chinese": "从…起；自…开始",
+    "partOfSpeech": "介词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "aber",
+    "article": "",
+    "chinese": "但是；可是",
+    "partOfSpeech": "连词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "abfahren",
+    "article": "",
+    "chinese": "出发；启程",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Abfahrt",
+    "article": "die",
+    "chinese": "出发；启程",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "abfliegen",
+    "article": "",
+    "chinese": "（乘飞机）出发；起飞",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Abflug",
+    "article": "der",
+    "chinese": "（飞机）起飞；出发",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "abgeben",
+    "article": "",
+    "chinese": "交出；上交",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "abholen",
+    "article": "",
+    "chinese": "接（人）；取（物）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Absender",
+    "article": "der",
+    "chinese": "寄信人；发件人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Achtung",
+    "article": "",
+    "chinese": "注意！；小心！",
+    "partOfSpeech": "感叹词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Adresse",
+    "article": "die",
+    "chinese": "地址",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "alle",
+    "article": "",
+    "chinese": "所有的；一切",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "allein",
+    "article": "",
+    "chinese": "独自；单独",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "also",
+    "article": "",
+    "chinese": "那么；就是说",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "alt",
+    "article": "",
+    "chinese": "老的；旧的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Alter",
+    "article": "das",
+    "chinese": "年龄",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "an",
+    "article": "",
+    "chinese": "在…旁；在…处",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "an sein",
+    "article": "",
+    "chinese": "开着（灯、电器等）",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "anbieten",
+    "article": "",
+    "chinese": "提供；主动给予",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "andere",
+    "article": "",
+    "chinese": "其他的；别的",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Anfang",
+    "article": "der",
+    "chinese": "开头；开始",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "anfangen",
+    "article": "",
+    "chinese": "开始",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Angebot",
+    "article": "das",
+    "chinese": "促销；特价；报价",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "anklicken",
+    "article": "",
+    "chinese": "点击",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ankommen",
+    "article": "",
+    "chinese": "到达；抵达",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "ankreuzen",
+    "article": "",
+    "chinese": "打勾；做标记",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ankunft",
+    "article": "die",
+    "chinese": "到达；抵达",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "anmachen",
+    "article": "",
+    "chinese": "打开（灯、电器）",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Anmeldung",
+    "article": "die",
+    "chinese": "报名；登记",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Anrede",
+    "article": "die",
+    "chinese": "称呼（信件开头）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Anruf",
+    "article": "der",
+    "chinese": "电话；来电",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Anrufbeantworter",
+    "article": "der",
+    "chinese": "电话答录机；语音信箱",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "anrufen",
+    "article": "",
+    "chinese": "打电话",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Ansage",
+    "article": "die",
+    "chinese": "广播；通知",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Anschluss",
+    "article": "der",
+    "chinese": "换乘；接驳（交通）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Antwort",
+    "article": "die",
+    "chinese": "回答；答复",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "antworten",
+    "article": "",
+    "chinese": "回答",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Anzeige",
+    "article": "die",
+    "chinese": "广告；公告",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Apartment",
+    "article": "das",
+    "chinese": "公寓；套房",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Apfel",
+    "article": "der",
+    "chinese": "苹果",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Appetit",
+    "article": "der",
+    "chinese": "食欲；胃口",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Arbeit",
+    "article": "die",
+    "chinese": "工作",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "arbeiten",
+    "article": "",
+    "chinese": "工作",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "arbeitslos",
+    "article": "",
+    "chinese": "失业的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Arbeitsplatz",
+    "article": "der",
+    "chinese": "工作岗位；工作场所",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Arm",
+    "article": "der",
+    "chinese": "手臂；胳膊",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Arzt",
+    "article": "der",
+    "chinese": "医生",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "auch",
+    "article": "",
+    "chinese": "也；还",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "auf",
+    "article": "",
+    "chinese": "在…上面",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "auf sein",
+    "article": "",
+    "chinese": "开着；没锁",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "aufstehen",
+    "article": "",
+    "chinese": "起床；起来",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Aufzug",
+    "article": "der",
+    "chinese": "电梯",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Auge",
+    "article": "das",
+    "chinese": "眼睛",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "aus",
+    "article": "",
+    "chinese": "来自；从…出来",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "aus sein",
+    "article": "",
+    "chinese": "关着（灯、电器等）",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ausflug",
+    "article": "der",
+    "chinese": "短途旅行；郊游",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ausfüllen",
+    "article": "",
+    "chinese": "填写（表格）",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ausgang",
+    "article": "der",
+    "chinese": "出口",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Auskunft",
+    "article": "die",
+    "chinese": "信息；咨询",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ausland",
+    "article": "das",
+    "chinese": "国外；外国",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Ausländer",
+    "article": "der",
+    "chinese": "外国人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ausländisch",
+    "article": "",
+    "chinese": "外国的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ausmachen",
+    "article": "",
+    "chinese": "关掉（灯、电器）",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Aussage",
+    "article": "die",
+    "chinese": "陈述；说法",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "aussehen",
+    "article": "",
+    "chinese": "看起来",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "aussteigen",
+    "article": "",
+    "chinese": "下车",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Ausweis",
+    "article": "der",
+    "chinese": "身份证件；身份证",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Auto",
+    "article": "das",
+    "chinese": "汽车",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Autobahn",
+    "article": "die",
+    "chinese": "高速公路",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Automat",
+    "article": "der",
+    "chinese": "自动售货机；自动售票机",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "automatisch",
+    "article": "",
+    "chinese": "自动地",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Baby",
+    "article": "das",
+    "chinese": "婴儿；宝宝",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bad",
+    "article": "das",
+    "chinese": "浴室；卫生间",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "baden",
+    "article": "",
+    "chinese": "洗澡；泡澡",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bahn",
+    "article": "die",
+    "chinese": "火车；铁路",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bahnhof",
+    "article": "der",
+    "chinese": "火车站",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Bahnsteig",
+    "article": "der",
+    "chinese": "站台",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bald",
+    "article": "",
+    "chinese": "很快；不久",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Balkon",
+    "article": "der",
+    "chinese": "阳台",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Banane",
+    "article": "die",
+    "chinese": "香蕉",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bank",
+    "article": "die",
+    "chinese": "银行",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bar",
+    "article": "",
+    "chinese": "用现金（支付）的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bauch",
+    "article": "der",
+    "chinese": "肚子；腹部",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Baum",
+    "article": "der",
+    "chinese": "树",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Beamte",
+    "article": "der",
+    "chinese": "公务员；官员",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bedeuten",
+    "article": "",
+    "chinese": "意思是；意味着",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "beginnen",
+    "article": "",
+    "chinese": "开始",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "bei",
+    "article": "",
+    "chinese": "在…附近；在…那里",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "beide",
+    "article": "",
+    "chinese": "两者；双方",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bein",
+    "article": "das",
+    "chinese": "腿",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Beispiel",
+    "article": "das",
+    "chinese": "例子",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "bekannt",
+    "article": "",
+    "chinese": "著名的；熟悉的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bekannte",
+    "article": "der",
+    "chinese": "熟人（男）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bekannte",
+    "article": "die",
+    "chinese": "熟人（女）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bekommen",
+    "article": "",
+    "chinese": "得到；收到",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "benutzen",
+    "article": "",
+    "chinese": "使用",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Beruf",
+    "article": "der",
+    "chinese": "职业",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "besetzt",
+    "article": "",
+    "chinese": "占线的；被占用的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "besichtigen",
+    "article": "",
+    "chinese": "参观；游览",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "besser",
+    "article": "",
+    "chinese": "更好的；好一些的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "beste",
+    "article": "",
+    "chinese": "最好的；最佳的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bestellen",
+    "article": "",
+    "chinese": "订购；点菜",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "besuchen",
+    "article": "",
+    "chinese": "拜访；探望",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Bett",
+    "article": "das",
+    "chinese": "床",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "bezahlen",
+    "article": "",
+    "chinese": "付款；付钱",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Bier",
+    "article": "das",
+    "chinese": "啤酒",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bild",
+    "article": "das",
+    "chinese": "图片；照片",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "billig",
+    "article": "",
+    "chinese": "便宜的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Birne",
+    "article": "die",
+    "chinese": "梨",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bis",
+    "article": "",
+    "chinese": "到……为止；直到",
+    "partOfSpeech": "介词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bisschen",
+    "article": "",
+    "chinese": "一点；少量",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bitte",
+    "article": "",
+    "chinese": "请；劳驾",
+    "partOfSpeech": "感叹词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Bitte",
+    "article": "die",
+    "chinese": "请求；恳求",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bitten",
+    "article": "",
+    "chinese": "请求；恳求",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bitter",
+    "article": "",
+    "chinese": "苦的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "bleiben",
+    "article": "",
+    "chinese": "停留；留下；保持",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bleistift",
+    "article": "der",
+    "chinese": "铅笔",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Blick",
+    "article": "der",
+    "chinese": "视野；景色",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Blume",
+    "article": "die",
+    "chinese": "花",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bogen",
+    "article": "der",
+    "chinese": "纸；答题纸",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "brauchen",
+    "article": "",
+    "chinese": "需要",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "breit",
+    "article": "",
+    "chinese": "宽的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Brief",
+    "article": "der",
+    "chinese": "信",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Briefmarke",
+    "article": "die",
+    "chinese": "邮票",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "bringen",
+    "article": "",
+    "chinese": "带来；拿来；送来",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Brot",
+    "article": "das",
+    "chinese": "面包",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Bruder",
+    "article": "der",
+    "chinese": "兄弟；哥哥；弟弟",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Brötchen",
+    "article": "das",
+    "chinese": "小面包；面包卷",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Buch",
+    "article": "das",
+    "chinese": "书",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Buchstabe",
+    "article": "der",
+    "chinese": "字母",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "buchstabieren",
+    "article": "",
+    "chinese": "拼读；拼写",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bus",
+    "article": "der",
+    "chinese": "公共汽车；巴士",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Butter",
+    "article": "die",
+    "chinese": "黄油",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Bäckerei",
+    "article": "die",
+    "chinese": "面包房；面包店",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "böse",
+    "article": "",
+    "chinese": "生气的；恼火的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Café",
+    "article": "das",
+    "chinese": "咖啡馆",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "CD",
+    "article": "die",
+    "chinese": "光盘；CD",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Chef",
+    "article": "der",
+    "chinese": "老板；上司；主管",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "circa/ca.",
+    "article": "",
+    "chinese": "大约；约",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Computer",
+    "article": "der",
+    "chinese": "电脑；计算机",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "da",
+    "article": "",
+    "chinese": "在那里；那儿",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Dame",
+    "article": "die",
+    "chinese": "女士；夫人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "daneben",
+    "article": "",
+    "chinese": "在旁边",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Dank",
+    "article": "der",
+    "chinese": "感谢；谢意",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "danke",
+    "article": "",
+    "chinese": "谢谢",
+    "partOfSpeech": "感叹词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "danken",
+    "article": "",
+    "chinese": "感谢；道谢",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "dann",
+    "article": "",
+    "chinese": "然后；接着",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Datum",
+    "article": "das",
+    "chinese": "日期",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "dauern",
+    "article": "",
+    "chinese": "持续；花费（时间）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "dein",
+    "article": "",
+    "chinese": "你的",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "denn",
+    "article": "",
+    "chinese": "因为",
+    "partOfSpeech": "连词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "der",
+    "article": "",
+    "chinese": "定冠词（阳性）",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "dich",
+    "article": "",
+    "chinese": "你（宾格）",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "dieser",
+    "article": "",
+    "chinese": "这个；这一",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "dir",
+    "article": "",
+    "chinese": "你（与格）",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Disco",
+    "article": "die",
+    "chinese": "迪斯科舞厅",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Doktor",
+    "article": "der",
+    "chinese": "医生；博士",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Doppelzimmer",
+    "article": "das",
+    "chinese": "双人间",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Dorf",
+    "article": "das",
+    "chinese": "村庄；村子",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "dort",
+    "article": "",
+    "chinese": "在那里",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "draußen",
+    "article": "",
+    "chinese": "在外面；在户外",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "drucken",
+    "article": "",
+    "chinese": "打印",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Drucker",
+    "article": "der",
+    "chinese": "打印机",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "drücken",
+    "article": "",
+    "chinese": "按；压",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "durch",
+    "article": "",
+    "chinese": "穿过；通过",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Durchsage",
+    "article": "die",
+    "chinese": "广播通知；通告",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Durst",
+    "article": "der",
+    "chinese": "口渴",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Dusche",
+    "article": "die",
+    "chinese": "淋浴；淋浴设备",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "dürfen",
+    "article": "",
+    "chinese": "可以；被允许",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "E-Mail",
+    "article": "die",
+    "chinese": "电子邮件",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ecke",
+    "article": "die",
+    "chinese": "角；拐角",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ehefrau",
+    "article": "die",
+    "chinese": "妻子",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ehemann",
+    "article": "der",
+    "chinese": "丈夫",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ei",
+    "article": "das",
+    "chinese": "鸡蛋；蛋",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "eilig",
+    "article": "",
+    "chinese": "匆忙的；赶时间的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ein",
+    "article": "",
+    "chinese": "一个；一",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "einfach",
+    "article": "",
+    "chinese": "简单的；容易的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Eingang",
+    "article": "der",
+    "chinese": "入口",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "einkaufen",
+    "article": "",
+    "chinese": "购物；买东西",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "einladen",
+    "article": "",
+    "chinese": "邀请",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Einladung",
+    "article": "die",
+    "chinese": "邀请",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "einmal",
+    "article": "",
+    "chinese": "一次；再一次",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "einsteigen",
+    "article": "",
+    "chinese": "上车；上（火车等）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Eintritt",
+    "article": "der",
+    "chinese": "入场；入场费",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Einzelzimmer",
+    "article": "das",
+    "chinese": "单人间",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Eltern",
+    "article": "die",
+    "chinese": "父母",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "empfehlen",
+    "article": "",
+    "chinese": "推荐",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Empfänger",
+    "article": "der",
+    "chinese": "收件人；收信人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ende",
+    "article": "das",
+    "chinese": "末尾；尽头；结束",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "enden",
+    "article": "",
+    "chinese": "结束；终止",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "entschuldigen",
+    "article": "",
+    "chinese": "原谅；道歉",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Entschuldigung",
+    "article": "die",
+    "chinese": "道歉；对不起",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "er",
+    "article": "",
+    "chinese": "他",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ergebnis",
+    "article": "das",
+    "chinese": "结果",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "erklären",
+    "article": "",
+    "chinese": "解释；说明",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "erlauben",
+    "article": "",
+    "chinese": "允许；准许",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Erwachsene",
+    "article": "der",
+    "chinese": "成年人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "erzählen",
+    "article": "",
+    "chinese": "讲述；告诉",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "es",
+    "article": "",
+    "chinese": "它",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "essen",
+    "article": "",
+    "chinese": "吃",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Essen",
+    "article": "das",
+    "chinese": "食物；饭菜",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "euer",
+    "article": "",
+    "chinese": "你们的",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "fahren",
+    "article": "",
+    "chinese": "驾驶；乘车行驶",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Fahrer",
+    "article": "der",
+    "chinese": "司机",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fahrkarte",
+    "article": "die",
+    "chinese": "车票；票",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fahrrad",
+    "article": "das",
+    "chinese": "自行车",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "falsch",
+    "article": "",
+    "chinese": "错的；错误的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Familie",
+    "article": "die",
+    "chinese": "家庭；家人",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Familienname",
+    "article": "der",
+    "chinese": "姓",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Familienstand",
+    "article": "der",
+    "chinese": "婚姻状况",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Farbe",
+    "article": "die",
+    "chinese": "颜色",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Fax",
+    "article": "das",
+    "chinese": "传真",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "fehlen",
+    "article": "",
+    "chinese": "缺席；不在",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fehler",
+    "article": "der",
+    "chinese": "错误",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "feiern",
+    "article": "",
+    "chinese": "庆祝",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Feiertag",
+    "article": "der",
+    "chinese": "节假日；节日",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "fernsehen",
+    "article": "",
+    "chinese": "看电视",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "fertig",
+    "article": "",
+    "chinese": "准备好的；完成的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Feuer",
+    "article": "das",
+    "chinese": "火；打火的火",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fieber",
+    "article": "das",
+    "chinese": "发烧；发热",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Film",
+    "article": "der",
+    "chinese": "电影",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "finden",
+    "article": "",
+    "chinese": "找到；发现",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Firma",
+    "article": "die",
+    "chinese": "公司",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fisch",
+    "article": "der",
+    "chinese": "鱼",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Flasche",
+    "article": "die",
+    "chinese": "瓶子",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fleisch",
+    "article": "das",
+    "chinese": "肉",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "fliegen",
+    "article": "",
+    "chinese": "飞；乘飞机",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Flughafen",
+    "article": "der",
+    "chinese": "机场",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Flugzeug",
+    "article": "das",
+    "chinese": "飞机",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Formular",
+    "article": "das",
+    "chinese": "表格",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Foto",
+    "article": "das",
+    "chinese": "照片",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Frage",
+    "article": "die",
+    "chinese": "问题",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "fragen",
+    "article": "",
+    "chinese": "问",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Frau",
+    "article": "die",
+    "chinese": "女士；女人",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "frei",
+    "article": "",
+    "chinese": "空着的；空闲的；免费的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Freizeit",
+    "article": "die",
+    "chinese": "业余时间；空闲时间",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "fremd",
+    "article": "",
+    "chinese": "陌生的；不熟悉的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Freund",
+    "article": "der",
+    "chinese": "朋友",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "früher",
+    "article": "",
+    "chinese": "以前；从前",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Frühstück",
+    "article": "das",
+    "chinese": "早餐",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "frühstücken",
+    "article": "",
+    "chinese": "吃早餐",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fuß",
+    "article": "der",
+    "chinese": "脚",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Fußball",
+    "article": "der",
+    "chinese": "足球",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Führung",
+    "article": "die",
+    "chinese": "导览；导游讲解",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "für",
+    "article": "",
+    "chinese": "为了；给",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Garten",
+    "article": "der",
+    "chinese": "花园",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Gast",
+    "article": "der",
+    "chinese": "客人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "geben",
+    "article": "",
+    "chinese": "给",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "geboren",
+    "article": "",
+    "chinese": "出生的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Geburtsjahr",
+    "article": "das",
+    "chinese": "出生年份",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Geburtsort",
+    "article": "der",
+    "chinese": "出生地",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Geburtstag",
+    "article": "der",
+    "chinese": "生日",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gefallen",
+    "article": "",
+    "chinese": "令人喜欢；合意",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gegen",
+    "article": "",
+    "chinese": "对着；朝向；反对",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gehen",
+    "article": "",
+    "chinese": "去；走；行得通",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gehören",
+    "article": "",
+    "chinese": "属于",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Geld",
+    "article": "das",
+    "chinese": "钱",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Gemüse",
+    "article": "das",
+    "chinese": "蔬菜",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Gepäck",
+    "article": "das",
+    "chinese": "行李",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "gerade",
+    "article": "",
+    "chinese": "刚刚；正好；正在",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "gern",
+    "article": "",
+    "chinese": "喜欢；乐意",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Geschenk",
+    "article": "das",
+    "chinese": "礼物",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "geschlossen",
+    "article": "",
+    "chinese": "关着的；关闭的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Geschwister",
+    "article": "die",
+    "chinese": "兄弟姐妹",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Geschäft",
+    "article": "das",
+    "chinese": "商店；生意",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Gespräch",
+    "article": "das",
+    "chinese": "谈话；对话",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "gestern",
+    "article": "",
+    "chinese": "昨天",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gestorben",
+    "article": "",
+    "chinese": "去世的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Getränk",
+    "article": "das",
+    "chinese": "饮料",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Gewicht",
+    "article": "das",
+    "chinese": "重量；体重",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "gewinnen",
+    "article": "",
+    "chinese": "赢；获胜",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "geöffnet",
+    "article": "",
+    "chinese": "开着的；营业的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Glas",
+    "article": "das",
+    "chinese": "玻璃杯；玻璃",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "glauben",
+    "article": "",
+    "chinese": "相信；认为",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gleich",
+    "article": "",
+    "chinese": "相同的；无所谓的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Gleis",
+    "article": "das",
+    "chinese": "站台；轨道",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Glück",
+    "article": "das",
+    "chinese": "好运；幸福",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "glücklich",
+    "article": "",
+    "chinese": "幸福的；快乐的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Glückwunsch",
+    "article": "der",
+    "chinese": "祝贺；祝福",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Grad",
+    "article": "der",
+    "chinese": "度（温度、角度）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "gratulieren",
+    "article": "",
+    "chinese": "祝贺",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "grillen",
+    "article": "",
+    "chinese": "烧烤",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "groß",
+    "article": "",
+    "chinese": "大的；高的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Großeltern",
+    "article": "die",
+    "chinese": "祖父母；外祖父母",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Großmutter",
+    "article": "die",
+    "chinese": "祖母；外祖母",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Großvater",
+    "article": "der",
+    "chinese": "祖父；外祖父",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Gruppe",
+    "article": "die",
+    "chinese": "组；团体",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Gruß",
+    "article": "der",
+    "chinese": "问候；致意",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Größe",
+    "article": "die",
+    "chinese": "尺码；大小",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gut",
+    "article": "",
+    "chinese": "好的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gültig",
+    "article": "",
+    "chinese": "有效的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "günstig",
+    "article": "",
+    "chinese": "便宜的；划算的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Haar",
+    "article": "das",
+    "chinese": "头发",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "haben",
+    "article": "",
+    "chinese": "有",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Halbpension",
+    "article": "die",
+    "chinese": "半膳宿（含早晚两餐）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Halle",
+    "article": "die",
+    "chinese": "大厅；大堂",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "hallo",
+    "article": "",
+    "chinese": "你好；喂",
+    "partOfSpeech": "感叹词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "halten",
+    "article": "",
+    "chinese": "停；停靠；握住",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Haltestelle",
+    "article": "die",
+    "chinese": "车站；站台",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Hand",
+    "article": "die",
+    "chinese": "手",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Handy",
+    "article": "das",
+    "chinese": "手机",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Haus",
+    "article": "das",
+    "chinese": "房子；住宅",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hausaufgabe",
+    "article": "die",
+    "chinese": "家庭作业",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Hausfrau",
+    "article": "die",
+    "chinese": "家庭主妇",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Hausmann",
+    "article": "der",
+    "chinese": "家庭主夫",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Heimat",
+    "article": "die",
+    "chinese": "故乡；祖国",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "heiraten",
+    "article": "",
+    "chinese": "结婚；嫁；娶",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "heißen",
+    "article": "",
+    "chinese": "叫……；名叫",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "helfen",
+    "article": "",
+    "chinese": "帮助",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "hell",
+    "article": "",
+    "chinese": "明亮的；天亮的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Herd",
+    "article": "der",
+    "chinese": "炉灶",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Herr",
+    "article": "der",
+    "chinese": "先生；男士",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "herzlich",
+    "article": "",
+    "chinese": "衷心的；热忱的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "heute",
+    "article": "",
+    "chinese": "今天",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "hier",
+    "article": "",
+    "chinese": "这里；在这儿",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hilfe",
+    "article": "die",
+    "chinese": "帮助；救命",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "hinten",
+    "article": "",
+    "chinese": "在后面；后面",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Hobby",
+    "article": "das",
+    "chinese": "爱好；业余爱好",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "hoch",
+    "article": "",
+    "chinese": "高的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hochzeit",
+    "article": "die",
+    "chinese": "婚礼",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "holen",
+    "article": "",
+    "chinese": "取；拿；接（人）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hotel",
+    "article": "das",
+    "chinese": "酒店；宾馆",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hund",
+    "article": "der",
+    "chinese": "狗",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hunger",
+    "article": "der",
+    "chinese": "饥饿",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Hähnchen",
+    "article": "das",
+    "chinese": "鸡；烤鸡",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "hören",
+    "article": "",
+    "chinese": "听；听见",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "ich",
+    "article": "",
+    "chinese": "我",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ihr/ihm/ihn",
+    "article": "",
+    "chinese": "她；他（宾格／与格）",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "immer",
+    "article": "",
+    "chinese": "总是；一直",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "in",
+    "article": "",
+    "chinese": "在……里；在……（城市）",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Information",
+    "article": "die",
+    "chinese": "信息；咨询处",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "international",
+    "article": "",
+    "chinese": "国际的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Internet",
+    "article": "das",
+    "chinese": "互联网；网络",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ja",
+    "article": "",
+    "chinese": "是的；对",
+    "partOfSpeech": "感叹词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Jacke",
+    "article": "die",
+    "chinese": "夹克；外套",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "jeder",
+    "article": "",
+    "chinese": "每个；任何一个",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "jetzt",
+    "article": "",
+    "chinese": "现在",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Job",
+    "article": "der",
+    "chinese": "工作；职位",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Jugendliche",
+    "article": "der",
+    "chinese": "青少年",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "jung",
+    "article": "",
+    "chinese": "年轻的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Junge",
+    "article": "der",
+    "chinese": "男孩",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kaffee",
+    "article": "der",
+    "chinese": "咖啡",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kaputt",
+    "article": "",
+    "chinese": "坏的；破的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Karte",
+    "article": "die",
+    "chinese": "卡片；明信片；牌",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kartoffel",
+    "article": "die",
+    "chinese": "土豆；马铃薯",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kasse",
+    "article": "die",
+    "chinese": "收银台",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "kaufen",
+    "article": "",
+    "chinese": "买",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kein",
+    "article": "",
+    "chinese": "没有；不是（否定）",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "kennen",
+    "article": "",
+    "chinese": "认识；了解",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kennenlernen",
+    "article": "",
+    "chinese": "结识；认识（新朋友）",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kind",
+    "article": "das",
+    "chinese": "孩子",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Kindergarten",
+    "article": "der",
+    "chinese": "幼儿园",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kino",
+    "article": "das",
+    "chinese": "电影院",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Kiosk",
+    "article": "der",
+    "chinese": "小卖部；报刊亭",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "klar",
+    "article": "",
+    "chinese": "清楚的；当然",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Klasse",
+    "article": "die",
+    "chinese": "班级；课",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kleidung",
+    "article": "die",
+    "chinese": "衣服；服装",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "klein",
+    "article": "",
+    "chinese": "小的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kochen",
+    "article": "",
+    "chinese": "做饭；烹饪",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Koffer",
+    "article": "der",
+    "chinese": "行李箱；手提箱",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kollege",
+    "article": "der",
+    "chinese": "同事",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "kommen",
+    "article": "",
+    "chinese": "来；来自",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Konto",
+    "article": "das",
+    "chinese": "账户",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kopf",
+    "article": "der",
+    "chinese": "头；脑袋",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kosten",
+    "article": "",
+    "chinese": "花费；价钱为",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "krank",
+    "article": "",
+    "chinese": "生病的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Kreditkarte",
+    "article": "die",
+    "chinese": "信用卡",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "kriegen",
+    "article": "",
+    "chinese": "得到；收到",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kuchen",
+    "article": "der",
+    "chinese": "蛋糕",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kugelschreiber",
+    "article": "der",
+    "chinese": "圆珠笔",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "kulturell",
+    "article": "",
+    "chinese": "文化方面的；对文化感兴趣的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kunde",
+    "article": "der",
+    "chinese": "顾客；客户",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Kurs",
+    "article": "der",
+    "chinese": "课程；班",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kurz",
+    "article": "",
+    "chinese": "短的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "können",
+    "article": "",
+    "chinese": "能；会；可以",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Küche",
+    "article": "die",
+    "chinese": "厨房",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Kühlschrank",
+    "article": "der",
+    "chinese": "冰箱",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "lachen",
+    "article": "",
+    "chinese": "笑",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Laden",
+    "article": "der",
+    "chinese": "商店；店铺",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Land",
+    "article": "das",
+    "chinese": "国家；土地；乡村",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "lang",
+    "article": "",
+    "chinese": "长的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "lange",
+    "article": "",
+    "chinese": "（时间）长；多久",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "langsam",
+    "article": "",
+    "chinese": "慢的；缓慢的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "laufen",
+    "article": "",
+    "chinese": "走；跑；步行",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "laut",
+    "article": "",
+    "chinese": "大声的；响亮的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "leben",
+    "article": "",
+    "chinese": "生活；居住",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Leben",
+    "article": "das",
+    "chinese": "生活；生命",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Lebensmittel",
+    "article": "die",
+    "chinese": "食品；食物",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ledig",
+    "article": "",
+    "chinese": "单身的；未婚的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "legen",
+    "article": "",
+    "chinese": "放；放置",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Lehrer",
+    "article": "der",
+    "chinese": "老师；教师",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "leicht",
+    "article": "",
+    "chinese": "轻的；容易的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "leider",
+    "article": "",
+    "chinese": "遗憾地；不幸地",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "leise",
+    "article": "",
+    "chinese": "安静的；轻声的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "lernen",
+    "article": "",
+    "chinese": "学习；学会",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "lesen",
+    "article": "",
+    "chinese": "读；阅读",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "letzte",
+    "article": "",
+    "chinese": "最后的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Leute",
+    "article": "die",
+    "chinese": "人们；大家",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Licht",
+    "article": "das",
+    "chinese": "光；灯",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "lieb",
+    "article": "",
+    "chinese": "亲爱的；可爱的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "lieben",
+    "article": "",
+    "chinese": "爱；热爱",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "lieber",
+    "article": "",
+    "chinese": "更愿意；宁愿",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Lieblings-",
+    "article": "",
+    "chinese": "最喜欢的；最爱的",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Lied",
+    "article": "das",
+    "chinese": "歌曲；歌",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "liegen",
+    "article": "",
+    "chinese": "躺；位于",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "links",
+    "article": "",
+    "chinese": "在左边；向左",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Lkw",
+    "article": "der",
+    "chinese": "卡车；货车",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Lokal",
+    "article": "das",
+    "chinese": "餐馆；酒馆",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "lustig",
+    "article": "",
+    "chinese": "有趣的；滑稽的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Lösung",
+    "article": "die",
+    "chinese": "解决办法；答案",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "machen",
+    "article": "",
+    "chinese": "做；干",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "man",
+    "article": "",
+    "chinese": "人们；有人",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Mann",
+    "article": "der",
+    "chinese": "男人；丈夫",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Maschine",
+    "article": "die",
+    "chinese": "机器",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Meer",
+    "article": "das",
+    "chinese": "海；海洋",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "mehr",
+    "article": "",
+    "chinese": "更多；更",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "mein",
+    "article": "",
+    "chinese": "我的",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "meiste",
+    "article": "",
+    "chinese": "大多数的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Mensch",
+    "article": "der",
+    "chinese": "人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Miete",
+    "article": "die",
+    "chinese": "房租；租金",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "mieten",
+    "article": "",
+    "chinese": "租；租用",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Milch",
+    "article": "die",
+    "chinese": "牛奶",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "mit",
+    "article": "",
+    "chinese": "和；同；带着",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "mitbringen",
+    "article": "",
+    "chinese": "带来；捎带",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "mitkommen",
+    "article": "",
+    "chinese": "一起去；跟来",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "mitmachen",
+    "article": "",
+    "chinese": "参加；加入",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "mitnehmen",
+    "article": "",
+    "chinese": "带上；带走",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Mitte",
+    "article": "die",
+    "chinese": "中间；中央",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Moment",
+    "article": "der",
+    "chinese": "片刻；一会儿",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "morgen",
+    "article": "",
+    "chinese": "明天",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Mund",
+    "article": "der",
+    "chinese": "嘴；口",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Mutter",
+    "article": "die",
+    "chinese": "母亲；妈妈",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Mädchen",
+    "article": "das",
+    "chinese": "女孩",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "männlich",
+    "article": "",
+    "chinese": "男性的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Möbel",
+    "article": "die",
+    "chinese": "家具",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "möchten",
+    "article": "",
+    "chinese": "想要；愿意",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "mögen",
+    "article": "",
+    "chinese": "喜欢；愿意",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "möglich",
+    "article": "",
+    "chinese": "可能的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "müde",
+    "article": "",
+    "chinese": "疲倦的；累的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "müssen",
+    "article": "",
+    "chinese": "必须；不得不",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "nach",
+    "article": "",
+    "chinese": "到；往；向",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Name",
+    "article": "der",
+    "chinese": "名字；姓名",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "nehmen",
+    "article": "",
+    "chinese": "拿；取；选",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "nein",
+    "article": "",
+    "chinese": "不；不是",
+    "partOfSpeech": "感叹词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "neu",
+    "article": "",
+    "chinese": "新的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "nicht",
+    "article": "",
+    "chinese": "不；没有",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "nichts",
+    "article": "",
+    "chinese": "什么也没有；没有什么",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "nie",
+    "article": "",
+    "chinese": "从不；永远不",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "noch",
+    "article": "",
+    "chinese": "还；仍然",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "normal",
+    "article": "",
+    "chinese": "正常的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Nummer",
+    "article": "die",
+    "chinese": "号码；编号",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "nur",
+    "article": "",
+    "chinese": "只；仅仅",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "nächste",
+    "article": "",
+    "chinese": "下一个的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "oben",
+    "article": "",
+    "chinese": "在上面；楼上",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Obst",
+    "article": "das",
+    "chinese": "水果",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "oder",
+    "article": "",
+    "chinese": "或者；还是",
+    "partOfSpeech": "连词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "oft",
+    "article": "",
+    "chinese": "经常；常常",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "ohne",
+    "article": "",
+    "chinese": "没有；不用",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Oma",
+    "article": "die",
+    "chinese": "奶奶；外婆",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Opa",
+    "article": "der",
+    "chinese": "爷爷；外公",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ordnung",
+    "article": "die",
+    "chinese": "秩序；整齐",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ort",
+    "article": "der",
+    "chinese": "地点；地方",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Papier",
+    "article": "das",
+    "chinese": "纸",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Papiere",
+    "article": "die",
+    "chinese": "证件；文件",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Partner",
+    "article": "der",
+    "chinese": "伙伴；伴侣",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Partnerin",
+    "article": "die",
+    "chinese": "女伙伴；女伴侣",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Party",
+    "article": "die",
+    "chinese": "派对；聚会",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Pass",
+    "article": "der",
+    "chinese": "护照",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Pause",
+    "article": "die",
+    "chinese": "休息；暂停",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Plan",
+    "article": "der",
+    "chinese": "计划；平面图",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Platz",
+    "article": "der",
+    "chinese": "座位；位置；广场",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Polizei",
+    "article": "die",
+    "chinese": "警察；警方",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Pommes frites",
+    "article": "die",
+    "chinese": "炸薯条",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Post",
+    "article": "die",
+    "chinese": "邮局；邮政",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Postleitzahl",
+    "article": "die",
+    "chinese": "邮政编码",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Praktikum",
+    "article": "das",
+    "chinese": "实习",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Praxis",
+    "article": "die",
+    "chinese": "诊所",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Preis",
+    "article": "der",
+    "chinese": "价格",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Problem",
+    "article": "das",
+    "chinese": "问题；困难",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Prospekt",
+    "article": "der",
+    "chinese": "宣传册；简介",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Prüfung",
+    "article": "die",
+    "chinese": "考试",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "pünktlich",
+    "article": "",
+    "chinese": "准时的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Rad fahren",
+    "article": "",
+    "chinese": "骑自行车",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "rauchen",
+    "article": "",
+    "chinese": "抽烟；吸烟",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Raum",
+    "article": "der",
+    "chinese": "房间；教室",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Rechnung",
+    "article": "die",
+    "chinese": "账单",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "rechts",
+    "article": "",
+    "chinese": "在右边；向右",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Regen",
+    "article": "der",
+    "chinese": "雨",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "regnen",
+    "article": "",
+    "chinese": "下雨",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Reis",
+    "article": "der",
+    "chinese": "米饭；大米",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Reise",
+    "article": "die",
+    "chinese": "旅行",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Reisebüro",
+    "article": "das",
+    "chinese": "旅行社",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Reiseführer",
+    "article": "der",
+    "chinese": "旅游指南；导游",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "reisen",
+    "article": "",
+    "chinese": "旅行；旅游",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Reparatur",
+    "article": "die",
+    "chinese": "修理；维修",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "reparieren",
+    "article": "",
+    "chinese": "修理；维修",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Restaurant",
+    "article": "das",
+    "chinese": "餐馆；餐厅",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Rezeption",
+    "article": "die",
+    "chinese": "前台；接待处",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "richtig",
+    "article": "",
+    "chinese": "正确的；对的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "riechen",
+    "article": "",
+    "chinese": "闻；散发气味",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "ruhig",
+    "article": "",
+    "chinese": "安静的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "S-Bahn",
+    "article": "die",
+    "chinese": "市郊铁路；轻轨",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Saft",
+    "article": "der",
+    "chinese": "果汁",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sagen",
+    "article": "",
+    "chinese": "说；告诉",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Salat",
+    "article": "der",
+    "chinese": "沙拉",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Salz",
+    "article": "das",
+    "chinese": "盐",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Satz",
+    "article": "der",
+    "chinese": "句子",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Schalter",
+    "article": "der",
+    "chinese": "柜台；窗口；开关",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "scheinen",
+    "article": "",
+    "chinese": "照耀；似乎",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "schicken",
+    "article": "",
+    "chinese": "寄；发送",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Schild",
+    "article": "das",
+    "chinese": "牌子；招牌；告示牌",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Schinken",
+    "article": "der",
+    "chinese": "火腿",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "schlafen",
+    "article": "",
+    "chinese": "睡觉",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schlecht",
+    "article": "",
+    "chinese": "差的；不舒服的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schließen",
+    "article": "",
+    "chinese": "关；关闭",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schluss",
+    "article": "der",
+    "chinese": "结束；结尾",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Schlüssel",
+    "article": "der",
+    "chinese": "钥匙",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schmecken",
+    "article": "",
+    "chinese": "尝起来；味道",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schnell",
+    "article": "",
+    "chinese": "快的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schon",
+    "article": "",
+    "chinese": "已经",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schrank",
+    "article": "der",
+    "chinese": "柜子；橱柜",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "schreiben",
+    "article": "",
+    "chinese": "写",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schuh",
+    "article": "der",
+    "chinese": "鞋子",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schule",
+    "article": "die",
+    "chinese": "学校",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schwer",
+    "article": "",
+    "chinese": "重的；困难的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schwester",
+    "article": "die",
+    "chinese": "姐姐；妹妹",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schwimmbad",
+    "article": "das",
+    "chinese": "游泳池；游泳馆",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "schwimmen",
+    "article": "",
+    "chinese": "游泳",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schön",
+    "article": "",
+    "chinese": "美好的；漂亮的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Schüler",
+    "article": "der",
+    "chinese": "学生；中小学生",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "See",
+    "article": "der",
+    "chinese": "湖",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "sehen",
+    "article": "",
+    "chinese": "看；看见",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Sehenswürdigkeit",
+    "article": "die",
+    "chinese": "名胜；景点",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sehr",
+    "article": "",
+    "chinese": "很；非常",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "sein",
+    "article": "",
+    "chinese": "是；在",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "seit",
+    "article": "",
+    "chinese": "自从；从……以来",
+    "partOfSpeech": "介词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "selbstständig",
+    "article": "",
+    "chinese": "自雇的；独立的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich",
+    "article": "",
+    "chinese": "自己（反身代词）",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich anmelden",
+    "article": "",
+    "chinese": "登记；报名；注册",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich anziehen",
+    "article": "",
+    "chinese": "穿衣服",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich ausziehen",
+    "article": "",
+    "chinese": "脱衣服；脱下",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich duschen",
+    "article": "",
+    "chinese": "淋浴；洗澡",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich freuen",
+    "article": "",
+    "chinese": "高兴；期待",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich kümmern",
+    "article": "",
+    "chinese": "照顾；照料",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich treffen",
+    "article": "",
+    "chinese": "见面；相遇",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich vorstellen",
+    "article": "",
+    "chinese": "自我介绍；想象",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sich waschen",
+    "article": "",
+    "chinese": "洗；清洗自己",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sie",
+    "article": "",
+    "chinese": "她",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Sie",
+    "article": "",
+    "chinese": "您；你们（尊称）",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sitzen",
+    "article": "",
+    "chinese": "坐",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "so",
+    "article": "",
+    "chinese": "这样；如此",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Sofa",
+    "article": "das",
+    "chinese": "沙发",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sofort",
+    "article": "",
+    "chinese": "立刻；马上",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Sohn",
+    "article": "der",
+    "chinese": "儿子",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "sollen",
+    "article": "",
+    "chinese": "应该；应当",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Sonne",
+    "article": "die",
+    "chinese": "太阳",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Speisekarte",
+    "article": "die",
+    "chinese": "菜单",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "spielen",
+    "article": "",
+    "chinese": "玩；玩耍",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Sport",
+    "article": "der",
+    "chinese": "运动；体育",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Sprache",
+    "article": "die",
+    "chinese": "语言",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "sprechen",
+    "article": "",
+    "chinese": "说；讲话",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "spät",
+    "article": "",
+    "chinese": "晚的；迟的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "später",
+    "article": "",
+    "chinese": "后来；晚些时候",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Stadt",
+    "article": "die",
+    "chinese": "城市",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "stehen",
+    "article": "",
+    "chinese": "站立；写着",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Stelle",
+    "article": "die",
+    "chinese": "职位；工作；地点",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "stellen",
+    "article": "",
+    "chinese": "放；放置",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Stock",
+    "article": "der",
+    "chinese": "楼层",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Straße",
+    "article": "die",
+    "chinese": "街道；马路",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Straßenbahn",
+    "article": "die",
+    "chinese": "有轨电车",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Student",
+    "article": "der",
+    "chinese": "大学生；学生",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "studieren",
+    "article": "",
+    "chinese": "上大学；在大学学习",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Studium",
+    "article": "das",
+    "chinese": "大学学业；学业",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Stunde",
+    "article": "die",
+    "chinese": "小时；课时",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "suchen",
+    "article": "",
+    "chinese": "寻找；找",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "tanzen",
+    "article": "",
+    "chinese": "跳舞",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Tasche",
+    "article": "die",
+    "chinese": "包；口袋",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Taxi",
+    "article": "das",
+    "chinese": "出租车",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Tee",
+    "article": "der",
+    "chinese": "茶",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Teil",
+    "article": "der",
+    "chinese": "部分",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Telefon",
+    "article": "das",
+    "chinese": "电话",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "telefonieren",
+    "article": "",
+    "chinese": "打电话",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Termin",
+    "article": "der",
+    "chinese": "预约；约定时间",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Test",
+    "article": "der",
+    "chinese": "测试；考试",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "teuer",
+    "article": "",
+    "chinese": "贵的；昂贵的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Text",
+    "article": "der",
+    "chinese": "课文；文本",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Thema",
+    "article": "das",
+    "chinese": "主题；话题",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Ticket",
+    "article": "das",
+    "chinese": "票",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Tisch",
+    "article": "der",
+    "chinese": "桌子",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Tochter",
+    "article": "die",
+    "chinese": "女儿",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Toilette",
+    "article": "die",
+    "chinese": "厕所；洗手间",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Tomate",
+    "article": "die",
+    "chinese": "番茄；西红柿",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "tot",
+    "article": "",
+    "chinese": "死的；已故的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Treppe",
+    "article": "die",
+    "chinese": "楼梯",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "trinken",
+    "article": "",
+    "chinese": "喝；饮",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "tschüss",
+    "article": "",
+    "chinese": "再见；拜拜",
+    "partOfSpeech": "感叹词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "tun",
+    "article": "",
+    "chinese": "做；干；办",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Uhr",
+    "article": "die",
+    "chinese": "钟；表；点钟",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "um",
+    "article": "",
+    "chinese": "在……点钟；围绕",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "umziehen",
+    "article": "",
+    "chinese": "搬家；迁居",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "und",
+    "article": "",
+    "chinese": "和；与；及",
+    "partOfSpeech": "连词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "unser",
+    "article": "",
+    "chinese": "我们的",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "unten",
+    "article": "",
+    "chinese": "在下面；在楼下",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "unter",
+    "article": "",
+    "chinese": "在……下面；在……之下",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Unterricht",
+    "article": "der",
+    "chinese": "课；课程；授课",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "unterschreiben",
+    "article": "",
+    "chinese": "签名；签字",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Unterschrift",
+    "article": "die",
+    "chinese": "签名；签字",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Urlaub",
+    "article": "der",
+    "chinese": "假期；休假",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Vater",
+    "article": "der",
+    "chinese": "父亲；爸爸",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "verboten",
+    "article": "",
+    "chinese": "禁止的；不允许的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "verdienen",
+    "article": "",
+    "chinese": "挣；赚（钱）",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Verein",
+    "article": "der",
+    "chinese": "协会；俱乐部；社团",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "verheiratet",
+    "article": "",
+    "chinese": "已婚的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "verkaufen",
+    "article": "",
+    "chinese": "卖；出售",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Verkäufer",
+    "article": "der",
+    "chinese": "售货员；销售员",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "vermieten",
+    "article": "",
+    "chinese": "出租",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Vermieter",
+    "article": "der",
+    "chinese": "房东；出租人",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "verstehen",
+    "article": "",
+    "chinese": "理解；懂；听懂",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Verwandte",
+    "article": "der",
+    "chinese": "亲戚；亲属",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "viel",
+    "article": "",
+    "chinese": "多；许多；大量",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "vielleicht",
+    "article": "",
+    "chinese": "也许；可能",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "von",
+    "article": "",
+    "chinese": "从；由；……的",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "vor",
+    "article": "",
+    "chinese": "在……之前；……以前",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Vorname",
+    "article": "der",
+    "chinese": "名；名字",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Vorsicht",
+    "article": "die",
+    "chinese": "小心；注意；谨慎",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Vorwahl",
+    "article": "die",
+    "chinese": "电话区号；区号",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wandern",
+    "article": "",
+    "chinese": "远足；徒步；漫游",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wann",
+    "article": "",
+    "chinese": "什么时候；何时",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "warten",
+    "article": "",
+    "chinese": "等待；等候",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "warum",
+    "article": "",
+    "chinese": "为什么；为何",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "was",
+    "article": "",
+    "chinese": "什么",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "was für ein",
+    "article": "",
+    "chinese": "什么样的；哪种",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Wasser",
+    "article": "das",
+    "chinese": "水",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "weg sein",
+    "article": "",
+    "chinese": "不在；已离开；走了",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "weh tun",
+    "article": "",
+    "chinese": "疼；痛",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "weiblich",
+    "article": "",
+    "chinese": "女性的；女子的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Wein",
+    "article": "der",
+    "chinese": "葡萄酒；酒",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "weit",
+    "article": "",
+    "chinese": "远；遥远",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "weiter",
+    "article": "",
+    "chinese": "更远；继续",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "welcher",
+    "article": "",
+    "chinese": "哪个；哪一个",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Welt",
+    "article": "die",
+    "chinese": "世界",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wenig",
+    "article": "",
+    "chinese": "少；少量",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wer",
+    "article": "",
+    "chinese": "谁",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "werden",
+    "article": "",
+    "chinese": "成为；变得；将要",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Wetter",
+    "article": "das",
+    "chinese": "天气",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wichtig",
+    "article": "",
+    "chinese": "重要的；重大的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wie",
+    "article": "",
+    "chinese": "怎么；怎样；如何",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wie viel",
+    "article": "",
+    "chinese": "多少",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wiederholen",
+    "article": "",
+    "chinese": "重复；再说一遍",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Wiederhören",
+    "article": "das",
+    "chinese": "再见（电话用语）",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Wiedersehen",
+    "article": "das",
+    "chinese": "再见；重逢",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "willkommen",
+    "article": "",
+    "chinese": "欢迎；受欢迎的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Wind",
+    "article": "der",
+    "chinese": "风",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "wir",
+    "article": "",
+    "chinese": "我们",
+    "partOfSpeech": "代词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wissen",
+    "article": "",
+    "chinese": "知道；了解",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wo",
+    "article": "",
+    "chinese": "哪里；在哪儿",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "woher",
+    "article": "",
+    "chinese": "从哪里；从何处",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wohin",
+    "article": "",
+    "chinese": "到哪里；往哪里",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "wohnen",
+    "article": "",
+    "chinese": "住；居住",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Wohnung",
+    "article": "die",
+    "chinese": "公寓；住房；住宅",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wollen",
+    "article": "",
+    "chinese": "想要；愿意；打算",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Wort",
+    "article": "das",
+    "chinese": "词；单词；话语",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wunderbar",
+    "article": "",
+    "chinese": "极好的；美妙的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "zahlen",
+    "article": "",
+    "chinese": "付款；付账；支付",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Zeit",
+    "article": "die",
+    "chinese": "时间；时候",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Zeitung",
+    "article": "die",
+    "chinese": "报纸",
+    "partOfSpeech": "名词",
+    "layer": "扩展认读"
+  },
+  {
+    "german": "Zigarette",
+    "article": "die",
+    "chinese": "香烟；卷烟",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Zimmer",
+    "article": "das",
+    "chinese": "房间",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Zoll",
+    "article": "der",
+    "chinese": "海关；关税",
+    "partOfSpeech": "名词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "zu",
+    "article": "",
+    "chinese": "到；往；向",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "zu sein",
+    "article": "",
+    "chinese": "关着的；关闭的",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "zufrieden",
+    "article": "",
+    "chinese": "满意的；满足的",
+    "partOfSpeech": "形容词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Zug",
+    "article": "der",
+    "chinese": "火车；列车",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "zum Beispiel/z. B.",
+    "article": "",
+    "chinese": "例如；比如",
+    "partOfSpeech": "其他",
+    "layer": "被动认读"
+  },
+  {
+    "german": "zurzeit",
+    "article": "",
+    "chinese": "目前；现在；眼下",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "zurück",
+    "article": "",
+    "chinese": "回来；返回；往回",
+    "partOfSpeech": "副词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "zusammen",
+    "article": "",
+    "chinese": "一起；共同",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "zwischen",
+    "article": "",
+    "chinese": "在……之间",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "öffnen",
+    "article": "",
+    "chinese": "打开；开",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "über",
+    "article": "",
+    "chinese": "越过；穿过；在……上面",
+    "partOfSpeech": "介词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "übernachten",
+    "article": "",
+    "chinese": "过夜；住宿",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "überweisen",
+    "article": "",
+    "chinese": "汇款；转账",
+    "partOfSpeech": "动词",
+    "layer": "被动认读"
+  },
+  {
+    "german": "Tag",
+    "article": "der",
+    "chinese": "天；日子；白天",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Woche",
+    "article": "die",
+    "chinese": "周；星期",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Monat",
+    "article": "der",
+    "chinese": "月；月份",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Jahr",
+    "article": "das",
+    "chinese": "年",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Abend",
+    "article": "der",
+    "chinese": "晚上；傍晚",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Morgen",
+    "article": "der",
+    "chinese": "早晨；早上",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Nacht",
+    "article": "die",
+    "chinese": "夜晚",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Sommer",
+    "article": "der",
+    "chinese": "夏天",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Winter",
+    "article": "der",
+    "chinese": "冬天",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Wochenende",
+    "article": "das",
+    "chinese": "周末",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Fenster",
+    "article": "das",
+    "chinese": "窗户",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Tür",
+    "article": "die",
+    "chinese": "门",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Stuhl",
+    "article": "der",
+    "chinese": "椅子",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Büro",
+    "article": "das",
+    "chinese": "办公室",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Euro",
+    "article": "der",
+    "chinese": "欧元",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Musik",
+    "article": "die",
+    "chinese": "音乐",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Tier",
+    "article": "das",
+    "chinese": "动物",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Katze",
+    "article": "die",
+    "chinese": "猫",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Körper",
+    "article": "der",
+    "chinese": "身体",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Käse",
+    "article": "der",
+    "chinese": "奶酪",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Hose",
+    "article": "die",
+    "chinese": "裤子",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Kleid",
+    "article": "das",
+    "chinese": "连衣裙",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Pullover",
+    "article": "der",
+    "chinese": "毛衣",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Freundin",
+    "article": "die",
+    "chinese": "女朋友；女性朋友",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Lehrerin",
+    "article": "die",
+    "chinese": "女教师",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Ärztin",
+    "article": "die",
+    "chinese": "女医生",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "Spiel",
+    "article": "das",
+    "chinese": "游戏；比赛",
+    "partOfSpeech": "名词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "vergessen",
+    "article": "",
+    "chinese": "忘记",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "denken",
+    "article": "",
+    "chinese": "想；思考；认为",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "zeigen",
+    "article": "",
+    "chinese": "指；展示；给…看",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "passen",
+    "article": "",
+    "chinese": "合身；适合",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "probieren",
+    "article": "",
+    "chinese": "尝试；试穿；品尝",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "singen",
+    "article": "",
+    "chinese": "唱歌",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "üben",
+    "article": "",
+    "chinese": "练习",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "buchen",
+    "article": "",
+    "chinese": "预订",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "putzen",
+    "article": "",
+    "chinese": "打扫；刷（牙）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "aufräumen",
+    "article": "",
+    "chinese": "收拾；整理",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "umsteigen",
+    "article": "",
+    "chinese": "换乘；转车",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "spazieren",
+    "article": "",
+    "chinese": "散步（多与 gehen 连用）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "fühlen",
+    "article": "",
+    "chinese": "感觉（sich fühlen 觉得）",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "weinen",
+    "article": "",
+    "chinese": "哭",
+    "partOfSpeech": "动词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "weil",
+    "article": "",
+    "chinese": "因为（引导从句）",
+    "partOfSpeech": "连词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "wieder",
+    "article": "",
+    "chinese": "又；再一次",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "manchmal",
+    "article": "",
+    "chinese": "有时",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "danach",
+    "article": "",
+    "chinese": "之后；然后",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "zuerst",
+    "article": "",
+    "chinese": "首先；先是",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "zuletzt",
+    "article": "",
+    "chinese": "最后",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "früh",
+    "article": "",
+    "chinese": "早",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "gesund",
+    "article": "",
+    "chinese": "健康的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kalt",
+    "article": "",
+    "chinese": "冷的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "warm",
+    "article": "",
+    "chinese": "暖和的；热的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "heiß",
+    "article": "",
+    "chinese": "烫的；炎热的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "kühl",
+    "article": "",
+    "chinese": "凉爽的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "offen",
+    "article": "",
+    "chinese": "开着的；营业的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "voll",
+    "article": "",
+    "chinese": "满的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "leer",
+    "article": "",
+    "chinese": "空的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "stark",
+    "article": "",
+    "chinese": "强壮的；浓的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "schwach",
+    "article": "",
+    "chinese": "弱的；淡的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "sicher",
+    "article": "",
+    "chinese": "安全的；确定的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "interessant",
+    "article": "",
+    "chinese": "有趣的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "hungrig",
+    "article": "",
+    "chinese": "饿的",
+    "partOfSpeech": "形容词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "viele",
+    "article": "",
+    "chinese": "许多（复数）",
+    "partOfSpeech": "代词",
+    "layer": "核心主动"
+  },
+  {
+    "german": "weg",
+    "article": "",
+    "chinese": "离开；不在（weg sein）",
+    "partOfSpeech": "副词",
+    "layer": "核心主动"
+  }
+]

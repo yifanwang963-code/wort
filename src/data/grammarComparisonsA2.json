@@ -1,0 +1,434 @@
+[
+  {
+    "id": "c-a2-1",
+    "title": "als vs wenn",
+    "intro": "",
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "＿＿ ich zehn Jahre alt war, sind wir umgezogen.",
+        "explain": "过去一次性阶段。",
+        "answer": "Als"
+      },
+      {
+        "type": "fill",
+        "q": "＿＿ ich Zeit habe, rufe ich dich an.",
+        "explain": "现在/将来用 wenn。",
+        "answer": "Wenn"
+      },
+      {
+        "type": "choice",
+        "q": "过去反复（每次下雨）",
+        "explain": "反复用 wenn。",
+        "options": [
+          "Als es regnete, blieben wir zu Hause.（每次）",
+          "Wenn es regnete, blieben wir zu Hause."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "＿＿ der Film anfing, wurde es still.（那一次）",
+        "explain": "一次性事件。",
+        "answer": "Als"
+      },
+      {
+        "type": "choice",
+        "q": "将来条件",
+        "explain": "将来只能 wenn。",
+        "options": [
+          "Wenn ich morgen komme, bringe ich Kuchen mit.",
+          "Als ich morgen komme, bringe ich Kuchen mit."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Immer ＿＿ ich ihn sehe, lacht er.",
+        "explain": "immer wenn = 每当。",
+        "answer": "wenn"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "昨天的单次到达用 als。",
+        "options": [
+          "Als ich gestern ankam, war sie weg.",
+          "Wenn ich gestern ankam（一次性）, war sie weg."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "als 从句前置 + 倒装（注：意群块拼读）。",
+        "tokens": [
+          "Als",
+          "klein war",
+          "ich",
+          "wir auf dem Land",
+          "lebten"
+        ],
+        "answer": [
+          "Als",
+          "ich",
+          "klein war",
+          "lebten",
+          "wir auf dem Land"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-a2-2",
+    "title": "Perfekt vs Präteritum（口语/书面分工）",
+    "intro": "",
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "朋友间口头讲昨天",
+        "explain": "口语报告用 Perfekt。",
+        "options": [
+          "Ich bin gestern ins Kino gegangen.",
+          "Gestern ging ich ins Kino und sah einen Film."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "小说第一句",
+        "explain": "书面叙事用 Präteritum。",
+        "options": [
+          "Es war einmal ein König, der in einem Schloss lebte.",
+          "Es ist einmal ein König gewesen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "口语填空",
+        "explain": "haben 口语叙述用 hatte，不用 habe … gehabt。",
+        "display": "Ich ＿＿ gestern keine Zeit.（haben 的口语过去式）",
+        "answer": "hatte"
+      },
+      {
+        "type": "choice",
+        "q": "新闻报道",
+        "explain": "新闻体 Präteritum。",
+        "options": [
+          "Der Zug kam mit Verspätung an.",
+          "Der Zug ist mit Verspätung angekommen gewesen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "聊天填空（两空）",
+        "explain": "口语问经历用 Perfekt：Hast du … gesehen?",
+        "display": "＿＿ du den Film schon ＿＿?（口语完成时）",
+        "answer": "Hast / gesehen",
+        "blankAnswers": [
+          "Hast",
+          "gesehen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "war 的场合",
+        "explain": "sein 的过去口语书面统一用 war。",
+        "options": [
+          "口语和书面都用 war，不用 „bin gewesen\" 作常态",
+          "„Ich bin gestern krank gewesen.\" 是唯一正确"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句（书面）",
+        "explain": "叙事过去式 ging。",
+        "tokens": [
+          "ging",
+          "Der König",
+          "Garten",
+          "in den"
+        ],
+        "answer": [
+          "Der König",
+          "ging",
+          "in den",
+          "Garten"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "同一事件两种说法，哪项配对对",
+        "explain": "口头 Perfekt、书面 Präteritum 是常态分工。",
+        "options": [
+          "口语：Ich habe ihn gesehen. / 书面：Ich sah ihn.",
+          "口语：Ich sah ihn. / 书面：Ich habe ihn gesehen."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-a2-3",
+    "title": "um … zu vs damit",
+    "intro": "",
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "同一主语（我学德语为了工作）",
+        "explain": "zu arbeiten 压尾成块。",
+        "options": [
+          "Ich lerne Deutsch, um zu arbeiten in Berlin.",
+          "Ich lerne Deutsch, um in Berlin zu arbeiten."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Ich spare, ＿＿ ich mir später ein Auto kaufen kann.（含 können 的目的，用从句）",
+        "explain": "带情态的目的用 damit 从句稳妥。",
+        "answer": "damit"
+      },
+      {
+        "type": "choice",
+        "q": "异主语",
+        "explain": "主语不同用 damit。",
+        "options": [
+          "Er erklärt es, um alle verstehen es.",
+          "Er erklärt es, damit alle es verstehen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Sie steht früh auf, um den Zug nicht zu ＿＿.",
+        "explain": "um … nicht zu verpassen。",
+        "answer": "verpassen"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主句与目的同主语，um … zu lernen 压尾。",
+        "tokens": [
+          "um",
+          "Ich",
+          "zu lernen",
+          "Deutsch",
+          "schneller",
+          "lerne"
+        ],
+        "answer": [
+          "Ich",
+          "lerne",
+          "Deutsch",
+          "um",
+          "schneller",
+          "zu lernen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "damit 从句 vergesse 压尾。",
+        "options": [
+          "Ich schreibe es auf, damit ich es nicht vergesse.",
+          "Ich schreibe es auf, um ich es nicht vergesse."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Er spricht laut, ＿＿ alle ihn hören.",
+        "explain": "alle 是新主语。",
+        "answer": "damit"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "damit 从句压尾。",
+        "tokens": [
+          "damit",
+          "Ich",
+          "es langsam",
+          "erkläre",
+          "alle",
+          "verstehen",
+          "es"
+        ],
+        "answer": [
+          "Ich",
+          "erkläre",
+          "es langsam",
+          "damit",
+          "alle",
+          "es",
+          "verstehen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-a2-4",
+    "title": "stellen vs stehen / legen vs liegen",
+    "intro": "",
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "把花瓶放桌上（动作）",
+        "explain": "动作 stellen + 宾格。",
+        "options": [
+          "Ich stelle die Vase auf den Tisch.",
+          "Ich stehe die Vase auf den Tisch."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Die Vase ＿＿ auf dem Tisch.（状态）",
+        "explain": "stehen + 与格。",
+        "answer": "steht"
+      },
+      {
+        "type": "choice",
+        "q": "书已经在桌上",
+        "explain": "liegen 状态。",
+        "options": [
+          "Das Buch liegt auf dem Tisch.",
+          "Das Buch legt auf dem Tisch."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Leg das Buch auf ＿＿ Tisch!",
+        "explain": "legen 动作，wohin 宾格。",
+        "answer": "den"
+      },
+      {
+        "type": "choice",
+        "q": "椅子在床边（状态）",
+        "explain": "椅子是「站」stehen，不是「躺」liegen。",
+        "options": [
+          "Der Stuhl steht neben dem Bett.",
+          "Der Stuhl liegt neben dem Bett."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Ich ＿＿ die Flasche in den Kühlschrank.（放，动作）",
+        "explain": "瓶子竖放 stellen。",
+        "answer": "stelle"
+      },
+      {
+        "type": "choice",
+        "q": "命令「坐下」",
+        "explain": "就位动作 sich setzen。",
+        "options": [
+          "Setz dich auf den Stuhl!",
+          "Sitz dich auf den Stuhl!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "状态 hängen + 与格。",
+        "tokens": [
+          "hängt",
+          "an der Wand",
+          "Das Bild"
+        ],
+        "answer": [
+          "Das Bild",
+          "hängt",
+          "an der Wand"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-a2-5",
+    "title": "ob vs dass vs wenn",
+    "intro": "",
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich weiß nicht, ＿＿ er kommt.\"（是否）",
+        "explain": "是否问题用 ob。",
+        "options": [
+          "ob",
+          "dass",
+          "wenn"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Ich weiß, ＿＿ er morgen kommt.（确定陈述）",
+        "explain": "知道事实用 dass。",
+        "answer": "dass"
+      },
+      {
+        "type": "fill",
+        "q": "＿＿ er morgen kommt, bringt er Kuchen mit.（如果）",
+        "explain": "条件用 wenn。",
+        "answer": "Wenn"
+      },
+      {
+        "type": "choice",
+        "q": "转述提问",
+        "explain": "转述是否问用 ob。",
+        "options": [
+          "Sie fragt, ob ich Zeit habe.",
+          "Sie fragt, dass ich Zeit habe."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Ich bin sicher, ＿＿ das stimmt.",
+        "explain": "确定语气用 dass。",
+        "answer": "dass"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "W 问不用 ob。",
+        "options": [
+          "Ich weiß nicht, ob wann er kommt.",
+          "Ich weiß nicht, wann er kommt."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ob 从句 hat 压尾。",
+        "tokens": [
+          "ob",
+          "Ich",
+          "er",
+          "weiß nicht",
+          "Zeit hat"
+        ],
+        "answer": [
+          "Ich",
+          "weiß nicht",
+          "ob",
+          "er",
+          "Zeit hat"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "＿＿ du willst, kannst du mitkommen.",
+        "explain": "如果 du willst 是条件，用 wenn。",
+        "answer": "Wenn"
+      }
+    ]
+  }
+]

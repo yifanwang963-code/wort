@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "g-a1-07",
+    "level": "A1",
+    "order": 8,
+    "title": "冠词与名词复数总览",
+    "titleDe": "Artikel & Plural",
+    "table": {
+      "caption": "定冠词与不定冠词——名词必须连冠词一起背",
+      "headers": [
+        "",
+        "阳性 der 类",
+        "阴性 die 类",
+        "中性 das 类",
+        "复数"
+      ],
+      "rows": [
+        [
+          "定冠词",
+          "der",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "不定冠词",
+          "ein",
+          "eine",
+          "ein",
+          "—（无）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "复数五种词尾——没有万能公式，只能连名词一起背，这里先认类型",
+        "headers": [
+          "词尾类型",
+          "例",
+          "例"
+        ],
+        "rows": [
+          [
+            "加 -e（常带变音）",
+            "der Tag → die Tage",
+            "der Tisch → die Tische"
+          ],
+          [
+            "加 -er（多带变音）",
+            "das Kind → die Kinder",
+            "das Buch → die Bücher"
+          ],
+          [
+            "加 -n / -en",
+            "die Frau → die Frauen",
+            "die Blume → die Blumen"
+          ],
+          [
+            "加 -s",
+            "das Auto → die Autos",
+            "das Hotel → die Hotels"
+          ],
+          [
+            "不变（可带变音）",
+            "der Lehrer → die Lehrer",
+            "der Apfel → die Äpfel"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "每个德语名词都有性别：der（阳）/ die（阴）/ das（中），和中文的「公母」无关——die Tür 是门、das Mädchen 是姑娘，性别是词的属性，只能连冠词当一个词背",
+      "有几条倾向能帮猜，但都不是铁律：以 -e 结尾的名词多为 die（die Blume, die Schule）；表示人的 -er 多为 der（der Lehrer）；-ung / -heit / -keit / -in 结尾必为 die（die Zeitung, die Lehrerin）；小词后缀 -chen / -lein 必为 das（das Mädchen）",
+      "复数没有统一规则：五类词尾都常见，背单词时把复数当第三件套——冠词、复数、词本身一起记（词库里已经这样存了）",
+      "复数前面定冠词永远是 die，不管单数是什么性别：der Tag → die Tage，das Kind → die Kinder"
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein Tisch.",
+        "zh": "这是一张桌子。"
+      },
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "这位女士在读一本书。"
+      },
+      {
+        "de": "Das Kind spielt im Garten.",
+        "zh": "孩子在花园里玩。"
+      },
+      {
+        "de": "Die Bücher sind neu.",
+        "zh": "这些书是新的。"
+      }
+    ],
+    "pitfalls": [
+      "别按自然性别猜冠词：das Mädchen（姑娘）是中性，die Person（人）是阴性——按词背，不按常识猜",
+      "复数 die 和阴性单数 die 长得一样，靠后面的动词区分：die Frau liest（单数）/ die Frauen lesen（复数）",
+      "不定冠词没有复数形式：不能 ein Bücher，要么光用名词，要么用 andere 等词（以后学）"
+    ],
+    "exercises": [
+      {
+        "type": "classify",
+        "prompt": "把名词分进 der / die / das 三栏",
+        "groups": [
+          "der",
+          "die",
+          "das"
+        ],
+        "items": [
+          {
+            "text": "der Mann",
+            "group": 0
+          },
+          {
+            "text": "die Tür",
+            "group": 1
+          },
+          {
+            "text": "das Haus",
+            "group": 2
+          },
+          {
+            "text": "der Bus",
+            "group": 0
+          },
+          {
+            "text": "die Stadt",
+            "group": 1
+          },
+          {
+            "text": "das Brot",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "Das ist ___ Tisch.（不定冠词）",
+        "answer": "ein",
+        "explain": "Tisch 是 der 类，不定冠词用 ein。"
+      },
+      {
+        "type": "fill",
+        "q": "Das ist ___ Tür.（不定冠词）",
+        "answer": "eine",
+        "explain": "Tür 是 die 类，不定冠词用 eine。"
+      },
+      {
+        "type": "choice",
+        "q": "Kind 的复数是？",
+        "options": [
+          "Kinds",
+          "Kinder",
+          "Kinde",
+          "Kindn"
+        ],
+        "answer": 1,
+        "explain": "das Kind → die Kinder，-er 型且必须连 die。"
+      },
+      {
+        "type": "choice",
+        "q": "Frau 的复数是？",
+        "options": [
+          "Fraus",
+          "Fraue",
+          "Frauen",
+          "Fräuer"
+        ],
+        "answer": 2,
+        "explain": "die Frau → die Frauen，-en 型。"
+      },
+      {
+        "type": "fill",
+        "q": "der Lehrer 的复数：die ___",
+        "answer": "Lehrer",
+        "explain": "-er 表示人的名词复数不变，只换冠词 der→die。"
+      },
+      {
+        "type": "fill",
+        "q": "das Buch 的复数：die ___",
+        "answer": "Bücher",
+        "explain": "Buch → Bücher，-er 型带变音 u→ü。"
+      },
+      {
+        "type": "choice",
+        "q": "哪个名词必定是 die 类？",
+        "options": [
+          "der Lehrer",
+          "die Zeitung",
+          "das Mädchen",
+          "der Tag"
+        ],
+        "answer": 1,
+        "explain": "-ung 结尾必为 die。"
+      },
+      {
+        "type": "fill",
+        "q": "___ Kinder spielen.（定冠词）",
+        "answer": "Die",
+        "explain": "复数定冠词永远是 die。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "ein",
+          "Das",
+          "ist",
+          "Auto"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "ein",
+          "Auto"
+        ],
+        "explain": "Auto 是 das 类，不定冠词 ein。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie liest ___ Buch.（不定冠词）",
+        "answer": "ein",
+        "explain": "Buch 是 das 类，宾格中性不定冠词仍是 ein（下一单元细讲）。"
+      },
+      {
+        "type": "choice",
+        "q": "Apfel 的复数是？",
+        "options": [
+          "Apfels",
+          "Äpfel",
+          "Apfeln",
+          "Apfele"
+        ],
+        "answer": 1,
+        "explain": "der Apfel → die Äpfel，不变型带变音。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "die Tage",
+        "q": "你听到的是单数还是复数？",
+        "options": [
+          "单数（der Tag）",
+          "复数（die Tage）"
+        ],
+        "answer": 1,
+        "explain": "复数冠词 die + Tage 的 -e 尾。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Das ist eine Schule.",
+        "display": "Das ist ___ Schule.",
+        "answer": "eine",
+        "explain": "Schule 是 die 类，不定冠词 eine。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Die Kinder spielen.",
+        "answer": "Die Kinder spielen.",
+        "explain": "复数主语配复数动词 spielen。"
+      }
+    ],
+    "reading": {
+      "text": "Das ist mein Zimmer. Hier ist ein Tisch. Auf dem Tisch ist ein Buch. Die Tür ist offen. Das Fenster ist groß.",
+      "questions": [
+        {
+          "q": "Was ist auf dem Tisch?",
+          "options": [
+            "eine Tür",
+            "ein Buch",
+            "ein Fenster"
+          ],
+          "answer": 1,
+          "explain": "Auf dem Tisch ist ein Buch。"
+        },
+        {
+          "q": "Wie ist das Fenster?",
+          "options": [
+            "offen",
+            "neu",
+            "groß"
+          ],
+          "answer": 2,
+          "explain": "Das Fenster ist groß；offen 是 Tür 的。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用 Das ist … 句型介绍你房间里的 4 样东西，带正确的不定冠词。",
+      "sample": "Das ist ein Tisch. Das ist ein Stuhl. Das ist eine Lampe. Das ist ein Bett."
+    }
+  },
+  {
+    "id": "g-a1-08",
+    "level": "A1",
+    "order": 9,
+    "title": "主格与宾格",
+    "titleDe": "Nominativ & Akkusativ",
+    "table": {
+      "caption": "宾格只有阳性变——全表就动这一格，先把这张表焊死",
+      "headers": [
+        "",
+        "der 类",
+        "die 类",
+        "das 类",
+        "复数"
+      ],
+      "rows": [
+        [
+          "主格（主语）",
+          "der",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "宾格（直接宾语）",
+          "den",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "主格不定",
+          "ein",
+          "eine",
+          "ein",
+          "—"
+        ],
+        [
+          "宾格不定",
+          "einen",
+          "eine",
+          "ein",
+          "—"
+        ]
+      ],
+      "hl": [
+        [
+          1,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "extraTables": [],
+    "rules": [
+      "主格回答「谁/什么在做动作」（主语），宾格回答「动词作用到谁/什么上」（直接宾语）：Der Mann（主） kauft den Wagen（宾）",
+      "变化只发生在阳性单数：der→den、ein→einen。die、das、复数在宾格里原样不动——全德语最划算的一条规则",
+      "哪些动词带宾格，先记高频这批：haben, kaufen, essen, trinken, sehen, lesen, hören, brauchen, suchen, finden, lieben",
+      "提问词：问主语用 Wer（人）/ Was（物），问宾格的人用 Wen：Wen siehst du?（你看见谁？）"
+    ],
+    "examples": [
+      {
+        "de": "Ich sehe den Mann.",
+        "zh": "我看见那个男人。"
+      },
+      {
+        "de": "Der Lehrer trinkt einen Kaffee.",
+        "zh": "老师在喝一杯咖啡。"
+      },
+      {
+        "de": "Sie kauft die Blumen.",
+        "zh": "她在买花。——die 不变"
+      },
+      {
+        "de": "Wir essen das Brot.",
+        "zh": "我们在吃面包。——das 不变"
+      }
+    ],
+    "pitfalls": [
+      "只变阳性：别把 die、das 也「顺手变了」，Sie kauft den Blumen 是典型中式错误",
+      "einen 别漏 n：Ich trinke ein Kaffee 错在两处——Kaffee 是 der 类、宾格要 einen",
+      "不是所有动词后的名词都是宾格：sein 后面是主格（Er ist ein Lehrer，不变 einen）"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich sehe ___ Mann.（定冠词，宾格）",
+        "answer": "den",
+        "explain": "阳性宾格 der→den。"
+      },
+      {
+        "type": "fill",
+        "q": "Er trinkt ___ Kaffee.（不定冠词，宾格）",
+        "answer": "einen",
+        "explain": "Kaffee 是 der 类，宾格不定冠词 einen。"
+      },
+      {
+        "type": "choice",
+        "q": "Sie liest ___ Buch.",
+        "options": [
+          "den",
+          "das",
+          "dem"
+        ],
+        "answer": 1,
+        "explain": "Buch 是 das 类，宾格不变，仍用 das。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir kaufen ___ Blumen.（定冠词，宾格）",
+        "answer": "die",
+        "explain": "复数宾格不变，还是 die。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "den",
+          "Hund",
+          "Ich",
+          "sehe"
+        ],
+        "answer": [
+          "Ich",
+          "sehe",
+          "den",
+          "Hund"
+        ],
+        "explain": "Hund 是 der 类做宾语，用 den。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich habe einen Bruder.",
+          "Ich habe ein Bruder.",
+          "Ich habe einem Bruder."
+        ],
+        "answer": 0,
+        "explain": "haben 带宾格，Bruder 阳性 → einen。"
+      },
+      {
+        "type": "fill",
+        "q": "___ siehst du?（问「你看见谁」）",
+        "answer": "Wen",
+        "explain": "问宾格的人用 Wen。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Kind isst ___ Apfel.（不定冠词）",
+        "answer": "einen",
+        "explain": "Apfel 是 der 类，宾格 einen。"
+      },
+      {
+        "type": "choice",
+        "q": "Er ist ___ Lehrer.",
+        "options": [
+          "einen",
+          "ein",
+          "den"
+        ],
+        "answer": 1,
+        "explain": "sein 后面跟主格，不用宾格：ein Lehrer。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie sucht ___ Schlüssel.（定冠词，钥匙 der Schlüssel）",
+        "answer": "den",
+        "explain": "suchen 带宾格，阳性用 den。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "trinkt",
+          "Sie",
+          "einen",
+          "Tee"
+        ],
+        "answer": [
+          "Sie",
+          "trinkt",
+          "einen",
+          "Tee"
+        ],
+        "explain": "Tee 是 der 类，宾格 einen。"
+      },
+      {
+        "type": "choice",
+        "q": "Die Mutter kauft ___ Milch.",
+        "options": [
+          "den",
+          "die",
+          "das"
+        ],
+        "answer": 1,
+        "explain": "Milch 是 die 类，宾格不变 die。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "den",
+        "q": "你听到的是哪个格的冠词？",
+        "options": [
+          "主格",
+          "宾格"
+        ],
+        "answer": 1,
+        "explain": "den 只可能是阳性宾格。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich sehe den Lehrer.",
+        "display": "Ich sehe ___ Lehrer.",
+        "answer": "den",
+        "explain": "听清 den 的尾音 n。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Wir essen das Brot.",
+        "answer": "Wir essen das Brot.",
+        "explain": "das 中性宾格不变，别听成 den。"
+      }
+    ],
+    "reading": {
+      "text": "Anna geht in den Supermarkt. Sie kauft das Brot und die Milch. Sie braucht auch einen Kaffee. Zu Hause isst sie das Brot und trinkt den Kaffee.",
+      "questions": [
+        {
+          "q": "Was kauft Anna im Supermarkt?",
+          "options": [
+            "nur Brot",
+            "Brot, Milch und Kaffee",
+            "nur Kaffee"
+          ],
+          "answer": 1,
+          "explain": "三样都买了：das Brot、die Milch、einen Kaffee。"
+        },
+        {
+          "q": "Was trinkt Anna zu Hause?",
+          "options": [
+            "die Milch",
+            "das Brot",
+            "den Kaffee"
+          ],
+          "answer": 2,
+          "explain": "trinkt den Kaffee（阳性宾格）。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用 kaufen / essen / trinken / sehen 各写一句带宾格的句子，注意只有阳性要变。",
+      "sample": "Ich kaufe einen Apfel. Ich esse das Brot. Ich trinke einen Tee. Ich sehe die Frau."
+    }
+  },
+  {
+    "id": "g-a1-09",
+    "level": "A1",
+    "order": 10,
+    "title": "否定 kein 与 nicht",
+    "titleDe": "Negation: kein & nicht",
+    "table": {
+      "caption": "先分工——否定名词用 kein，否定其它一切用 nicht",
+      "headers": [
+        "否定的对象",
+        "用哪个",
+        "例"
+      ],
+      "rows": [
+        [
+          "带 ein 的名词",
+          "kein（跟 ein 一样变格）",
+          "Ich habe keine Zeit."
+        ],
+        [
+          "不带冠词的名词",
+          "kein",
+          "Er trinkt keinen Kaffee."
+        ],
+        [
+          "带 der/die/das 的名词",
+          "nicht",
+          "Das ist nicht der Bus."
+        ],
+        [
+          "动词 / 整句",
+          "nicht",
+          "Ich komme nicht."
+        ],
+        [
+          "形容词 / 副词",
+          "nicht",
+          "Das ist nicht gut."
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "kein 的变格 = ein 的变格加 k，宾格阳性 keinen",
+        "headers": [
+          "",
+          "der 类",
+          "die 类",
+          "das 类",
+          "复数"
+        ],
+        "rows": [
+          [
+            "主格",
+            "kein",
+            "keine",
+            "kein",
+            "keine"
+          ],
+          [
+            "宾格",
+            "keinen",
+            "keine",
+            "kein",
+            "keine"
+          ]
+        ],
+        "hl": [
+          [
+            1,
+            1
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "判断只看一名词：句子里要否定的名词前面是 ein 或光杆名词 → 把 ein 换成 kein（Ich habe ein Auto → Ich habe kein Auto）；名词前面是 der/die/das（特指）→ kein 上不了场，用 nicht",
+      "kein 的变格和 ein 完全同轨：主格 keine Zeit、宾格阳性 keinen Kaffee，上一单元的宾格规则原样套用",
+      "nicht 的位置：否定整句时站在句尾区——Ich komme heute nicht.；带宾语时站在宾语后——Ich trinke den Kaffee nicht.（对比：Ich trinke keinen Kaffee，两句意思相近、结构分工不同）",
+      "情态/可分动词句里，nicht 站在句尾动词（原形/前缀）的前面：Ich kann heute nicht kommen. / Ich stehe heute nicht auf.",
+      "回答是非问句说「不」用 Nein；对方说了带 nicht 的陈述、你要反驳说「不，恰恰相反」用 Doch（先认得出，A2 细练）"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe keine Zeit.",
+        "zh": "我没时间。"
+      },
+      {
+        "de": "Er trinkt keinen Kaffee.",
+        "zh": "他不喝咖啡。"
+      },
+      {
+        "de": "Das ist nicht mein Bus.",
+        "zh": "这不是我的公交车。"
+      },
+      {
+        "de": "Wir kommen heute nicht.",
+        "zh": "我们今天不来。"
+      }
+    ],
+    "pitfalls": [
+      "中国人最爱把 kein 和 nicht 混着用：否定「一杯咖啡」是 keinen Kaffee，否定「这杯（特指的）咖啡」才轮到 den Kaffee nicht",
+      "keinen 别丢尾巴：Er trinkt kein Kaffee 错，阳性宾格必须 keinen",
+      "nicht 别学英语放在动词前：Ich nicht komme 是错的，它在句尾区"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Ich habe ___ Zeit.（否定）",
+        "options": [
+          "nicht",
+          "keine",
+          "keinen"
+        ],
+        "answer": 1,
+        "explain": "Zeit 是 die 类、光杆名词，否定用 keine。"
+      },
+      {
+        "type": "fill",
+        "q": "Er trinkt ___ Kaffee.（否定）",
+        "answer": "keinen",
+        "explain": "Kaffee 阳性宾格，kein 的宾格 keinen。"
+      },
+      {
+        "type": "choice",
+        "q": "Das ist ___ gut.",
+        "options": [
+          "kein",
+          "nicht",
+          "keine"
+        ],
+        "answer": 1,
+        "explain": "否定形容词 gut 用 nicht。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie hat ___ Hund.（否定，der Hund）",
+        "answer": "keinen",
+        "explain": "宾格阳性 keinen。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich komme nicht heute.",
+          "Ich komme heute nicht.",
+          "Ich nicht komme heute."
+        ],
+        "answer": 1,
+        "explain": "nicht 站句尾区：heute nicht。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir haben ___ Kinder.（否定）",
+        "answer": "keine",
+        "explain": "复数否定用 keine。"
+      },
+      {
+        "type": "choice",
+        "q": "「Ich trinke den Kaffee nicht.」里的 den Kaffee 为什么不用 kein 否定？",
+        "options": [
+          "因为 Kaffee 是阳性",
+          "因为带定冠词是特指",
+          "因为 trinken 特殊"
+        ],
+        "answer": 1,
+        "explain": "带 der/die/das 的特指名词只能用 nicht。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "nicht",
+          "Ich",
+          "kann",
+          "kommen",
+          "heute"
+        ],
+        "answer": [
+          "Ich",
+          "kann",
+          "heute",
+          "nicht",
+          "kommen"
+        ],
+        "explain": "nicht 站在句尾原形 kommen 前面。"
+      },
+      {
+        "type": "fill",
+        "q": "Das ist ___ Problem.（否定，das Problem）",
+        "answer": "kein",
+        "explain": "das 类主格 kein。"
+      },
+      {
+        "type": "choice",
+        "q": "Ich stehe heute ___ auf.",
+        "options": [
+          "kein",
+          "nicht",
+          "keine"
+        ],
+        "answer": 1,
+        "explain": "否定可分动词整句用 nicht，站在前缀 auf 前。"
+      },
+      {
+        "type": "fill",
+        "q": "Er ist ___ Lehrer.（否定，他不是老师）",
+        "answer": "kein",
+        "explain": "sein 后跟名词、否定用 kein + 主格 kein。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "keine",
+          "Sie",
+          "hat",
+          "Zeit"
+        ],
+        "answer": [
+          "Sie",
+          "hat",
+          "keine",
+          "Zeit"
+        ],
+        "explain": "keine 站在名词 Zeit 前。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "keinen",
+        "q": "你听到的否定词是哪种形式？",
+        "options": [
+          "主格阳性 kein",
+          "宾格阳性 keinen",
+          "复数 keine"
+        ],
+        "answer": 1,
+        "explain": "尾音 -en 是宾格阳性的标记。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich habe keine Zeit.",
+        "display": "Ich habe ___ Zeit.",
+        "answer": "keine",
+        "explain": "Zeit 是 die 类，keine。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Er kommt heute nicht.",
+        "answer": "Er kommt heute nicht.",
+        "explain": "nicht 在句尾，别写到动词前面去。"
+      }
+    ],
+    "reading": {
+      "text": "Peter hat kein Auto. Er fährt mit dem Bus. Er hat heute keine Zeit. Er kann nicht kommen. Er ist nicht krank, er arbeitet nur lange.",
+      "questions": [
+        {
+          "q": "Warum kommt Peter nicht?",
+          "options": [
+            "Er ist krank.",
+            "Er hat keine Zeit.",
+            "Er hat kein Bus."
+          ],
+          "answer": 1,
+          "explain": "Er hat keine Zeit；原文明确 ist nicht krank。"
+        },
+        {
+          "q": "Wie fährt Peter?",
+          "options": [
+            "mit dem Auto",
+            "mit dem Bus",
+            "Er fährt nicht."
+          ],
+          "answer": 1,
+          "explain": "hat kein Auto, fährt mit dem Bus。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句否定句：两句用 kein 系列、两句用 nicht。",
+      "sample": "Ich habe keinen Hund. Ich habe keine Katze. Ich komme heute nicht. Das Wetter ist nicht gut."
+    }
+  },
+  {
+    "id": "g-a1-10",
+    "level": "A1",
+    "order": 11,
+    "title": "物主代词",
+    "titleDe": "Possessivartikel: mein, dein, sein, ihr …",
+    "table": {
+      "caption": "先按「谁的」选词干，再按名词的性别与格加词尾",
+      "headers": [
+        "所有者",
+        "词干",
+        "所有者",
+        "词干"
+      ],
+      "rows": [
+        [
+          "ich",
+          "mein-",
+          "wir",
+          "unser-"
+        ],
+        [
+          "du",
+          "dein-",
+          "ihr",
+          "euer-"
+        ],
+        [
+          "er / es",
+          "sein-",
+          "sie（他们）/ Sie（您）",
+          "ihr- / Ihr-"
+        ],
+        [
+          "sie（她）",
+          "ihr-",
+          "",
+          ""
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "词尾和 ein 一模一样——以 mein 为例",
+        "headers": [
+          "",
+          "der 类",
+          "die 类",
+          "das 类",
+          "复数"
+        ],
+        "rows": [
+          [
+            "主格",
+            "mein",
+            "meine",
+            "mein",
+            "meine"
+          ],
+          [
+            "宾格",
+            "meinen",
+            "meine",
+            "mein",
+            "meine"
+          ]
+        ],
+        "hl": [
+          [
+            1,
+            1
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "两步走：先看所有者选词干（我的 mein、你的 dein、他的 sein、她的 ihr），再看后面名词的性别和格选词尾——词尾规则就是 ein 那一套，主格 mein Vater / meine Mutter / mein Kind，宾格阳性 meinen Vater",
+      "sein 和 ihr 是本单元的雷区：er/es 的「他的」是 sein，sie（她）的「她的」是 ihr，sie（他们）的「他们的」也是 ihr——靠上下文分辨，听读时先问「谁的」",
+      "euer 遇到词尾要瘦身：euer + e = eure（不是 euere）：eure Mutter",
+      "Sie（您）的物主是 Ihr，首字母大写：Ihr Name, bitte.",
+      "unser 的词尾直接接：unser Lehrer / unsere Schule / unseren Lehrer（宾格阳性）"
+    ],
+    "examples": [
+      {
+        "de": "Das ist mein Bruder.",
+        "zh": "这是我哥哥/弟弟。"
+      },
+      {
+        "de": "Sie liebt ihren Hund.",
+        "zh": "她爱她的狗。——ihr + 宾格阳性词尾 -en"
+      },
+      {
+        "de": "Unser Lehrer ist sehr nett.",
+        "zh": "我们的老师非常好。"
+      },
+      {
+        "de": "Wo ist deine Tasche?",
+        "zh": "你的包在哪里？"
+      }
+    ],
+    "pitfalls": [
+      "「她的」不要用 sein：Sie liebt seinen Hund 是「她爱他的狗」，主语是女的就用 ihr",
+      "宾格阳性词尾别漏：Ich sehe mein Vater 错，要 meinen Vater",
+      "eure 不是 euere：euer 碰上词尾先去掉中间的 e"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Das ist ___ Vater.（我的）",
+        "answer": "mein",
+        "explain": "Vater 是 der 类主格，mein 不加尾。"
+      },
+      {
+        "type": "fill",
+        "q": "Das ist ___ Mutter.（我的）",
+        "answer": "meine",
+        "explain": "Mutter 是 die 类，词尾 -e。"
+      },
+      {
+        "type": "choice",
+        "q": "Peter ruft ___ Mutter an.（他的）",
+        "options": [
+          "seine",
+          "ihre",
+          "deinen"
+        ],
+        "answer": 0,
+        "explain": "所有者是 Peter（男），用 sein 系列，Mutter 阴性 → seine。"
+      },
+      {
+        "type": "fill",
+        "q": "Anna liebt ___ Hund.（她的，宾格）",
+        "answer": "ihren",
+        "explain": "所有者是 Anna（女）用 ihr，Hund 阳性宾格词尾 -en → ihren。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir lieben ___ Lehrer.（我们的，宾格）",
+        "answer": "unseren",
+        "explain": "Lehrer 阳性宾格，unser + en。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "deine",
+          "Wo",
+          "ist",
+          "Tasche"
+        ],
+        "answer": [
+          "Wo",
+          "ist",
+          "deine",
+          "Tasche"
+        ],
+        "explain": "Tasche 阴性，deine。"
+      },
+      {
+        "type": "choice",
+        "q": "___ Name, bitte?（对您说）",
+        "options": [
+          "Dein",
+          "Ihr",
+          "Sein"
+        ],
+        "answer": 1,
+        "explain": "对 Sie 称呼用 Ihr，大写。"
+      },
+      {
+        "type": "fill",
+        "q": "Ihr habt ___ Bücher hier.（你们的）",
+        "answer": "eure",
+        "explain": "euer + 复数词尾 -e 要瘦身：eure，不是 euere。"
+      },
+      {
+        "type": "fill",
+        "q": "Er sucht ___ Schlüssel.（他的，宾格）",
+        "answer": "seinen",
+        "explain": "sein + 阳性宾格 -en → seinen。"
+      },
+      {
+        "type": "choice",
+        "q": "Maria und Anna kommen. ___ Vater wartet.（她们的）",
+        "options": [
+          "Sein",
+          "Ihr",
+          "Dein"
+        ],
+        "answer": 1,
+        "explain": "所有者是她们（复数 sie），用 ihr 系列，句首大写 Ihr。"
+      },
+      {
+        "type": "fill",
+        "q": "Ich sehe ___ Kind.（你的，das Kind）",
+        "answer": "dein",
+        "explain": "中性宾格词尾不变，dein。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "meinen",
+          "Ich",
+          "sehe",
+          "Bruder"
+        ],
+        "answer": [
+          "Ich",
+          "sehe",
+          "meinen",
+          "Bruder"
+        ],
+        "explain": "sehen 带宾格，Bruder 阳性 meinen。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "seinen",
+        "q": "你听到的意思是？",
+        "options": [
+          "我的（宾格）",
+          "他的（宾格）",
+          "她的（主格）"
+        ],
+        "answer": 1,
+        "explain": "seinen = sein + 宾格阳性词尾，他的。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Das ist meine Schwester.",
+        "display": "Das ist ___ Schwester.",
+        "answer": "meine",
+        "explain": "Schwester 阴性，meine。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Unser Lehrer ist nett.",
+        "answer": "Unser Lehrer ist nett.",
+        "explain": "unser + der 类主格无额外词尾。"
+      }
+    ],
+    "reading": {
+      "text": "Ich heiße Jonas. Das ist meine Familie: mein Vater heißt Thomas, meine Mutter heißt Eva. Meine Schwester Anna liebt ihren Hund. Unser Hund heißt Bello.",
+      "questions": [
+        {
+          "q": "Wie heißt Jonas' Schwester?",
+          "options": [
+            "Eva",
+            "Anna",
+            "Bello"
+          ],
+          "answer": 1,
+          "explain": "meine Schwester Anna；Eva 是母亲，Bello 是狗。"
+        },
+        {
+          "q": "Wessen Hund ist Bello?（Bello 是谁的狗）",
+          "options": [
+            "Jonas' Vater",
+            "Annas",
+            "der Familie"
+          ],
+          "answer": 2,
+          "explain": "原文 Unser Hund heißt Bello——全家的狗。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "介绍你的家人 4 句，必须用到 mein、sein 或 ihr、unser 中的至少三个词干。",
+      "sample": "Das ist meine Mutter. Ihr Name ist Li Na. Mein Vater arbeitet in Shanghai. Unser Haus ist in Shanghai."
+    }
+  }
+]

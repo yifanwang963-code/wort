@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "p-b2-01",
+    "level": "B2",
+    "order": 1,
+    "title": "长句节奏与态度重音",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（长句切分与重音的三个层次）",
+      "headers": [
+        "层次",
+        "规则",
+        "示例"
+      ],
+      "rows": [
+        [
+          "意群切分",
+          "长句按意思切成 2–4 个意群，在从句前、并列连接处、长介词短语后停顿",
+          "Der Minister erklärte, / dass die Regierung / trotz der hohen Kosten / an dem Plan festhalte."
+        ],
+        [
+          "句核重音",
+          "每个意群末尾的信息焦点重读，其余弱读带过",
+          "Die KOSTEN sind das Problem, nicht der ZEITPLAN."
+        ],
+        [
+          "态度重音",
+          "doch / halt / eben / ja 等小词重读时表说话人态度（不耐烦、强调、无奈）",
+          "Das habe ich dir doch GESAGT!（不耐烦）/ Es ist halt SO.（无奈接受）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "停顿位置跟意思走，不跟逗号机械对应；切分错位会改变意思（„die Schüler, die fleißig lernen\" 不能在 die 后停）。",
+      "重音移动改意：„ER hat das gesagt\"（是他，不是别人）vs „Er hat das GESAGT\"（说了，不是写了）。",
+      "朗读长句先找主干（主语+谓语框架），附加成分成组读出，语速在意群内稳、意群间微停。",
+      "态度小词在 B1 已学语义，本单元只练「重读=态度升级」的听辨与模仿。"
+    ],
+    "examples": [
+      {
+        "de": "Der Bericht, den alle seit Wochen erwartet hatten, wurde gestern endlich veröffentlicht.",
+        "zh": "（三意群）"
+      },
+      {
+        "de": "Sie hat das Angebot nicht abgelehnt, sondern nur eine Bedenkzeit verlangt.",
+        "zh": "（对比重音）"
+      },
+      {
+        "de": "Das ist ja UNGLAUBLICH, was du da erzählst!",
+        "zh": "（惊讶）"
+      },
+      {
+        "de": "Komm doch endlich, wir warten schon seit einer Stunde!",
+        "zh": "（催促）"
+      },
+      {
+        "de": "Er wird halt nie pünktlich sein, das muss man akzeptieren.",
+        "zh": "（无奈）"
+      },
+      {
+        "de": "Nicht der PREIS ist entscheidend, sondern die QUALITÄT des Produkts.",
+        "zh": "（纠正）"
+      }
+    ],
+    "pitfalls": [
+      "一口气读到底不切分，听者抓不住主干。",
+      "把每个实词都重读，等于没有重音，焦点消失。",
+      "态度小词弱读时是中性语气，重读才带态度，两者别混。"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "q": "听句子 „Das habe ich nicht gesagt.\" 三种重音版，哪一版是「我没说过（别人说的）」的意思",
+        "explain": "重音落在 ich 上，强调主语本人，对比言下之意「说的人不是我」。",
+        "audio": "Das habe ICH nicht gesagt.",
+        "listeningNote": "语音合成只提供单条点读；请结合文字选项辨别。",
+        "options": [
+          "重音在 ich（是我没说）",
+          "重音在 gesagt（我没说，是写的）",
+          "重音在 nicht（我坚决否认）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "长句 „Der Zug, der aus München kam und über zwei Stunden Verspätung hatte, erreichte den Bahnhof erst gegen Mitternacht.\" 最合理的切分是？",
+        "explain": "关系从句内部成一意群，主干 „Der Zug … erreichte den Bahnhof erst gegen Mitternacht\" 前后切分。",
+        "options": [
+          "在 „kam\" 和 „hatte\" 后各停一次",
+          "只在句末停",
+          "每个逗号类位置都停"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "„Sie will den Preis nicht senken.\" 要表达「她不肯降价（是价格不降，别的可谈）」，重音应落在？",
+        "explain": "焦点在 Preis 上，对比其他条件可以让步。",
+        "options": [
+          "will",
+          "Preis",
+          "senken"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨态度",
+        "explain": "doch 重读 + SELBST 重读，是带不耐烦的提醒语气。",
+        "audio": "Das weißt du doch SELBST am besten!",
+        "options": [
+          "不耐烦地提醒",
+          "平静地陈述事实",
+          "惊讶地发问"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "用重音标记改写：要强调「是明天，不是今天」，句子 „Wir fahren morgen ab.\" 应重读 ＿＿",
+        "explain": "焦点词是与对比项（今天）相对的 morgen。",
+        "answer": "morgen"
+      },
+      {
+        "type": "choice",
+        "q": "哪句的重音表达「无奈接受现实」？",
+        "explain": "halt 表「事实如此、只能接受」的无奈语气。",
+        "options": [
+          "Es ist halt SO, wie es ist.",
+          "Es ist JA so, wie es ist!",
+          "Es ist DOCH so, wie es ist?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写（意群内连读）",
+        "explain": "注意 Trotz 引导的介词意群在句首，动词 hält 居第二位。",
+        "audio": "Trotz der hohen Kosten hält die Regierung an dem Plan fest.",
+        "answer": "Trotz der hohen Kosten hält die Regierung an dem Plan fest."
+      },
+      {
+        "type": "choice",
+        "q": "切分错误、会改变意思的是？",
+        "explain": "在定冠词 die 后切开，把关系代词与先行词拆散，意群破碎。",
+        "options": [
+          "Die Schüler, / die fleißig lernen, / bestehen die Prüfung.",
+          "Die Schüler, die / fleißig lernen, bestehen die Prüfung.",
+          "全句一口气不读停顿"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "补入对比结构词：„Nicht der Lehrer, ＿＿ die Schüler haben den Ausflug geplant.\"",
+        "explain": "nicht … sondern 是固定对比结构，被否定的部分在前，真正的焦点 die Schüler 在 sondern 之后。",
+        "answer": "sondern"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听 „Er soll morgen kommen.\" 两版，辨哪版是疑问语气（升调）",
+        "explain": "句末升调把陈述变疑问，表惊讶或确认。",
+        "audio": "Er soll morgen KOMMEN?",
+        "listeningNote": "语音合成只提供单条点读；请结合文字选项辨别。",
+        "options": [
+          "升调版是疑问",
+          "降调版是疑问",
+          "两版语气相同"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "朗读新闻长句时，第一步应该做什么？",
+        "explain": "主干先行是长句朗读与听辨的通用策略。",
+        "options": [
+          "先找主干（主语与谓语框架），再把附加成分分组",
+          "逐词平均用力读完",
+          "先读从句再读主句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "态度小词填空（表催促不耐烦）：„Mach ＿＿ endlich, wir kommen sonst zu spät!\"",
+        "explain": "doch 在祈使句中重读表催促。",
+        "answer": "doch"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句 „Das ist aber SCHÖN!\" 辨态度",
+        "explain": "aber+形容词重读在此为真心加强语气；讽刺需结合语境与拖长音，单听此句按赞美判。",
+        "audio": "Das ist aber SCHÖN!",
+        "options": [
+          "真心赞美",
+          "讽刺挖苦",
+          "平静叙述"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "„Nur die KOSTEN wurden gesenkt.\" 的言下之意是？",
+        "explain": "焦点在 KOSTEN，nur 限定范围。",
+        "options": [
+          "只降了成本，其他没降",
+          "成本降了很多",
+          "成本根本没降"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "把意群按朗读顺序排列（tokens 为意群块）",
+        "explain": "主句开头、dass 从句随后、介词短语成组、句末动词收尾。",
+        "tokens": [
+          "an dem Plan",
+          "dass die Regierung",
+          "Der Minister erklärte,",
+          "trotz der hohen Kosten",
+          "festhalte."
+        ],
+        "answer": [
+          "Der Minister erklärte,",
+          "dass die Regierung",
+          "trotz der hohen Kosten",
+          "an dem Plan",
+          "festhalte."
+        ],
+        "displayAnswer": "Der Minister erklärte, / dass die Regierung / trotz der hohen Kosten / an dem Plan / festhalte."
+      },
+      {
+        "type": "choice",
+        "q": "录音复述长句时语速应该？",
+        "explain": "节奏来自意群组织，不是均匀切分。",
+        "options": [
+          "意群内平稳、意群间微停、焦点处放慢加重",
+          "全程匀速最快读完",
+          "每个词之间都停顿"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Wer lange Sätze laut vorliest, braucht zuerst einen Plan. Erfahrene Sprecher suchen den Kern des Satzes: Wer tut was? Alles andere ordnen sie in Gruppen. Zwischen den Gruppen darf die Stimme kurz ruhen, innerhalb einer Gruppe bleibt sie in Bewegung. Besonders wichtig ist der Schluss eines Satzes, denn dort steht oft die neue Information. Wer sie betont, hilft den Hörern. Auch kleine Wörter wie „doch\" oder „halt\" verdienen Aufmerksamkeit: Betont gesprochen, zeigen sie Ungeduld, Erstaunen oder Gelassenheit. So wird aus einem langen Satz keine Last, sondern eine klare Botschaft an die Zuhörer.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①朗读者第一步找什么？（答：句子的核心——谁做什么）②新信息常在句子的哪个位置，要怎么处理？（答：句末，要重读）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "选本单元例句 1 与例句 4，各朗读两遍：第一遍自然读，第二遍按意群切分、焦点加重读。",
+      "sample": "范文节奏标注：Der BeRICHT, / den alle seit WOCHEN erwartet hatten, / wurde GESTERN endlich verÖFFentlicht.",
+      "selfcheck": "自查：意群间有微停 □；焦点词明显加重 □；没有逐词平均用力 □。"
+    },
+    "writingLabel": "口头任务"
+  },
+  {
+    "id": "g-b2-01",
+    "level": "B2",
+    "order": 2,
+    "title": "Konjunktiv I：间接引语产出",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（Konjunktiv I 核心形式，现在时词干 + KI 词尾）",
+      "headers": [
+        "动词",
+        "ich",
+        "du",
+        "er/sie/es",
+        "wir",
+        "ihr",
+        "sie/Sie"
+      ],
+      "rows": [
+        [
+          "sein",
+          "sei",
+          "sei(e)st",
+          "sei",
+          "seien",
+          "seiet",
+          "seien"
+        ],
+        [
+          "haben",
+          "habe",
+          "habest",
+          "habe",
+          "haben",
+          "habet",
+          "haben"
+        ],
+        [
+          "werden",
+          "werde",
+          "werdest",
+          "werde",
+          "werden",
+          "werdet",
+          "werden"
+        ],
+        [
+          "können",
+          "könne",
+          "könnest",
+          "könne",
+          "können",
+          "könnet",
+          "können"
+        ],
+        [
+          "kommen（规则）",
+          "komme",
+          "kommest",
+          "komme",
+          "kommen",
+          "kommet",
+          "kommen"
+        ],
+        [
+          "sagen（规则）",
+          "sage",
+          "sagest",
+          "sage",
+          "sagen",
+          "saget",
+          "sagen"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "用途：转述他人话语（新闻、报道、纪要），表示「这是他说的，不是我确认的」。",
+      "构成：现在时词干 + -e / -est / -e / -en / -et / -en；sein 不规则，须单独记。",
+      "三种句式：陈述句直接换 KI；疑问句用 ob 或疑问词 + KI；命令/要求转述用 sollen + 不定式（„Er sagte, ich solle warten.\"）。",
+      "过去转述：KI 完成时 = habe/sei + Partizip II（„Sie sagte, sie habe den Brief gelesen / sei schon gefahren.\"）。",
+      "KI 与直陈式同形时改用 Konjunktiv II 或 würde 形式避免混淆（„sie haben\"（同形）→ „sie hätten / sie würden haben\"）；würde 式在口语转述中也可通用。",
+      "人称随转述视角转换：原话 „Ich komme morgen\" → 转述：Er sagte, er komme morgen."
+    ],
+    "examples": [
+      {
+        "de": "Der Minister erklärte, die Regierung halte an dem Plan fest.",
+        "zh": ""
+      },
+      {
+        "de": "Sie sagte, sie habe keine Zeit und könne erst am Montag kommen.",
+        "zh": ""
+      },
+      {
+        "de": "Er fragte, ob der Zug pünktlich ankomme und wo er umsteigen müsse.",
+        "zh": ""
+      },
+      {
+        "de": "Die Zeugin berichtete, sie sei am Abend zu Hause gewesen.",
+        "zh": ""
+      },
+      {
+        "de": "Der Arzt sagte, der Patient solle viel ruhen und wenig arbeiten.",
+        "zh": ""
+      },
+      {
+        "de": "Die Firma teilte mit, die Preise würden im Herbst leicht steigen.",
+        "zh": "（同形避让 würde 式）"
+      }
+    ],
+    "pitfalls": [
+      "把转述里的 ich 直接照抄，不换人称。",
+      "KI 与直陈同形（wir/sie 多数形式）时不避让，造成「是事实还是转述」不清。",
+      "过去的事用现在时 KI 转述，时态错位（已发生须 habe/sei + PII）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Er sagt: ‚Ich bin müde.'\" 的转述是？",
+        "explain": "sein 的 KI 是 sei，人称由 ich 换成 er。",
+        "options": [
+          "Er sagt, er sei müde.",
+          "Er sagt, er ist müde.",
+          "Er sagt, ich sei müde."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转述 „Sie sagt: ‚Ich habe den Schlüssel verloren.'\" → Sie sagt, sie ＿＿ den Schlüssel verloren.",
+        "explain": "过去事件用 KI 完成时 habe + Partizip II。",
+        "answer": "habe"
+      },
+      {
+        "type": "choice",
+        "q": "命令转述 „Der Lehrer sagt zu mir: ‚Warte hier!'\" → Der Lehrer sagt, ich ＿＿ hier warten.",
+        "explain": "要求/命令转述用 sollen 的 KI + 不定式。",
+        "options": [
+          "solle",
+          "sei",
+          "werde"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Er fragt: ‚Kommt der Bus pünktlich an?'\" → Er fragt, ob der Bus pünktlich ＿＿.",
+        "explain": "是非问转述用 ob，主干动词 kommen 的 KI 为 komme 词干+词尾，此处 ankomme。",
+        "answer": "ankomme"
+      },
+      {
+        "type": "choice",
+        "q": "哪句避让正确（原话 „Sie haben Recht.\" 转述，避免与直陈同形）？",
+        "explain": "sie haben 与直陈同形，改用 KII 的 hätten 标明转述。",
+        "options": [
+          "Man sagt, sie hätten Recht.",
+          "Man sagt, sie haben Recht.",
+          "Man sagt, sie sei Recht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转述 „Er sagt: ‚Wir werden morgen abreisen.'\" → Er sagt, sie ＿＿ morgen abreisen.（werden 的 KI）",
+        "explain": "wir/sie 的 werden KI 形式与直陈同形，书面报道中可接受；若需强调转述可改 würden——本题按基础形式填 werden。",
+        "answer": "werden"
+      },
+      {
+        "type": "choice",
+        "q": "„Die Sprecherin sagt: ‚Die Lage ist ernst.'\" 转述正确的是？",
+        "explain": "sein 的 KI sei 直接替换 ist。",
+        "options": [
+          "Sie sagt, die Lage sei ernst.",
+          "Sie sagt, die Lage wäre ernst.",
+          "Sie sagt, die Lage ist ernst zu sein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Er sagt: ‚Ich kann heute nicht kommen.'\" → Er sagt, er ＿＿ heute nicht kommen.",
+        "explain": "können 的 KI 第三人称单数是 könne。",
+        "answer": "könne"
+      },
+      {
+        "type": "choice",
+        "q": "过去转述选对：„Sie sagte: ‚Ich bin schon gefahren.'\" → Sie sagte, sie ＿＿ schon gefahren.",
+        "explain": "fahren 用 sein 构成完成时，KI 为 sei + gefahren。",
+        "options": [
+          "sei",
+          "habe",
+          "wäre"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Der Zeuge sagt: ‚Ich habe nichts gesehen.'\" → Er sagt, er ＿＿ nichts gesehen.",
+        "explain": "sehen 的完成时助动词是 haben，KI 用 habe。",
+        "answer": "habe"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是间接引语（新闻体）？",
+        "explain": "KI（habe sich ereignet）无引号转述是新闻报道的标准间接引语。",
+        "options": [
+          "Die Agentur meldete, der Unfall habe sich am Morgen ereignet.",
+          "Die Agentur meldete: „Der Unfall hat sich ereignet.\"",
+          "Ob sich der Unfall ereignet hat?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转述疑问 „Sie fragt: ‚Wo ist der Bahnhof?'\" → Sie fragt, wo der Bahnhof ＿＿.",
+        "explain": "疑问词引导的转述从句，动词置末，ist → sei。",
+        "answer": "sei"
+      },
+      {
+        "type": "choice",
+        "q": "würde 式用得恰当的是？",
+        "explain": "sein 有明确 KI（sei）不用 würde 代替；口语中实义动词可用 würde + 不定式转述。",
+        "options": [
+          "Er sagte, er würde morgen kommen.（口语转述）",
+          "Er sagte, er würde müde.（sein 不用 würde）",
+          "Er sagte, er sei würde kommen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Er sagt: ‚Du musst den Antrag heute abgeben.'\"（对我）→ Er sagt, ich ＿＿ den Antrag heute abgeben.（用 müssen 的 KI）",
+        "explain": "müssen 的 KI 第三/第一人称单数为 müsse；命令义转述也可用 solle，本题练 müssen 原形转述。",
+        "answer": "müsse"
+      },
+      {
+        "type": "order",
+        "q": "组句（间接引语）",
+        "explain": "转述从句可不用 dass，动词 sei 居从句末位，主句动词 erklärte 第二位。",
+        "tokens": [
+          "erklärte,",
+          "Der Pressesprecher",
+          "die Lage",
+          "unter Kontrolle.",
+          "sei"
+        ],
+        "answer": [
+          "Der Pressesprecher",
+          "erklärte,",
+          "die Lage",
+          "sei",
+          "unter Kontrolle."
+        ],
+        "displayAnswer": "Der Pressesprecher erklärte, die Lage sei unter Kontrolle."
+      },
+      {
+        "type": "choice",
+        "q": "转述时最容易错的是？",
+        "explain": "原话的 ich/du 要按转述关系换成 er/wir 等人称，这是产出时的第一检查点。",
+        "options": [
+          "人称不随视角转换",
+          "每个词都要变 KI",
+          "转述必须加 dass"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "In den Abendnachrichten heißt es selten: „Ich habe das gesehen.\" Stattdessen berichten die Sprecher, was andere gesagt haben. Der Minister habe erklärt, die Lage sei unter Kontrolle. Die Polizei habe mitgeteilt, der Täter sei geflohen. Diese Form nennt man Konjunktiv I. Sie zeigt den Zuhörern: Das ist eine fremde Aussage, keine bestätigte Tatsache. Wer Zeitung liest oder Nachrichten hört, trifft sie überall. Wer sie selbst sicher benutzt, kann Berichte schreiben, Protokolle führen und Gespräche korrekt wiedergeben – eine Schlüsselkompetenz für Beruf und Studium auf dem Niveau B2.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①KI 在新闻里起什么作用？（答：标明是转述的他人说法，不是已确认事实）②文本里哪个例句说明了逃犯一事是警方转述？（答：Die Polizei habe mitgeteilt, der Täter sei geflohen.）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "把三句原话改写成一段新闻转述（约 60 词）：①Bürgermeister: „Die Stadt wird die Brücke renovieren.\" ②Sprecherin: „Die Arbeiten haben im Mai begonnen.\" ③Ingenieur: „Wir können den Zeitplan einhalten.\"",
+      "sample": "范文：Der Bürgermeister erklärte, die Stadt werde die Brücke renovieren. Die Sprecherin teilte mit, die Arbeiten hätten im Mai begonnen（同形避让 KII）. Der Ingenieur sagte, sie könnten den Zeitplan einhalten（können KI 同形，用 KII könnten 标明转述）.",
+      "selfcheck": "自查：三句都用了 KI 或避让形式 □；人称转换正确 □；过去事件（begonnen）用了完成时转述 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "t-b2-01",
+    "level": "B2",
+    "order": 3,
+    "title": "报道与纪要",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（两种文体的骨架与标配句式）",
+      "headers": [
+        "",
+        "Nachrichtenbericht（新闻报道）",
+        "Protokoll（会议纪要）"
+      ],
+      "rows": [
+        [
+          "开头",
+          "Lead 句：Wer? Was? Wann? Wo? 一句交代",
+          "头部：Datum, Ort, Teilnehmer, Leitung"
+        ],
+        [
+          "主体",
+          "按重要性递减展开细节，多用 KI 转述引言",
+          "TOP 分条：议题 → 讨论要点 → Beschluss（决议）"
+        ],
+        [
+          "典型句",
+          "„Wie die Polizei mitteilte, …\" / „Nach Angaben der Firma …\"",
+          "„TOP 2: … Es wurde beschlossen, dass …\" / „Frau X übernimmt die Aufgabe bis …\""
+        ],
+        [
+          "结尾",
+          "背景与后续（„Die Ermittlungen dauern an.\")",
+          "Aufgaben 分配 + nächster Termin + Verteiler"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "报道不掺评论：事实与引言分开，引言一律 KI 转述并注明来源（sagte / teilte mit / nach Angaben）。",
+      "纪要不记流水账：只记议题、要点、决议与任务分配；讨论过程压缩成一两句结果性陈述。",
+      "纪要时态用现在时或 Präteritum 叙述体，决议用 „Es wurde beschlossen, …\" / „Beschlossen wurde, …\"。",
+      "纪要固定栏目词：Tagesordnung（议程）, TOP（议程项）, anwesend / entschuldigt, Beschluss, Aufgabe, Frist, Verteiler（发送范围）。"
+    ],
+    "examples": [
+      {
+        "de": "Nach Angaben der Stadtverwaltung beginnt der Bau der neuen Brücke im kommenden Frühjahr.",
+        "zh": ""
+      },
+      {
+        "de": "Wie die Polizei mitteilte, sei der Brand in der Nacht aus noch ungeklärter Ursache ausgebrochen.",
+        "zh": ""
+      },
+      {
+        "de": "TOP 3: Der Ausschuss beschloss, die Gebühren im nächsten Jahr nicht zu erhöhen.",
+        "zh": ""
+      },
+      {
+        "de": "Frau Berger übernimmt die Koordination des Projekts bis Ende März.",
+        "zh": ""
+      },
+      {
+        "de": "Die Sitzung wurde um 17 Uhr beendet; der nächste Termin ist der 12. Mai.",
+        "zh": ""
+      },
+      {
+        "de": "Die Ermittlungen zur Unfallursache dauern nach Polizeiangaben noch an.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "报道里写自己的评价（„leider\"、„zum Glück\"）混入事实段。",
+      "纪要把每个人的发言逐句抄下，而不是提炼决议与任务。",
+      "纪要漏写任务负责人或截止时间，决议落不了地。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是合格的新闻 Lead？",
+        "explain": "Lead 一句交代 Was/Wann/Wo 与结果，语言中性无评价。",
+        "options": [
+          "Gestern Abend brach in einer Lagerhalle im Hafen ein Feuer aus; verletzt wurde niemand.",
+          "Das Feuer gestern war wirklich schrecklich und alle hatten große Angst.",
+          "Feuer! Eine Halle brannte, es war furchtbar für die Anwohner der Stadt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "引言出处句型：„＿＿ Angaben der Firma seien alle Arbeitsplätze gesichert.\"",
+        "explain": "Nach Angaben + 二格/三格是报道中引注来源的固定格式。",
+        "answer": "Nach"
+      },
+      {
+        "type": "choice",
+        "q": "纪要中合格的决议句是？",
+        "explain": "Es wurde beschlossen + zu 不定式是决议的标准句式，结果明确可执行。",
+        "options": [
+          "Es wurde beschlossen, den Termin auf den 20. Mai zu verschieben.",
+          "Alle redeten lange und dann war es irgendwie klar.",
+          "Man sollte vielleicht den Termin verschieben, mal sehen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "纪要栏目词：会议议程的德语词是 die ＿＿",
+        "explain": "Tagesordnung 指会议议程，TOP 是其中的单个议程项。",
+        "answer": "Tagesordnung"
+      },
+      {
+        "type": "choice",
+        "q": "哪一条属于纪要而不属于报道？",
+        "explain": "任务分配（谁、何时完成）是纪要的收尾要素，报道没有这一栏。",
+        "options": [
+          "Frau X übernimmt die Aufgabe bis Freitag.",
+          "Nach Angaben der Polizei …",
+          "Die Ermittlungen dauern an."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "报道转述：„Wie der Sprecher ＿＿, sei die Lage unter Kontrolle.\"（mitteilen 的过去时）",
+        "explain": "Wie + 主语 + mitteilte 是引注句式，主句叙述用 Präteritum。",
+        "answer": "mitteilte"
+      },
+      {
+        "type": "choice",
+        "q": "报道里不该出现的是？",
+        "explain": "评价词使报道失去中性，事实与评论必须分开。",
+        "options": [
+          "记者本人的评价词 „zum Glück\"",
+          "KI 转述的官方引言",
+          "事件的时间地点"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "纪要头部缺席标注：未能出席写作 „＿＿\"（反义于 anwesend）",
+        "explain": "纪要名单分 anwesend 与 entschuldigt（请假缺席）两栏。",
+        "answer": "entschuldigt"
+      },
+      {
+        "type": "choice",
+        "q": "纪要压缩讨论的正确做法是？",
+        "explain": "纪要是结果文件，不是谈话实录。",
+        "options": [
+          "只记结果性陈述与决议，过程略去",
+          "逐句记录每个人的原话",
+          "只写自己的发言"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "决议变式：„＿＿ wurde, die Öffnungszeiten ab Januar zu verlängern.\"",
+        "explain": "Beschlossen wurde, … 是决议句的倒装变式，同样标准。",
+        "answer": "Beschlossen"
+      },
+      {
+        "type": "choice",
+        "q": "哪句适合放在报道结尾？",
+        "explain": "结尾交代未决事项与后续进展，保持中性。",
+        "options": [
+          "Die Ursache des Unfalls ist noch unklar; die Ermittlungen dauern an.",
+          "Hoffentlich passiert so etwas nie wieder in unserer Stadt.",
+          "Alle Leser sind sicher auch sehr traurig über dieses Unglück."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "纪要任务句补人名职务式：„Herr Yilmaz ＿＿ die Prüfung der Angebote bis zum 15.\"（übernehmen 现在时）",
+        "explain": "任务分配句式：人名 + übernimmt + 任务 + bis 截止日。",
+        "answer": "übernimmt"
+      },
+      {
+        "type": "choice",
+        "q": "报道标题的规范是？",
+        "explain": "标题概括 Lead 的核心，不渲染。",
+        "options": [
+          "短、点明核心事实、不带评价",
+          "越长越好，把所有细节都写进标题",
+          "加感叹号吸引眼球"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听一句纪要并判文体",
+        "explain": "Es wurde beschlossen 是纪要决议的标志句式。",
+        "audio": "Es wurde beschlossen, die Sitzung künftig um 16 Uhr zu beginnen.",
+        "options": [
+          "这是纪要决议句",
+          "这是新闻 Lead",
+          "这是个人日记"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "排出纪要顺序",
+        "explain": "纪要骨架：头部信息 → 议程 → 讨论要点 → 决议 → 任务分配。",
+        "tokens": [
+          "Beschluss",
+          "Datum und Teilnehmer",
+          "Diskussionspunkte",
+          "Aufgaben und Fristen",
+          "Tagesordnung"
+        ],
+        "answer": [
+          "Datum und Teilnehmer",
+          "Tagesordnung",
+          "Diskussionspunkte",
+          "Beschluss",
+          "Aufgaben und Fristen"
+        ],
+        "displayAnswer": "Datum und Teilnehmer → Tagesordnung → Diskussionspunkte → Beschluss → Aufgaben und Fristen"
+      },
+      {
+        "type": "choice",
+        "q": "转述引言时来源标注的位置，最规范的是？",
+        "explain": "来源与引言就近对应，读者才能分辨每句话是谁说的。",
+        "options": [
+          "在引言句内或紧邻处标明（sagte X / nach Angaben von X）",
+          "全部引言的来源统一放文末",
+          "不用标来源"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Protokoll der Sitzung des Bauausschusses, 8. Mai, Rathaus, Raum 3. Anwesend: Frau Berger (Leitung), Herr Yilmaz, Frau Costa; entschuldigt: Herr Wolf. TOP 1: Die Vorsitzende berichtete, der Bau der Brücke habe im April begonnen und liege im Zeitplan. TOP 2: Herr Yilmaz wies darauf hin, dass die Kosten für Material gestiegen seien. Der Ausschuss beschloss, zusätzliche Angebote einzuholen. Frau Costa übernimmt die Anfrage bis zum 22. Mai. TOP 3: Der nächste Sitzungstermin ist der 5. Juni. Die Sitzung endete um 17:40 Uhr.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①谁缺席并请假了？（答：Herr Wolf) ②TOP 2 的决议是什么，谁负责、期限到何时？（答：再询额外报价；Frau Costa 负责，5 月 22 日前）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "根据要点写一段会议纪要（约 70 词）：时间 11 月 3 日 15 点，团队会议；出席：Anna（主持）, Ben, Carla；议题：新网站上线；Ben 报告测试已完成；决议：11 月 17 日上线；Carla 负责发布公告，11 月 10 日前完成。",
+      "sample": "范文：Protokoll der Teamsitzung, 3. November, 15 Uhr. Anwesend: Anna (Leitung), Ben, Carla. TOP 1: Ben berichtete, die Tests für die neue Webseite seien abgeschlossen. Der Start wurde für den 17. November beschlossen. Carla übernimmt die Bekanntmachung bis zum 10. November. Die Sitzung endete um 16 Uhr.",
+      "selfcheck": "自查：头部信息齐全 □；决议用 beschlossen 句式 □；任务写明负责人与截止日 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-02",
+    "level": "B2",
+    "order": 4,
+    "title": "时间从句全量与过去完成时",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（时间从句的时态逻辑）",
+      "headers": [
+        "连接词",
+        "意思",
+        "时态搭配",
+        "示例"
+      ],
+      "rows": [
+        [
+          "nachdem",
+          "在…之后",
+          "从句 Plusquamperfekt + 主句 Präteritum/Perfekt",
+          "Nachdem er gegessen hatte, ging er."
+        ],
+        [
+          "bevor / ehe",
+          "在…之前",
+          "同时态即可",
+          "Bevor er ging, rief er an."
+        ],
+        [
+          "sobald",
+          "一…就",
+          "完成先行时从句完成时",
+          "Sobald ich angekommen bin, rufe ich an."
+        ],
+        [
+          "solange",
+          "在…期间（只要）",
+          "同时进行",
+          "Solange es regnet, bleiben wir."
+        ],
+        [
+          "bis",
+          "直到",
+          "主句持续到从句时点",
+          "Warte, bis ich zurück bin."
+        ],
+        [
+          "während",
+          "当…时（同时）",
+          "同时进行",
+          "Während sie kochte, las er."
+        ],
+        [
+          "als / wenn",
+          "当（过去单次 / 反复）",
+          "A2 已学，本单元并入系统对照",
+          "Als ich ankam, … / Wenn es regnete, …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "Plusquamperfekt（过去完成时）构成：hatte / war + Partizip II，专表「过去的过去」——在另一个过去事件之前已完成。",
+      "nachdem 是硬性触发器：从句必须比主句早一个时态层级（从句 Plusquamperfekt，主句 Präteritum 最典型）。",
+      "bevor 的事件在主句之后发生，不用过去完成时，用同一时态层级。",
+      "口语中 nachdem 从句也常用 Perfekt 代 Plusquamperfekt，但正式书面与考试按分层时态写。"
+    ],
+    "examples": [
+      {
+        "de": "Nachdem wir die Tickets gebucht hatten, suchten wir ein Hotel in der Nähe.",
+        "zh": ""
+      },
+      {
+        "de": "Bevor die Sitzung begann, verteilte die Leiterin die Unterlagen an alle Teilnehmer.",
+        "zh": ""
+      },
+      {
+        "de": "Sobald der Bericht fertig ist, schicke ich ihn an die ganze Abteilung.",
+        "zh": ""
+      },
+      {
+        "de": "Solange du in Berlin wohnst, solltest du die Museen der Stadt besuchen.",
+        "zh": ""
+      },
+      {
+        "de": "Er wartete geduldig, bis der Arzt ihn endlich in das Zimmer rief.",
+        "zh": ""
+      },
+      {
+        "de": "Nachdem sie die Prüfung bestanden hatte, feierte sie mit ihren Freunden.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "nachdem 从句用与主句相同的 Präteritum，丢掉时间层级。",
+      "把 bevor 当 nachdem 用（顺序正好相反）。",
+      "Plusquamperfekt 助动词选错：位移动词与 sein 类动词用 war（war gefahren)，其余用 hatte。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "nachdem 句正确的是？",
+        "explain": "nachdem 从句用过去完成时 hatte verlassen，主句过去时。",
+        "options": [
+          "Nachdem er das Haus verlassen hatte, fiel ihm der Schlüssel ein.",
+          "Nachdem er das Haus verließ, fiel ihm der Schlüssel ein.",
+          "Nachdem er das Haus verlässt, fiel ihm der Schlüssel ein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Nachdem sie die E-Mail ＿＿ (schreiben, Plusquamperfekt), schickte sie sie ab.",
+        "explain": "schreiben 的分词 geschrieben + hatte，时态层级分明。",
+        "answer": "geschrieben hatte"
+      },
+      {
+        "type": "choice",
+        "q": "bevor 句正确的是？",
+        "explain": "bevor 的事件（出发）在主句（打包）之后，同一过去层级即可，不加过去完成时。",
+        "options": [
+          "Bevor er abfuhr, hatte er den Koffer gepackt gehabt.",
+          "Bevor er abfuhr, packte er den Koffer in Ruhe.",
+          "Bevor er abgefahren war, packte er den Koffer."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "位移类过去完成时：„Nachdem sie angekommen ＿＿, rief sie ihre Eltern an.\"",
+        "explain": "ankommen 用 sein 构成完成时，过去完成时助动词是 war。",
+        "answer": "war"
+      },
+      {
+        "type": "choice",
+        "q": "sobald 句意思正确的是？",
+        "explain": "sobald 表紧接先后，从句完成时 + 主句现在/将来义。",
+        "options": [
+          "Sobald ich die Nachricht erhalten habe, leite ich sie weiter.（一收到就转发）",
+          "Ich leite sie weiter, sobald ich sie erhalten werde morgen.",
+          "Sobald ich sie erhalte gestern, leitete ich sie weiter."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Warte bitte, ＿＿ der Regen aufhört, dann gehen wir los.\"",
+        "explain": "主句动作持续到从句时点，用 bis。",
+        "answer": "bis"
+      },
+      {
+        "type": "choice",
+        "q": "solange 与 während 的区别，正确的是？",
+        "explain": "solange 带「在整个期间内持续成立」的意味，常含条件色彩。",
+        "options": [
+          "solange 表条件性持续（只要…就一直），während 纯表同时",
+          "两者完全同义可互换",
+          "solange 只用在将来"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Plusquamperfekt 构成：„Er hatte das Buch schon ＿＿ (lesen), bevor der Film erschien.\"",
+        "explain": "hatte + gelesen 是过去完成时，标记在电影上映之前已读完。",
+        "answer": "gelesen"
+      },
+      {
+        "type": "choice",
+        "q": "哪句时态层级正确（先做完作业，后看电视）?",
+        "explain": "先行事件（做作业）用过去完成时，主句（看电视）用过去时。",
+        "options": [
+          "Nachdem er die Aufgaben gemacht hatte, sah er fern.",
+          "Nachdem er die Aufgaben machte, hatte er ferngesehen.",
+          "Er sah fern, nachdem er die Aufgaben gemacht hatte gestern nur."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句判断先后",
+        "explain": "nachdem + 过去完成时标记火车离站是更早的事件。",
+        "audio": "Nachdem der Zug abgefahren war, kam er am Bahnhof an.",
+        "options": [
+          "火车先开走，他后到",
+          "他先到，火车后开",
+          "两件事同时"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„＿＿ ich in Japan war, besuchte ich viele Tempel.\"（过去单次）",
+        "explain": "过去单次事件的时间从句用 Als，资本化句首。",
+        "answer": "Als"
+      },
+      {
+        "type": "choice",
+        "q": "ehe 与 bevor 的关系是？",
+        "explain": "ehe = bevor 的书面变体，时态规则相同。",
+        "options": [
+          "同义，ehe 更书面",
+          "ehe 表之后",
+          "ehe 只用于否定句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Solange die Sonne ＿＿ (scheinen), bleiben wir am Strand.\"",
+        "explain": "solange 从句与主句同时进行，用现在时。",
+        "answer": "scheint"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "从句内分词与助动词在末尾成组，hatte 收尾。",
+        "tokens": [
+          "hatte,",
+          "Nachdem",
+          "sie",
+          "den Vertrag",
+          "unterschrieben",
+          "kündigte sie."
+        ],
+        "answer": [
+          "Nachdem",
+          "sie",
+          "den Vertrag",
+          "unterschrieben",
+          "hatte,",
+          "kündigte sie."
+        ],
+        "displayAnswer": "Nachdem sie den Vertrag unterschrieben hatte, kündigte sie."
+      },
+      {
+        "type": "choice",
+        "q": "口语里可以接受、考试里应改规范的是？",
+        "explain": "口语常用完成时代替过去完成时，正式产出按分层时态选 B 式。",
+        "options": [
+          "Nachdem ich gegessen habe, bin ich gegangen.",
+          "Nachdem ich gegessen hatte, ging ich.",
+          "Bevor ich gegangen war, aß ich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Er blieb im Büro, ＿＿ alle Kollegen gegangen waren.\"（直到）",
+        "explain": "bis 从句表示主句状态的终点，此处从句用完成时标记先行完成。",
+        "answer": "bis"
+      }
+    ],
+    "reading": {
+      "text": "Nachdem der Wecker nicht geklingelt hatte, wachte Lena erst um acht Uhr auf. Bevor sie das Haus verließ, suchte sie noch hektisch nach ihrem Schlüssel. Sobald sie an der Haltestelle ankam, sah sie den Bus gerade abfahren. Sie wartete, bis der nächste Bus kam, und schrieb ihrer Chefin eine Nachricht. Während sie im Bus saß, dachte sie über den verpassten Termin nach. Nachdem sie im Büro angekommen war, entschuldigte sie sich sofort. Ihre Chefin lachte nur: Der Termin war ohnehin auf den Nachmittag verschoben worden.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①Lena 为什么起晚了？（答：闹钟没有响——文本：der Wecker hatte nicht geklingelt) ②她到公司后发现什么？（答：会议本来就被推迟到了下午）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 nachdem / bevor / sobald / bis 各写一句，串成一段晨间叙事（约 70 词），主线事件用过去时、先行事件用过去完成时。",
+      "sample": "范文：Nachdem ich geduscht hatte, machte ich Kaffee. Bevor ich das Haus verließ, prüfte ich noch einmal alle Fenster. Sobald ich an der Station ankam, fuhr der Zug ein. Ich wartete im Abteil, bis wir den Hauptbahnhof erreichten, und ging dann zu Fuß ins Büro.",
+      "selfcheck": "自查：:nachdem 句用了过去完成时 □;bevor 句时态同级 □;sobald 与 bis 各一句且逻辑正确 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-03",
+    "level": "B2",
+    "order": 5,
+    "title": "被动深化：情态被动、es 被动、bekommen 被动",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（被动进阶三件套）",
+      "headers": [
+        "形式",
+        "构成",
+        "示例",
+        "用途"
+      ],
+      "rows": [
+        [
+          "情态被动·现在",
+          "Modalverb + PII + werden",
+          "Der Antrag muss heute bearbeitet werden.",
+          "必须/可以/应该被做"
+        ],
+        [
+          "情态被动·过去",
+          "musste + PII + werden",
+          "Der Antrag musste gestern bearbeitet werden.",
+          "过去时"
+        ],
+        [
+          "情态被动·完成",
+          "hat + PII + werden müssen",
+          "Der Antrag hat bearbeitet werden müssen.",
+          "少用，认读为主"
+        ],
+        [
+          "es 被动",
+          "Es wird/wurde + PII（无主语动作）",
+          "Es wurde bis spät in die Nacht diskutiert.",
+          "强调活动本身，无具体对象"
+        ],
+        [
+          "bekommen 被动",
+          "bekommen + PII（受益/受事者作主语）",
+          "Sie bekam die Haare geschnitten. / Er bekam den Brief zugeschickt.",
+          "口语常用，「被给/被替」义"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "情态被动语序：句末三件套 PII + werden + 情态动词变位居第二位（„Das Formular muss ausgefüllt werden.\"）。",
+      "es 被动的主语 es 只是占位：句首换其他成分时 es 脱落（„Bis spät wurde diskutiert.\"）；只能用不及物动词或不带宾语的动词构成。",
+      "bekommen 被动的主语是受益者/受影响者，原文的间接宾语升位为主语；常与服务类动词连用（schneiden, reparieren, erklären, schenken)。",
+      "状态被动（sein + PII，B1 已学）表结果状态，与本单元的动作被动对照复习。"
+    ],
+    "examples": [
+      {
+        "de": "Die Rechnung muss bis Freitag bezahlt werden, sonst fallen Gebühren an.",
+        "zh": ""
+      },
+      {
+        "de": "Das Problem konnte gestern nicht gelöst werden, alle Spezialisten waren krank.",
+        "zh": ""
+      },
+      {
+        "de": "Es wurde auf der Feier viel getanzt, gelacht und bis Mitternacht gefeiert.",
+        "zh": ""
+      },
+      {
+        "de": "Im Büro wird heute nicht gearbeitet, es ist ein Feiertag im ganzen Land.",
+        "zh": ""
+      },
+      {
+        "de": "Der Junge bekam zum Geburtstag ein Fahrrad geschenkt und freute sich sehr.",
+        "zh": ""
+      },
+      {
+        "de": "Sie bekam den schwierigen Text von der Lehrerin noch einmal erklärt.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "情态被动漏掉句末的 werden，只剩情态动词 + 分词。",
+      "es 被动误带宾语（不能说 „Es wurde den Kuchen gegessen\")。",
+      "bekommen 被动的分词放在主语旁，丢掉句末位置。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "情态被动正确的是？",
+        "explain": "构成 = 情态动词 + Partizip II + werden。",
+        "options": [
+          "Der Bericht muss bis morgen geschrieben werden.",
+          "Der Bericht muss bis morgen geschrieben sein werden.",
+          "Der Bericht muss bis morgen schreiben werden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Die Fenster ＿＿ heute geputzt werden.\"（情态：应该）",
+        "explain": "sollen 表按计划/要求应该被做，主语复数用 sollen。",
+        "answer": "sollen"
+      },
+      {
+        "type": "choice",
+        "q": "改过去时正确的是：„Der Antrag muss bearbeitet werden.\" →",
+        "explain": "情态动词过去时 musste + PII + werden 是最常用的过去式情态被动。",
+        "options": [
+          "Der Antrag musste bearbeitet werden.",
+          "Der Antrag hat bearbeitet werden gemusst gestern.",
+          "Der Antrag wurde bearbeitet werden müssen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "es 被动：„＿＿ wurde auf der Party viel gelacht und getanzt.\"",
+        "explain": "句首无其他成分时由占位 Es 起句。",
+        "answer": "Es"
+      },
+      {
+        "type": "choice",
+        "q": "哪句 es 被动合法？",
+        "explain": "es 被动无宾语；句首换成分后 es 脱落，B、C 误带宾语。",
+        "options": [
+          "Bis spät in die Nacht wurde noch gearbeitet.",
+          "Es wurde den Brief geschrieben.",
+          "Es wurde das Fenster geöffnet von ihm."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "bekommen 被动：„Sie ＿＿ die Haare geschnitten.\"",
+        "explain": "bekam（过去时）+ 句末分词 geschnitten，主语是受益者 sie。",
+        "answer": "bekam"
+      },
+      {
+        "type": "choice",
+        "q": "bekommen 被动的意思：„Er bekam das Auto repariert.\" =",
+        "explain": "bekommen 被动表主语「被服务/被给予」，动作由他人完成。",
+        "options": [
+          "有人替他把车修好了",
+          "他把车修好了（自己修的）",
+          "他的车被人偷了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "情态被动（können 否定）：„Das alte Haus ＿＿ nicht mehr gerettet werden.\"（können 现在时第三人称）",
+        "explain": "kann + PII + werden 构成「无法被挽救」。",
+        "answer": "kann"
+      },
+      {
+        "type": "choice",
+        "q": "状态 vs 动作被动区分正确的是？",
+        "explain": "sein + PII 描绘结果状态，werden + PII 描绘动作过程。",
+        "options": [
+          "Das Fenster ist geöffnet.（状态）",
+          "Das Fenster wird geöffnet.（动作正在）",
+          "两句同义"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨情态被动",
+        "explain": "muss + erledigt + werden 是情态被动，主语是任务本身。",
+        "audio": "Die Aufgabe muss bis Freitag erledigt werden.",
+        "options": [
+          "任务必须被完成（被动）",
+          "他必须完成任务（主动命令）",
+          "任务已经完成了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "es 被动变位：„Früher ＿＿ in diesem Saal viel getanzt.\"（werden 过去时）",
+        "explain": "占位主语视为单数，werden 过去时用 wurde。",
+        "answer": "wurde"
+      },
+      {
+        "type": "choice",
+        "q": "改 bekommen 被动：„Man schenkte ihm ein Buch.\" →",
+        "explain": "间接宾语 ihm 升为主语 er，分词 geschenkt 置末。",
+        "options": [
+          "Er bekam ein Buch geschenkt.",
+          "Er wurde ein Buch geschenkt sein.",
+          "Ihm bekam ein Buch geschenkt werden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "情态被动完成式（认读补空）：„Der Termin hat leider verschoben ＿＿ müssen.\"",
+        "explain": "完成式情态被动结构：hat + PII + werden + müssen（情态动词不定式收尾）。",
+        "answer": "werden"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "变位动词 muss 第二位，gesucht + werden 在句末成组。",
+        "tokens": [
+          "werden.",
+          "muss",
+          "Der Schlüssel",
+          "sofort",
+          "gesucht"
+        ],
+        "answer": [
+          "Der Schlüssel",
+          "muss",
+          "sofort",
+          "gesucht",
+          "werden."
+        ],
+        "displayAnswer": "Der Schlüssel muss sofort gesucht werden."
+      },
+      {
+        "type": "choice",
+        "q": "哪句不适合正式公文、属于口语被动？",
+        "explain": "bekommen 被动在口语中常见，正式文体首选 werden 被动（C 句本身还误带宾语，不合语法）。",
+        "options": [
+          "Sie bekam den Text erklärt.",
+          "Der Text wurde erklärt.",
+          "Es wurde der Text erklärt gestern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "es 被动主句变式：„Es wird hier nicht geraucht.\" 把 Hier 放句首：„Hier ＿＿ nicht geraucht.\"",
+        "explain": "句首有其他成分时 es 脱落，wird 居第二位即可。",
+        "answer": "wird"
+      }
+    ],
+    "reading": {
+      "text": "In der Werkstatt ist heute viel los. Drei Autos müssen bis zum Abend repariert werden, und ein Motor konnte gestern nicht fertig werden, weil ein Ersatzteil fehlte. Am Morgen wurde zuerst lange telefoniert: Kunden mussten informiert und Termine verschoben werden. Herr Kaya, der älteste Mechaniker, bekam von einem dankbaren Kunden eine Torte geschenkt. In der Pause wurde viel gelacht. Am Abend waren alle Autos abgeholt, und im Büro wurde noch kurz aufgeräumt, bevor der Chef das Licht ausmachte.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①哪辆车昨天没修完，原因是什么？（答：装发动机的那辆；缺一个备件）②文本中哪个句子是 bekommen 被动？（答：Herr Kaya bekam … eine Torte geschenkt.)"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用情态被动写 4 条车间/办公室规则（约 60 词），再把其中一条改写成过去时。",
+      "sample": "范文：Die Werkzeuge müssen nach der Arbeit gereinigt werden. Öl darf nicht auf den Boden geschüttet werden. Termine sollen schriftlich bestätigt werden. Die Rechnung muss vor der Abholung bezahlt werden.（过去时改写：Die Werkzeuge mussten gestern nach der Arbeit gereinigt werden.)",
+      "selfcheck": "自查：每条都有 PII + werden □；情态动词与主语人称一致 □；有一条正确改成过去时 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "t-b2-02",
+    "level": "B2",
+    "order": 6,
+    "title": "图表描述",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（图表描述五段式与标配词块）",
+      "headers": [
+        "段",
+        "功能",
+        "标配句"
+      ],
+      "rows": [
+        [
+          "1 主题",
+          "图表讲什么、来源、时间",
+          "Die Grafik zeigt … / Die Daten stammen aus … und beziehen sich auf das Jahr …"
+        ],
+        [
+          "2 总览",
+          "最大趋势一句话",
+          "Insgesamt lässt sich feststellen, dass … / Auffällig ist, dass …"
+        ],
+        [
+          "3 细节",
+          "最高/最低/转折点 + 具体数字",
+          "Der Anteil stieg von … auf … / Der Höhepunkt wurde … erreicht."
+        ],
+        [
+          "4 对比",
+          "组间或前后对照",
+          "Im Vergleich zu … / Während …, … dagegen …"
+        ],
+        [
+          "5 结论",
+          "评价或预测（与事实分开）",
+          "Daraus lässt sich schließen, dass … / Es ist zu erwarten, dass …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "数字读写：Prozent 读作 Prozent 不变形；„jeder dritte\" = ein Drittel；增减用 von … auf / um + 差值区分（auf = 到达值，um = 变化量）。",
+      "趋势动词分强度：leicht steigen < deutlich zunehmen < sich verdoppeln / sprunghaft ansteigen；下降同理 fallen / zurückgehen / einbrechen。",
+      "只描述图上有的：不猜原因，需要推测时用 „möglicherweise\" / „vermutlich\" 标记。",
+      "对比句骨架：Während der Anteil der A-Gruppe bei 20 % lag, erreichte die B-Gruppe 45 %。"
+    ],
+    "examples": [
+      {
+        "de": "Die Grafik zeigt die Entwicklung der Arbeitslosenzahlen zwischen 2015 und 2025.",
+        "zh": ""
+      },
+      {
+        "de": "Der Anteil der Radfahrer ist in zehn Jahren von 12 auf 25 Prozent gestiegen.",
+        "zh": ""
+      },
+      {
+        "de": "Auffällig ist, dass sich die Zahl der Studierenden fast verdoppelt hat.",
+        "zh": ""
+      },
+      {
+        "de": "Während die Verkäufe im Inland sanken, stiegen sie im Ausland deutlich an.",
+        "zh": ""
+      },
+      {
+        "de": "Insgesamt lässt sich feststellen, dass der Trend trotz kleiner Rückgänge nach oben zeigt.",
+        "zh": ""
+      },
+      {
+        "de": "Daraus lässt sich schließen, dass die Maßnahmen der Stadt gewirkt haben.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把 auf（到达值）和 um（变化量）混用，数字立刻错位。",
+      "在描述段里编造原因（„weil die Menschen fauler wurden\")。",
+      "只罗列每个数字，没有总览句和对比句，结构散。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "正确的数字表述是？",
+        "explain": "von 起点 + auf 终值是标准搭配。",
+        "options": [
+          "Der Anteil stieg von 10 auf 30 Prozent.",
+          "Der Anteil stieg von 10 um 30 Prozent auf.",
+          "Der Anteil stieg bis Prozent 30 von 10."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "变化量：„Die Zahl ist ＿＿ 20 Prozent gestiegen.\"（从 50 涨到 70)",
+        "explain": "um + 差值（70−50=20）表变化量。",
+        "answer": "um"
+      },
+      {
+        "type": "choice",
+        "q": "「几乎翻倍」规范说法是？",
+        "explain": "sich verdoppeln 是「翻倍」的固定动词。",
+        "options": [
+          "Die Zahl hat sich fast verdoppelt.",
+          "Die Zahl ist doppelt fast gestiegen.",
+          "Die Zahl wurde zwei Mal mehr fast."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "总览句开头：„＿＿ lässt sich feststellen, dass der Trend insgesamt positiv ist.\"",
+        "explain": "Insgesamt + lässt sich feststellen 是总览段标配。",
+        "answer": "Insgesamt"
+      },
+      {
+        "type": "choice",
+        "q": "哪句把推测与事实分开了？",
+        "explain": "vermutlich 标记推测，避免把猜测写成事实。",
+        "options": [
+          "Der Rückgang ist vermutlich auf die Krise zurückzuführen.",
+          "Der Rückgang ist wegen der Krise der Menschen.",
+          "Die Zahlen sind wegen Faulheit gesunken, das ist klar."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "对比句：„＿＿ die Stadtbewohner oft Rad fahren, nutzen Landbewohner meist das Auto.\"",
+        "explain": "Während 引导对比性同时从句。",
+        "answer": "Während"
+      },
+      {
+        "type": "choice",
+        "q": "„jeder vierte Befragte\" =",
+        "explain": "jeder vierte 即四分之一。",
+        "options": [
+          "25 Prozent der Befragten",
+          "4 Prozent der Befragten",
+          "vier von vier Befragten"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听数据句辨终值",
+        "explain": "auf 后面的数字是到达值。",
+        "audio": "Der Anteil stieg von 15 auf 40 Prozent.",
+        "options": [
+          "终值 40%",
+          "终值 15%",
+          "增幅 40%"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "最高值表达：„Der ＿＿ wurde im Jahr 2020 mit 58 Prozent erreicht.\"",
+        "explain": "Höhepunkt 指曲线/数据的最高点。",
+        "answer": "Höhepunkt"
+      },
+      {
+        "type": "choice",
+        "q": "强度排序正确的是（由弱到强）?",
+        "explain": "趋势动词有等级，描述时按幅度选词。",
+        "options": [
+          "leicht steigen → deutlich zunehmen → sich verdoppeln",
+          "sich verdoppeln → leicht steigen → deutlich zunehmen",
+          "deutlich zunehmen → sich verdoppeln → leicht steigen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "来源句：„Die Daten ＿＿ aus einer Umfrage des Instituts aus dem Jahr 2024.\"",
+        "explain": "stammen aus 是标注数据来源的固定搭配。",
+        "answer": "stammen"
+      },
+      {
+        "type": "choice",
+        "q": "结论段合格的是？",
+        "explain": "结论用 lässt sich schließen 引出，并用 dürfte 保留余地。",
+        "options": [
+          "Daraus lässt sich schließen, dass der Anteil weiter wachsen dürfte.",
+          "Also sind alle mit dem Rad glücklich und gesund.",
+          "Man sieht, die Leute sind einfach besser geworden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "下降表达：„Die Zahl der Besucher ist im Winter stark ＿＿.\"（zurückgehen 的分词）",
+        "explain": "zurückgehen 不规则变化，分词为 zurückgegangen。",
+        "answer": "zurückgegangen"
+      },
+      {
+        "type": "order",
+        "q": "组对比句",
+        "explain": "Während 从句动词置末，主句动词 erreichte 第二位。",
+        "tokens": [
+          "bei 30 Prozent,",
+          "Während",
+          "lag,",
+          "die Quote",
+          "der Anteil",
+          "erreichte",
+          "45 Prozent."
+        ],
+        "answer": [
+          "Während",
+          "der Anteil",
+          "bei 30 Prozent,",
+          "lag,",
+          "erreichte",
+          "die Quote",
+          "45 Prozent."
+        ],
+        "displayAnswer": "Während der Anteil bei 30 Prozent lag, erreichte die Quote 45 Prozent."
+      },
+      {
+        "type": "choice",
+        "q": "哪一句越界编造原因？",
+        "explain": "A 把无依据的原因断言为事实；C 用 Möglicherweise 标记推测，合规。",
+        "options": [
+          "Die Zahl der Autofahrer sank, weil alle faul wurden.",
+          "Die Zahl der Autofahrer sank im selben Zeitraum um 8 Prozent.",
+          "Möglicherweise spielte das Wetter eine Rolle."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "稳定表达：„Seit 2020 ist der Anteil weitgehend ＿＿ geblieben.\"",
+        "explain": "konstant bleiben 表保持不变，是与升降相对的第三类趋势。",
+        "answer": "konstant"
+      }
+    ],
+    "reading": {
+      "text": "Die Grafik zeigt die Ausleihen der Stadtbibliothek von 2018 bis 2024. Insgesamt lässt sich feststellen, dass die Zahl deutlich gestiegen ist. 2018 wurden rund 80.000 Medien ausgeliehen. Bis 2020 stieg die Zahl leicht auf 88.000. Während der Pandemie brach sie auf 60.000 ein. Danach erholte sie sich schnell: 2022 wurden bereits 95.000 Ausleihen gezählt, 2024 sogar 110.000. Auffällig ist der Anteil der digitalen Medien: Er verdoppelte sich von 10 auf 20 Prozent. Daraus lässt sich schließen, dass die Bibliothek mit ihrem digitalen Angebot viele neue Leser gewonnen hat.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①疫情期间借阅量跌到多少？（答：60.000) ②数字媒体份额从多少涨到多少？（答：从 10% 翻倍到 20%)"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "按五段式描述一幅虚构图表（约 80 词）：主题——某市骑行人数 2019–2025；数据：2019 年 15%，2021 年 18%，2023 年 27%，2025 年 34%；步行份额同期从 40% 降到 33%。",
+      "sample": "范文：Die Grafik zeigt den Anteil der Radfahrer in der Stadt zwischen 2019 und 2025. Insgesamt lässt sich feststellen, dass der Radverkehr deutlich zugenommen hat. 2019 lag der Anteil bei 15 Prozent und stieg bis 2023 auf 27 Prozent. 2025 erreichte er 34 Prozent. Während der Radanteil wuchs, sank der Anteil der Fußgänger von 40 auf 33 Prozent.",
+      "selfcheck": "自查：有总览句 □;von…auf 与 um 用法正确 □；有 Während 对比句 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-04",
+    "level": "B2",
+    "order": 7,
+    "title": "主观情态动词：sollen / wollen 的传闻与声称义",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（情态动词的两种读法对照）",
+      "headers": [
+        "句子",
+        "客观义（A2 已学）",
+        "主观义（B2）"
+      ],
+      "rows": [
+        [
+          "Er soll reich sein.",
+          "他应该（按要求）富有 — 不合逻辑",
+          "据说他很有钱。（sollen = 转述传闻）"
+        ],
+        [
+          "Sie will das gesehen haben.",
+          "她想看那个 — 时态不对",
+          "她声称自己见过那个。（wollen = 本人声称）"
+        ],
+        [
+          "Er soll den Brief geschrieben haben.",
+          "—",
+          "据说信是他写的。（传闻 + 完成时）"
+        ],
+        [
+          "Sie will von nichts gewusst haben.",
+          "—",
+          "她声称自己什么都不知道。"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "sollen 主观义 = 据说：信息来自第三方，说话人不担保；常与 KI 互换（„Er sei reich\" ≈ „Er soll reich sein\")。",
+      "wollen 主观义 = 声称：主语本人宣称某事为真，说话人常带保留或怀疑；主语多为第三人称。",
+      "过去事件的传闻/声称用完成时不定式：soll/will + PII + haben/sein（„soll … gestohlen haben\" / „will … gewesen sein\")。",
+      "客观义与主观义靠语境分：有明确要求来源（医生、规则）时是客观义；无来源、谈第三方事实时是主观义。"
+    ],
+    "examples": [
+      {
+        "de": "Der neue Direktor soll sehr streng, aber gerecht sein.",
+        "zh": ""
+      },
+      {
+        "de": "Die Firma soll im letzten Jahr hohe Gewinne gemacht haben.",
+        "zh": ""
+      },
+      {
+        "de": "Er will den Unfall nicht bemerkt haben und einfach weitergefahren sein.",
+        "zh": ""
+      },
+      {
+        "de": "Sie will die E-Mail nie erhalten haben, aber der Server zeigt den Empfang.",
+        "zh": ""
+      },
+      {
+        "de": "Das Gebäude soll über zweihundert Jahre alt sein und unter Denkmalschutz stehen.",
+        "zh": ""
+      },
+      {
+        "de": "Der Angeklagte will zur Tatzeit zu Hause geschlafen haben.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "传闻义的 sollen 翻译成「应该」，整句逻辑立刻拧巴。",
+      "声称义 wollen 的过去式忘了用完成时不定式（误写 will gesehen gestern haben 类语序）。",
+      "把 wollen 声称义用在第一人称表述自己的真实意愿（„Ich will das gesehen haben\" 会被读成声称，与「我确实想看」混淆；表意愿用 möchte/wollte）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Der Künstler soll Millionen verdient haben.\" 的意思是？",
+        "explain": "无要求来源、谈第三方既往事实，是传闻义。",
+        "options": [
+          "据说这位艺术家赚了数百万",
+          "这位艺术家应该赚数百万才对",
+          "艺术家想赚数百万"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "声称义构成：„Sie ＿＿ den Fehler nicht gemacht haben.\"（她声称没犯过这错）",
+        "explain": "wollen 主观义第三人称用 will + 完成时不定式。",
+        "answer": "will"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是客观义的 sollen？",
+        "explain": "有明确要求来源（医生）时是客观的「应该」。",
+        "options": [
+          "Der Arzt sagt, du sollst im Bett bleiben.",
+          "Er soll sehr reich sein.",
+          "Sie soll die beste Sängerin der Stadt sein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "传闻过去式：„Der Dieb ＿＿ in der Nacht durch das Fenster eingestiegen sein.\"",
+        "explain": "soll + eingestiegen sein 构成过去传闻。",
+        "answer": "soll"
+      },
+      {
+        "type": "choice",
+        "q": "带怀疑的报道，编辑会选哪句转述被告的话？",
+        "explain": "will 声称义既转述又保留距离，正合报道需要。",
+        "options": [
+          "Der Angeklagte will zur Tatzeit geschlafen haben.",
+          "Der Angeklagte hat zur Tatzeit geschlafen.",
+          "Der Angeklagte schlief bestimmt zur Tatzeit."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨义",
+        "explain": "孤立一句时，sollen 的主观传闻义与客观安排义都成立，必须靠语境（有无安排来源、谈话背景）区分——这正是本单元听辨要练的判断。",
+        "audio": "Er soll morgen kommen.",
+        "options": [
+          "两义皆可能，须结合语境判定",
+          "只能是传闻义",
+          "只能是客观安排义"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "声称义 sein 类：„Er will bei dem Unfall nicht dabei ＿＿ sein.\"",
+        "explain": "sein 类动词完成时不定式是 gewesen sein。",
+        "answer": "gewesen"
+      },
+      {
+        "type": "choice",
+        "q": "KI 与 sollen 传闻义等值转换正确的是？",
+        "explain": "sollen 传闻义与 KI 转述等值；C 是本人声称（will)，与「据说」不同。",
+        "options": [
+          "Man sagt, er sei krank. ≈ Er soll krank sein.",
+          "Er soll krank sein. ≈ Er muss krank sein.",
+          "Sie will krank sein. ≈ Man sagt, sie sei krank."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Die Brücke ＿＿ schon über hundert Jahre alt sein.\"(据说）",
+        "explain": "第三人称单数传闻义用 soll。",
+        "answer": "soll"
+      },
+      {
+        "type": "choice",
+        "q": "哪句不合主观义用法？",
+        "explain": "第一人称 will + 现在不定式通常是意愿义（我想交），不是声称义；声称义多为第三人称 + 完成时不定式谈既往。",
+        "options": [
+          "Ich will das Formular morgen abgeben.（被误用为声称义语境时）",
+          "Er will das Formular gestern abgegeben haben.",
+          "Sie soll das Formular erhalten haben."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "传闻完成时：„Sie ＿＿ den Wettbewerb im letzten Jahr gewonnen haben.\"(sollen)",
+        "explain": "soll + gewonnen haben 表据说去年已获胜。",
+        "answer": "soll"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wissen 的分词 gewusst 与 haben 在句末成组，nichts davon 居中。",
+        "tokens": [
+          "will",
+          "Er",
+          "nichts",
+          "haben.",
+          "davon",
+          "gewusst"
+        ],
+        "answer": [
+          "Er",
+          "will",
+          "nichts",
+          "davon",
+          "gewusst",
+          "haben."
+        ],
+        "displayAnswer": "Er will nichts davon gewusst haben."
+      },
+      {
+        "type": "choice",
+        "q": "报道标题 „Minister soll zurücktreten\" 传达的是？",
+        "explain": "新闻标题中的 soll 是传闻标记，不是评论立场。",
+        "options": [
+          "有传闻称部长将辞职，尚未确认",
+          "部长应该辞职（评论要求）",
+          "部长本人想辞职"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "否定声称：„Er will den Schaden nicht ＿＿ haben.\"（verursachen 分词）",
+        "explain": "verursachen 分词无 ge-，为 verursacht，与 haben 组句末结构。",
+        "answer": "verursacht"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "注意 gemacht haben 的完成时不定式收尾，是传闻义的形态信号。",
+        "audio": "Die Firma soll im vergangenen Jahr hohe Gewinne gemacht haben.",
+        "answer": "Die Firma soll im vergangenen Jahr hohe Gewinne gemacht haben."
+      },
+      {
+        "type": "choice",
+        "q": "区别 wollen 声称义与 möchte 意愿义，正确的一组是？",
+        "explain": "声称义 = will + 完成时不定式指向过去；意愿义 = möchte + 现在不定式指向将来。",
+        "options": [
+          "Er will den Zeugen gesehen haben.（声称见过）/ Er möchte den Zeugen sehen.（想见）",
+          "两句同义",
+          "声称义只能用 möchte"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Vor dem Gericht warteten die Journalisten auf den ersten Verhandlungstag. Der Angeklagte, ein ehemaliger Bankmanager, soll über Jahre Gelder veruntreut haben. Die Summe soll sich auf mehrere Millionen belaufen. Er selbst will von den Vorgängen nichts gewusst haben und verweist auf seine Mitarbeiter. Diese wiederum sagen, er habe alle Entscheidungen allein getroffen. Die Staatsanwaltschaft will noch weitere Zeugen hören. Ob der Prozess in diesem Jahr endet, ist offen. Der Richter soll zu Beginn eine lange Verhandlung angekündigt haben.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①哪两件事只是「据说」（soll)?（答：他多年挪用资金；金额达数百万——另答法官据称宣布长庭审亦可）②被告本人的说法是什么，用了哪个动词？（答：声称自己全然不知情；用 will 声称义）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "把一段直白陈述改写成带距离感的报道（约 70 词）：原文要点——新任馆长非常富有（传闻）；他买下了老车站（传闻，已完成）；他本人说想把车站改成文化中心（声称，谈将来计划用 wollen 意愿义即可或 „erklärt, er wolle…\"）；记者对此保留。",
+      "sample": "范文：Der neue Museumsleiter soll sehr vermögend sein. Er soll im Frühjahr den alten Bahnhof gekauft haben. Er selbst erklärt, er wolle aus dem Gebäude ein Kulturzentrum machen. Ob die Pläne finanzierbar sind, bleibt nach Angaben der Stadt noch zu prüfen.",
+      "selfcheck": "自查：传闻用了两处 soll（含一处完成时）□；本人表态与传闻区分开 □；没有把传闻写成确认事实 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-05",
+    "level": "B2",
+    "order": 8,
+    "title": "将来时推测义：Futur I 推测与 Futur II 认读",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（推测的强度阶梯与形式）",
+      "headers": [
+        "强度",
+        "形式",
+        "示例"
+      ],
+      "rows": [
+        [
+          "断定",
+          "bestimmt / sicher + Präsens",
+          "Er ist bestimmt schon zu Hause."
+        ],
+        [
+          "Futur I 推测",
+          "werden + Infinitiv（谈现在）",
+          "Er wird schon zu Hause sein.（他想必已经到家了）"
+        ],
+        [
+          "Futur II（认读）",
+          "werden + PII + haben/sein",
+          "Sie wird den Brief schon gelesen haben.（她想必已经读过信了——对过去的推测）"
+        ],
+        [
+          "较强推测",
+          "wahrscheinlich / vermutlich + Präsens",
+          "Er ist wahrscheinlich schon zu Hause."
+        ],
+        [
+          "弱推测",
+          "vielleicht / möglicherweise",
+          "Vielleicht ist er noch im Büro."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "本单元的 werden 不是谈将来计划，而是对**现在**情况的推测（„Er wird jetzt schlafen.\" = 他这会儿想必在睡觉）。",
+      "Futur II 谈对**过去**的推测：事情在说话时想必已经发生；构成 werden + 分词 + haben/sein，haben/sein 按动词完成时规则选。",
+      "推测句常带 wohl / schon / doch 加强语气（„Er wird wohl schon angekommen sein.\"）。",
+      "与主观 wollen/sollen 对照：推测义 werden 是说话人自己的判断；sollen 是转述别人的说法。"
+    ],
+    "examples": [
+      {
+        "de": "Mach dir keine Sorgen, sie wird wohl schon sicher gelandet sein.",
+        "zh": ""
+      },
+      {
+        "de": "Er wird jetzt etwa 40 Jahre alt sein, wir haben uns lange nicht gesehen.",
+        "zh": ""
+      },
+      {
+        "de": "Sie wird die Nachricht inzwischen erhalten haben, ich habe sie gestern abgeschickt.",
+        "zh": ""
+      },
+      {
+        "de": "Die Kinder werden wohl im Garten spielen, es ist so still im Haus.",
+        "zh": ""
+      },
+      {
+        "de": "Er wird die Prüfung bestanden haben, er hat monatelang dafür gelernt.",
+        "zh": ""
+      },
+      {
+        "de": "Das wird schon stimmen, was die Zeitung über die Firma berichtet.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把推测义 Futur I 误解成将来计划，见到 werden 就往「将要」上翻。",
+      "Futur II 助动词选错（fahren 类要用 sein：„wird gefahren sein\")。",
+      "推测与事实不分：推测句不能去掉 werden 还当原意讲。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Er wird jetzt im Büro sein.\" 的意思是？",
+        "explain": "jetzt + werden 是对现状的推测，不是将来计划。",
+        "options": [
+          "他现在想必在办公室",
+          "他将来会在办公室工作",
+          "他应该现在去办公室"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Futur II：„Sie ＿＿ das Paket schon erhalten haben.\"",
+        "explain": "对过去的推测：werden 现在时变位 wird + 分词 + haben。",
+        "answer": "wird"
+      },
+      {
+        "type": "choice",
+        "q": "sein 类 Futur II 正确的是？",
+        "explain": "ankommen 完成时用 sein，Futur II 尾组是 angekommen sein。",
+        "options": [
+          "Er wird schon angekommen sein.",
+          "Er wird schon angekommen haben.",
+          "Er wird schon ankommen sein gewesen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "推测小词：„Er wird ＿＿ schon zu Hause sein, es ist fast Mitternacht.\"",
+        "explain": "wohl 与推测义 werden 是黄金搭配。",
+        "answer": "wohl"
+      },
+      {
+        "type": "choice",
+        "q": "强度排序（由强到弱）正确的是？",
+        "explain": "断定 > 较强推测 > 弱推测。",
+        "options": [
+          "bestimmt → wahrscheinlich → vielleicht",
+          "vielleicht → bestimmt → wahrscheinlich",
+          "wahrscheinlich → vielleicht → bestimmt"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨功能",
+        "explain": "Futur II 形态（分词 + haben）是对已发生之事的推测。",
+        "audio": "Sie wird den Vertrag schon unterschrieben haben.",
+        "options": [
+          "对过去的推测",
+          "对将来的计划",
+          "一条命令"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "现在推测：„Die Geschäfte sind zu, die Leute ＿＿ wohl schon schlafen.\"（werden)",
+        "explain": "主语复数推测义用 werden 原形作变位（sie werden)。",
+        "answer": "werden"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是将来计划而非推测？",
+        "explain": "A 是明确的第一人称将来计划；B、C 为推测。",
+        "options": [
+          "Wir werden morgen nach Berlin fahren.",
+          "Er wird morgen schon in Berlin sein.（推测现状的延伸）",
+          "Sie wird das wohl vergessen haben."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Futur II haben 类：„Er wird das Auto schon ＿＿ haben.\"(verkaufen 分词）",
+        "explain": "verkaufen 分词 verkauft，尾组 verkauft haben。",
+        "answer": "verkauft"
+      },
+      {
+        "type": "choice",
+        "q": "sollen 传闻 vs werden 推测，正确对照是？",
+        "explain": "信息来源不同：sollen 是转述，werden 是说话人自己的判断。",
+        "options": [
+          "Er soll krank sein.（别人说的）/ Er wird krank sein.（我推断的）",
+          "两者都表示本人声称",
+          "两者同义可互换"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "否定推测：„Er wird die Prüfung wohl nicht ＿＿ haben.\"(bestehen 分词）",
+        "explain": "bestehen 的分词是 bestanden，否定推测同样用 Futur II。",
+        "answer": "bestanden"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wird 第二位，分词 + haben 居末。",
+        "tokens": [
+          "haben.",
+          "wird",
+          "Sie",
+          "den Brief",
+          "schon",
+          "gelesen"
+        ],
+        "answer": [
+          "Sie",
+          "wird",
+          "den Brief",
+          "schon",
+          "gelesen",
+          "haben."
+        ],
+        "displayAnswer": "Sie wird den Brief schon gelesen haben."
+      },
+      {
+        "type": "choice",
+        "q": "最弱推测的表达是？",
+        "explain": "möglicherweise 属弱推测区，bestimmt/sicher 是断定。",
+        "options": [
+          "Möglicherweise ist er noch unterwegs.",
+          "Er ist bestimmt schon da.",
+          "Er wird sicher schon da sein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "注意 wohl 的位置在 werden 之后、焦点成分之前。",
+        "audio": "Die Kinder werden wohl schon im Bett sein.",
+        "answer": "Die Kinder werden wohl schon im Bett sein."
+      },
+      {
+        "type": "fill",
+        "q": "对年龄的推测：„Sie ＿＿ jetzt ungefähr 30 Jahre alt sein.\"",
+        "explain": "谈现状的推测用 Futur I 单数 wird。",
+        "answer": "wird"
+      },
+      {
+        "type": "choice",
+        "q": "总结正确的是？",
+        "explain": "B2 的核心是推测用法；谈计划通常用现在时或 Futur I 的计划义，需靠语境区分。",
+        "options": [
+          "Futur I 可推现在，Futur II 推过去，强度靠副词调节",
+          "Futur 只能谈将来",
+          "Futur II 是正式的将来完成式，必须用于计划"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Um Mitternacht klingelte das Telefon. „Wo ist Papa?\", fragte die kleine Tochter verschlafen. Die Mutter beruhigte sie: „Er wird wohl noch im Zug sitzen. Der Zug wird Verspätung gehabt haben, das kommt bei dem Wetter oft vor. Er wird seine Tasche schon gepackt haben und am Bahnhof aussteigen, sobald der Zug ankommt. Mach dir keine Sorgen, er wird bestimmt bald zur Tür hereinkommen.\" Kaum hatte sie aufgelegt, hörte man den Schlüssel im Schloss. Der Vater stand lächelnd in der Tür – mit einem kleinen Geschenk für seine Tochter.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①母亲的哪句推测是对过去的推测（Futur II)?（答：Der Zug wird Verspätung gehabt haben.) ②哪句推测最后没有说中、哪句说中了？（答：说将在车站下车、很快进门——大方向说中了；细节上他已到门口， „bald zur Tür hereinkommen\" 随即兑现，按文本答：关于晚点的推测无法证实，进门推测立即应验）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用推测义写一段「猜测室友现在在做什么」（约 70 词），至少用 2 个 Futur I 推测、1 个 Futur II、2 个强度副词。",
+      "sample": "范文：Anna ist noch nicht zu Hause. Sie wird wohl noch in der Bibliothek sein und lernen. Wahrscheinlich hat sie ihr Handy ausgeschaltet. Sie wird die Hausarbeit schon fast fertig geschrieben haben. Vielleicht kauft sie auf dem Rückweg noch ein. Bestimmt wird sie müde sein, wenn sie gegen zehn nach Hause kommt.",
+      "selfcheck": "自查：:Futur I 推测指向现在 □;Futur II 指向过去且助动词正确 □；强度副词有两个不同等级 □。"
+    },
+    "writingLabel": "写作"
+  }
+]

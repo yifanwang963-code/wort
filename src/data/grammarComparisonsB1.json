@@ -1,0 +1,793 @@
+[
+  {
+    "id": "c-b1-1",
+    "level": "B1",
+    "order": 25,
+    "title": "obwohl 从句 vs trotzdem",
+    "intro": "",
+    "table": {
+      "caption": "",
+      "headers": [
+        "",
+        "obwohl",
+        "trotzdem"
+      ],
+      "rows": [
+        [
+          "词性",
+          "从属连词（带从句，动词在尾）",
+          "副词（占一位，主句倒装）"
+        ],
+        [
+          "例",
+          "**Obwohl** es regnet, gehen wir raus.",
+          "Es regnet, **trotzdem** gehen wir raus. / Es regnet. **Trotzdem** gehen wir raus."
+        ],
+        [
+          "标点",
+          "从句与主句间逗号",
+          "trotzdem 前可句号或分号，逗号连接时后接动词"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "Obwohl es kalt ist, ＿＿ wir spazieren.",
+        "explain": "obwohl 从句在前，主句动词 gehen 第二位倒装。",
+        "options": [
+          "gehen",
+          "wir gehen",
+          "gehen wir nicht"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连接词填空",
+        "explain": "独立主句之间用 trotzdem。",
+        "display": "Es ist kalt. ＿＿ gehen wir spazieren.（句首大写）",
+        "answer": "Trotzdem"
+      },
+      {
+        "type": "choice",
+        "q": "动词位置",
+        "explain": "主句倒装。",
+        "display": "Obwohl er krank war, ＿＿ zur Arbeit.",
+        "options": [
+          "ging er",
+          "er ging",
+          "ging zur er"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "trotzdem 占第一位，arbeitet 紧跟。",
+        "tokens": [
+          "trotzdem",
+          "Er ist müde",
+          "arbeitet er",
+          "weiter"
+        ],
+        "answer": [
+          "Er ist müde",
+          "trotzdem",
+          "arbeitet er",
+          "weiter"
+        ],
+        "displayAnswer": "Er ist müde, trotzdem arbeitet er weiter."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "obwohl 是让步。",
+        "audio": "Obwohl sie wenig Geld hat, ist sie glücklich.",
+        "options": [
+          "她钱不多但开心",
+          "她因为有钱很开心",
+          "她想变得有钱"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "从句尾填空",
+        "explain": "obwohl 从句动词 habe 在尾。",
+        "display": "Obwohl ich es ihm gesagt ＿＿, hat er es vergessen.",
+        "answer": "habe"
+      },
+      {
+        "type": "choice",
+        "q": "标点与结构",
+        "explain": "trotzdem 不能引导从句。",
+        "options": [
+          "Obwohl der Film lang war, war er spannend.",
+          "Obwohl der Film lang war. Er war spannend trotzdem.",
+          "Trotzdem der Film lang war, war er spannend."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连接词填空",
+        "explain": "学了却没过——让步，独立句用 trotzdem。",
+        "display": "Sie hat viel gelernt. ＿＿ hat sie die Prüfung nicht bestanden.",
+        "answer": "Trotzdem"
+      }
+    ]
+  },
+  {
+    "id": "c-b1-2",
+    "level": "B1",
+    "order": 26,
+    "title": "主动 vs 被动 vs man",
+    "intro": "",
+    "table": {
+      "caption": "",
+      "headers": [
+        "形式",
+        "侧重",
+        "例"
+      ],
+      "rows": [
+        [
+          "主动",
+          "谁做的清楚",
+          "Die Firma baut eine Brücke."
+        ],
+        [
+          "被动",
+          "事情本身/结果，做事者次要或未知",
+          "Eine Brücke wird gebaut. / Die Brücke wurde 2020 gebaut."
+        ],
+        [
+          "man",
+          "泛指「人们/有人」，口语常用",
+          "Man baut hier eine Brücke. / Hier spricht man Deutsch."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是被动",
+        "explain": "wurde + 分词是被动过去时。",
+        "options": [
+          "Das Fenster wurde geöffnet.",
+          "Man öffnete das Fenster.",
+          "Er öffnete das Fenster."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "形式分筐",
+        "explain": "看动词结构：werden/wurde + 分词是被动。",
+        "groups": [
+          "主动",
+          "被动",
+          "man"
+        ],
+        "items": [
+          {
+            "text": "1. Der Brief wurde geschrieben.",
+            "group": 1
+          },
+          {
+            "text": "2. Die Sekretärin schrieb den Brief.",
+            "group": 0
+          },
+          {
+            "text": "3. Man schrieb den Brief heute.",
+            "group": 2
+          },
+          {
+            "text": "4. Das Haus wird verkauft.",
+            "group": 1
+          },
+          {
+            "text": "5. Hier spricht man Englisch.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "man 改被动",
+        "explain": "现在时被动 wird + 分词。",
+        "display": "Man repariert die Straße. → Die Straße ＿＿ repariert.",
+        "answer": "wird"
+      },
+      {
+        "type": "choice",
+        "q": "场景选形式",
+        "explain": "报道重结果，用被动过去时。",
+        "display": "新闻报道一座桥建成，用哪句最合适",
+        "options": [
+          "Die Brücke wurde in zwei Jahren gebaut.",
+          "Jemand baute die Brücke in zwei Jahren.",
+          "Man baute eine Brücke, ja."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨形式",
+        "explain": "wird geraucht 是无人称被动。",
+        "audio": "Hier wird nicht geraucht.",
+        "options": [
+          "这是被动句（无具体做事者）",
+          "有人在这里抽烟",
+          "man 句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "被动改 man",
+        "explain": "man 句用主动现在时。",
+        "display": "In Deutschland wird viel Bier getrunken. → Man ＿＿ in Deutschland viel Bier.",
+        "answer": "trinkt"
+      },
+      {
+        "type": "choice",
+        "q": "哪句没有做事者也能成立",
+        "explain": "被动可以完全隐去施动者。",
+        "options": [
+          "Das Problem wurde gelöst.",
+          "Er löste das Problem gestern.",
+          "Man löste das Problem."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句（被动）",
+        "explain": "被动过去时框架。",
+        "tokens": [
+          "wurde",
+          "Das Auto",
+          "gestohlen",
+          "gestern"
+        ],
+        "answer": [
+          "Das Auto",
+          "wurde",
+          "gestern",
+          "gestohlen"
+        ],
+        "displayAnswer": "Das Auto wurde gestern gestohlen."
+      }
+    ]
+  },
+  {
+    "id": "c-b1-3",
+    "level": "B1",
+    "order": 27,
+    "title": "hat gemacht（真实过去）vs hätte gemacht（虚拟过去）",
+    "intro": "",
+    "table": {
+      "caption": "",
+      "headers": [
+        "",
+        "真实过去",
+        "虚拟过去"
+      ],
+      "rows": [
+        [
+          "形式",
+          "hat gemacht / ist gegangen",
+          "hätte gemacht / wäre gegangen"
+        ],
+        [
+          "意思",
+          "真的发生了",
+          "没发生：后悔、责备、差一点、假设"
+        ],
+        [
+          "信号",
+          "时间状语、叙事",
+          "sollen/müssen（责备）、fast/beinahe、wenn 从句、gern"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句表示后悔",
+        "explain": "hätte … sollen 是虚拟过去的责备/后悔式。",
+        "options": [
+          "Ich hätte mehr lernen sollen.",
+          "Ich habe mehr gelernt.",
+          "Ich lerne mehr."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "真实/虚拟分筐",
+        "explain": "有 hätte/wäre 或 fast、sollen 信号的是虚拟。",
+        "groups": [
+          "真实发生",
+          "虚拟未发生"
+        ],
+        "items": [
+          {
+            "text": "1. Er ist gestern gekommen.",
+            "group": 0
+          },
+          {
+            "text": "2. Er wäre fast gefallen.",
+            "group": 1
+          },
+          {
+            "text": "3. Das hättest du sagen müssen!",
+            "group": 1
+          },
+          {
+            "text": "4. Wir haben den Zug genommen.",
+            "group": 0
+          },
+          {
+            "text": "5. Wenn ich das gewusst hätte!",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "虚拟填空",
+        "explain": "verpassen 用 haben 类，hätte。",
+        "display": "Ich ＿＿ fast die Prüfung verpasst.（差一点误考）",
+        "answer": "hätte"
+      },
+      {
+        "type": "choice",
+        "q": "真实句",
+        "explain": "ist gegangen 是真发生的完成时；第三个选项形式本身错误（gehen 用 wäre）。",
+        "options": [
+          "Sie ist nach Hause gegangen.",
+          "Sie wäre nach Hause gegangen.",
+          "Sie hätte nach Hause gegangen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "hättest … können 是对过去的责备。",
+        "audio": "Du hättest mich anrufen können!",
+        "options": [
+          "说话人在责备：你本来可以打电话",
+          "你已经打过电话了",
+          "你应该现在打电话"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "虚拟填空",
+        "explain": "假设的过去：没有帮助就不会成功。",
+        "display": "Ohne deine Hilfe ＿＿ ich es nicht geschafft.",
+        "answer": "hätte"
+      },
+      {
+        "type": "choice",
+        "q": "差一点的标志",
+        "explain": "wäre + beinahe = 差一点（实际没迟到）。",
+        "options": [
+          "Ich wäre beinahe zu spät gekommen.",
+          "Ich bin zu spät gekommen.",
+          "Ich komme fast jeden Tag."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主语是 du，虚拟式用 hättest；须记牢 hätte（er/sie）与 hättest（du）的分别。",
+        "tokens": [
+          "hättest",
+          "Das",
+          "du",
+          "mir",
+          "sagen müssen"
+        ],
+        "answer": [
+          "Das",
+          "hättest",
+          "du",
+          "mir",
+          "sagen müssen"
+        ],
+        "displayAnswer": "Das hättest du mir sagen müssen."
+      }
+    ]
+  },
+  {
+    "id": "c-b1-4",
+    "level": "B1",
+    "order": 28,
+    "title": "um…zu vs ohne…zu vs statt…zu",
+    "intro": "",
+    "table": {
+      "caption": "",
+      "headers": [
+        "",
+        "逻辑",
+        "例"
+      ],
+      "rows": [
+        [
+          "um … zu",
+          "为了（目的）",
+          "Er lernt, **um** die Prüfung **zu bestehen**."
+        ],
+        [
+          "ohne … zu",
+          "没做（就发生了）",
+          "Er ging, **ohne** sich **zu verabschieden**."
+        ],
+        [
+          "statt … zu",
+          "不做 A 却做了 B",
+          "**Statt zu lernen**, spielte er."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "目的填空",
+        "explain": "存钱是为了买车，目的用 um。",
+        "display": "Sie spart Geld, ＿＿ ein Auto zu kaufen.",
+        "options": [
+          "um",
+          "ohne",
+          "statt"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "没做某事用 ohne…zu。",
+        "display": "Er verließ das Büro, ＿＿ den Chef zu informieren.（没通知老板就走了）",
+        "answer": "ohne"
+      },
+      {
+        "type": "choice",
+        "q": "替代填空",
+        "explain": "本该待在家却出门，statt。",
+        "display": "＿＿ zu Hause zu bleiben, ging er aus.",
+        "options": [
+          "Statt",
+          "Um",
+          "Ohne"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "逻辑分筐",
+        "explain": "先问逻辑：为了什么、缺了什么、换成了什么。",
+        "groups": [
+          "目的",
+          "没做",
+          "替代"
+        ],
+        "items": [
+          {
+            "text": "1. Er fährt zur Arbeit, um Geld zu verdienen.",
+            "group": 0
+          },
+          {
+            "text": "2. Sie ging, ohne zu frühstücken.",
+            "group": 1
+          },
+          {
+            "text": "3. Statt zu schlafen, las er die ganze Nacht.",
+            "group": 2
+          },
+          {
+            "text": "4. Er zahlte, ohne zu fragen.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "statt = 本该帮忙却没帮。",
+        "audio": "Statt mir zu helfen, sah er nur zu.",
+        "options": [
+          "他没帮忙，只在旁边看",
+          "他帮了忙",
+          "他为了帮我而来"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "目的明确，um…zu。",
+        "display": "Ich lerne Deutsch, ＿＿ in Deutschland zu studieren.",
+        "answer": "um"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ohne zu + 不定式守尾。",
+        "tokens": [
+          "ohne zu",
+          "Er las",
+          "den Text",
+          "verstehen"
+        ],
+        "answer": [
+          "Er las",
+          "den Text",
+          "ohne zu",
+          "verstehen"
+        ],
+        "displayAnswer": "Er las den Text, ohne zu verstehen."
+      },
+      {
+        "type": "choice",
+        "q": "主语规则复核",
+        "explain": "不定式结构都要求主语相同。",
+        "display": "三个结构共同的要求是",
+        "options": [
+          "主句与从句主语相同",
+          "必须用 dass",
+          "只能用在句首"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-b1-5",
+    "level": "B1",
+    "order": 29,
+    "title": "dessen / deren vs sein / ihr",
+    "intro": "",
+    "table": {
+      "caption": "",
+      "headers": [
+        "",
+        "dessen / deren",
+        "sein / ihr"
+      ],
+      "rows": [
+        [
+          "位置",
+          "关系从句**内部**，回指先行词",
+          "独立名词短语里，所有格"
+        ],
+        [
+          "例",
+          "Der Mann, **dessen** Sohn hier arbeitet, …",
+          "Der Mann und **sein** Sohn sind hier."
+        ],
+        [
+          "注意",
+          "后面的名词不带冠词",
+          "随名词变格：seinen Sohn（宾格）"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "关系从句填空",
+        "explain": "从句内部回指先行词，用 deren。",
+        "display": "Die Frau, ＿＿ Kind krank ist, bleibt zu Hause.",
+        "options": [
+          "deren",
+          "ihre",
+          "der"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "所有格填空",
+        "explain": "不在关系从句里，用普通所有格 Sein（句首大写）。",
+        "display": "Der Mann ist hier. ＿＿ Auto steht draußen.（独立句）",
+        "answer": "Sein"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "deren 后不带冠词；从句内不能用 ihre 代替。",
+        "options": [
+          "Die Kinder, deren Eltern arbeiten, sind oft allein.",
+          "Die Kinder, ihre Eltern arbeiten, sind oft allein.",
+          "Die Kinder, deren die Eltern arbeiten, sind oft allein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "dessen Buch = 老师的书。",
+        "audio": "Der Lehrer, dessen Buch neu ist, kommt aus Köln.",
+        "options": [
+          "老师的书是新的",
+          "老师买了新书",
+          "书是学校的新老师写的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系词填空",
+        "explain": "阳性先行词 Autor → dessen。",
+        "display": "Der Autor, ＿＿ Romane ich liebe, ist berühmt.",
+        "answer": "dessen"
+      },
+      {
+        "type": "choice",
+        "q": "ihr 的地盘",
+        "explain": "这是主句里的所有格短语，用 ihr。",
+        "display": "Frau Lan und ＿＿ Mann wohnen hier.",
+        "options": [
+          "ihr",
+          "deren",
+          "dessen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系词填空",
+        "explain": "die Firma 阴性 → deren，哪怕 Chef 是阳性。",
+        "display": "Die Firma, ＿＿ Chef nett ist, sucht Leute.",
+        "answer": "deren"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "dessen + 名词（无冠词）+ 从句动词在尾。",
+        "tokens": [
+          "dessen",
+          "Der Mann",
+          "Auto",
+          "neu ist"
+        ],
+        "answer": [
+          "Der Mann",
+          "dessen",
+          "Auto",
+          "neu ist"
+        ],
+        "displayAnswer": "Der Mann, dessen Auto neu ist."
+      }
+    ]
+  },
+  {
+    "id": "c-b1-6",
+    "level": "B1",
+    "order": 30,
+    "title": "weil vs wegen / obwohl vs trotz",
+    "intro": "",
+    "table": {
+      "caption": "",
+      "headers": [
+        "对子",
+        "从句版（动词在尾）",
+        "名词版（介词短语）"
+      ],
+      "rows": [
+        [
+          "原因",
+          "weil es regnet, …",
+          "wegen des Regens …"
+        ],
+        [
+          "让步",
+          "obwohl es regnet, …",
+          "trotz des Regens …"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "后面是名词短语时选",
+        "explain": "接名词短语用介词 wegen。",
+        "display": "＿＿ des schlechten Wetters bleiben wir zu Hause.",
+        "options": [
+          "Wegen",
+          "Weil",
+          "Obwohl"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "从句连接词",
+        "explain": "后面是完整从句，用 weil。",
+        "display": "Wir bleiben zu Hause, ＿＿ es regnet.",
+        "answer": "weil"
+      },
+      {
+        "type": "choice",
+        "q": "让步名词版",
+        "explain": "让步 + 名词短语 = trotz。",
+        "display": "＿＿ des Regens gingen wir spazieren.",
+        "options": [
+          "Trotz",
+          "Obwohl",
+          "Wegen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "obwohl 从句在前，主句倒装。",
+        "tokens": [
+          "wir",
+          "Obwohl es regnete",
+          "zu Hause",
+          "blieben"
+        ],
+        "answer": [
+          "Obwohl es regnete",
+          "blieben",
+          "wir",
+          "zu Hause"
+        ],
+        "displayAnswer": "Obwohl es regnete, blieben wir zu Hause."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨结构",
+        "explain": "wegen + 二格名词，没有从句动词。",
+        "audio": "Wegen der Verspätung kam er zu spät.",
+        "options": [
+          "这是介词短语（wegen）",
+          "这是 weil 从句",
+          "这是 obwohl 从句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "让步从句",
+        "explain": "后面是完整从句，让步用 obwohl。",
+        "display": "＿＿ er krank ist, geht er zur Arbeit.",
+        "answer": "Obwohl"
+      },
+      {
+        "type": "choice",
+        "q": "同义转换",
+        "explain": "weil 从句可转 wegen + 名词；obwohl 不能接名词短语。",
+        "display": "Weil er krank ist, bleibt er zu Hause. ＝",
+        "options": [
+          "Wegen seiner Krankheit bleibt er zu Hause.",
+          "Trotz seiner Krankheit bleibt er zu Hause.",
+          "Obwohl seiner Krankheit bleibt er zu Hause."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "二格填空",
+        "explain": "der Lärm 阳性二格 des（Lärms 词尾已给出）。",
+        "display": "Trotz ＿＿ Lärms konnte sie schlafen.",
+        "answer": "des"
+      }
+    ]
+  }
+]

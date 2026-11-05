@@ -1,0 +1,2262 @@
+[
+  {
+    "id": "s-b1-01",
+    "level": "B1",
+    "order": 1,
+    "title": "专科检查与治疗方案",
+    "recommended": "",
+    "prerequisites": [
+      "g-b1-04",
+      "s-a2-01"
+    ],
+    "sceneIntro": "你的膝盖疼了三个月，家庭医生把你转诊到骨科专科（Facharzt für Orthopädie）。医生先讲检查结果（MRT 报告），再摆出两个治疗方案，你询问风险并表示要考虑一下。前置：g-b1-04（虚拟过去与礼貌式）、A2 情景课 s-a2-01（诊所）。",
+    "dialogue": [
+      {
+        "speaker": "Arzt",
+        "text": "Guten Tag, Frau Wang. Die MRT-Bilder sind da. Ihr Knie hat einen kleinen Schaden am Knorpel.",
+        "audio": "Guten Tag, Frau Wang. Die MRT-Bilder sind da. Ihr Knie hat einen kleinen Schaden am Knorpel."
+      },
+      {
+        "speaker": "Patientin",
+        "text": "Ist das schlimm? Muss ich operiert werden?",
+        "audio": "Ist das schlimm? Muss ich operiert werden?"
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Nicht unbedingt. Es gibt zwei Möglichkeiten: Wir können es zuerst mit Physiotherapie versuchen, das dauert etwa drei Monate. Oder wir machen eine kleine Operation.",
+        "audio": "Nicht unbedingt. Es gibt zwei Möglichkeiten: Wir können es zuerst mit Physiotherapie versuchen, das dauert etwa drei Monate. Oder wir machen eine kleine Operation."
+      },
+      {
+        "speaker": "Patientin",
+        "text": "Was sind die Risiken bei einer Operation?",
+        "audio": "Was sind die Risiken bei einer Operation?"
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Wie bei jeder Operation gibt es ein kleines Risiko, aber es ist ein Routineeingriff. Die meisten Patienten können nach sechs Wochen wieder normal laufen.",
+        "audio": "Wie bei jeder Operation gibt es ein kleines Risiko, aber es ist ein Routineeingriff. Die meisten Patienten können nach sechs Wochen wieder normal laufen."
+      },
+      {
+        "speaker": "Patientin",
+        "text": "Ich mache mir Sorgen, dass ich lange nicht arbeiten kann.",
+        "audio": "Ich mache mir Sorgen, dass ich lange nicht arbeiten kann."
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Bei der Therapie müssten Sie nur zweimal pro Woche kommen. Entscheiden müssen Sie sich nicht heute.",
+        "audio": "Bei der Therapie müssten Sie nur zweimal pro Woche kommen. Entscheiden müssen Sie sich nicht heute."
+      },
+      {
+        "speaker": "Patientin",
+        "text": "Dann würde ich gern zuerst die Therapie versuchen. Wenn es nicht besser wird, können wir immer noch operieren.",
+        "audio": "Dann würde ich gern zuerst die Therapie versuchen. Wenn es nicht besser wird, können wir immer noch operieren."
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Das ist eine vernünftige Entscheidung. Ich schreibe Ihnen eine Überweisung für die Therapie.",
+        "audio": "Das ist eine vernünftige Entscheidung. Ich schreibe Ihnen eine Überweisung für die Therapie."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "检查结果出来了",
+          "Die Bilder / Die Ergebnisse sind da."
+        ],
+        [
+          "有两个方案",
+          "Es gibt zwei Möglichkeiten: …"
+        ],
+        [
+          "问风险",
+          "Was sind die Risiken bei …?"
+        ],
+        [
+          "表担忧",
+          "Ich mache mir Sorgen, dass …"
+        ],
+        [
+          "不急着定",
+          "Entscheiden müssen Sie sich nicht heute."
+        ],
+        [
+          "优先选保守方案",
+          "Ich würde gern zuerst … versuchen."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话中医生先建议的方案",
+        "explain": "zuerst mit Physiotherapie versuchen。",
+        "options": [
+          "先做三个月理疗",
+          "马上手术",
+          "不用治疗"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "问风险",
+        "explain": "问风险的固定说法。",
+        "display": "Was sind die ＿＿ bei einer Operation?",
+        "answer": "Risiken"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂对话",
+        "explain": "Sorgen 的内容是 lange nicht arbeiten。",
+        "audio": "Ich mache mir Sorgen, dass ich lange nicht arbeiten kann.",
+        "options": [
+          "病人担心要请很久的假",
+          "病人担心费用",
+          "病人担心疗效不好"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "表达担忧的句式",
+        "explain": "sich Sorgen machen 的语序。",
+        "options": [
+          "Ich mache mir Sorgen, dass …",
+          "Ich mache Sorgen mir, dass …",
+          "Sorgen ich mache, dass …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "KII 礼貌表达自己的选择。",
+        "tokens": [
+          "zuerst",
+          "Ich würde",
+          "die Therapie",
+          "gern",
+          "versuchen"
+        ],
+        "answer": [
+          "Ich würde",
+          "gern",
+          "zuerst",
+          "die Therapie",
+          "versuchen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "可能性填空",
+        "explain": "摆方案时的说法。",
+        "display": "Es gibt zwei ＿＿: Therapie oder Operation.",
+        "answer": "Möglichkeiten"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "医生让病人不必当天决定。",
+        "display": "Entscheiden müssen Sie sich nicht ＿＿.",
+        "audio": "Entscheiden müssen Sie sich nicht heute.",
+        "answer": "heute"
+      },
+      {
+        "type": "choice",
+        "q": "「转诊单」在对话里是",
+        "explain": "医生开的是去理疗的 Überweisung。",
+        "options": [
+          "Überweisung",
+          "Operation",
+          "Risiko"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "条件商量",
+        "explain": "病人的备用计划。",
+        "display": "Wenn es nicht besser wird, ＿＿ wir immer noch operieren.",
+        "answer": "können"
+      },
+      {
+        "type": "classify",
+        "q": "语句功能分筐",
+        "explain": "讲结果、给方案是医生；表担忧、做选择是病人。",
+        "groups": [
+          "医生的话",
+          "病人的话"
+        ],
+        "items": [
+          {
+            "text": "1. Die MRT-Bilder sind da.",
+            "group": 0
+          },
+          {
+            "text": "2. Ich mache mir Sorgen.",
+            "group": 1
+          },
+          {
+            "text": "3. Es gibt zwei Möglichkeiten.",
+            "group": 0
+          },
+          {
+            "text": "4. Ich würde gern zuerst die Therapie versuchen.",
+            "group": 1
+          }
+        ]
+      }
+    ],
+    "speaking": "演病人：向医生询问检查结果、两个方案的区别和各自的风险，表达你的担忧，最后说出你的选择和理由（5–6 句）。",
+    "speakingSample": "参考：Was zeigen die Bilder genau? Was sind die Risiken bei der Operation? Ich mache mir Sorgen, dass ich lange nicht arbeiten kann. Ich würde gern zuerst die Therapie versuchen, weil sie kein Risiko hat. Wenn es nicht besser wird, entscheide ich mich später.",
+    "speakingSelfcheck": "自查：问了风险 □；用 Sorgen 句说出了担忧 □；选择用了 würde gern □。",
+    "sceneWords": [
+      "die Entscheidung",
+      "etwa",
+      "das Knie",
+      "die Operation",
+      "operieren",
+      "das Risiko",
+      "der Schaden",
+      "die Therapie",
+      "die Überweisung"
+    ]
+  },
+  {
+    "id": "s-b1-02",
+    "level": "B1",
+    "order": 2,
+    "title": "公司会议：汇报与异议",
+    "recommended": "",
+    "prerequisites": [
+      "t-b1-02",
+      "g-b1-16"
+    ],
+    "sceneIntro": "项目周会。你汇报进度落后两周，经理想追加任务，你礼貌提出异议并给出替代方案，最后会议定下新的时间表。前置：t-b1-02（讨论话术）、g-b1-16（语序）。",
+    "dialogue": [
+      {
+        "speaker": "Chefin",
+        "text": "Wie ist der Stand beim Projekt? Liegen wir im Zeitplan?",
+        "audio": "Wie ist der Stand beim Projekt? Liegen wir im Zeitplan?"
+      },
+      {
+        "speaker": "Mitarbeiter",
+        "text": "Leider nicht ganz. Wir sind zwei Wochen hinter dem Plan, weil ein Lieferant zu spät geliefert hat.",
+        "audio": "Leider nicht ganz. Wir sind zwei Wochen hinter dem Plan, weil ein Lieferant zu spät geliefert hat."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Das ist ein Problem. Der Kunde wartet. Können Sie zusätzlich die Präsentation übernehmen?",
+        "audio": "Das ist ein Problem. Der Kunde wartet. Können Sie zusätzlich die Präsentation übernehmen?"
+      },
+      {
+        "speaker": "Mitarbeiter",
+        "text": "Da sehe ich ein Problem: Mein Team arbeitet schon am Limit. Wenn ich die Präsentation auch mache, wird das Projekt noch später fertig.",
+        "audio": "Da sehe ich ein Problem: Mein Team arbeitet schon am Limit. Wenn ich die Präsentation auch mache, wird das Projekt noch später fertig."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Was schlagen Sie vor?",
+        "audio": "Was schlagen Sie vor?"
+      },
+      {
+        "speaker": "Mitarbeiter",
+        "text": "Ich schlage vor, dass Frau Klein die Präsentation übernimmt. Sie kennt das Thema, und ich unterstütze sie bei den Zahlen.",
+        "audio": "Ich schlage vor, dass Frau Klein die Präsentation übernimmt. Sie kennt das Thema, und ich unterstütze sie bei den Zahlen."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Einverstanden. Und der neue Termin?",
+        "audio": "Einverstanden. Und der neue Termin?"
+      },
+      {
+        "speaker": "Mitarbeiter",
+        "text": "Wir schaffen die Fertigstellung bis zum 20. Dezember, wenn der Lieferant diese Woche liefert.",
+        "audio": "Wir schaffen die Fertigstellung bis zum 20. Dezember, wenn der Lieferant diese Woche liefert."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Gut, dann machen wir es so. Bitte schicken Sie mir den neuen Plan per E-Mail.",
+        "audio": "Gut, dann machen wir es so. Bitte schicken Sie mir den neuen Plan per E-Mail."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "汇报落后",
+          "Wir sind zwei Wochen hinter dem Plan."
+        ],
+        [
+          "提出异议",
+          "Da sehe ich ein Problem: …"
+        ],
+        [
+          "摆后果",
+          "Wenn ich das auch mache, wird … noch später fertig."
+        ],
+        [
+          "给替代",
+          "Ich schlage vor, dass …"
+        ],
+        [
+          "附条件承诺",
+          "Wir schaffen es bis …, wenn …"
+        ],
+        [
+          "定案",
+          "Dann machen wir es so."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "项目进度怎么样",
+        "explain": "zwei Wochen hinter dem Plan。",
+        "options": [
+          "落后两周",
+          "提前两周",
+          "完全停了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "汇报落后",
+        "explain": "hinter dem Plan = 落后于计划。",
+        "display": "Wir sind zwei Wochen ＿＿ dem Plan.",
+        "answer": "hinter"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂异议",
+        "explain": "am Limit arbeiten 是提出异议的理由。",
+        "audio": "Da sehe ich ein Problem: Mein Team arbeitet schon am Limit.",
+        "options": [
+          "他认为团队已经满负荷",
+          "他认为团队很空闲",
+          "他想换团队"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "提建议句式",
+        "explain": "vorschlagen, dass 是会议提议的标准式。",
+        "options": [
+          "Ich schlage vor, dass Frau Klein die Präsentation übernimmt.",
+          "Frau Klein muss die Präsentation übernehmen, fertig!",
+          "Ich will, dass Frau Klein arbeitet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "dass 从句动词 übernimmt 在尾。",
+        "tokens": [
+          "dass Frau Klein",
+          "Ich schlage vor",
+          "übernimmt",
+          "die Präsentation"
+        ],
+        "answer": [
+          "Ich schlage vor",
+          "dass Frau Klein",
+          "die Präsentation",
+          "übernimmt"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "条件承诺",
+        "explain": "承诺附条件，wenn 从句。",
+        "display": "Wir schaffen es bis zum 20. Dezember, ＿＿ der Lieferant diese Woche liefert.",
+        "answer": "wenn"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "会议收尾的落实动作。",
+        "display": "Bitte schicken Sie mir den neuen Plan per ＿＿.",
+        "audio": "Bitte schicken Sie mir den neuen Plan per E-Mail.",
+        "answer": "E-Mail"
+      },
+      {
+        "type": "choice",
+        "q": "落后原因是",
+        "explain": "weil ein Lieferant zu spät geliefert hat。",
+        "options": [
+          "供应商迟交货",
+          "团队请假太多",
+          "客户改了要求"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "定案句",
+        "explain": "会议定案的标准句。",
+        "display": "Gut, dann ＿＿ wir es so.",
+        "answer": "machen"
+      },
+      {
+        "type": "classify",
+        "q": "语句功能分筐",
+        "explain": "按会议推进的四步对号入座。",
+        "groups": [
+          "汇报坏消息",
+          "提异议",
+          "给替代",
+          "定案"
+        ],
+        "items": [
+          {
+            "text": "1. Wir sind zwei Wochen hinter dem Plan.",
+            "group": 0
+          },
+          {
+            "text": "2. Da sehe ich ein Problem.",
+            "group": 1
+          },
+          {
+            "text": "3. Frau Klein könnte die Präsentation übernehmen.",
+            "group": 2
+          },
+          {
+            "text": "4. Dann machen wir es so.",
+            "group": 3
+          }
+        ]
+      }
+    ],
+    "speaking": "演汇报人：说明你的项目落后了一周、原因是什么、为什么不能再加任务，并给出一个替代方案（5 句）。",
+    "speakingSample": "参考：Wir sind eine Woche hinter dem Plan, weil ein Kollege krank war. Da sehe ich ein Problem: Ich kann die neue Aufgabe nicht auch noch übernehmen. Ich schlage vor, dass wir den Termin um eine Woche verschieben. Dann schaffen wir alles in guter Qualität.",
+    "speakingSelfcheck": "自查：坏消息说了原因 □；异议用了 Da sehe ich ein Problem □；给了替代方案 □。",
+    "sceneWords": [
+      "per",
+      "die Präsentation",
+      "schlagen",
+      "zusätzlich",
+      "übernehmen"
+    ]
+  },
+  {
+    "id": "s-b1-03",
+    "level": "B1",
+    "order": 3,
+    "title": "投诉升级：书面交涉",
+    "recommended": "",
+    "prerequisites": [
+      "t-b1-04",
+      "s-a2-01"
+    ],
+    "sceneIntro": "你买的洗衣机修了两次还是坏。你之前打过电话投诉，没有结果。这次你到门店当面交涉，并要求书面回复。前置：t-b1-04（正式书信）、A2 情景课 s-a2-01 水平的生活服务场景。",
+    "dialogue": [
+      {
+        "speaker": "Kunde",
+        "text": "Guten Tag. Ich habe mich am 10. Oktober schon einmal wegen meiner Waschmaschine beschwert, leider ohne Erfolg.",
+        "audio": "Guten Tag. Ich habe mich am 10. Oktober schon einmal wegen meiner Waschmaschine beschwert, leider ohne Erfolg."
+      },
+      {
+        "speaker": "Verkäufer",
+        "text": "Was ist denn das Problem?",
+        "audio": "Was ist denn das Problem?"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Die Maschine wurde zweimal repariert, aber sie funktioniert immer noch nicht. Das Wasser läuft aus.",
+        "audio": "Die Maschine wurde zweimal repariert, aber sie funktioniert immer noch nicht. Das Wasser läuft aus."
+      },
+      {
+        "speaker": "Verkäufer",
+        "text": "Wir können sie noch einmal zur Reparatur schicken.",
+        "audio": "Wir können sie noch einmal zur Reparatur schicken."
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Das reicht mir nicht. Die Maschine ist erst vier Monate alt. Ich bestehe darauf, dass Sie sie umtauschen oder mir das Geld zurückgeben.",
+        "audio": "Das reicht mir nicht. Die Maschine ist erst vier Monate alt. Ich bestehe darauf, dass Sie sie umtauschen oder mir das Geld zurückgeben."
+      },
+      {
+        "speaker": "Verkäufer",
+        "text": "Dazu muss ich mit meinem Chef sprechen.",
+        "audio": "Dazu muss ich mit meinem Chef sprechen."
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Gern. Aber ich hätte gern eine schriftliche Antwort bis Freitag. Sonst muss ich mich an die Verbraucherzentrale wenden.",
+        "audio": "Gern. Aber ich hätte gern eine schriftliche Antwort bis Freitag. Sonst muss ich mich an die Verbraucherzentrale wenden."
+      },
+      {
+        "speaker": "Verkäufer",
+        "text": "Das verstehe ich. Sie bekommen bis Freitag eine Antwort von uns, versprochen.",
+        "audio": "Das verstehe ich. Sie bekommen bis Freitag eine Antwort von uns, versprochen."
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Gut. Hier ist meine Adresse und die Kaufnummer. Ich erwarte Ihre Nachricht.",
+        "audio": "Gut. Hier ist meine Adresse und die Kaufnummer. Ich erwarte Ihre Nachricht."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "重提旧投诉",
+          "Ich habe mich schon einmal beschwert, leider ohne Erfolg."
+        ],
+        [
+          "修过仍坏",
+          "Sie wurde zweimal repariert, aber sie funktioniert immer noch nicht."
+        ],
+        [
+          "坚持要求",
+          "Ich bestehe darauf, dass …"
+        ],
+        [
+          "要书面答复",
+          "Ich hätte gern eine schriftliche Antwort bis …"
+        ],
+        [
+          "最后通牒（礼貌版）",
+          "Sonst muss ich mich an die Verbraucherzentrale wenden."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "顾客之前投诉过吗",
+        "explain": "schon einmal beschwert, leider ohne Erfolg。",
+        "options": [
+          "投诉过，但没有结果",
+          "没有，这是第一次",
+          "投诉过，问题解决了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "坚持要求",
+        "explain": "bestehen auf/darauf 是升级投诉的核心动词。",
+        "display": "Ich ＿＿ darauf, dass Sie die Maschine umtauschen.",
+        "answer": "bestehe"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂要求",
+        "explain": "schriftliche Antwort bis Freitag 是明确期限。",
+        "audio": "Ich hätte gern eine schriftliche Antwort bis Freitag.",
+        "options": [
+          "他要求周五前得到书面答复",
+          "他想周五来取机器",
+          "他周五要出差"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "「最后通牒」的礼貌说法",
+        "explain": "指出下一步去向即可，不用威胁口吻。",
+        "options": [
+          "Sonst muss ich mich an die Verbraucherzentrale wenden.",
+          "Sie hören von meinem Anwalt, sofort!",
+          "Das ist eine Frechheit!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "darauf + dass 从句。",
+        "tokens": [
+          "dass Sie",
+          "Ich bestehe darauf",
+          "umtauschen",
+          "die Maschine"
+        ],
+        "answer": [
+          "Ich bestehe darauf",
+          "dass Sie",
+          "die Maschine",
+          "umtauschen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "被动回顾",
+        "explain": "已修两次用被动过去时。",
+        "display": "Die Maschine ＿＿ zweimal repariert.（wurde）",
+        "answer": "wurde"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "机器还很新是坚持换货的理由。",
+        "display": "Die Maschine ist erst vier ＿＿ alt.",
+        "audio": "Die Maschine ist erst vier Monate alt.",
+        "answer": "Monate"
+      },
+      {
+        "type": "choice",
+        "q": "顾客最终要什么",
+        "explain": "umtauschen oder Geld zurück + schriftliche Antwort。",
+        "options": [
+          "换货或退款，并书面答复",
+          "再修一次",
+          "免费清洗一次"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "旧投诉说法",
+        "explain": "sich beschweren über 的分词形式。",
+        "display": "Ich habe mich schon einmal ＿＿, leider ohne Erfolg.",
+        "answer": "beschwert"
+      },
+      {
+        "type": "classify",
+        "q": "交涉阶段分筐",
+        "explain": "先事实、再要求、最后给出下一步。",
+        "groups": [
+          "摆事实",
+          "提要求",
+          "施压收尾"
+        ],
+        "items": [
+          {
+            "text": "1. Die Maschine wurde zweimal repariert.",
+            "group": 0
+          },
+          {
+            "text": "2. Das Wasser läuft immer noch aus.",
+            "group": 0
+          },
+          {
+            "text": "3. Ich bestehe auf einen Umtausch.",
+            "group": 1
+          },
+          {
+            "text": "4. Sonst wende ich mich an die Verbraucherzentrale.",
+            "group": 2
+          }
+        ]
+      }
+    ],
+    "speaking": "演投诉人：说明一件商品你已投诉过一次未果、修过仍坏，坚持换货或退款，并要求三天内书面回复（5–6 句）。",
+    "speakingSample": "参考：Ich habe mich vor zwei Wochen schon einmal wegen meines Handys beschwert, leider ohne Erfolg. Es wurde einmal repariert, aber der Akku ist immer noch nach zwei Stunden leer. Ich bestehe darauf, dass Sie das Gerät umtauschen. Ich hätte gern eine schriftliche Antwort bis Mittwoch.",
+    "speakingSelfcheck": "自查：提到了旧投诉无果 □；要求用了 bestehe darauf, dass □；给了书面答复期限 □。",
+    "sceneWords": [
+      "der Erfolg",
+      "umtauschen",
+      "wenden"
+    ]
+  },
+  {
+    "id": "s-b1-04",
+    "level": "B1",
+    "order": 4,
+    "title": "旅行事故与保险报案",
+    "recommended": "",
+    "prerequisites": [
+      "g-b1-01",
+      "g-b1-16"
+    ],
+    "sceneIntro": "你在意大利旅行时相机被偷，已经在当地警察局报了案。现在你打电话给旅行保险的热线报案，客服告诉你需要哪些材料。前置：g-b1-01（被动叙事）、g-b1-16（语序）。",
+    "dialogue": [
+      {
+        "speaker": "Hotline",
+        "text": "Versicherung Müller, guten Tag. Wie kann ich Ihnen helfen?",
+        "audio": "Versicherung Müller, guten Tag. Wie kann ich Ihnen helfen?"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Guten Tag, mein Name ist Lan Wang. Ich möchte einen Schaden melden. Meine Kamera wurde gestern in Rom gestohlen.",
+        "audio": "Guten Tag, mein Name ist Lan Wang. Ich möchte einen Schaden melden. Meine Kamera wurde gestern in Rom gestohlen."
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Das tut mir leid. Haben Sie das bei der Polizei gemeldet?",
+        "audio": "Das tut mir leid. Haben Sie das bei der Polizei gemeldet?"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Ja, ich habe eine Anzeige gemacht. Die Nummer habe ich hier.",
+        "audio": "Ja, ich habe eine Anzeige gemacht. Die Nummer habe ich hier."
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Gut. Wann genau ist es passiert?",
+        "audio": "Gut. Wann genau ist es passiert?"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Gestern gegen 15 Uhr in einem Café. Die Tasche stand kurz ohne Aufsicht, und als ich zurückkam, war sie weg.",
+        "audio": "Gestern gegen 15 Uhr in einem Café. Die Tasche stand kurz ohne Aufsicht, und als ich zurückkam, war sie weg."
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Was war in der Tasche?",
+        "audio": "Was war in der Tasche?"
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Die Kamera und ein Objektiv. Der Wert ist zusammen etwa 1.200 Euro. Die Rechnung habe ich zu Hause.",
+        "audio": "Die Kamera und ein Objektiv. Der Wert ist zusammen etwa 1.200 Euro. Die Rechnung habe ich zu Hause."
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Bitte schicken Sie uns die Anzeige von der Polizei und die Rechnung per E-Mail. Sie bekommen dann von uns eine Schadensnummer.",
+        "audio": "Bitte schicken Sie uns die Anzeige von der Polizei und die Rechnung per E-Mail. Sie bekommen dann von uns eine Schadensnummer."
+      },
+      {
+        "speaker": "Kunde",
+        "text": "Bis wann muss ich alles schicken?",
+        "audio": "Bis wann muss ich alles schicken?"
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Innerhalb von vier Wochen nach Ihrer Rückkehr. Halten Sie mich gern auf dem Laufenden.",
+        "audio": "Innerhalb von vier Wochen nach Ihrer Rückkehr. Halten Sie mich gern auf dem Laufenden."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "报案开场",
+          "Ich möchte einen Schaden melden."
+        ],
+        [
+          "被盗陈述（被动）",
+          "Meine Kamera wurde gestohlen."
+        ],
+        [
+          "警察报案",
+          "Ich habe eine Anzeige gemacht."
+        ],
+        [
+          "需要的材料",
+          "die Anzeige und die Rechnung per E-Mail schicken"
+        ],
+        [
+          "案件号",
+          "eine Schadensnummer bekommen"
+        ],
+        [
+          "期限询问",
+          "Bis wann muss ich alles schicken?"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "丢了什么、在哪里",
+        "explain": "Kamera wurde in Rom gestohlen。",
+        "options": [
+          "相机，在罗马",
+          "护照，在巴黎",
+          "钱包，在柏林"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "报案说法",
+        "explain": "向保险报案的固定说法。",
+        "display": "Ich möchte einen ＿＿ melden.",
+        "answer": "Schaden"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂流程",
+        "explain": "Anzeige + Rechnung per E-Mail。",
+        "audio": "Bitte schicken Sie uns die Anzeige und die Rechnung per E-Mail.",
+        "options": [
+          "要发邮件提交两样材料：报警记录和发票",
+          "只需要发票",
+          "要把相机寄过去"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "报警的说法",
+        "explain": "Anzeige machen 是报案动作。",
+        "options": [
+          "Ich habe eine Anzeige gemacht.",
+          "Ich habe eine Anzeige gesehen.",
+          "Ich habe eine Anzeige gelesen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "被动过去时叙事。",
+        "tokens": [
+          "gestohlen",
+          "Meine Kamera",
+          "gestern",
+          "wurde"
+        ],
+        "answer": [
+          "Meine Kamera",
+          "wurde",
+          "gestern",
+          "gestohlen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "期限答复",
+        "explain": "四周期限。",
+        "display": "Sie müssen alles innerhalb von vier ＿＿ nach der Rückkehr schicken.",
+        "answer": "Wochen"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补地点",
+        "explain": "事发地点细节。",
+        "display": "Die Tasche stand kurz ohne Aufsicht in einem ＿＿.",
+        "audio": "Die Tasche stand kurz ohne Aufsicht in einem Café.",
+        "answer": "Café"
+      },
+      {
+        "type": "choice",
+        "q": "损失价值多少",
+        "explain": "zusammen etwa 1.200 Euro。",
+        "options": [
+          "约 1.200 欧元",
+          "约 200 欧元",
+          "约 12.000 欧元"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "案件号",
+        "explain": "保险给的案件编号。",
+        "display": "Sie bekommen von uns eine ＿＿.",
+        "answer": "Schadensnummer"
+      },
+      {
+        "type": "classify",
+        "q": "材料分筐",
+        "explain": "客服点名要的只有报警记录和发票。",
+        "groups": [
+          "必须寄给保险",
+          "不用寄"
+        ],
+        "items": [
+          {
+            "text": "1. die Anzeige der Polizei",
+            "group": 0
+          },
+          {
+            "text": "2. die Rechnung der Kamera",
+            "group": 0
+          },
+          {
+            "text": "3. ein Foto vom Café",
+            "group": 1
+          },
+          {
+            "text": "4. der Reiseführer",
+            "group": 1
+          }
+        ]
+      }
+    ],
+    "speaking": "演报案人：向保险热线说明你的手机在旅行中被偷的时间、地点、你已报警，并询问需要哪些材料和期限（5–6 句）。",
+    "speakingSample": "参考：Guten Tag, ich möchte einen Schaden melden. Mein Handy wurde am Samstag in Barcelona gestohlen. Ich habe bei der Polizei eine Anzeige gemacht. Welche Unterlagen brauchen Sie von mir? Bis wann muss ich sie schicken?",
+    "speakingSelfcheck": "自查：被盗用了被动 wurde gestohlen □；提到了已报警 □；问了材料和期限 □。",
+    "sceneWords": [
+      "etwa",
+      "melden",
+      "per",
+      "die Rückkehr",
+      "der Schaden",
+      "die Versicherung",
+      "der Wert"
+    ]
+  },
+  {
+    "id": "s-b1-05",
+    "level": "B1",
+    "order": 5,
+    "title": "教育路径咨询",
+    "recommended": "",
+    "prerequisites": [
+      "t-b1-02",
+      "g-b1-07"
+    ],
+    "sceneIntro": "家长带孩子到学校咨询处，问初中之后的两条路（继续读高中考 Abitur，还是做双元制 Ausbildung），以及各自的要求和申请时间。前置：t-b1-02（讨论）、g-b1-07（双分连接词）。",
+    "dialogue": [
+      {
+        "speaker": "Beraterin",
+        "text": "Guten Tag. Wie kann ich Ihnen helfen?",
+        "audio": "Guten Tag. Wie kann ich Ihnen helfen?"
+      },
+      {
+        "speaker": "Mutter",
+        "text": "Meine Tochter ist in der neunten Klasse. Wir fragen uns, welche Möglichkeiten es nach der zehnten Klasse gibt.",
+        "audio": "Meine Tochter ist in der neunten Klasse. Wir fragen uns, welche Möglichkeiten es nach der zehnten Klasse gibt."
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Es gibt zwei Hauptwege: Sie kann auf das Gymnasium gehen und das Abitur machen, oder sie kann eine Ausbildung beginnen.",
+        "audio": "Es gibt zwei Hauptwege: Sie kann auf das Gymnasium gehen und das Abitur machen, oder sie kann eine Ausbildung beginnen."
+      },
+      {
+        "speaker": "Mutter",
+        "text": "Was sind die Voraussetzungen für das Abitur?",
+        "audio": "Was sind die Voraussetzungen für das Abitur?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Sie braucht gute Noten, besonders in Mathe, Deutsch und Englisch. Mit dem Abitur kann sie später studieren.",
+        "audio": "Sie braucht gute Noten, besonders in Mathe, Deutsch und Englisch. Mit dem Abitur kann sie später studieren."
+      },
+      {
+        "speaker": "Mutter",
+        "text": "Und was spricht für eine Ausbildung?",
+        "audio": "Und was spricht für eine Ausbildung?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Man lernt einen Beruf in einer Firma und verdient schon Geld. Nach der Ausbildung kann man arbeiten oder sich weiterbilden.",
+        "audio": "Man lernt einen Beruf in einer Firma und verdient schon Geld. Nach der Ausbildung kann man arbeiten oder sich weiterbilden."
+      },
+      {
+        "speaker": "Tochter",
+        "text": "Ich interessiere mich für Berufe im Krankenhaus. Was würden Sie mir empfehlen?",
+        "audio": "Ich interessiere mich für Berufe im Krankenhaus. Was würden Sie mir empfehlen?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Dann wäre eine Ausbildung zur Pflegerin ideal. Sie können sich ab Januar bei den Krankenhäusern bewerben.",
+        "audio": "Dann wäre eine Ausbildung zur Pflegerin ideal. Sie können sich ab Januar bei den Krankenhäusern bewerben."
+      },
+      {
+        "speaker": "Mutter",
+        "text": "Vielen Dank. Bis wann müssen wir uns entscheiden?",
+        "audio": "Vielen Dank. Bis wann müssen wir uns entscheiden?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Die Bewerbungsfrist für die Ausbildung endet im März. Für das Gymnasium melden Sie sich bis Februar an.",
+        "audio": "Die Bewerbungsfrist für die Ausbildung endet im März. Für das Gymnasium melden Sie sich bis Februar an."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "咨询开场",
+          "Wir fragen uns, welche Möglichkeiten es gibt."
+        ],
+        [
+          "两条路",
+          "Es gibt zwei Hauptwege: …"
+        ],
+        [
+          "问前提条件",
+          "Was sind die Voraussetzungen für …?"
+        ],
+        [
+          "问优势",
+          "Was spricht für …?"
+        ],
+        [
+          "求建议",
+          "Was würden Sie mir empfehlen?"
+        ],
+        [
+          "截止日期",
+          "Die Bewerbungsfrist endet im …"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "女儿在几年级",
+        "explain": "in der neunten Klasse。",
+        "options": [
+          "九年级",
+          "十年级",
+          "七年级"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "两条路",
+        "explain": "咨询师摆出两条主路。",
+        "display": "Es gibt zwei ＿＿: Gymnasium oder Ausbildung.",
+        "answer": "Hauptwege"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂建议",
+        "explain": "女儿对医院工作感兴趣，建议对口培训。",
+        "audio": "Dann wäre eine Ausbildung zur Pflegerin ideal für Sie.",
+        "options": [
+          "咨询师建议做护理培训",
+          "建议先读高中",
+          "建议去国外"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "问条件的说法",
+        "explain": "Voraussetzungen 是问门槛的词。",
+        "options": [
+          "Was sind die Voraussetzungen für das Abitur?",
+          "Was ist das Abitur?",
+          "Wo ist das Gymnasium?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "KII 求建议的礼貌句。",
+        "tokens": [
+          "Was",
+          "Sie",
+          "würden",
+          "mir empfehlen"
+        ],
+        "answer": [
+          "Was",
+          "würden",
+          "Sie",
+          "mir empfehlen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "截止日期",
+        "explain": "申请截止期。",
+        "display": "Die ＿＿ für die Ausbildung endet im März.",
+        "answer": "Bewerbungsfrist"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补科目",
+        "explain": "Abitur 的成绩要求点名三科。",
+        "display": "Sie braucht gute Noten, besonders in Mathe, Deutsch und ＿＿.",
+        "audio": "Sie braucht gute Noten, besonders in Mathe, Deutsch und Englisch.",
+        "answer": "Englisch"
+      },
+      {
+        "type": "choice",
+        "q": "Ausbildung 的一个优势",
+        "explain": "lernt einen Beruf und verdient schon Geld。",
+        "options": [
+          "边学职业边挣钱",
+          "不用工作",
+          "马上能上大学"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "优势问法",
+        "explain": "Was spricht für … 是问优势的固定句。",
+        "display": "Und was ＿＿ für eine Ausbildung?",
+        "answer": "spricht"
+      },
+      {
+        "type": "classify",
+        "q": "信息归属分筐",
+        "explain": "按两条路分别归档。",
+        "groups": [
+          "关于 Abitur",
+          "关于 Ausbildung"
+        ],
+        "items": [
+          {
+            "text": "1. Danach kann man studieren.",
+            "group": 0
+          },
+          {
+            "text": "2. Man verdient schon Geld.",
+            "group": 1
+          },
+          {
+            "text": "3. Gute Noten in Mathe sind nötig.",
+            "group": 0
+          },
+          {
+            "text": "4. Bewerbung bei Krankenhäusern ab Januar.",
+            "group": 1
+          }
+        ]
+      }
+    ],
+    "speaking": "演咨询的家长：说明孩子的情况、问两条路的区别、各要什么条件、申请截止到什么时候（5 句）。",
+    "speakingSample": "参考：Mein Sohn ist in der neunten Klasse. Welche Möglichkeiten gibt es nach der Schule? Was sind die Voraussetzungen für eine Ausbildung? Was spricht für das Abitur? Bis wann müssen wir uns bewerben?",
+    "speakingSelfcheck": "自查：问了 Voraussetzungen □；问了 Was spricht für □；问了截止日期 □。",
+    "sceneWords": [
+      "das Abitur",
+      "entscheiden",
+      "ideal",
+      "melden",
+      "die Pflegerin"
+    ]
+  },
+  {
+    "id": "s-b1-06",
+    "level": "B1",
+    "order": 6,
+    "title": "录用谈判",
+    "recommended": "",
+    "prerequisites": [
+      "g-b1-04"
+    ],
+    "sceneIntro": "你通过了面试，公司发来录用意向。HR 和你谈工资、假期和入职时间，你用虚拟式礼貌地谈条件。前置：g-b1-04（Konjunktiv II 礼貌用法）。",
+    "dialogue": [
+      {
+        "speaker": "HR",
+        "text": "Frau Wang, wir möchten Ihnen die Stelle anbieten. Das Gehalt liegt bei 3.200 Euro brutto im Monat.",
+        "audio": "Frau Wang, wir möchten Ihnen die Stelle anbieten. Das Gehalt liegt bei 3.200 Euro brutto im Monat."
+      },
+      {
+        "speaker": "Bewerberin",
+        "text": "Vielen Dank für das Angebot. Ich hatte mir ehrlich gesagt etwas mehr vorgestellt, etwa 3.500 Euro. Wäre das möglich?",
+        "audio": "Vielen Dank für das Angebot. Ich hatte mir ehrlich gesagt etwas mehr vorgestellt, etwa 3.500 Euro. Wäre das möglich?"
+      },
+      {
+        "speaker": "HR",
+        "text": "3.500 ist leider über unserem Rahmen. Wir könnten auf 3.350 gehen und nach der Probezeit neu sprechen.",
+        "audio": "3.500 ist leider über unserem Rahmen. Wir könnten auf 3.350 gehen und nach der Probezeit neu sprechen."
+      },
+      {
+        "speaker": "Bewerberin",
+        "text": "Das klingt fair. Wie viele Urlaubstage gibt es?",
+        "audio": "Das klingt fair. Wie viele Urlaubstage gibt es?"
+      },
+      {
+        "speaker": "HR",
+        "text": "28 Tage. Und wir bieten flexible Arbeitszeiten an.",
+        "audio": "28 Tage. Und wir bieten flexible Arbeitszeiten an."
+      },
+      {
+        "speaker": "Bewerberin",
+        "text": "Das ist gut. Wäre es möglich, dass ich erst am 1. Februar anfange? Ich muss noch meine jetzige Stelle kündigen.",
+        "audio": "Das ist gut. Wäre es möglich, dass ich erst am 1. Februar anfange? Ich muss noch meine jetzige Stelle kündigen."
+      },
+      {
+        "speaker": "HR",
+        "text": "Das ist kein Problem. Die Kündigungsfrist ist üblich.",
+        "audio": "Das ist kein Problem. Die Kündigungsfrist ist üblich."
+      },
+      {
+        "speaker": "Bewerberin",
+        "text": "Dann freue ich mich. Könnten Sie mir den Vertrag per E-Mail schicken? Ich würde ihn mir gern in Ruhe ansehen.",
+        "audio": "Dann freue ich mich. Könnten Sie mir den Vertrag per E-Mail schicken? Ich würde ihn mir gern in Ruhe ansehen."
+      },
+      {
+        "speaker": "HR",
+        "text": "Natürlich. Sie bekommen ihn heute noch.",
+        "audio": "Natürlich. Sie bekommen ihn heute noch."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "录用意向",
+          "Wir möchten Ihnen die Stelle anbieten."
+        ],
+        [
+          "委婉提期望",
+          "Ich hatte mir etwas mehr vorgestellt, etwa …"
+        ],
+        [
+          "试探可能性",
+          "Wäre das möglich? / Wäre es möglich, dass …?"
+        ],
+        [
+          "对方让步",
+          "Wir könnten auf … gehen."
+        ],
+        [
+          "试用期后重谈",
+          "nach der Probezeit neu sprechen"
+        ],
+        [
+          "要合同细看",
+          "Ich würde ihn mir gern in Ruhe ansehen."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "公司开的月薪",
+        "explain": "开价 3.200；3.500 是她的期望，3.350 是让步价。",
+        "options": [
+          "3.200 欧元",
+          "3.500 欧元",
+          "3.350 欧元"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "提期望",
+        "explain": "委婉谈薪的固定说法。",
+        "display": "Ich hatte mir etwas mehr ＿＿, etwa 3.500 Euro.",
+        "answer": "vorgestellt"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂让步",
+        "explain": "könnten auf … gehen 是让步表述。",
+        "audio": "Wir könnten auf 3.350 gehen und nach der Probezeit neu sprechen.",
+        "options": [
+          "公司让到 3.350，试用期后可再谈",
+          "公司坚持 3.200 不变",
+          "公司把工资降到 3.350"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "礼貌试探句",
+        "explain": "Wäre es möglich, dass … 是谈判礼貌式。",
+        "options": [
+          "Wäre es möglich, dass ich erst im Februar anfange?",
+          "Ich fange im Februar an, klar?",
+          "Februar oder gar nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "Könnten Sie …? 是请求的标准礼貌问句。",
+        "tokens": [
+          "mir",
+          "Könnten Sie",
+          "den Vertrag",
+          "bitte",
+          "schicken"
+        ],
+        "answer": [
+          "Könnten Sie",
+          "mir",
+          "bitte",
+          "den Vertrag",
+          "schicken"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "假期天数",
+        "explain": "对话明示 28 天。",
+        "display": "Die Firma bietet ＿＿ Tage Urlaub.",
+        "answer": "28"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "晚入职的原因是要先辞职。",
+        "display": "Ich muss noch meine jetzige Stelle ＿＿.",
+        "audio": "Ich muss noch meine jetzige Stelle kündigen.",
+        "answer": "kündigen"
+      },
+      {
+        "type": "choice",
+        "q": "她对让步价的反应",
+        "explain": "Das klingt fair。",
+        "options": [
+          "觉得公平，接受继续谈",
+          "断然拒绝",
+          "要求 4.000"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "试用期",
+        "explain": "试用期后重谈是常见安排。",
+        "display": "Nach der ＿＿ sprechen wir neu über das Gehalt.",
+        "answer": "Probezeit"
+      },
+      {
+        "type": "classify",
+        "q": "谈判动作分筐",
+        "explain": "开价让步是公司，提期望要细看是求职者。",
+        "groups": [
+          "公司动作",
+          "求职者动作"
+        ],
+        "items": [
+          {
+            "text": "1. Wir möchten Ihnen die Stelle anbieten.",
+            "group": 0
+          },
+          {
+            "text": "2. Ich hatte mir mehr vorgestellt.",
+            "group": 1
+          },
+          {
+            "text": "3. Wir könnten auf 3.350 gehen.",
+            "group": 0
+          },
+          {
+            "text": "4. Ich würde den Vertrag gern in Ruhe ansehen.",
+            "group": 1
+          }
+        ]
+      }
+    ],
+    "speaking": "演求职者：感谢录用、委婉提出你的期望薪资、问假期、请求晚一个月入职、请对方把合同发你细看（5–6 句，全程用虚拟式礼貌句）。",
+    "speakingSample": "参考：Vielen Dank für das Angebot. Ich hatte mir etwas mehr vorgestellt, etwa 3.600 Euro. Wäre das möglich? Wie viele Urlaubstage gibt es? Wäre es möglich, dass ich erst im März anfange? Könnten Sie mir den Vertrag per E-Mail schicken?",
+    "speakingSelfcheck": "自查：提期望用了 hatte mir vorgestellt □；试探用了 Wäre es möglich □；请求用了 Könnten Sie □。",
+    "sceneWords": [
+      "bieten",
+      "ehrlich",
+      "etwa",
+      "fair",
+      "per",
+      "üblich"
+    ]
+  },
+  {
+    "id": "s-b1-07",
+    "level": "B1",
+    "order": 7,
+    "title": "社区改造讨论会",
+    "recommended": "",
+    "prerequisites": [
+      "t-b1-02"
+    ],
+    "sceneIntro": "小区开居民会，讨论把一块空地改成儿童游乐场还是停车场。你作为居民发言，支持一方、承认另一方的难处，并提出折中方案。前置：t-b1-02（讨论与辩论）。",
+    "dialogue": [
+      {
+        "speaker": "Moderator",
+        "text": "Wir diskutieren heute über die freie Fläche hinter Haus B. Es gibt zwei Vorschläge: einen Spielplatz oder mehr Parkplätze.",
+        "audio": "Wir diskutieren heute über die freie Fläche hinter Haus B. Es gibt zwei Vorschläge: einen Spielplatz oder mehr Parkplätze."
+      },
+      {
+        "speaker": "Herr Klein",
+        "text": "Ich bin für Parkplätze. Abends findet man nie einen Platz, die Autos stehen auf der Straße.",
+        "audio": "Ich bin für Parkplätze. Abends findet man nie einen Platz, die Autos stehen auf der Straße."
+      },
+      {
+        "speaker": "Frau Wang",
+        "text": "Ich sehe das anders. In unserem Viertel gibt es viele Kinder, aber keinen sicheren Ort zum Spielen.",
+        "audio": "Ich sehe das anders. In unserem Viertel gibt es viele Kinder, aber keinen sicheren Ort zum Spielen."
+      },
+      {
+        "speaker": "Herr Klein",
+        "text": "Das stimmt zwar, aber die Parkplatzsituation ist wirklich schwierig.",
+        "audio": "Das stimmt zwar, aber die Parkplatzsituation ist wirklich schwierig."
+      },
+      {
+        "speaker": "Frau Wang",
+        "text": "Einerseits brauchen Familien Parkplätze, andererseits brauchen die Kinder Platz. Wie wäre es mit einem Kompromiss: Die Hälfte wird Spielplatz, und am Rand bleiben zehn Parkplätze?",
+        "audio": "Einerseits brauchen Familien Parkplätze, andererseits brauchen die Kinder Platz. Wie wäre es mit einem Kompromiss: Die Hälfte wird Spielplatz, und am Rand bleiben zehn Parkplätze?"
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Das ist ein interessanter Vorschlag. Was sagen die anderen dazu?",
+        "audio": "Das ist ein interessanter Vorschlag. Was sagen die anderen dazu?"
+      },
+      {
+        "speaker": "Frau Sommer",
+        "text": "Ich finde den Kompromiss gut. Die Kinder sind wichtiger, aber zehn Plätze helfen auch.",
+        "audio": "Ich finde den Kompromiss gut. Die Kinder sind wichtiger, aber zehn Plätze helfen auch."
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Dann fasse ich zusammen: Die Mehrheit ist für den Kompromiss. Wir geben den Vorschlag an die Stadt weiter.",
+        "audio": "Dann fasse ich zusammen: Die Mehrheit ist für den Kompromiss. Wir geben den Vorschlag an die Stadt weiter."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "摆两个方案",
+          "Es gibt zwei Vorschläge: …"
+        ],
+        [
+          "明确立场",
+          "Ich bin für … / Ich sehe das anders."
+        ],
+        [
+          "先认后转",
+          "Das stimmt zwar, aber …"
+        ],
+        [
+          "两面框架",
+          "Einerseits …, andererseits …"
+        ],
+        [
+          "提折中",
+          "Wie wäre es mit einem Kompromiss: …?"
+        ],
+        [
+          "主持人总结",
+          "Dann fasse ich zusammen: …"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "讨论的两个方案",
+        "explain": "Spielplatz oder Parkplätze。",
+        "options": [
+          "游乐场 vs 停车场",
+          "超市 vs 公园",
+          "学校 vs 医院"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "折中提议",
+        "explain": "提出折中方案的核心词。",
+        "display": "Wie wäre es mit einem ＿＿: halb Spielplatz, halb Parkplätze?",
+        "answer": "Kompromiss"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂立场",
+        "explain": "einerseits…andererseits 是两面都摆。",
+        "audio": "Einerseits brauchen Familien Parkplätze, andererseits brauchen die Kinder Platz.",
+        "options": [
+          "说话人认为两边都有道理",
+          "说话人只支持停车场",
+          "说话人只支持游乐场"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "先认后转的句子",
+        "explain": "stimmt zwar, aber 是让步转折。",
+        "options": [
+          "Das stimmt zwar, aber die Situation ist schwierig.",
+          "Das stimmt überhaupt nicht!",
+          "Du hast total recht, fertig."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主持人总结的固定句。",
+        "tokens": [
+          "zusammen",
+          "Dann fasse ich",
+          "Die Mehrheit ist für den Kompromiss"
+        ],
+        "answer": [
+          "Dann fasse ich",
+          "zusammen",
+          "Die Mehrheit ist für den Kompromiss"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "明确立场",
+        "explain": "für + 宾格表支持。",
+        "display": "Ich bin ＿＿ Parkplätze, weil es abends keine freien Plätze gibt.",
+        "answer": "für"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补数字",
+        "explain": "折中方案保留十个车位。",
+        "display": "Am Rand bleiben ＿＿ Parkplätze.",
+        "audio": "Am Rand bleiben zehn Parkplätze.",
+        "answer": "zehn"
+      },
+      {
+        "type": "choice",
+        "q": "最终结果",
+        "explain": "Die Mehrheit ist für den Kompromiss。",
+        "options": [
+          "多数支持折中方案，报给市里",
+          "只建停车场",
+          "只建游乐场"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "议题来源",
+        "explain": "讨论对象是那块空地。",
+        "display": "Die freie ＿＿ hinter Haus B soll umgebaut werden.",
+        "answer": "Fläche"
+      },
+      {
+        "type": "classify",
+        "q": "立场分筐",
+        "explain": "按每句话服务的立场归档。",
+        "groups": [
+          "支持停车场",
+          "支持游乐场",
+          "支持折中"
+        ],
+        "items": [
+          {
+            "text": "1. Abends findet man nie einen Parkplatz.",
+            "group": 0
+          },
+          {
+            "text": "2. Die Kinder haben keinen sicheren Ort zum Spielen.",
+            "group": 1
+          },
+          {
+            "text": "3. Die Hälfte wird Spielplatz, zehn Plätze bleiben.",
+            "group": 2
+          },
+          {
+            "text": "4. Der Kompromiss ist gut.",
+            "group": 2
+          }
+        ]
+      }
+    ],
+    "speaking": "演居民发言：就「小区空地建健身区还是花园」表明立场，承认对方一点难处，给出折中方案（5 句）。",
+    "speakingSample": "参考：Ich bin für einen Fitnessbereich, weil viele Bewohner gern draußen Sport machen. Das stimmt zwar, ein Garten ist auch schön, aber Sport ist für die Gesundheit wichtiger. Einerseits brauchen ältere Leute Ruhe, andererseits brauchen junge Leute Bewegung. Wie wäre es mit einem Kompromiss: vorne Fitnessgeräte, hinten ein kleiner Garten?",
+    "speakingSelfcheck": "自查：立场第一句就明 □；有 zwar…aber □；折中方案具体到布局 □。",
+    "sceneWords": [
+      "andererseits",
+      "die Fläche",
+      "der Kompromiss",
+      "die Mehrheit",
+      "der Rand",
+      "der Spielplatz",
+      "das Viertel",
+      "zwar"
+    ]
+  },
+  {
+    "id": "s-b1-08",
+    "level": "B1",
+    "order": 8,
+    "title": "播客访谈：讲述转行经历",
+    "recommended": "",
+    "prerequisites": [
+      "g-b1-01",
+      "g-b1-03",
+      "t-b1-06"
+    ],
+    "sceneIntro": "一档职业播客采访一位从银行职员转行当面包师的嘉宾。主持人提问，嘉宾用过去时讲经历、转折和现在的感受。前置：g-b1-01/g-b1-03（叙事时态）、t-b1-06（报道体语感）。",
+    "dialogue": [
+      {
+        "speaker": "Moderatorin",
+        "text": "Herzlich willkommen, Herr Yilmaz. Sie waren zehn Jahre Bankkaufmann. Wie kam es zum Wechsel?",
+        "audio": "Herzlich willkommen, Herr Yilmaz. Sie waren zehn Jahre Bankkaufmann. Wie kam es zum Wechsel?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ich hatte einen sicheren Job, aber ich war nicht glücklich. Jeden Abend dachte ich: Das kann doch nicht alles sein.",
+        "audio": "Ich hatte einen sicheren Job, aber ich war nicht glücklich. Jeden Abend dachte ich: Das kann doch nicht alles sein."
+      },
+      {
+        "speaker": "Moderatorin",
+        "text": "Und dann?",
+        "audio": "Und dann?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Zuerst habe ich nebenbei in einer Bäckerei geholfen. Das Backen hat mir sofort Spaß gemacht. Mit 32 habe ich dann gekündigt und eine Ausbildung als Bäcker begonnen.",
+        "audio": "Zuerst habe ich nebenbei in einer Bäckerei geholfen. Das Backen hat mir sofort Spaß gemacht. Mit 32 habe ich dann gekündigt und eine Ausbildung als Bäcker begonnen."
+      },
+      {
+        "speaker": "Moderatorin",
+        "text": "War das nicht ein Risiko?",
+        "audio": "War das nicht ein Risiko?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Natürlich. Viele Freunde sagten, ich sei verrückt. Aber ich hätte es bereut, wenn ich es nicht versucht hätte.",
+        "audio": "Natürlich. Viele Freunde sagten, ich sei verrückt. Aber ich hätte es bereut, wenn ich es nicht versucht hätte."
+      },
+      {
+        "speaker": "Moderatorin",
+        "text": "Wie ist es heute, fünf Jahre später?",
+        "audio": "Wie ist es heute, fünf Jahre später?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ich stehe um drei Uhr auf, und das ist hart. Aber ich habe jetzt meine eigene kleine Bäckerei, und die Arbeit erfüllt mich.",
+        "audio": "Ich stehe um drei Uhr auf, und das ist hart. Aber ich habe jetzt meine eigene kleine Bäckerei, und die Arbeit erfüllt mich."
+      },
+      {
+        "speaker": "Moderatorin",
+        "text": "Was raten Sie Menschen, die auch wechseln wollen?",
+        "audio": "Was raten Sie Menschen, die auch wechseln wollen?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Fangt klein an und probiert es aus, bevor ihr kündigt. Und spart vorher etwas Geld.",
+        "audio": "Fangt klein an und probiert es aus, bevor ihr kündigt. Und spart vorher etwas Geld."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "引入转折",
+          "Wie kam es zum Wechsel?"
+        ],
+        [
+          "讲心路",
+          "Ich war nicht glücklich. / Das kann doch nicht alles sein."
+        ],
+        [
+          "副业试水",
+          "nebenbei in einer Bäckerei helfen"
+        ],
+        [
+          "后悔假设",
+          "Ich hätte es bereut, wenn ich es nicht versucht hätte."
+        ],
+        [
+          "现状总结",
+          "Die Arbeit erfüllt mich."
+        ],
+        [
+          "给建议",
+          "Fangt klein an und probiert es aus."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "嘉宾原来做什么、做了多少年",
+        "explain": "zehn Jahre Bankkaufmann。",
+        "options": [
+          "银行职员，十年",
+          "面包师，十年",
+          "教师，五年"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转行动作",
+        "explain": "先辞职再培训。",
+        "display": "Mit 32 habe ich ＿＿ und eine Ausbildung begonnen.",
+        "answer": "gekündigt"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂假设",
+        "explain": "hätte bereut + wenn 是虚拟过去——他试了，所以不后悔。",
+        "audio": "Ich hätte es bereut, wenn ich es nicht versucht hätte.",
+        "options": [
+          "他说：没试的话他会后悔",
+          "他后悔转行了",
+          "他没敢尝试"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "他先怎么试水的",
+        "explain": "nebenbei in einer Bäckerei geholfen。",
+        "options": [
+          "业余时间在面包房帮忙",
+          "直接开店",
+          "先读了大学"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "虚拟过去的经典句式。",
+        "tokens": [
+          "es",
+          "Ich hätte",
+          "bereut",
+          "nicht versucht hätte",
+          "wenn ich es"
+        ],
+        "answer": [
+          "Ich hätte",
+          "es",
+          "bereut",
+          "wenn ich es",
+          "nicht versucht hätte"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "现状感受",
+        "explain": "工作让他有成就感。",
+        "display": "Die Arbeit ＿＿ mich.（erfüllen）",
+        "answer": "erfüllt"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补时间",
+        "explain": "面包师凌晨三点起床。",
+        "display": "Ich stehe um ＿＿ Uhr auf, und das ist hart.",
+        "audio": "Ich stehe um drei Uhr auf, und das ist hart.",
+        "answer": "drei"
+      },
+      {
+        "type": "choice",
+        "q": "他给想转行者的建议",
+        "explain": "klein anfangen, ausprobieren, Geld sparen。",
+        "options": [
+          "先小规模试，别急着辞职，并存点钱",
+          "马上辞职，勇敢一点",
+          "不要听任何人的话"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "提问句",
+        "explain": "主持人问转折的由来，固定问法。",
+        "display": "Wie ＿＿ es zum Wechsel?",
+        "answer": "kam"
+      },
+      {
+        "type": "classify",
+        "q": "叙事阶段分筐",
+        "explain": "按时间线三段归档。",
+        "groups": [
+          "转行前",
+          "转行过程",
+          "现在"
+        ],
+        "items": [
+          {
+            "text": "1. Ich hatte einen sicheren Job, aber ich war nicht glücklich.",
+            "group": 0
+          },
+          {
+            "text": "2. Jeden Abend dachte ich: Das kann nicht alles sein.",
+            "group": 0
+          },
+          {
+            "text": "3. Ich habe nebenbei in einer Bäckerei geholfen und dann gekündigt.",
+            "group": 1
+          },
+          {
+            "text": "4. Ich habe jetzt meine eigene Bäckerei.",
+            "group": 2
+          }
+        ]
+      }
+    ],
+    "speaking": "讲你自己（或虚构）的一段经历转折：原来做什么、为什么不满意、怎么迈出第一步、现在怎么样（6 句，叙事用过去时，至少 1 句 hätte 虚拟式）。",
+    "speakingSample": "参考：Ich habe früher im Büro gearbeitet, aber die Arbeit war jeden Tag gleich. Ich war nicht glücklich. Zuerst habe ich abends einen Kurs gemacht. Dann habe ich eine neue Stelle gefunden. Heute macht mir die Arbeit Spaß. Ich hätte es bereut, wenn ich es nicht versucht hätte.",
+    "speakingSelfcheck": "自查：经历按时间线讲 □；用了 Präteritum/Perfekt 叙事 □；有 1 句 hätte 虚拟 □。",
+    "sceneWords": [
+      "bevor",
+      "nebenbei",
+      "das Risiko",
+      "verrückt"
+    ]
+  },
+  {
+    "id": "s-b1-09",
+    "level": "B1",
+    "order": 9,
+    "title": "家庭财务会议：买房贷款",
+    "recommended": "",
+    "prerequisites": [
+      "g-b1-04"
+    ],
+    "sceneIntro": "一对夫妻在家里算账：看中一套公寓，讨论首付、贷款额、月供和风险，最后决定先去银行咨询。前置：g-b1-04（虚拟条件句）、A2 情景课数字与价格工具。",
+    "dialogue": [
+      {
+        "speaker": "Frau",
+        "text": "Die Wohnung kostet 320.000 Euro. Wir haben 60.000 Euro gespart. Reicht das als Eigenkapital?",
+        "audio": "Die Wohnung kostet 320.000 Euro. Wir haben 60.000 Euro gespart. Reicht das als Eigenkapital?"
+      },
+      {
+        "speaker": "Mann",
+        "text": "Für die Bank sollte es reichen, aber dann müssen wir 260.000 Euro Kredit aufnehmen.",
+        "audio": "Für die Bank sollte es reichen, aber dann müssen wir 260.000 Euro Kredit aufnehmen."
+      },
+      {
+        "speaker": "Frau",
+        "text": "Was wäre die monatliche Rate?",
+        "audio": "Was wäre die monatliche Rate?"
+      },
+      {
+        "speaker": "Mann",
+        "text": "Bei 30 Jahren Laufzeit etwa 1.150 Euro im Monat. Jetzt zahlen wir 900 Euro Miete.",
+        "audio": "Bei 30 Jahren Laufzeit etwa 1.150 Euro im Monat. Jetzt zahlen wir 900 Euro Miete."
+      },
+      {
+        "speaker": "Frau",
+        "text": "Das sind 250 Euro mehr. Dazu kommen noch Nebenkosten und Rücklagen für Reparaturen.",
+        "audio": "Das sind 250 Euro mehr. Dazu kommen noch Nebenkosten und Rücklagen für Reparaturen."
+      },
+      {
+        "speaker": "Mann",
+        "text": "Stimmt. Wenn einer von uns weniger verdient, wird es eng.",
+        "audio": "Stimmt. Wenn einer von uns weniger verdient, wird es eng."
+      },
+      {
+        "speaker": "Frau",
+        "text": "Andererseits wird die Miete auch jedes Jahr teurer. Und die Wohnung gehört dann uns.",
+        "audio": "Andererseits wird die Miete auch jedes Jahr teurer. Und die Wohnung gehört dann uns."
+      },
+      {
+        "speaker": "Mann",
+        "text": "Das ist der große Vorteil. Ich schlage vor, wir lassen uns nächste Woche bei der Bank beraten und vergleichen zwei Angebote.",
+        "audio": "Das ist der große Vorteil. Ich schlage vor, wir lassen uns nächste Woche bei der Bank beraten und vergleichen zwei Angebote."
+      },
+      {
+        "speaker": "Frau",
+        "text": "Einverstanden. Und wir kaufen nur, wenn die Rate unter 1.200 Euro bleibt.",
+        "audio": "Einverstanden. Und wir kaufen nur, wenn die Rate unter 1.200 Euro bleibt."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "首付概念",
+          "Eigenkapital haben / gespart haben"
+        ],
+        [
+          "贷款额",
+          "einen Kredit aufnehmen"
+        ],
+        [
+          "问月供",
+          "Was wäre die monatliche Rate?"
+        ],
+        [
+          "附加成本",
+          "Dazu kommen noch Nebenkosten und Rücklagen."
+        ],
+        [
+          "风险句",
+          "Wenn einer weniger verdient, wird es eng."
+        ],
+        [
+          "设上限决定",
+          "Wir kaufen nur, wenn die Rate unter … bleibt."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "房价和首付各多少",
+        "explain": "房价 320.000，已存 60.000。",
+        "options": [
+          "320.000、60.000",
+          "260.000、60.000",
+          "320.000、260.000"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "贷款说法",
+        "explain": "einen Kredit aufnehmen 是贷款的固定说法。",
+        "display": "Wir müssen 260.000 Euro ＿＿ aufnehmen.",
+        "answer": "Kredit"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂比较",
+        "explain": "1.150 − 900 = 250。",
+        "audio": "Jetzt zahlen wir 900 Euro Miete, die Rate wäre 1.150 Euro.",
+        "options": [
+          "月供比现在房租多 250",
+          "月供比房租少 250",
+          "两者一样"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "附加成本指什么",
+        "explain": "Nebenkosten und Rücklagen für Reparaturen。",
+        "options": [
+          "物业费等杂费 + 修缮储备金",
+          "装修家具",
+          "搬家费"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "设上限的决定句，wenn 从句动词 bleibt 在尾。",
+        "tokens": [
+          "unter 1.200 Euro",
+          "Wir kaufen nur",
+          "bleibt",
+          "wenn die Rate"
+        ],
+        "answer": [
+          "Wir kaufen nur",
+          "wenn die Rate",
+          "unter 1.200 Euro",
+          "bleibt"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "问月供",
+        "explain": "假设测算用 wäre。",
+        "display": "Was ＿＿ die monatliche Rate?",
+        "answer": "wäre"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补风险",
+        "explain": "收入减少则手头紧。",
+        "display": "Wenn einer von uns weniger verdient, wird es ＿＿.",
+        "audio": "Wenn einer von uns weniger verdient, wird es eng.",
+        "answer": "eng"
+      },
+      {
+        "type": "choice",
+        "q": "他们最终决定什么",
+        "explain": "beraten lassen und zwei Angebote vergleichen。",
+        "options": [
+          "先去银行咨询、比较两个报价再定",
+          "马上签合同",
+          "不买了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "期限词",
+        "explain": "贷款期限 Laufzeit。",
+        "display": "Bei 30 Jahren ＿＿ liegt die Rate bei 1.150 Euro.",
+        "answer": "Laufzeit"
+      },
+      {
+        "type": "classify",
+        "q": "账目分筐",
+        "explain": "月供和贷款是买房后的支出，900 是现在的房租。",
+        "groups": [
+          "买房支出",
+          "现有状况"
+        ],
+        "items": [
+          {
+            "text": "1. 260.000 Euro Kredit",
+            "group": 0
+          },
+          {
+            "text": "2. 1.150 Euro monatliche Rate",
+            "group": 0
+          },
+          {
+            "text": "3. 900 Euro Miete jetzt",
+            "group": 1
+          },
+          {
+            "text": "4. Nebenkosten und Rücklagen",
+            "group": 0
+          }
+        ]
+      }
+    ],
+    "speaking": "演家庭会议的一方：报出房价、你们的存款、要贷多少、月供多少、比现在房租多多少，并说出你们的购买上限条件（5–6 句）。",
+    "speakingSample": "参考：Die Wohnung kostet 280.000 Euro. Wir haben 50.000 Euro gespart, also brauchen wir 230.000 Euro Kredit. Die Rate wäre etwa 1.020 Euro, das sind 170 Euro mehr als unsere Miete. Wir kaufen nur, wenn die Rate unter 1.100 Euro bleibt.",
+    "speakingSelfcheck": "自查：四个数字都报了 □；多出的差额算对了 □；上限条件用了 nur, wenn □。",
+    "sceneWords": [
+      "aufnehmen",
+      "etwa",
+      "reichen",
+      "der Vorteil"
+    ]
+  },
+  {
+    "id": "s-b1-10",
+    "level": "B1",
+    "order": 10,
+    "title": "志愿者项目介绍与招募",
+    "recommended": "",
+    "prerequisites": [
+      "t-b1-03",
+      "g-b1-09"
+    ],
+    "sceneIntro": "社区中心介绍一个「陪老人读书聊天」的志愿者项目，你来咨询：问工作内容、时间安排和要求，最后报名。前置：t-b1-03（共同计划）、g-b1-09（不定式结构）。",
+    "dialogue": [
+      {
+        "speaker": "Mitarbeiterin",
+        "text": "Willkommen bei unserem Projekt „Zeit schenken\". Wir suchen Freiwillige, die ältere Menschen besuchen.",
+        "audio": "Willkommen bei unserem Projekt „Zeit schenken\". Wir suchen Freiwillige, die ältere Menschen besuchen."
+      },
+      {
+        "speaker": "Interessentin",
+        "text": "Was genau macht man als Freiwillige?",
+        "audio": "Was genau macht man als Freiwillige?"
+      },
+      {
+        "speaker": "Mitarbeiterin",
+        "text": "Sie besuchen eine ältere Person einmal pro Woche, lesen ihr vor, hören zu oder spielen ein Spiel. Es geht um Gesellschaft, nicht um Pflege.",
+        "audio": "Sie besuchen eine ältere Person einmal pro Woche, lesen ihr vor, hören zu oder spielen ein Spiel. Es geht um Gesellschaft, nicht um Pflege."
+      },
+      {
+        "speaker": "Interessentin",
+        "text": "Wie viel Zeit muss ich einplanen?",
+        "audio": "Wie viel Zeit muss ich einplanen?"
+      },
+      {
+        "speaker": "Mitarbeiterin",
+        "text": "Etwa zwei Stunden pro Woche. Die Termine machen Sie direkt mit der Person aus.",
+        "audio": "Etwa zwei Stunden pro Woche. Die Termine machen Sie direkt mit der Person aus."
+      },
+      {
+        "speaker": "Interessentin",
+        "text": "Brauche ich besondere Kenntnisse?",
+        "audio": "Brauche ich besondere Kenntnisse?"
+      },
+      {
+        "speaker": "Mitarbeiterin",
+        "text": "Nein. Wichtig sind Geduld und Zuverlässigkeit. Vor dem Start gibt es ein kurzes Training von drei Stunden.",
+        "audio": "Nein. Wichtig sind Geduld und Zuverlässigkeit. Vor dem Start gibt es ein kurzes Training von drei Stunden."
+      },
+      {
+        "speaker": "Interessentin",
+        "text": "Das passt mir gut. Ich habe samstags Zeit.",
+        "audio": "Das passt mir gut. Ich habe samstags Zeit."
+      },
+      {
+        "speaker": "Mitarbeiterin",
+        "text": "Schön! Dann füllen Sie bitte dieses Formular aus. Wir melden uns nächste Woche und stellen Ihnen eine Dame vor, die sich über Besuche freut.",
+        "audio": "Schön! Dann füllen Sie bitte dieses Formular aus. Wir melden uns nächste Woche und stellen Ihnen eine Dame vor, die sich über Besuche freut."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "用途",
+        "德语"
+      ],
+      "rows": [
+        [
+          "项目定位句",
+          "Wir suchen Freiwillige, die …"
+        ],
+        [
+          "问工作内容",
+          "Was genau macht man als …?"
+        ],
+        [
+          "澄清边界",
+          "Es geht um Gesellschaft, nicht um Pflege."
+        ],
+        [
+          "问时间投入",
+          "Wie viel Zeit muss ich einplanen?"
+        ],
+        [
+          "问要求",
+          "Brauche ich besondere Kenntnisse?"
+        ],
+        [
+          "报名动作",
+          "Füllen Sie bitte dieses Formular aus."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "志愿者做什么",
+        "explain": "Gesellschaft, nicht Pflege。",
+        "options": [
+          "每周探访老人，读书聊天陪伴",
+          "给老人做护理",
+          "帮老人做饭打扫"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "时间投入",
+        "explain": "每周约两小时。",
+        "display": "Etwa zwei ＿＿ pro Woche muss man einplanen.",
+        "answer": "Stunden"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听懂要求",
+        "explain": "不需要专业知识，要的是品质。",
+        "audio": "Wichtig sind Geduld und Zuverlässigkeit.",
+        "options": [
+          "重要的是耐心和可靠",
+          "重要的是经验和证书",
+          "重要的是体力"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "报名前有什么",
+        "explain": "kurzes Training von drei Stunden。",
+        "options": [
+          "三小时的简短培训",
+          "一周的课程",
+          "一次考试"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ausfüllen 的前缀 aus 守尾。",
+        "tokens": [
+          "dieses Formular",
+          "Füllen Sie",
+          "bitte",
+          "aus"
+        ],
+        "answer": [
+          "Füllen Sie",
+          "bitte",
+          "dieses Formular",
+          "aus"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "项目名",
+        "explain": "项目名直译「赠予时间」。",
+        "display": "Das Projekt heißt „Zeit ＿＿\".",
+        "answer": "schenken"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "Termine ausmachen = 约定时间。",
+        "display": "Die Termine machen Sie direkt mit der Person ＿＿.",
+        "audio": "Die Termine machen Sie direkt mit der Person aus.",
+        "answer": "aus"
+      },
+      {
+        "type": "choice",
+        "q": "时间怎么定",
+        "explain": "direkt mit der Person ausmachen。",
+        "options": [
+          "志愿者和老人直接约",
+          "中心统一排班到分钟",
+          "每月固定一天"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "问内容",
+        "explain": "Was genau … 是追问细节的说法。",
+        "display": "Was ＿＿ macht man als Freiwillige?",
+        "answer": "genau"
+      },
+      {
+        "type": "classify",
+        "q": "问答配对分筐",
+        "explain": "咨询四步：内容、时间、要求、报名。",
+        "groups": [
+          "问时间",
+          "问要求",
+          "问内容",
+          "报名"
+        ],
+        "items": [
+          {
+            "text": "1. Wie viel Zeit muss ich einplanen?",
+            "group": 0
+          },
+          {
+            "text": "2. Brauche ich besondere Kenntnisse?",
+            "group": 1
+          },
+          {
+            "text": "3. Was macht man als Freiwillige?",
+            "group": 2
+          },
+          {
+            "text": "4. Wo kann ich mich anmelden?",
+            "group": 3
+          }
+        ]
+      }
+    ],
+    "speaking": "演咨询者：向一个「给小学生辅导作业」的志愿者项目咨询内容、时间、要求，并当场表示报名（5 句）。",
+    "speakingSample": "参考：Was genau macht man als Freiwilliger? Wie viel Zeit muss ich pro Woche einplanen? Brauche ich besondere Kenntnisse? Ich habe dienstags und donnerstags nachmittags Zeit. Wo kann ich mich anmelden?",
+    "speakingSelfcheck": "自查：内容、时间、要求三样都问了 □；说了自己可用的时间 □；问了报名方式 □。",
+    "sceneWords": [
+      "die Geduld",
+      "die Gesellschaft",
+      "melden",
+      "der Start"
+    ]
+  }
+]

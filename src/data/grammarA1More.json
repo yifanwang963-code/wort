@@ -1,0 +1,1583 @@
+[
+  {
+    "id": "g-a1-00",
+    "level": "A1",
+    "order": 1,
+    "title": "发音入门：字母与读音规则",
+    "titleDe": "Aussprache: Alphabet & Laute",
+    "table": {
+      "caption": "先分清长音和短音——这是德语发音的总开关",
+      "headers": [
+        "判定",
+        "规则",
+        "例词"
+      ],
+      "rows": [
+        [
+          "长音",
+          "元音后有 h，或元音双写，或元音后只有一个辅音",
+          "Staat（国家）, Lehrer（老师）, Weg（路）"
+        ],
+        [
+          "短音",
+          "元音后有双辅音，或两个以上辅音",
+          "Stadt（城市）, Bett（床）, Kind（孩子）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "中国人最容易读错的组合，逐个点读例词听",
+        "headers": [
+          "拼写",
+          "读音要点",
+          "例词"
+        ],
+        "rows": [
+          [
+            "ei",
+            "读「爱」",
+            "mein（我的）, klein（小的）"
+          ],
+          [
+            "ie",
+            "读长音「衣」",
+            "Liebe（爱）, sieben（七）"
+          ],
+          [
+            "eu / äu",
+            "读「奥伊」",
+            "heute（今天）, Häuser（房子们）"
+          ],
+          [
+            "sch",
+            "读「什」",
+            "Schule（学校）, Fisch（鱼）"
+          ],
+          [
+            "ch（在 a/o/u 后）",
+            "喉咙音「喝」",
+            "Buch（书）, noch（还）"
+          ],
+          [
+            "ch（在 e/i 后）",
+            "轻音，舌尖抵下齿",
+            "ich（我）, Milch（牛奶）"
+          ],
+          [
+            "st / sp（词首）",
+            "读「什特 / 什普」",
+            "Stadt（城市）, Sport（运动）"
+          ],
+          [
+            "w",
+            "读英文 v 的音",
+            "Wasser（水）, wohnen（住）"
+          ],
+          [
+            "v",
+            "多数读 f",
+            "Vater（父亲）, vier（四）"
+          ],
+          [
+            "z",
+            "读「茨」",
+            "Zeit（时间）, zehn（十）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "26 个字母的德语念法与英语不同，尤其是 A、E、I、J、R、V、W、Z——在下方字母区逐个点听，先混个耳熟",
+      "ä、ö、ü 是独立的音：ö 和 ü 要圆唇，嘴型先摆好再发音；ß 只出现在小写，等于 ss 的音",
+      "词尾清化：单词末尾的 b、d、g 要读成 p、t、k——Tag 读「塔克」、Hund 读「混特」、halb 读「哈尔普」，拼写不变、读音变",
+      "单词重音多数落在第一个音节；词尾的 -er 弱读成一个轻「啊」音，Lehrer 别读成「雷赫尔」",
+      "句子语调：陈述句往下沉，是非问句（没有疑问词的）往上扬，带疑问词的问句往下沉"
+    ],
+    "examples": [
+      {
+        "de": "Guten Tag! Ich heiße Anna.",
+        "zh": "你好！我叫 Anna。"
+      },
+      {
+        "de": "Ich komme aus China.",
+        "zh": "我来自中国。"
+      },
+      {
+        "de": "Schön, dich zu sehen!",
+        "zh": "见到你很高兴！——听 ö 的音"
+      },
+      {
+        "de": "Wie viel kostet das?",
+        "zh": "这多少钱？——听 ie 与 st"
+      }
+    ],
+    "pitfalls": [
+      "ei 和 ie 千万别反：ei 读「爱」、ie 读「衣」，mein（爱）/ Liebe（衣），反了全句变味",
+      "别拿英语念德语字母：自我介绍拼名字时 J、W、V、Z 最容易当场翻车",
+      "ch 有两个音：在 a/o/u 后是喉咙音（Buch），在 e/i 后是轻音（ich），靠前面的元音判断"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "schön",
+        "q": "你听到的是哪个词？",
+        "options": [
+          "schon（已经）",
+          "schön（美好的）",
+          "Schule（学校）",
+          "Schuhe（鞋）"
+        ],
+        "answer": 1,
+        "explain": "ö 要圆唇，和 schon 的 o 是两个音。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Liebe",
+        "q": "你听到的是哪个词？",
+        "options": [
+          "Leibe",
+          "Liebe",
+          "Läbe",
+          "Leben"
+        ],
+        "answer": 1,
+        "explain": "ie 读长音「衣」：Liebe。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Vater",
+        "q": "这个词开头的 V 读什么音？",
+        "options": [
+          "读 f",
+          "读 v",
+          "读 w"
+        ],
+        "answer": 0,
+        "explain": "德语里 V 多数读 f：Vater、vier 都这样。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Wasser",
+        "q": "这个词开头的 W 读什么音？",
+        "options": [
+          "读 w（英文式）",
+          "读 v",
+          "读 f"
+        ],
+        "answer": 1,
+        "explain": "德语 W 读英文 v 的音。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Stadt",
+        "q": "词首 St 读什么音？",
+        "options": [
+          "读「斯特」",
+          "读「什特」",
+          "读「茨特」"
+        ],
+        "answer": 1,
+        "explain": "词首 st 读「什特」，sp 同理读「什普」。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "ich",
+        "q": "这个词的 ch 读什么音？",
+        "options": [
+          "喉咙音（同 Buch）",
+          "轻音（舌尖抵下齿）",
+          "读 k"
+        ],
+        "answer": 1,
+        "explain": "ch 在 i、e 后面读轻音。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Buch",
+        "q": "这个词的 ch 读什么音？",
+        "options": [
+          "轻音（同 ich）",
+          "喉咙音",
+          "读「什」"
+        ],
+        "answer": 1,
+        "explain": "ch 在 u（a/o/u 一组）后面读喉咙音。"
+      },
+      {
+        "type": "choice",
+        "q": "下面哪个词的元音是长音？",
+        "options": [
+          "Stadt",
+          "Bett",
+          "Staat",
+          "Kind"
+        ],
+        "answer": 2,
+        "explain": "Staat 的 aa 双写读长音；其余三个元音后都是双辅音或辅音群，读短音。"
+      },
+      {
+        "type": "choice",
+        "q": "「Tag」末尾的 g 实际读什么音？",
+        "options": [
+          "g",
+          "k",
+          "不发音"
+        ],
+        "answer": 1,
+        "explain": "词尾清化：词尾 g 读 k，Tag 读「塔克」。"
+      },
+      {
+        "type": "choice",
+        "q": "「Schule」开头的 sch 读什么音？",
+        "options": [
+          "读「斯」",
+          "读「什」",
+          "读「茨」"
+        ],
+        "answer": 1,
+        "explain": "sch 三个字母只发一个音：「什」。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Kind",
+        "answer": "Kind",
+        "explain": "K-i-n-d，注意词尾 d 读 t 的音，但拼写仍是 d。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich lerne Deutsch.",
+        "display": "Ich ___ Deutsch.",
+        "answer": "lerne",
+        "explain": "先听整句再落笔——lerne 的词尾 -e 弱读，音很轻，别漏。"
+      }
+    ],
+    "reading": {
+      "text": "Guten Tag! Ich heiße Li Wei. Ich komme aus China und wohne in Shanghai. Ich lerne Deutsch. Deutsch ist schwer, aber interessant.",
+      "questions": [
+        {
+          "q": "Wo wohnt Li Wei?",
+          "options": [
+            "Berlin",
+            "Shanghai",
+            "München"
+          ],
+          "answer": 1,
+          "explain": "wohnt in Shanghai。"
+        },
+        {
+          "q": "Was lernt Li Wei?",
+          "options": [
+            "Englisch",
+            "Chinesisch",
+            "Deutsch"
+          ],
+          "answer": 2,
+          "explain": "lernt Deutsch。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用德语字母名拼读你自己的名字，写出来（如 Li Wei → el-i, we-e-i 的德语读法顺序拼）。不用交，拼完点字母芯片逐个对音。",
+      "sample": "Mein Name ist Li Wei: L（el）, i（i）, W（we）, e（e）, i（i）."
+    },
+    "audioChips": [
+      {
+        "group": "字母表",
+        "items": [
+          {
+            "label": "A",
+            "speak": "A"
+          },
+          {
+            "label": "B",
+            "speak": "B"
+          },
+          {
+            "label": "C",
+            "speak": "C"
+          },
+          {
+            "label": "D",
+            "speak": "D"
+          },
+          {
+            "label": "E",
+            "speak": "E"
+          },
+          {
+            "label": "F",
+            "speak": "F"
+          },
+          {
+            "label": "G",
+            "speak": "G"
+          },
+          {
+            "label": "H",
+            "speak": "H"
+          },
+          {
+            "label": "I",
+            "speak": "I"
+          },
+          {
+            "label": "J",
+            "speak": "J"
+          },
+          {
+            "label": "K",
+            "speak": "K"
+          },
+          {
+            "label": "L",
+            "speak": "L"
+          },
+          {
+            "label": "M",
+            "speak": "M"
+          },
+          {
+            "label": "N",
+            "speak": "N"
+          },
+          {
+            "label": "O",
+            "speak": "O"
+          },
+          {
+            "label": "P",
+            "speak": "P"
+          },
+          {
+            "label": "Q",
+            "speak": "Q"
+          },
+          {
+            "label": "R",
+            "speak": "R"
+          },
+          {
+            "label": "S",
+            "speak": "S"
+          },
+          {
+            "label": "T",
+            "speak": "T"
+          },
+          {
+            "label": "U",
+            "speak": "U"
+          },
+          {
+            "label": "V",
+            "speak": "V"
+          },
+          {
+            "label": "W",
+            "speak": "W"
+          },
+          {
+            "label": "X",
+            "speak": "X"
+          },
+          {
+            "label": "Y",
+            "speak": "Y"
+          },
+          {
+            "label": "Z",
+            "speak": "Z"
+          }
+        ]
+      },
+      {
+        "group": "变元音与 ß",
+        "items": [
+          {
+            "label": "Ä",
+            "speak": "Ä"
+          },
+          {
+            "label": "Ö",
+            "speak": "Ö"
+          },
+          {
+            "label": "Ü",
+            "speak": "Ü"
+          },
+          {
+            "label": "ß",
+            "speak": "ß"
+          }
+        ]
+      },
+      {
+        "group": "字母自测词",
+        "items": [
+          {
+            "label": "Anna",
+            "speak": "Anna"
+          },
+          {
+            "label": "Berlin",
+            "speak": "Berlin"
+          },
+          {
+            "label": "China",
+            "speak": "China"
+          },
+          {
+            "label": "Danke",
+            "speak": "Danke"
+          },
+          {
+            "label": "Essen",
+            "speak": "Essen"
+          },
+          {
+            "label": "Fußball",
+            "speak": "Fußball"
+          },
+          {
+            "label": "Garten",
+            "speak": "Garten"
+          },
+          {
+            "label": "Haus",
+            "speak": "Haus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g-a1-03",
+    "level": "A1",
+    "order": 4,
+    "title": "情态动词",
+    "titleDe": "Modalverben: können, müssen, wollen, dürfen, möchten",
+    "table": {
+      "caption": "情态动词变位——注意 ich 和 er 同形、单数词干元音变",
+      "headers": [
+        "人称",
+        "können 能/会",
+        "müssen 必须",
+        "wollen 想要",
+        "dürfen 可以（被允许）"
+      ],
+      "rows": [
+        [
+          "ich",
+          "kann",
+          "muss",
+          "will",
+          "darf"
+        ],
+        [
+          "du",
+          "kannst",
+          "musst",
+          "willst",
+          "darfst"
+        ],
+        [
+          "er/sie/es",
+          "kann",
+          "muss",
+          "will",
+          "darf"
+        ],
+        [
+          "wir",
+          "können",
+          "müssen",
+          "wollen",
+          "dürfen"
+        ],
+        [
+          "ihr",
+          "könnt",
+          "müsst",
+          "wollt",
+          "dürft"
+        ],
+        [
+          "sie/Sie",
+          "können",
+          "müssen",
+          "wollen",
+          "dürfen"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "möchten「想要（礼貌版）」——点餐、购物、提请求时用它，不用 wollen",
+        "headers": [
+          "ich",
+          "du",
+          "er/sie/es",
+          "wir",
+          "ihr",
+          "sie/Sie"
+        ],
+        "rows": [
+          [
+            "möchte",
+            "möchtest",
+            "möchte",
+            "möchten",
+            "möchtet",
+            "möchten"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "情态动词负责变位、占句子第二位；真正的动作动词退到句尾，用原形——Ich kann Deutsch sprechen. 两个动词像个括号把句子夹住",
+      "意思分工：können = 有能力/会；müssen = 必须（没得选）；wollen = 想要（态度坚决）；dürfen = 被允许可以；möchten = 礼貌版想要",
+      "变位规律：ich 和 er/sie/es 完全同形（kann / muss / will / darf，都不带 -t），单数时词干元音变（können→kann），复数变回原形",
+      "nicht müssen = 不必（可以不做）；nicht dürfen = 不许（禁止）。这两个千万别译反"
+    ],
+    "examples": [
+      {
+        "de": "Ich kann gut Deutsch sprechen.",
+        "zh": "我德语说得不错。"
+      },
+      {
+        "de": "Du musst heute arbeiten.",
+        "zh": "你今天必须工作。"
+      },
+      {
+        "de": "Wir möchten zwei Kaffee, bitte.",
+        "zh": "我们想要两杯咖啡，谢谢。"
+      },
+      {
+        "de": "Darf ich Sie etwas fragen?",
+        "zh": "我可以问您个问题吗？——是非问句里情态动词提到句首"
+      }
+    ],
+    "pitfalls": [
+      "句尾的动词必须是原形：不说 Ich kann sprechen 漏尾，也不说 Ich kann spricht",
+      "ich kann 的后面别加 -t：er kann，不是 er kannt",
+      "对服务员说 Ich will einen Kaffee 像在下命令，礼貌场合一律 möchten"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich ___ Deutsch sprechen. (können)",
+        "answer": "kann",
+        "explain": "können 的 ich 形式是 kann（元音变 ö→a，且 ich 与 er 同形）。"
+      },
+      {
+        "type": "fill",
+        "q": "Du ___ heute arbeiten. (müssen)",
+        "answer": "musst",
+        "explain": "müssen 的 du 形式 musst。"
+      },
+      {
+        "type": "choice",
+        "q": "Wir ___ einen Tee, bitte.（对服务员点单）",
+        "options": [
+          "will",
+          "wollen",
+          "möchten",
+          "muss"
+        ],
+        "answer": 2,
+        "explain": "礼貌点单一律用 möchten。"
+      },
+      {
+        "type": "fill",
+        "q": "Er ___ nach Berlin fahren. (wollen)",
+        "answer": "will",
+        "explain": "wollen 的 er 形式 will，与 ich 同形不加 -t。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "arbeiten",
+          "Er",
+          "muss",
+          "heute"
+        ],
+        "answer": [
+          "Er",
+          "muss",
+          "heute",
+          "arbeiten"
+        ],
+        "explain": "情态动词第二位，动作动词原形压句尾。"
+      },
+      {
+        "type": "choice",
+        "q": "「Du musst nicht kommen.」的意思是？",
+        "options": [
+          "你不许来",
+          "你不必过来",
+          "你必须不来"
+        ],
+        "answer": 1,
+        "explain": "nicht müssen = 不必；不许是 nicht dürfen。"
+      },
+      {
+        "type": "fill",
+        "q": "Ihr ___ Fußball spielen. (können)",
+        "answer": "könnt",
+        "explain": "ihr 形式带 -t：könnt。"
+      },
+      {
+        "type": "fill",
+        "q": "___ ich fragen? (dürfen)",
+        "answer": "Darf",
+        "explain": "是非问句动词提前，dürfen 的 ich 形式是 darf，句首大写。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "einen Kaffee",
+          "Sie",
+          "Möchten"
+        ],
+        "answer": [
+          "Möchten",
+          "Sie",
+          "einen Kaffee"
+        ],
+        "explain": "问句里情态动词占第一位。"
+      },
+      {
+        "type": "choice",
+        "q": "Sie (您) ___ hier nicht rauchen.（禁止吸烟）",
+        "options": [
+          "müssen nicht",
+          "dürfen nicht",
+          "kann nicht"
+        ],
+        "answer": 1,
+        "explain": "禁止 = nicht dürfen。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir ___ am Samstag einkaufen. (müssen)",
+        "answer": "müssen",
+        "explain": "wir 形式与原形相同。"
+      },
+      {
+        "type": "fill",
+        "q": "Das Kind ___ lange schlafen. (wollen)",
+        "answer": "will",
+        "explain": "das Kind 是 es 人称，will。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "kann",
+        "q": "你听到的形式可能是哪个人称？",
+        "options": [
+          "ich 或 er/sie/es",
+          "du",
+          "ihr"
+        ],
+        "answer": 0,
+        "explain": "kann 是 ich 和 er 的共用形式。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Du musst heute lernen.",
+        "display": "Du ___ heute lernen.",
+        "answer": "musst",
+        "explain": "müssen 的 du 形式，听清词尾 -st。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich möchte einen Kaffee.",
+        "answer": "Ich möchte einen Kaffee.",
+        "explain": "点单万能句：möchte + 宾格 einen Kaffee。"
+      }
+    ],
+    "reading": {
+      "text": "Lisa muss am Montag früh aufstehen. Sie kann nicht lange schlafen. Am Abend will sie einen Film sehen, und sie möchte auch Deutsch lernen. Sie kann schon ein bisschen Deutsch sprechen.",
+      "questions": [
+        {
+          "q": "Was muss Lisa am Montag machen?",
+          "options": [
+            "lange schlafen",
+            "früh aufstehen",
+            "einen Film sehen"
+          ],
+          "answer": 1,
+          "explain": "muss früh aufstehen；lange schlafen 前面是 kann nicht，正好相反。"
+        },
+        {
+          "q": "Was kann Lisa schon?",
+          "options": [
+            "Deutsch sprechen",
+            "Filme machen",
+            "Kaffee kochen"
+          ],
+          "answer": 0,
+          "explain": "kann schon ein bisschen Deutsch sprechen。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用每个情态动词各写一句你的真实情况（können / müssen / wollen / möchten 各至少一句）。",
+      "sample": "Ich kann ein bisschen Deutsch sprechen. Ich muss jeden Tag arbeiten. Ich will am Wochenende schlafen. Ich möchte nach Deutschland fahren."
+    }
+  },
+  {
+    "id": "g-a1-04",
+    "level": "A1",
+    "order": 5,
+    "title": "可分动词",
+    "titleDe": "Trennbare Verben",
+    "table": {
+      "caption": "可分动词拆开用——以 aufstehen 为例，前缀永远去句尾",
+      "headers": [
+        "原形",
+        "ich",
+        "du",
+        "er/sie/es"
+      ],
+      "rows": [
+        [
+          "aufstehen（起床）",
+          "stehe … auf",
+          "stehst … auf",
+          "steht … auf"
+        ],
+        [
+          "einkaufen（购物）",
+          "kaufe … ein",
+          "kaufst … ein",
+          "kauft … ein"
+        ],
+        [
+          "fernsehen（看电视）",
+          "sehe … fern",
+          "siehst … fern",
+          "sieht … fern"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "先认这批高频可分动词，前缀都重读",
+        "headers": [
+          "动词",
+          "意思",
+          "动词",
+          "意思"
+        ],
+        "rows": [
+          [
+            "anrufen",
+            "打电话",
+            "abfahren",
+            "出发"
+          ],
+          [
+            "mitkommen",
+            "一起去",
+            "zuhören",
+            "认真听"
+          ],
+          [
+            "aufmachen",
+            "打开",
+            "zumachen",
+            "关上"
+          ],
+          [
+            "einladen",
+            "邀请",
+            "anfangen",
+            "开始"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "可分动词 = 前缀 + 动词。用进句子要拆家：动词部分照常变位占第二位，前缀单独跑到句尾——Ich stehe um sieben Uhr auf.",
+      "原形写在一起（aufstehen），拆开的只是句子里的用法；前缀重读（和发音单元的重音规则对上：可分前缀是重读音节）",
+      "是非问句同样拆：Stehst du früh auf?",
+      "情态动词后面不拆：带情态动词时，可分动词以完整原形压句尾——Ich muss früh aufstehen. 拆不拆看前面有没有情态动词"
+    ],
+    "examples": [
+      {
+        "de": "Ich stehe jeden Tag um sieben Uhr auf.",
+        "zh": "我每天七点起床。"
+      },
+      {
+        "de": "Sie kauft am Samstag im Supermarkt ein.",
+        "zh": "她周六在超市购物。"
+      },
+      {
+        "de": "Er ruft seine Mutter jeden Abend an.",
+        "zh": "他每天晚上给他妈妈打电话。"
+      },
+      {
+        "de": "Ich muss morgen früh aufstehen.",
+        "zh": "我明天必须早起。——情态动词在场，不拆"
+      }
+    ],
+    "pitfalls": [
+      "前缀忘了去句尾：Ich stehe auf um sieben Uhr 是错的语序，auf 必须在最末",
+      "情态句里误拆：Ich muss aufstehen，别写成 Ich muss stehe … auf",
+      "fernsehen 的 sehen 部分带元音变化：du siehst … fern（e→ie 照变）"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich stehe um sechs Uhr ___. (aufstehen)",
+        "answer": "auf",
+        "explain": "动词已变位占第二位，前缀 auf 去句尾。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie kauft am Samstag ___. (einkaufen)",
+        "answer": "ein",
+        "explain": "einkaufen 的前缀是 ein，放句尾。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "an",
+          "Er",
+          "ruft",
+          "seine Freundin"
+        ],
+        "answer": [
+          "Er",
+          "ruft",
+          "seine Freundin",
+          "an"
+        ],
+        "explain": "anrufen 拆开，an 压尾。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是对的？",
+        "options": [
+          "Ich muss stehe früh auf.",
+          "Ich muss früh aufstehen.",
+          "Ich aufstehen muss früh."
+        ],
+        "answer": 1,
+        "explain": "有情态动词 muss，可分动词完整原形放句尾、不拆。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir sehen am Abend ___. (fernsehen)",
+        "answer": "fern",
+        "explain": "sehen 变位 sehen（wir 同原形），前缀 fern 去句尾。"
+      },
+      {
+        "type": "fill",
+        "q": "Du siehst jeden Abend ___. (fernsehen)",
+        "answer": "fern",
+        "explain": "动词部分 siehst（e→ie），前缀照样去句尾。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "auf",
+          "Stehst",
+          "du",
+          "früh"
+        ],
+        "answer": [
+          "Stehst",
+          "du",
+          "früh",
+          "auf"
+        ],
+        "explain": "问句动词提前，前缀仍在句尾。"
+      },
+      {
+        "type": "choice",
+        "q": "「zumachen」的反义/配对动作是？先看词义：zumachen 是关上，那「打开」是？",
+        "options": [
+          "aufmachen",
+          "mitkommen",
+          "zuhören"
+        ],
+        "answer": 0,
+        "explain": "aufmachen 打开，zumachen 关上，前缀 auf/zu 正好相反。"
+      },
+      {
+        "type": "fill",
+        "q": "Der Zug fährt um acht Uhr ___. (abfahren)",
+        "answer": "ab",
+        "explain": "abfahren 前缀 ab 去句尾：fährt … ab（注意 fährt 本身是元音变化）。"
+      },
+      {
+        "type": "fill",
+        "q": "Kommst du mit? — Ja, ich komme ___. (mitkommen)",
+        "answer": "mit",
+        "explain": "mitkommen 拆开，前缀 mit 在句尾。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich höre zu dem Lehrer.",
+          "Ich höre dem Lehrer zu.",
+          "Ich zuhöre dem Lehrer."
+        ],
+        "answer": 1,
+        "explain": "zuhören 拆开，zu 放句尾（dem Lehrer 的格以后单元会讲，先记整句）。"
+      },
+      {
+        "type": "fill",
+        "q": "Er lädt seine Freunde ___. (einladen)",
+        "answer": "ein",
+        "explain": "einladen 前缀 ein 去句尾：lädt … ein。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "auf",
+        "q": "你听到的这个小词在句子里通常站在什么位置？",
+        "options": [
+          "句首",
+          "动词旁边",
+          "句尾"
+        ],
+        "answer": 2,
+        "explain": "auf 是可分前缀，在陈述句里永远压句尾。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich stehe um sieben Uhr auf.",
+        "display": "Ich stehe um sieben Uhr ___.",
+        "answer": "auf",
+        "explain": "听整句，前缀在最后一个音上。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Sie kauft heute ein.",
+        "answer": "Sie kauft heute ein.",
+        "explain": "einkaufen 拆开：kauft 变位，ein 压尾。"
+      }
+    ],
+    "reading": {
+      "text": "Am Samstag steht Maria spät auf. Sie frühstückt und kauft dann im Supermarkt ein. Am Abend lädt sie Freunde ein. Sie sehen zusammen fern und hören Musik.",
+      "questions": [
+        {
+          "q": "Wo kauft Maria ein?",
+          "options": [
+            "im Supermarkt",
+            "im Büro",
+            "in der Schule"
+          ],
+          "answer": 0,
+          "explain": "kauft im Supermarkt ein。"
+        },
+        {
+          "q": "Was macht Maria am Abend?",
+          "options": [
+            "Sie steht auf.",
+            "Sie lädt Freunde ein.",
+            "Sie frühstückt."
+          ],
+          "answer": 1,
+          "explain": "Am Abend lädt sie Freunde ein。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "用至少 3 个可分动词写你的周六（起床、购物、看电视、给朋友打电话任选）。",
+      "sample": "Am Samstag stehe ich spät auf. Ich kaufe im Supermarkt ein. Am Abend rufe ich meine Freundin an. Wir sehen zusammen fern."
+    }
+  },
+  {
+    "id": "g-a1-05",
+    "level": "A1",
+    "order": 6,
+    "title": "命令式",
+    "titleDe": "Imperativ",
+    "table": {
+      "caption": "命令式三形——du 形最常用，先吃透它",
+      "headers": [
+        "对象",
+        "构成",
+        "例（kommen）",
+        "例（lesen）"
+      ],
+      "rows": [
+        [
+          "du",
+          "动词词干（去掉 -st 和 du）",
+          "Komm!",
+          "Lies!"
+        ],
+        [
+          "ihr",
+          "与现在时 ihr 形式相同（去掉 ihr）",
+          "Kommt!",
+          "Lest!"
+        ],
+        [
+          "Sie",
+          "原形 + Sie",
+          "Kommen Sie!",
+          "Lesen Sie!"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "不规则与高频命令，先整记",
+        "headers": [
+          "动词",
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "rows": [
+          [
+            "sein",
+            "Sei!",
+            "Seid!",
+            "Seien Sie!"
+          ],
+          [
+            "haben",
+            "Hab!",
+            "Habt!",
+            "Haben Sie!"
+          ],
+          [
+            "nehmen",
+            "Nimm!",
+            "Nehmt!",
+            "Nehmen Sie!"
+          ],
+          [
+            "geben",
+            "Gib!",
+            "Gebt!",
+            "Geben Sie!"
+          ],
+          [
+            "warten（词干 -t，要加 e）",
+            "Warte!",
+            "Wartet!",
+            "Warten Sie!"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "du 命令式 = 动词词干：aus du kommst 去掉人称和 -st，只剩 Komm! 词干以 -t / -d 结尾的要补 -e 才读得出：Warte! Arbeite!",
+      "词干元音变化分两种命运：e→i / e→ie 保留（Lies! Sprich! Iss!），a→ä 不保留（Fahr! 不是 Fähr!）——这是本单元头号考点",
+      "ihr 形最省事：就是现在时 ihr 形式去掉 ihr（Kommt! = ihr kommt 去 ihr）",
+      "Sie 形带 Sie 且动词用原形放前面：Kommen Sie bitte! 日常对陌生人、服务场景用它",
+      "加 bitte 立刻变客气；说明书、标识上还有一种「原形命令」（Nicht rauchen! 禁止吸烟），认得出即可"
+    ],
+    "examples": [
+      {
+        "de": "Komm bitte her!",
+        "zh": "请过来一下！"
+      },
+      {
+        "de": "Lies den Text laut!",
+        "zh": "大声朗读课文！"
+      },
+      {
+        "de": "Nehmt Platz!",
+        "zh": "你们坐下吧！"
+      },
+      {
+        "de": "Warten Sie bitte einen Moment!",
+        "zh": "请您稍等片刻！"
+      }
+    ],
+    "pitfalls": [
+      "Fahr! 不是 Fähr!：a→ä 在命令式里要变回去，e 类的变化则保留，两条别记反",
+      "du 命令式里别把 du 带上：Komm! 不是 Du komm!",
+      "对老师、服务员用 du 形会很没礼貌，公共场合默认 Sie 形"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "(du) Kommst du? → 命令式：___ bitte! (kommen)",
+        "answer": "Komm",
+        "explain": "du 形式去掉 du 和 -st，只剩词干 Komm。"
+      },
+      {
+        "type": "fill",
+        "q": "___ den Text! (lesen, 对 du)",
+        "answer": "Lies",
+        "explain": "lesen 的 e→ie 在命令式保留：Lies。"
+      },
+      {
+        "type": "choice",
+        "q": "fahren 的 du 命令式是？",
+        "options": [
+          "Fähr!",
+          "Fahr!",
+          "Fahrst!"
+        ],
+        "answer": 1,
+        "explain": "a→ä 的变化在命令式不保留，用回原词干 Fahr。"
+      },
+      {
+        "type": "fill",
+        "q": "___ einen Moment! (warten, 对 du)",
+        "answer": "Warte",
+        "explain": "词干以 -t 结尾，必须补 -e：Warte。"
+      },
+      {
+        "type": "fill",
+        "q": "___ Platz! (nehmen, 对 ihr)",
+        "answer": "Nehmt",
+        "explain": "ihr 形 = ihr 形式去 ihr：ihr nehmt → Nehmt。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "Sie",
+          "Kommen",
+          "bitte"
+        ],
+        "answer": [
+          "Kommen",
+          "Sie",
+          "bitte"
+        ],
+        "explain": "Sie 形：原形 + Sie，bitte 收尾。"
+      },
+      {
+        "type": "choice",
+        "q": "对老师说「请您再说一遍」该用哪句？（sagen = 说）",
+        "options": [
+          "Sag es noch einmal!",
+          "Sagen Sie es noch einmal!",
+          "Sagt es noch einmal!"
+        ],
+        "answer": 1,
+        "explain": "对老师用 Sie 形：Sagen Sie …。"
+      },
+      {
+        "type": "fill",
+        "q": "___ nicht so schnell! (sprechen, 对 du)",
+        "answer": "Sprich",
+        "explain": "sprechen 的 e→i 在命令式保留：Sprich。"
+      },
+      {
+        "type": "fill",
+        "q": "___ ruhig! (sein, 对 du)",
+        "answer": "Sei",
+        "explain": "sein 的命令式不规则：Sei ruhig!（安静点）。"
+      },
+      {
+        "type": "fill",
+        "q": "___ die Tür zu! (zumachen, 对 du)",
+        "answer": "Mach",
+        "explain": "可分动词命令式照样拆：动词部分 Mach 在前，前缀 zu 仍在句尾。"
+      },
+      {
+        "type": "choice",
+        "q": "标识「Nicht rauchen!」用的是哪种命令？",
+        "options": [
+          "du 形",
+          "Sie 形",
+          "原形命令（标识专用）"
+        ],
+        "answer": 2,
+        "explain": "公共标识用原形直接下令，不指具体对象。"
+      },
+      {
+        "type": "fill",
+        "q": "___ mir bitte! (helfen, 对 du)",
+        "answer": "Hilf",
+        "explain": "helfen 是 e→i，命令式 Hilf（变化保留）。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Lies!",
+        "q": "你听到的是对谁说的命令？",
+        "options": [
+          "du",
+          "ihr",
+          "Sie"
+        ],
+        "answer": 0,
+        "explain": "Lies 是 du 形（词干式）；ihr 形是 Lest，Sie 形是 Lesen Sie。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Warte bitte einen Moment!",
+        "display": "___ bitte einen Moment!",
+        "answer": "Warte",
+        "explain": "warten 词干带 -t，命令式补 e：Warte。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Kommt bitte alle her!",
+        "answer": "Kommt bitte alle her!",
+        "explain": "Kommt 是 ihr 形，对一群人说。"
+      }
+    ],
+    "reading": {
+      "text": "Die Lehrerin sagt: „Öffnet bitte die Bücher! Lest den Text auf Seite zehn! Hört gut zu und schreibt die neuen Wörter! Fragt mich, wenn ihr etwas nicht versteht!\"",
+      "questions": [
+        {
+          "q": "Was sollen die Schüler zuerst machen?",
+          "options": [
+            "die Bücher öffnen",
+            "die Wörter schreiben",
+            "Fragen stellen"
+          ],
+          "answer": 0,
+          "explain": "第一句就是 Öffnet die Bücher。"
+        },
+        {
+          "q": "Was sollen sie machen, wenn sie etwas nicht verstehen?",
+          "options": [
+            "zuhören",
+            "die Lehrerin fragen",
+            "laut lesen"
+          ],
+          "answer": 1,
+          "explain": "Fragt mich, wenn ihr etwas nicht versteht。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 5 条宿舍/班级公约，全用命令式（du 或 ihr 形均可，统一一种）。",
+      "sample": "Sei bitte leise nach zehn Uhr! Mach das Licht aus! Räum dein Zimmer auf! Hilf deinen Freunden! Komm pünktlich!"
+    }
+  },
+  {
+    "id": "g-a1-06",
+    "level": "A1",
+    "order": 7,
+    "title": "现在完成时入门",
+    "titleDe": "Perfekt: haben / sein + Partizip II",
+    "table": {
+      "caption": "完成时 = haben/sein 变位占第二位 + 过去分词压句尾，还是个括号句",
+      "headers": [
+        "类型",
+        "构成",
+        "例"
+      ],
+      "rows": [
+        [
+          "规则变化（弱变化）",
+          "ge- + 词干 + -(e)t",
+          "lernen → gelernt，arbeiten → gearbeitet"
+        ],
+        [
+          "强变化（要背）",
+          "ge- + 变元音词干 + -en",
+          "trinken → getrunken，sehen → gesehen"
+        ],
+        [
+          "用 sein 的动词",
+          "移动 / 状态变化类",
+          "gehen → ist gegangen，fahren → ist gefahren，kommen → ist gekommen"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "高频过去分词小抄——像背冠词一样，动词要连分词一起背",
+        "headers": [
+          "动词",
+          "分词",
+          "助动词",
+          "动词",
+          "分词",
+          "助动词"
+        ],
+        "rows": [
+          [
+            "machen 做",
+            "gemacht",
+            "haben",
+            "essen 吃",
+            "gegessen",
+            "haben"
+          ],
+          [
+            "kaufen 买",
+            "gekauft",
+            "haben",
+            "trinken 喝",
+            "getrunken",
+            "haben"
+          ],
+          [
+            "spielen 玩",
+            "gespielt",
+            "haben",
+            "lesen 读",
+            "gelesen",
+            "haben"
+          ],
+          [
+            "hören 听",
+            "gehört",
+            "haben",
+            "sehen 看",
+            "gesehen",
+            "haben"
+          ],
+          [
+            "lernen 学",
+            "gelernt",
+            "haben",
+            "schlafen 睡",
+            "geschlafen",
+            "haben"
+          ],
+          [
+            "arbeiten 工作",
+            "gearbeitet",
+            "haben",
+            "gehen 去",
+            "gegangen",
+            "sein"
+          ],
+          [
+            "sagen 说",
+            "gesagt",
+            "haben",
+            "fahren 行",
+            "gefahren",
+            "sein"
+          ],
+          [
+            "wohnen 住",
+            "gewohnt",
+            "haben",
+            "kommen 来",
+            "gekommen",
+            "sein"
+          ],
+          [
+            "studieren 学习",
+            "studiert（无 ge-）",
+            "haben",
+            "aufstehen 起床",
+            "aufgestanden",
+            "sein"
+          ]
+        ],
+        "hl": [
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "口语里说过去的事，默认用完成时（Perfekt），不用过去式（sein/haben 的 war/hatte 以后单独学）",
+      "结构和情态动词一个模子：haben 或 sein 变位占第二位，过去分词压句尾，中间夹住全句",
+      "绝大多数动词配 haben；只有「从 A 移动到 B」和「状态突变」的一小批配 sein：gehen, fahren, kommen, aufstehen… 先记附加表里标 sein 的 4 个",
+      "分词构成：规则动词 ge-…-t；词干以 -t/-d 结尾 ge-…-et（gearbeitet）；-ieren 结尾的动词不加 ge-（studiert）；可分动词的 ge- 插在前缀和词干中间（eingekauft, aufgestanden）",
+      "强变化分词（gegessen, getrunken…）没有捷径，连同动词一起背，就像名词连冠词一起背"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe heute Deutsch gelernt.",
+        "zh": "我今天学德语了。"
+      },
+      {
+        "de": "Er hat einen Kaffee getrunken.",
+        "zh": "他喝了一杯咖啡。"
+      },
+      {
+        "de": "Wir sind am Samstag nach Berlin gefahren.",
+        "zh": "我们周六去了柏林。"
+      },
+      {
+        "de": "Sie ist um sieben Uhr aufgestanden.",
+        "zh": "她七点起床了。"
+      }
+    ],
+    "pitfalls": [
+      "分词必须压句尾：Ich habe gelernt Deutsch 是语序错",
+      "移动类动词误用 haben：Wir haben nach Berlin gefahren 是错的，要 sind gefahren",
+      "studieren 别加 ge-：studiert，不是 gestudiert"
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "q": "Ich habe einen Film ___. (sehen)",
+        "answer": "gesehen",
+        "explain": "sehen 的分词是 gesehen，强变化要背。"
+      },
+      {
+        "type": "choice",
+        "q": "Wir ___ nach Berlin gefahren.",
+        "options": [
+          "haben",
+          "sind",
+          "ist",
+          "hat"
+        ],
+        "answer": 1,
+        "explain": "fahren 是移动动词，助动词用 sein，wir → sind。"
+      },
+      {
+        "type": "fill",
+        "q": "Er hat Brot ___. (essen)",
+        "answer": "gegessen",
+        "explain": "essen 的分词 gegessen。"
+      },
+      {
+        "type": "fill",
+        "q": "Sie hat im Supermarkt ___. (einkaufen)",
+        "answer": "eingekauft",
+        "explain": "可分动词的 ge- 插在前缀和词干中间：ein-ge-kauft。"
+      },
+      {
+        "type": "order",
+        "tokens": [
+          "getrunken",
+          "Er",
+          "hat",
+          "einen Kaffee"
+        ],
+        "answer": [
+          "Er",
+          "hat",
+          "einen Kaffee",
+          "getrunken"
+        ],
+        "explain": "haben 第二位，分词压尾。"
+      },
+      {
+        "type": "fill",
+        "q": "Du hast gut ___. (schlafen)",
+        "answer": "geschlafen",
+        "explain": "schlafen 分词 geschlafen，配 haben（睡觉不是移动）。"
+      },
+      {
+        "type": "fill",
+        "q": "Ich bin gestern spät ___. (kommen)",
+        "answer": "gekommen",
+        "explain": "kommen 配 sein，分词 gekommen。"
+      },
+      {
+        "type": "choice",
+        "q": "arbeiten 的分词是？",
+        "options": [
+          "gearbeit",
+          "gearbeitet",
+          "ge arbeitet"
+        ],
+        "answer": 1,
+        "explain": "词干以 -t 结尾，分词尾用 -et：gearbeitet。"
+      },
+      {
+        "type": "fill",
+        "q": "Wir haben Fußball ___. (spielen)",
+        "answer": "gespielt",
+        "explain": "规则分词 ge-…-t：gespielt。"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对？",
+        "options": [
+          "Ich habe studiert Deutsch.",
+          "Ich habe Deutsch studiert.",
+          "Ich habe Deutsch gestudiert."
+        ],
+        "answer": 1,
+        "explain": "分词压尾，且 -ieren 动词不加 ge-：studiert。"
+      },
+      {
+        "type": "fill",
+        "q": "Er ist um sechs Uhr ___. (aufstehen)",
+        "answer": "aufgestanden",
+        "explain": "aufstehen 配 sein，分词 aufgestanden（ge 插中间、强变化 -en）。"
+      },
+      {
+        "type": "fill",
+        "q": "Hast du den Text ___? (lesen)",
+        "answer": "gelesen",
+        "explain": "问句助动词提前，分词仍压尾：gelesen。"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "gefahren",
+        "q": "这个分词要配哪个助动词？",
+        "options": [
+          "haben",
+          "sein"
+        ],
+        "answer": 1,
+        "explain": "fahren 是移动动词，配 sein：ist gefahren。"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich habe Deutsch gelernt.",
+        "display": "Ich habe Deutsch ___.",
+        "answer": "gelernt",
+        "explain": "规则分词 gelernt，听清 ge- 和尾音 -t。"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Wir sind nach Berlin gefahren.",
+        "answer": "Wir sind nach Berlin gefahren.",
+        "explain": "sind + gefahren，去柏林是移动，全句完成时。"
+      }
+    ],
+    "reading": {
+      "text": "Gestern hat Tom lange geschlafen. Dann hat er im Café einen Kaffee getrunken und ein Buch gelesen. Am Nachmittag ist er nach Hause gegangen. Am Abend hat er einen Film gesehen.",
+      "questions": [
+        {
+          "q": "Was hat Tom im Café gemacht?",
+          "options": [
+            "Er hat geschlafen.",
+            "Er hat einen Kaffee getrunken.",
+            "Er ist nach Hause gegangen."
+          ],
+          "answer": 1,
+          "explain": "im Café hat er einen Kaffee getrunken。"
+        },
+        {
+          "q": "Wann ist Tom nach Hause gegangen?",
+          "options": [
+            "am Morgen",
+            "am Nachmittag",
+            "am Abend"
+          ],
+          "answer": 1,
+          "explain": "Am Nachmittag ist er nach Hause gegangen。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句你昨天做过的事，至少用一次 sein 类动词。",
+      "sample": "Gestern bin ich um sieben Uhr aufgestanden. Ich habe einen Kaffee getrunken. Ich habe Deutsch gelernt. Am Abend habe ich einen Film gesehen."
+    }
+  }
+]

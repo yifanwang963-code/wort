@@ -1,0 +1,1183 @@
+{
+  "grammar": [
+    {
+      "number": "A1",
+      "type": "choice",
+      "q": "转述正确的是？",
+      "group": "A",
+      "options": [
+        "Er sagt, er sei krank.",
+        "Er sagt, er ist krank gewesen gestern.",
+        "Er sagt: er krank sei heute."
+      ],
+      "answer": 0,
+      "explain": "KI sei 是转述标志。"
+    },
+    {
+      "number": "A2",
+      "type": "fill",
+      "q": "„Sie sagt: ‚Ich kann nicht.'\" → Sie sagt, sie ＿＿ nicht.",
+      "group": "A",
+      "answer": "könne",
+      "explain": "können 的 KI 三单。"
+    },
+    {
+      "number": "A3",
+      "type": "choice",
+      "q": "与直陈同形须替换的是？",
+      "group": "A",
+      "options": [
+        "Sie sagen, sie hätten keine Zeit.",
+        "Sie sagt, sie habe keine Zeit.",
+        "Er sagt, er sei bereit."
+      ],
+      "answer": 0,
+      "explain": "复数 haben 与直陈同形，规范转述用 hätten。"
+    },
+    {
+      "number": "A4",
+      "type": "fill",
+      "q": "间接命令：„Der Chef sagt: ‚Rufen Sie mich an!'\" → Er sagt, ich ＿＿ ihn anrufen.（sollen 的 KI)",
+      "group": "A",
+      "answer": "solle",
+      "explain": "命令转述用 solle。"
+    },
+    {
+      "number": "A5",
+      "type": "choice",
+      "q": "als ob 用对的是？",
+      "group": "A",
+      "options": [
+        "Er tut so, als ob er alles wüsste.",
+        "Er weiß alles, als ob Realität.",
+        "Als ob er weiß alles genau hier."
+      ],
+      "answer": 0,
+      "explain": "虚拟比较 + KII。"
+    },
+    {
+      "number": "A6",
+      "type": "fill",
+      "q": "省略倒装：„Sie lächelt, als ＿＿ nichts geschehen.\"",
+      "group": "A",
+      "answer": "wäre",
+      "explain": "als + KII 倒装，wäre 提前。"
+    },
+    {
+      "number": "A7",
+      "type": "choice",
+      "q": "Futur I 推测是？",
+      "group": "A",
+      "options": [
+        "Er wird jetzt schon zu Hause sein.",
+        "Er wird morgen nach Hause fahren.",
+        "Er wird Arzt von Beruf später."
+      ],
+      "answer": 0,
+      "explain": "jetzt + wird 推测现状。"
+    },
+    {
+      "number": "A8",
+      "type": "fill",
+      "q": "Futur II：„Sie ＿＿ den Brief schon gelesen haben.\"",
+      "group": "A",
+      "answer": "wird",
+      "explain": "对过去的推测结构。"
+    },
+    {
+      "number": "A9",
+      "type": "choice",
+      "q": "传闻义 sollen 的是？",
+      "group": "A",
+      "options": [
+        "Er soll sehr reich sein.",
+        "Er soll jetzt gehen, sagt die Mutter.",
+        "Du sollst deine Hausaufgaben machen."
+      ],
+      "answer": 0,
+      "explain": "A 是「据说」义；B、C 是命令/义务。"
+    },
+    {
+      "number": "A10",
+      "type": "fill",
+      "q": "声称义：„Sie ＿＿ die Rechnung schon bezahlt haben.\"（wollen 现在时）",
+      "group": "A",
+      "answer": "will",
+      "explain": "will + 完成式 = 本人声称已做（未必属实）。"
+    },
+    {
+      "number": "A11",
+      "type": "choice",
+      "q": "KII 条件正确的是？",
+      "group": "A",
+      "options": [
+        "Wenn ich Zeit hätte, käme ich.",
+        "Wenn ich Zeit habe gehabt, komme ich gestern.",
+        "Hätte ich Zeit, ich komme mit dir."
+      ],
+      "answer": 0,
+      "explain": "hätte + käme 是非现实条件标配。"
+    },
+    {
+      "number": "A12",
+      "type": "fill",
+      "q": "愿望：„＿＿ ich doch nur besser vorbereitet!\"",
+      "group": "A",
+      "answer": "Wäre",
+      "explain": "愿望句 KII 倒装。"
+    },
+    {
+      "number": "A13",
+      "type": "choice",
+      "q": "过去转述正确的是？",
+      "group": "A",
+      "options": [
+        "Sie sagte, sie habe den Zug verpasst.",
+        "Sie sagte, sie verpasst den Zug gestern um acht.",
+        "Sie sagte: sie den Zug verpasst habe."
+      ],
+      "answer": 0,
+      "explain": "habe + 分词转述过去。"
+    },
+    {
+      "number": "A14",
+      "type": "fill",
+      "q": "间接问句：„Er fragt: ‚Wo ist der Bahnhof?'\" → Er fragt, wo der Bahnhof ＿＿.",
+      "group": "A",
+      "answer": "sei",
+      "explain": "疑问词从句 + KI。"
+    },
+    {
+      "number": "A15",
+      "type": "choice",
+      "q": "礼貌式 KII 是？",
+      "group": "A",
+      "options": [
+        "Würden Sie mir bitte helfen?",
+        "Hilf mir jetzt sofort mal!",
+        "Sie werden mir helfen, oder was?"
+      ],
+      "answer": 0,
+      "explain": "礼貌请求用 Würden Sie。"
+    },
+    {
+      "number": "A16",
+      "type": "fill",
+      "q": "推测搭词：„Er wird ＿＿ schon angekommen sein.\"",
+      "group": "A",
+      "answer": "wohl",
+      "explain": "wohl 是推测的标志小词。"
+    },
+    {
+      "number": "A17",
+      "type": "choice",
+      "q": "直陈同形判断：哪组转述必须改 KII 避同形？",
+      "group": "A",
+      "options": [
+        "wir/sie（复数）haben → hätten",
+        "ich habe → habe 本身有别",
+        "er ist → sei 本身有别"
+      ],
+      "answer": 0,
+      "explain": "只有复数形式与直陈全同形。"
+    },
+    {
+      "number": "A18",
+      "type": "fill",
+      "q": "KI 过去综合：„Man berichtet, der Minister ＿＿ zurückgetreten.\"（sein 的 KI)",
+      "group": "A",
+      "answer": "sei",
+      "explain": "sei + 分词转述已发生的辞职。"
+    },
+    {
+      "number": "B1",
+      "type": "choice",
+      "q": "被动过去时正确的是？",
+      "group": "B",
+      "options": [
+        "Der Antrag wurde gestern genehmigt.",
+        "Der Antrag wird gestern genehmigt worden.",
+        "Der Antrag ist gestern genehmigt wird."
+      ],
+      "answer": 0,
+      "explain": "wurde + 分词是 Präteritum Passiv。"
+    },
+    {
+      "number": "B2",
+      "type": "fill",
+      "q": "被动完成时：„Das Haus ist 1990 gebaut ＿＿.\"",
+      "group": "B",
+      "answer": "worden",
+      "explain": "sein + 分词 + worden 是被动完成式。"
+    },
+    {
+      "number": "B3",
+      "type": "choice",
+      "q": "情态被动是？",
+      "group": "B",
+      "options": [
+        "Der Schaden kann schnell behoben werden.",
+        "Der Schaden behebt sich schnell von selbst.",
+        "Der Schaden wird schnell behoben hat."
+      ],
+      "answer": 0,
+      "explain": "kann + 分词 + werden。"
+    },
+    {
+      "number": "B4",
+      "type": "fill",
+      "q": "nachdem 过去链：„Nachdem er gegessen ＿＿, ging er spazieren.\"",
+      "group": "B",
+      "answer": "hatte",
+      "explain": "先行 Plusquamperfekt。"
+    },
+    {
+      "number": "B5",
+      "type": "choice",
+      "q": "状态被动是？",
+      "group": "B",
+      "options": [
+        "Die Tür ist geschlossen.（状态）",
+        "Die Tür wird geschlossen.（过程）",
+        "Die Tür schließt man jetzt."
+      ],
+      "answer": 0,
+      "explain": "ist + 分词表已成状态（认读分辨）。"
+    },
+    {
+      "number": "B6",
+      "type": "fill",
+      "q": "bevor 同级：„Bevor sie ＿＿ (gehen，过去）, rief sie an.\"",
+      "group": "B",
+      "answer": "ging",
+      "explain": "bevor 两侧同为 Präteritum。"
+    },
+    {
+      "number": "B7",
+      "type": "choice",
+      "q": "es 被动正确的是？",
+      "group": "B",
+      "options": [
+        "Es wird hier nicht geraucht.",
+        "Es raucht hier nicht werden.",
+        "Hier geraucht wird es nicht."
+      ],
+      "answer": 0,
+      "explain": "无人称被动的 es 占位式。"
+    },
+    {
+      "number": "B8",
+      "type": "fill",
+      "q": "bekommen 被动（认读→轻产出）：„Er ＿＿ ein Buch geschenkt.\"",
+      "group": "B",
+      "answer": "bekam",
+      "explain": "bekommen + 分词表承受者视角（口语与现代书面常见）。"
+    },
+    {
+      "number": "B9",
+      "type": "choice",
+      "q": "将来被动认读：„Der Bau wird nächstes Jahr fertiggestellt werden.\" 的时态是？",
+      "group": "B",
+      "options": [
+        "Futur I Passiv",
+        "Futur II Aktiv",
+        "Präteritum Passiv"
+      ],
+      "answer": 0,
+      "explain": "wird + 分词 + werden 是将来被动。"
+    },
+    {
+      "number": "B10",
+      "type": "fill",
+      "q": "nachdem 现在链：„Nachdem ich die E-Mail ＿＿ habe, rufe ich an.\"（schreiben 分词）",
+      "group": "B",
+      "answer": "geschrieben",
+      "explain": "现在语境 nachdem 用 Perfekt。"
+    },
+    {
+      "number": "B11",
+      "type": "choice",
+      "q": "被动施事表达正确的是？",
+      "group": "B",
+      "options": [
+        "Der Preis wurde vom Anbieter gesenkt.",
+        "Der Preis wurde durch Anbieter gesenkt worden ist.",
+        "Gesenkt wurde der Preis Anbieter von dem."
+      ],
+      "answer": 0,
+      "explain": "von + 三格标施事。"
+    },
+    {
+      "number": "B12",
+      "type": "fill",
+      "q": "情态被动否定：„Das Problem ＿＿ nicht ignoriert werden.\"（dürfen)",
+      "group": "B",
+      "answer": "darf",
+      "explain": "darf nicht + 被动 = 不得被忽视。"
+    },
+    {
+      "number": "B13",
+      "type": "choice",
+      "q": "时态逻辑错的是？",
+      "group": "B",
+      "options": [
+        "Nachdem er ankommt, hatte er schon gegessen gehabt gestern.",
+        "Nachdem er angekommen war, aß er.",
+        "Bevor er aß, war er angekommen."
+      ],
+      "answer": 0,
+      "explain": "A 三层时态搅乱。"
+    },
+    {
+      "number": "B14",
+      "type": "fill",
+      "q": "被动问句：„＿＿ der Termin schon bestätigt worden?\"（ist)",
+      "group": "B",
+      "answer": "Ist",
+      "explain": "被动完成时问句以 Ist 起头。"
+    },
+    {
+      "number": "B15",
+      "type": "choice",
+      "q": "与 man 互换正确的是？",
+      "group": "B",
+      "options": [
+        "Man raucht hier nicht. = Hier wird nicht geraucht.",
+        "Man raucht hier nicht. = Hier raucht es nicht man.",
+        "Passiv geht mit man-Sätzen nie."
+      ],
+      "answer": 0,
+      "explain": "无人称被动与 man 句等值。"
+    },
+    {
+      "number": "B16",
+      "type": "fill",
+      "q": "全时态收官（被动 Plusquamperfekt 认读）：„Nachdem das Tor geschossen ＿＿ war, jubelten die Fans.\"",
+      "group": "B",
+      "answer": "worden",
+      "explain": "worden + war 是被动过去完成（认读级）。"
+    },
+    {
+      "number": "B17",
+      "type": "choice",
+      "q": "主动转被动保义的是？",
+      "group": "B",
+      "options": [
+        "Die Jury lobte den Film. → Der Film wurde von der Jury gelobt.",
+        "Der Film lobte die Jury wurde.",
+        "Von der Jury der Film lobte sich."
+      ],
+      "answer": 0,
+      "explain": "受事作主语 + von 施事。"
+    },
+    {
+      "number": "B18",
+      "type": "fill",
+      "q": "两步被动：„Der Antrag muss bis Freitag eingereicht ＿＿.\"",
+      "group": "B",
+      "answer": "werden",
+      "explain": "情态被动的尾词必须是 werden。"
+    },
+    {
+      "number": "C1",
+      "type": "choice",
+      "q": "互换正确的是？",
+      "group": "C",
+      "options": [
+        "Weil die Kosten stiegen → Wegen des Kostenanstiegs",
+        "Wegen die Kosten stiegen → Weil des Anstiegs",
+        "Trotz Regen weil → Obwohl dem Regen"
+      ],
+      "answer": 0,
+      "explain": "动词名词化 + 二格。"
+    },
+    {
+      "number": "C2",
+      "type": "fill",
+      "q": "„Trotz ＿＿ (der Warnungen，二格复数） fuhr er weiter.\"",
+      "group": "C",
+      "answer": "der Warnungen",
+      "explain": "trotz + 二格复数。"
+    },
+    {
+      "number": "C3",
+      "type": "choice",
+      "q": "FVG 正确的是？",
+      "group": "C",
+      "options": [
+        "Wir ziehen einen Wechsel in Betracht.",
+        "Wir betrachten einen Wechsel in Ziehen.",
+        "In Betracht ziehen wir einen Wechsel uns."
+      ],
+      "answer": 0,
+      "explain": "in Betracht ziehen 整组固定。"
+    },
+    {
+      "number": "C4",
+      "type": "fill",
+      "q": "„Der Saal ＿＿ den Gästen zur Verfügung.\"（stehen)",
+      "group": "C",
+      "answer": "steht",
+      "explain": "东西可供使用用 stehen。"
+    },
+    {
+      "number": "C5",
+      "type": "choice",
+      "q": "haben+zu 正确的是？",
+      "group": "C",
+      "options": [
+        "Die Teilnehmer haben ihre Ausweise vorzuzeigen.",
+        "Die Ausweise haben Teilnehmer vorzuzeigen sich.",
+        "Vorgezeigt haben die Teilnehmer zu ihre Ausweise."
+      ],
+      "answer": 0,
+      "explain": "执行者主语 + haben + zu。"
+    },
+    {
+      "number": "C6",
+      "type": "fill",
+      "q": "sein+zu：„Das Formular ist bis Freitag ＿＿.\"（einreichen 的 zu 形式）",
+      "group": "C",
+      "answer": "einzureichen",
+      "explain": "可分动词 zu 嵌入。"
+    },
+    {
+      "number": "C7",
+      "type": "choice",
+      "q": "扩展定语正确的是？",
+      "group": "C",
+      "options": [
+        "die seit Jahren diskutierte Frage",
+        "die Frage seit Jahren diskutiert worden sie",
+        "diskutiert seit Jahren die Frage welche"
+      ],
+      "answer": 0,
+      "explain": "分词紧贴名词之前。"
+    },
+    {
+      "number": "C8",
+      "type": "fill",
+      "q": "二格介词：„＿＿ des Jubiläums lädt die Firma ein.\"",
+      "group": "C",
+      "answer": "Anlässlich",
+      "explain": "anlässlich + 二格 + 事件名词。"
+    },
+    {
+      "number": "C9",
+      "type": "choice",
+      "q": "名词化过头的是？",
+      "group": "C",
+      "options": [
+        "Die Durchführung der Prüfung der Ergebnisse der Untersuchung wurde vertagt.",
+        "Die Ergebnisse wurden geprüft.",
+        "Nach der Prüfung der Ergebnisse wurde vertagt."
+      ],
+      "answer": 0,
+      "explain": "四层嵌套不可读。"
+    },
+    {
+      "number": "C10",
+      "type": "fill",
+      "q": "FVG 被动向：„Das Verfahren findet breite ＿＿.\"",
+      "group": "C",
+      "answer": "Anwendung",
+      "explain": "Anwendung finden 自带被动义。"
+    },
+    {
+      "number": "C11",
+      "type": "choice",
+      "q": "条件名词化：„Wenn es nötig ist\" →",
+      "group": "C",
+      "options": [
+        "bei Bedarf",
+        "wegen Bedarf an",
+        "trotz des Bedarfs nötig"
+      ],
+      "answer": 0,
+      "explain": "bei + 三格表条件场合。"
+    },
+    {
+      "number": "C12",
+      "type": "fill",
+      "q": "„Mittels ＿＿ (eines Codes，二格） öffnet sich die Tür.\"",
+      "group": "C",
+      "answer": "eines Codes",
+      "explain": "mittels 支配二格。"
+    },
+    {
+      "number": "C13",
+      "type": "choice",
+      "q": "目的互换：„damit alle teilnehmen können\" →",
+      "group": "C",
+      "options": [
+        "zur Teilnahme aller",
+        "wegen Teilnahme alle",
+        "trotz Teilnahme zu"
+      ],
+      "answer": 0,
+      "explain": "zur + 名词化表目的。"
+    },
+    {
+      "number": "C14",
+      "type": "fill",
+      "q": "„Zur Verbesserung der Sicherheit ＿＿ neue Kameras installiert.\"",
+      "group": "C",
+      "answer": "wurden",
+      "explain": "介词短语居首，被动动词第二位。"
+    },
+    {
+      "number": "C15",
+      "type": "choice",
+      "q": "zu-分词定语是？",
+      "group": "C",
+      "options": [
+        "die noch zu klärenden Fragen",
+        "die Fragen zu klärenden noch die",
+        "klärenden Fragen die zu noch"
+      ],
+      "answer": 0,
+      "explain": "zu + 分词居名词前表未然被动。"
+    },
+    {
+      "number": "C16",
+      "type": "fill",
+      "q": "FVG 立场：„Der Minister nahm zu den Vorwürfen ＿＿.\"",
+      "group": "C",
+      "answer": "Stellung",
+      "explain": "Stellung nehmen zu 是固定结构。"
+    },
+    {
+      "number": "C17",
+      "type": "choice",
+      "q": "文体选择正确的是？",
+      "group": "C",
+      "options": [
+        "给朋友的邮件：„Kommst du mit?\" 而非 „Ihre Mitkunft wird erbeten.\"",
+        "公文标题：„Es wurde beschlossen, dass erhöht wird.\" 而非 „Gebührenerhöhung beschlossen\"",
+        "两者都反了"
+      ],
+      "answer": 0,
+      "explain": "文体匹配场合，是名词化的总原则。"
+    },
+    {
+      "number": "C18",
+      "type": "fill",
+      "q": "二格收官：„Innerhalb ＿＿ (eines Jahres） verdoppelte sich die Zahl.\"",
+      "group": "C",
+      "answer": "eines Jahres",
+      "explain": "innerhalb + 二格，阳性/中性名词加 -s。"
+    },
+    {
+      "number": "D1",
+      "type": "choice",
+      "q": "语序正确的是？",
+      "group": "D",
+      "options": [
+        "Die Kosten stiegen, folglich wurde der Plan geändert.",
+        "Die Kosten stiegen, folglich der Plan wurde geändert.",
+        "Folglich der Plan geändert wurde, stiegen Kosten."
+      ],
+      "answer": 0,
+      "explain": "folglich 是副词性连接，动词第二位。"
+    },
+    {
+      "number": "D2",
+      "type": "fill",
+      "q": "„Das Problem ist nicht das Geld, es ist ＿＿ die Zeit.\"",
+      "group": "D",
+      "answer": "vielmehr",
+      "explain": "nicht …, vielmehr … 是更正型固定结构。"
+    },
+    {
+      "number": "D3",
+      "type": "choice",
+      "q": "关系从句正确的是？",
+      "group": "D",
+      "options": [
+        "die Kollegin, mit der ich arbeite",
+        "die Kollegin, mit dem ich arbeite",
+        "die Kollegin, womit ich arbeite"
+      ],
+      "answer": 0,
+      "explain": "先行词是人，介词 + der 三格。"
+    },
+    {
+      "number": "D4",
+      "type": "fill",
+      "q": "„der Autor, ＿＿ Bücher berühmt sind\"",
+      "group": "D",
+      "answer": "dessen",
+      "explain": "阳性二格关系代词。"
+    },
+    {
+      "number": "D5",
+      "type": "choice",
+      "q": "was 型正确的是？",
+      "group": "D",
+      "options": [
+        "Alles, was er sagte, stimmte.",
+        "Der Satz, was er sagte, stimmte.",
+        "Alles, das er sagte, stimmte hier."
+      ],
+      "answer": 0,
+      "explain": "alles 后用 was。"
+    },
+    {
+      "number": "D6",
+      "type": "fill",
+      "q": "TeKaMoLo:„Er ist gestern wegen des Streiks ＿＿ zur Arbeit gefahren.\"（mit dem Bus)",
+      "group": "D",
+      "answer": "mit dem Bus",
+      "explain": "方式成分在地点之前。"
+    },
+    {
+      "number": "D7",
+      "type": "choice",
+      "q": "前场合法的是？",
+      "group": "D",
+      "options": [
+        "Gestern hat er zu Hause gearbeitet.",
+        "Gestern zu Hause hat er gearbeitet.",
+        "Zu Hause gestern arbeitet er hat."
+      ],
+      "answer": 0,
+      "explain": "前场只容一位。"
+    },
+    {
+      "number": "D8",
+      "type": "fill",
+      "q": "双分连接：„＿＿ mehr Übung, desto sicherer wird man.\"",
+      "group": "D",
+      "answer": "Je",
+      "explain": "je … desto 比例句式。"
+    },
+    {
+      "number": "D9",
+      "type": "choice",
+      "q": "构词判断：„unverständlich\" 的前缀语义是？",
+      "group": "D",
+      "options": [
+        "un- 表否定",
+        "ver- 表否定在此",
+        "-lich 表否定"
+      ],
+      "answer": 0,
+      "explain": "unverständlich = un + verständlich。"
+    },
+    {
+      "number": "D10",
+      "type": "fill",
+      "q": "代词次序：„Er hat ＿＿ ihr gestern gegeben.\"（es)",
+      "group": "D",
+      "answer": "es",
+      "explain": "四格代词在三格代词之前。"
+    },
+    {
+      "number": "D11",
+      "type": "choice",
+      "q": "连接词逻辑匹配的是？",
+      "group": "D",
+      "options": [
+        "Die Miete stieg, infolgedessen suchten viele kleinere Wohnungen.",
+        "Die Miete stieg, im Gegenteil suchten alle kleinere Wohnungen aus Spaß.",
+        "Miete stieg, trotzdem infolgedessen außerdem."
+      ],
+      "answer": 0,
+      "explain": "涨租推小房是因果链。"
+    },
+    {
+      "number": "D12",
+      "type": "fill",
+      "q": "否则：„Melden Sie sich an, ＿＿ verfällt der Platz.\"",
+      "group": "D",
+      "answer": "ansonsten",
+      "explain": "ansonsten 引导「否则」后果。"
+    },
+    {
+      "number": "D13",
+      "type": "choice",
+      "q": "分词无 ge-正确的是？",
+      "group": "D",
+      "options": [
+        "verstanden",
+        "geverstanden",
+        "verstandenge"
+      ],
+      "answer": 0,
+      "explain": "ver- 不可分，分词无 ge-。"
+    },
+    {
+      "number": "D14",
+      "type": "fill",
+      "q": "情态小词：„Was machst du ＿＿ hier?\"",
+      "group": "D",
+      "answer": "denn",
+      "explain": "问句软化用 denn。"
+    },
+    {
+      "number": "D15",
+      "type": "choice",
+      "q": "sein+zu 与 -bar 的关系是？",
+      "group": "D",
+      "options": [
+        "„Der Text ist kaum zu verstehen.\" ≈ „Der Text ist kaum verständlich.\"",
+        "两者永远不通",
+        "-bar 只能用于名词"
+      ],
+      "answer": 0,
+      "explain": "sein+zu 与 -bar 形容词同族互通。"
+    },
+    {
+      "number": "D16",
+      "type": "fill",
+      "q": "复合词词头：„Umweltschutzmaßnahmen\" 的冠词由哪个词决定？（填词头名词）",
+      "group": "D",
+      "answer": "Maßnahmen",
+      "explain": "词头（最右名词）决定性数与核心义——die Maßnahmen。"
+    },
+    {
+      "number": "D17",
+      "type": "choice",
+      "q": "倒装条件正确的是？",
+      "group": "D",
+      "options": [
+        "Sollte es regnen, fällt der Ausflug aus.",
+        "Sollte es regnet, ausfällt der Ausflug.",
+        "Es regnen sollte, fällt aus der Ausflug."
+      ],
+      "answer": 0,
+      "explain": "Sollte 起句的书面条件式。"
+    },
+    {
+      "number": "D18",
+      "type": "fill",
+      "q": "二格介词收官：„＿＿ der Sommerferien bleibt die Bibliothek geschlossen.\"",
+      "group": "D",
+      "answer": "Während",
+      "explain": "während + 二格表时间段。"
+    }
+  ],
+  "listening": [
+    {
+      "id": "L1",
+      "title": "播客片段《远程工作研究》",
+      "text": "Eine neue Studie der Universität Köln zeigt: Wer zwei Tage pro Woche zu Hause arbeitet, ist nicht weniger produktiv als im Büro. Entscheidend, so die Forscher, sei die Qualität der Absprachen im Team. Interessant: Die Krankmeldungen der untersuchten Beschäftigten sanken im Homeoffice um fast ein Fünftel. Die Forscher empfehlen deshalb hybride Modelle statt starrer Regeln.",
+      "questions": [
+        {
+          "number": "1",
+          "type": "choice",
+          "q": "研究的主要结论是？",
+          "options": [
+            "远程两天不降低效率，关键在团队沟通",
+            "在家工作必然更高效",
+            "居家使人生病更多"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "2",
+          "type": "choice",
+          "q": "病假数据如何？",
+          "options": [
+            "下降约五分之一",
+            "上升约五分之一",
+            "没有变化"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "3",
+          "type": "choice",
+          "q": "研究者的建议是？",
+          "options": [
+            "混合模式而非僵化规定",
+            "全员全职居家",
+            "取消一切居家办公"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "L2",
+      "title": "新闻《城市交通新规》",
+      "text": "Die Stadt führt ab Januar eine neue Verkehrsregelung ein. In der Innenstadt gilt künftig Tempo 30 auf fast allen Straßen. Die Verwaltung erwartet dadurch weniger Unfälle und bessere Luft. Kritik kommt vom Einzelhandel, der längere Lieferzeiten befürchtet. Die Stadt will die Wirkung nach einem Jahr überprüfen und dann über Anpassungen entscheiden.",
+      "questions": [
+        {
+          "number": "1",
+          "type": "choice",
+          "q": "新规内容是？",
+          "options": [
+            "市中心几乎全面限速 30",
+            "全城禁行汽车",
+            "停车全部免费"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "2",
+          "type": "choice",
+          "q": "零售业担心什么？",
+          "options": [
+            "配送时间变长",
+            "租金上涨",
+            "顾客变多"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "3",
+          "type": "choice",
+          "q": "市政府一年后要做什么？",
+          "options": [
+            "评估效果再决定调整",
+            "自动取消新规",
+            "扩大到全国"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "L3",
+      "title": "采访《面包房的传承》",
+      "text": "Frau Yildiz hat die Bäckerei ihres Vaters übernommen. Anfangs, erzählt sie, hätten viele Kunden gezweifelt, ob sie den Betrieb führen könne. Heute beschäftigt sie vierzehn Mitarbeiter und hat das Sortiment um vegane Produkte erweitert. Ihr größtes Problem seien die gestiegenen Energiepreise, sagt sie. Trotzdem würde sie den Schritt jederzeit wieder gehen.",
+      "questions": [
+        {
+          "number": "1",
+          "type": "choice",
+          "q": "顾客最初的态度是？",
+          "options": [
+            "怀疑她能否经营好",
+            "要求换回老店主",
+            "希望关店"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "2",
+          "type": "choice",
+          "q": "她做了哪项扩展？",
+          "options": [
+            "增加了纯素产品线",
+            "开了十家分店",
+            "改做餐饮外卖"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "3",
+          "type": "choice",
+          "q": "她最大的难题是？",
+          "options": [
+            "能源涨价",
+            "缺员工",
+            "房租到期"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "L4",
+      "title": "咨询对话《图书馆新系统》",
+      "text": "Guten Tag, ich habe eine Frage zum neuen Ausleihsystem. – Gern. Seit dieser Woche können Sie Medien auch per App verlängern. – Und die Leihfrist bleibt bei vier Wochen? – Ja, aber Abschlussarbeiten können jetzt acht Wochen ausgeliehen werden. – Muss ich mich dafür neu registrieren? – Nein, Ihr bisheriger Ausweis bleibt gültig.",
+      "questions": [
+        {
+          "number": "1",
+          "type": "choice",
+          "q": "新系统的新功能是？",
+          "options": [
+            "可用 App 续借",
+            "可以借更多书",
+            "图书馆 24 小时开放"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "2",
+          "type": "choice",
+          "q": "学位论文的借期变为？",
+          "options": [
+            "八周",
+            "四周",
+            "两周"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "3",
+          "type": "choice",
+          "q": "需要重新办证吗？",
+          "options": [
+            "不需要，旧证有效",
+            "需要，当场办理",
+            "需要网上申请"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "R1",
+      "title": "观点匹配（4 题）",
+      "text": "Jonas, Schichtleiter: „In der Produktion geht Vier-Tage nur, wenn die Schichten neu geplant werden. Pauschal einführen würde ich es nicht – aber testen sollten wir es.\"\nMira, Softwareentwicklerin: „Seit wir freitags frei haben, bin ich in vier Tagen konzentrierter als früher in fünf. Meine Arbeit leidet nicht, mein Wochenende gewinnt.\"\nHerr Paulsen, Geschäftsführer: „Unsere Kunden erwarten uns an fünf Tagen. Wer freitags nicht erreichbar ist, verliert Aufträge. Für Büroberufe mag das funktionieren, für uns nicht.\"\nAylin, Pflegekraft: „Im Krankenhaus ist das Personal schon jetzt zu knapp. Vier Tage bei gleichem Lohn wären schön, aber ohne mehr Kollegen bleibt es ein Traum.\"",
+      "questions": [
+        {
+          "number": "1",
+          "type": "choice",
+          "q": "谁认为四天制对自己行业不可行？",
+          "options": [
+            "Jonas",
+            "Mira",
+            "Herr Paulsen",
+            "Aylin"
+          ],
+          "answer": 2
+        },
+        {
+          "number": "2",
+          "type": "choice",
+          "q": "谁亲身受益于四天制？",
+          "options": [
+            "Jonas",
+            "Mira",
+            "Herr Paulsen",
+            "Aylin"
+          ],
+          "answer": 1
+        },
+        {
+          "number": "3",
+          "type": "choice",
+          "q": "谁主张先试点再决定？",
+          "options": [
+            "Jonas",
+            "Mira",
+            "Herr Paulsen",
+            "Aylin"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "4",
+          "type": "choice",
+          "q": "谁认为愿望虽好但人手不足？",
+          "options": [
+            "Jonas",
+            "Mira",
+            "Herr Paulsen",
+            "Aylin"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "title": "评论《限速三十》（约 130 词 · 3 题）",
+      "text": "Ab Januar gilt in der Innenstadt fast überall Tempo 30. Die Befürworter verweisen auf Studien, wonach die Zahl schwerer Unfälle deutlich sinkt, wenn langsamer gefahren wird. Die Gegner wenden ein, dass Lieferverkehr und Handwerker Zeit verlieren und die Wirtschaft der Stadt leidet. Meiner Meinung nach überwiegen die Vorteile. Zwar sind die längeren Fahrzeiten ein reales Problem, doch lassen sie sich durch bessere Lieferfenster am frühen Morgen abfedern. Entscheidend ist ein anderer Punkt: Eine Stadt, in der Kinder sicher zur Schule radeln können, ist mehr wert als drei Minuten Zeitgewinn pro Fahrt. Die Stadt täte gut daran, die Maßnahme nach einem Jahr ehrlich auszuwerten – mit Zahlen statt mit Lautstärke.",
+      "questions": [
+        {
+          "number": "5",
+          "type": "choice",
+          "q": "作者的立场是？",
+          "options": [
+            "支持限速",
+            "反对限速",
+            "完全中立"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "6",
+          "type": "choice",
+          "q": "作者如何处理对方的时间论点？",
+          "options": [
+            "承认问题真实，但提出清晨配送窗作为缓解",
+            "斥之为借口",
+            "完全不提"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "7",
+          "type": "choice",
+          "q": "作者对市政府的建议是？",
+          "options": [
+            "一年后用数据诚实评估",
+            "立即扩大到全城所有道路",
+            "取消评估直接永久化"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "title": "报道《护理人手荒》（约 125 词 · 3 题）",
+      "text": "In vielen Regionen fehlen Pflegende; Kliniken müssen Betten sperren, weil Personal fehlt. Die Gründe sind vielfältig: Der Beruf gilt als belastend, die Bezahlung lange als zu niedrig, und viele Absolventen verlassen den Beruf nach wenigen Jahren. Infolge der Engpässe haben mehrere Länder die Ausbildungskapazitäten erhöht und die Anerkennung ausländischer Abschlüsse vereinfacht. Erste Zahlen zeigen eine leichte Besserung: Die Zahl der Ausbildungsanfänger ist im letzten Jahr um sechs Prozent gestiegen. Experten warnen jedoch, dass dies nicht ausreicht, solange die Arbeitsbedingungen unverändert bleiben.",
+      "questions": [
+        {
+          "number": "8",
+          "type": "choice",
+          "q": "医院关病床的直接原因是？",
+          "options": [
+            "护理人员短缺",
+            "病人太少",
+            "设备老化"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "9",
+          "type": "choice",
+          "q": "已采取的对策不包括哪项？",
+          "options": [
+            "增加培训名额",
+            "简化外国学历认定",
+            "全面禁止离职"
+          ],
+          "answer": 2
+        },
+        {
+          "number": "10",
+          "type": "choice",
+          "q": "专家警告的核心是？",
+          "options": [
+            "只增新人不够，工作条件必须改善",
+            "培训名额已经太多",
+            "外国学历不该认定"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "title": "正式信函《协会通知》（约 120 词 · 3 题）",
+      "text": "Sehr geehrte Mitglieder,\nbezüglich der diesjährigen Mitgliederversammlung teilen wir Ihnen eine Änderung mit: Die Versammlung findet nicht wie geplant am 12. September im Rathaus statt, sondern am 19. September in der Stadthalle. Grund ist die unerwartet hohe Zahl der Anmeldungen. Innerhalb der Versammlung wird auch der neue Vorstand gewählt; Wahlvorschläge können bis zum 1. September eingereicht werden. Zwecks besserer Planung bitten wir Sie, Ihre Teilnahme bis zum 5. September zu bestätigen. Die Tagesordnung finden Sie im Anhang.\nMit freundlichen Grüßen\nDer Vorstand des Kulturvereins",
+      "questions": [
+        {
+          "number": "11",
+          "type": "choice",
+          "q": "会议为何改期改地？",
+          "options": [
+            "报名人数远超预期",
+            "市政厅失火",
+            "董事会出差"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "12",
+          "type": "choice",
+          "q": "选举提名的截止日是？",
+          "options": [
+            "9 月 1 日",
+            "9 月 5 日",
+            "9 月 19 日"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "13",
+          "type": "choice",
+          "q": "会员需在 9 月 5 日前做什么？",
+          "options": [
+            "确认是否出席",
+            "缴纳会费",
+            "提交提案"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "R5",
+      "title": "说明文《新垃圾分类》（约 120 词 · 2 题）",
+      "text": "Ab dem kommenden Jahr gilt in der Stadt eine neue Abfallregelung. Neu ist die braune Tonne für Bioabfälle, die ab Januar an alle Haushalte verteilt wird. Essensreste, Gartenabfälle und Kaffeesatz gehören in diese Tonne – Plastikbeutel dagegen nicht, auch keine sogenannten kompostierbaren. Wer die Tonnen falsch befüllt, erhält zunächst einen Hinweisaufkleber; bei Wiederholung kann die Tonne stehen bleiben. Die Abfuhr der Biotonne erfolgt alle zwei Wochen und ist im ersten Jahr kostenlos. Ziel der Regelung ist es, den Restmüll deutlich zu senken und aus Bioabfällen Energie zu gewinnen.",
+      "questions": [
+        {
+          "number": "14",
+          "type": "choice",
+          "q": "棕色桶里禁止放哪类物品？",
+          "options": [
+            "塑料袋（包括所谓可堆肥塑料袋）",
+            "咖啡渣",
+            "庭院垃圾"
+          ],
+          "answer": 0
+        },
+        {
+          "number": "15",
+          "type": "choice",
+          "q": "错投的后果升级顺序是？",
+          "options": [
+            "先贴提示标签，再犯则拒收",
+            "立即罚款",
+            "直接取消清运资格"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "title": "立场文（论坛体，约 150 词）",
+      "prompt": "题目：公共交通应该对所有人免费吗？ 四个要点必须全部处理：①你的立场；②至少两个支持你立场的理由；③对方最有力的一个论点及你的回应；④结论或建议。",
+      "sample": "Heutzutage wird viel darüber diskutiert, ob Busse und Bahnen für alle kostenlos sein sollten. Die Befürworter argumentieren, dass ein kostenloser Nahverkehr die Straßen entlaste und Menschen mit wenig Geld mobil halte. Die Gegner wenden ein, dass die Kosten in Milliardenhöhe dann von allen Steuerzahlern getragen werden müssten – auch von denen, die auf dem Land gar keinen Bus haben. Meiner Meinung nach überwiegen die Vorteile eines kostenlosen Nahverkehrs in den Städten. Erstens ist saubere Luft ein Gewinn für alle, und zweitens stärkt Mobilität die Teilhabe am Arbeitsmarkt. Obwohl der Finanzierungseinwand berechtigt ist, lässt er sich durch eine gestaffelte Einführung lösen: zuerst in Großstädten, finanziert auch aus Parkgebühren. Abschließend lässt sich sagen: Kostenloser Nahverkehr ist kein Geschenk, sondern eine Investition in lebenswerte Städte.",
+      "checks": [
+        "四要点全覆盖",
+        "立场只表一次、结论不反转",
+        "他方论点呈现公正且有回应",
+        "至少三个 B2 连接/评价词（überwiegen / einwenden / abschließend 等）",
+        "词数 130–180"
+      ]
+    },
+    {
+      "title": "正式邮件（约 100 词）",
+      "prompt": "情境：你是语言学校办公室工作人员，原定周六的考试因考场水管损坏取消。给考生写信：①道歉；②解释原因；③给出新日期方案并提一个建议（如何领取准考材料/如何改期）。落款须规范（Grüßen 无逗号、姓名/部门另起一行）。",
+      "sample": "Sehr geehrte Prüfungsteilnehmerinnen und Teilnehmer, leider müssen wir die für Samstag geplante Prüfung absagen. Grund ist ein Wasserrohrbruch im Prüfungsgebäude, dessen Behebung noch andauert. Für die kurzfristige Absage bitten wir Sie aufrichtig um Entschuldigung. Als neuen Termin bieten wir Ihnen Samstag, den 14. Juni, um dieselbe Uhrzeit an. Sollten Sie an diesem Termin verhindert sein, können Sie kostenfrei auf den Juli-Termin umbuchen. Ihre Prüfungsunterlagen erhalten Sie wie geplant ab Montag im Sekretariat. Für Rückfragen stehen wir Ihnen jederzeit gern zur Verfügung. Mit freundlichen Grüßen \nPrüfungsteam der Sprachschule",
+      "checks": [
+        "道歉、原因、新方案三要素齐全",
+        "给了一个可执行的备选（免费改期）",
+        "落款无逗号",
+        "全程正式语体、无小词口语化"
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "title": "展示（主题卡 3 选 1，准备 3 分钟，讲 2–3 分钟）",
+      "task": "卡 A：Ein Beruf, den ich bewundere（钦佩的职业：是什么、为什么、社会价值）\n卡 B：Eine Erfindung, die unser Leben verändert hat（改变生活的发明：前后对比、利弊、展望）\n卡 C：Meine Stadt in zwanzig Jahren（我的城市 20 年后：交通、居住、工作三方面）",
+      "checks": [
+        "有结构预告",
+        "至少引用一个数据或例子并标明出处意识",
+        "有收束句（Zusammenfassend …)",
+        "用 B2 连接词语串联（folglich / darüber hinaus / insgesamt 至少两个）"
+      ]
+    },
+    {
+      "title": "讨论（与搭档或自问自答双角色，每方至少 4 轮）",
+      "task": "议题：Sollten soziale Medien für Jugendliche unter 16 Jahren verboten werden?\n甲方要点：保护（成瘾、网络暴力、注意力）；乙方要点：禁令无效（绕过、媒介素养教育更重要）。主持/参与要求（二选一角色皆可）：至少一次澄清复述（Wenn ich dich richtig verstehe …)、一次让步回应（Obwohl …)、一次汇总推进（Einig sind wir uns …, strittig bleibt …)。",
+      "checks": [
+        "立场始终一致",
+        "回应了对方至少两个论点而非自说自话",
+        "三个目标句式各出现一次",
+        "语速与停顿自然、无长时间背诵感"
+      ]
+    }
+  ],
+  "vocabulary": {
+    "coreCount": 664,
+    "recognitionCount": 1352,
+    "coreSample": 150,
+    "recognitionSample": 150,
+    "corePass": 128,
+    "recognitionPass": 135
+  }
+}

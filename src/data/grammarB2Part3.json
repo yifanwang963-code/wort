@@ -1,0 +1,2068 @@
+[
+  {
+    "id": "t-b2-05",
+    "level": "B2",
+    "order": 17,
+    "title": "求职与动机信",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（动机信/求职信的板块与标配句）",
+      "headers": [
+        "板块",
+        "任务",
+        "标配句"
+      ],
+      "rows": [
+        [
+          "Betreff 行",
+          "点明岗位与来源",
+          "Bewerbung als Marketing-Referent – Ihre Anzeige auf …"
+        ],
+        [
+          "Anrede",
+          "尽量点名",
+          "Sehr geehrte Frau Berger,（逗号后小写续行）"
+        ],
+        [
+          "Einleitung",
+          "缘起 + 一句最强匹配",
+          "Mit großem Interesse habe ich Ihre Anzeige gelesen. Als … bringe ich … mit."
+        ],
+        [
+          "Hauptteil 1",
+          "资格证据（数字说话）",
+          "In meiner jetzigen Position konnte ich … um 20 Prozent steigern."
+        ],
+        [
+          "Hauptteil 2",
+          "动机与契合（为什么是你家）",
+          "An Ihrem Unternehmen reizt mich besonders …"
+        ],
+        [
+          "可选段",
+          "第三页型动机信：个人驱动力",
+          "Mich treibt an, … / Diese Erfahrung hat mich geprägt."
+        ],
+        [
+          "Schluss",
+          "请求面试 + 礼貌收束",
+          "Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr."
+        ],
+        [
+          "Grußformel",
+          "落款（无逗号！）",
+          "Mit freundlichen Grüßen\nLan Wang"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "动机信（Motivationsschreiben）与求职信（Anschreiben）分工：Anschreiben 一页、贴岗位；动机信（「第三页」）补个人驱动力与故事，多见于奖学金、大学与部分企业。",
+      "每段只干一件事：资格段拿证据说话（数字、项目名），动机段必须写出这家公司的具体信息，通用彩虹屁即淘汰信号。",
+      "时态逻辑：经历用 Perfekt/Präteritum，现在岗位用 Präsens，意愿用 Konjunktiv II 礼貌式（„ich würde mich freuen\" 亦可，„freue ich mich\" 更干练）。",
+      "全文不用 „hiermit\" 开头滥用、不写 „Ich bin teamfähig\" 这类无证据形容词串——形容词必须跟事例。"
+    ],
+    "examples": [
+      {
+        "de": "Mit großem Interesse habe ich Ihre Anzeige für die Position im Online-Marketing gelesen.",
+        "zh": ""
+      },
+      {
+        "de": "Als Content-Managerin konnte ich die Reichweite unserer Kampagnen innerhalb eines Jahres um ein Drittel steigern.",
+        "zh": ""
+      },
+      {
+        "de": "An Ihrem Unternehmen reizt mich besonders die Verbindung von Datenanalyse und kreativer Kampagnenarbeit.",
+        "zh": ""
+      },
+      {
+        "de": "Gern möchte ich meine Erfahrung im internationalen Team einbringen und weiterentwickeln.",
+        "zh": ""
+      },
+      {
+        "de": "Für Rückfragen stehe ich Ihnen jederzeit gern zur Verfügung.",
+        "zh": ""
+      },
+      {
+        "de": "Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "落款写成 „Mit freundlichen Grüßen, Lan Wang\"——德语落款无逗号，姓名另起一行（Grüßen 裁决，全站统一）。",
+      "动机段写成公司官网摘抄，读不出申请人为什么非这家不可。",
+      "一封信里 Anschreiben 与 Lebenslauf 内容逐条重复，浪费唯一的叙事空间。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "合格的 Einleitung 是？",
+        "explain": "缘起 + 一句最强匹配，是求职信开头的标配。",
+        "options": [
+          "Mit großem Interesse habe ich Ihre Anzeige gelesen; als Werkstudent im Marketing bringe ich erste Kampagnenerfahrung mit.",
+          "Hiermit bewerbe ich mich halt mal für irgendeine Stelle bei Ihnen.",
+          "Ich schreibe diese Bewerbung, weil ich dringend einen Job brauche und Geld verdienen muss."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Betreff 行：„Bewerbung ＿＿ Vertriebsassistentin – Ihre Anzeige vom 2. Mai\"",
+        "explain": "Bewerbung als + 岗位名称是 Betreff 的固定格式。",
+        "answer": "als"
+      },
+      {
+        "type": "choice",
+        "q": "资格段最有说服力的是？",
+        "explain": "数字 + 时间 + 范围，证据完胜形容词串。",
+        "options": [
+          "Ich konnte die Kundenzufriedenheit in meinem Bereich innerhalb eines Jahres von 82 auf 91 Prozent steigern.",
+          "Ich bin sehr teamfähig, flexibel, belastbar und kreativ.",
+          "Ich habe viele tolle Sachen gemacht und alles war immer super."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "礼貌收束：„Für Rückfragen ＿＿ ich Ihnen jederzeit gern zur Verfügung.\"",
+        "explain": "zur Verfügung stehen 是求职文书的固定收束句。",
+        "answer": "stehe"
+      },
+      {
+        "type": "choice",
+        "q": "动机段合格的是？",
+        "explain": "动机须点名这家机构的具体特征并与自己对接。",
+        "options": [
+          "An Ihrem Haus reizt mich, dass Sie Ausbildung und Forschung unter einem Dach verbinden – genau dort möchte ich mich einbringen.",
+          "Ihre Firma ist sehr bekannt und groß, das finde ich toll.",
+          "Ich würde gern bei Ihnen arbeiten, weil der Weg kurz ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "面试请求句：„Über eine ＿＿ zu einem persönlichen Gespräch freue ich mich sehr.\"",
+        "explain": "Einladung zu einem Gespräch 是德语求职信的结尾标配名词。",
+        "answer": "Einladung"
+      },
+      {
+        "type": "choice",
+        "q": "落款形式正确的是？",
+        "explain": "德语落款无逗号、姓名另起一行；Gruß 须用复数 Grüßen。",
+        "options": [
+          "Mit freundlichen Grüßen（换行）Lan Wang",
+          "Mit freundlichen Grüßen, Lan Wang",
+          "Mit freundlichen Gruß, Lan Wang 一行写完"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨板块功能",
+        "explain": "数字化的职责与规模是资格段的证据句。",
+        "audio": "In meiner jetzigen Position verantworte ich ein Budget von 50.000 Euro und ein Team von vier Personen.",
+        "options": [
+          "资格证据段",
+          "动机段",
+          "告别段"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "经历时态：„Nach meinem Studium ＿＿ ich zwei Jahre in einer Agentur in Köln.\"（arbeiten 过去式）",
+        "explain": "书面叙述已完成经历用 Präteritum。",
+        "answer": "arbeitete"
+      },
+      {
+        "type": "choice",
+        "q": "Anschreiben 与 Motivationsschreiben 的关系，正确的是？",
+        "explain": "分工不同：一个对岗位，一个对人。",
+        "options": [
+          "Anschreiben 是贴岗位的一页信；动机信（第三页）补驱动力与个人故事",
+          "两者完全一样，换名字而已",
+          "动机信就是 Lebenslauf 的散文版"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连接自己的经验与岗位：„Diese Erfahrung möchte ich nun in Ihrem Team ＿＿.\"（einbringen 的不定式形式）",
+        "explain": "möchte + 不定式收尾，einbringen 是「带入（经验）」的求职高频动词。",
+        "answer": "einbringen"
+      },
+      {
+        "type": "order",
+        "q": "组句（结尾段）",
+        "explain": "Über 短语置首位，freue 第二位，反身代词 mich 紧随主语。",
+        "tokens": [
+          "freue",
+          "Über eine Einladung",
+          "ich mich",
+          "zu einem Gespräch",
+          "sehr."
+        ],
+        "answer": [
+          "Über eine Einladung",
+          "zu einem Gespräch",
+          "freue",
+          "ich mich",
+          "sehr."
+        ],
+        "displayAnswer": "Über eine Einladung zu einem Gespräch freue ich mich sehr."
+      },
+      {
+        "type": "choice",
+        "q": "哪句是要淘汰的通用彩虹屁？",
+        "explain": "无具体信息的最高级吹捧是招聘方的头号减分项。",
+        "options": [
+          "Ihr Unternehmen ist weltweit führend und einfach der beste Arbeitgeber überhaupt.",
+          "An Ihrer Klinik reizt mich das neue Zentrum für Altersmedizin.",
+          "Gern bringe ich meine Erfahrung in der Patientenberatung ein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "奖学金动机信驱动力句：„Mich ＿＿ an, Wissen nicht nur zu sammeln, sondern weiterzugeben.\"（antreiben 词干部分：treibt)",
+        "explain": "„Mich treibt an, …\" 是动机信表达内在驱动力的标配句。",
+        "answer": "treibt"
+      },
+      {
+        "type": "choice",
+        "q": "称呼未知姓名时正确的是？",
+        "explain": "正式信 Anrede 用逗号，下一行小写开头；感叹号只用于私人信。",
+        "options": [
+          "Sehr geehrte Damen und Herren,（逗号后小写续行）",
+          "Sehr geehrte Damen und Herren!（感叹号收尾是信件大忌）",
+          "Hallo liebes Team,（求职信过熟）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "岗位来源交代：„Auf die Stelle bin ich über Ihre Anzeige auf dem Portal ＿＿ geworden.\"（aufmerksam 的固定结构）",
+        "explain": "auf etwas aufmerksam werden 是「注意到（广告）」的固定搭配。",
+        "answer": "aufmerksam"
+      }
+    ],
+    "reading": {
+      "text": "Sehr geehrte Frau Berger,\nmit großem Interesse habe ich Ihre Anzeige für die Stelle im Online-Marketing gelesen. Als Werkstudentin in einer Kölner Agentur konnte ich unsere Social-Media-Reichweite innerhalb eines Jahres um ein Drittel steigern und erste Erfahrungen mit Kampagnenbudgets sammeln. An Ihrem Unternehmen reizt mich besonders, dass Sie Datenanalyse und kreative Arbeit konsequent verbinden. Diese Verbindung entspricht genau meinem Profil: Ich analysiere gern, gestalte aber genauso gern. Gern möchte ich Ihre nächste Kampagne im Team mitentwickeln. Für Rückfragen stehe ich Ihnen jederzeit gern zur Verfügung. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.\nMit freundlichen Grüßen\nLan Wang",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这封信的资格证据是什么？（答：在科隆一家代理公司做工读生时，一年内把社媒触达提升了三分之一，并积累了广告预算经验）②落款有什么形式特点？（答：Grüßen 后无逗号，姓名另起一行）",
+      "preserveLines": true
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "为「柏林一家语言学校的市场助理」岗位写一封求职信（约 110 词），须齐 Einleitung、资格证据（带数字）、动机段（点名这家学校的一个具体特征——可虚构为：该校新开的在线课程部）、Schluss 与规范落款。",
+      "sample": "范文：Sehr geehrte Damen und Herren, mit großem Interesse habe ich Ihre Anzeige gelesen. Als Assistentin in einer Sprachschule in Köln konnte ich die Anmeldungen für Abendkurse innerhalb von zwei Semestern um 25 Prozent steigern. An Ihrer Schule reizt mich besonders der neue Online-Bereich: Kurse digital zu vermarkten, verbindet meine Erfahrung mit meinem Interesse an Bildung. Gern bringe ich beides in Ihrem Team ein. Für Rückfragen stehe ich Ihnen gern zur Verfügung. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr. Mit freundlichen Grüßen\nLan Wang",
+      "selfcheck": "自查：五板块齐全 □；资格段有数字 □；落款无逗号、姓名另起一行 □；没有无证据形容词串 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-12",
+    "level": "B2",
+    "order": 18,
+    "title": "功能动词结构 B2 扩展",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（B2 功能动词结构清单）",
+      "headers": [
+        "结构",
+        "含义",
+        "例句"
+      ],
+      "rows": [
+        [
+          "in Betracht ziehen / kommen",
+          "考虑 / 被考虑",
+          "Wir ziehen einen Umzug in Betracht. / Das kommt nicht in Betracht."
+        ],
+        [
+          "Stellung nehmen zu",
+          "对…表明立场",
+          "Der Minister nahm zur Kritik Stellung."
+        ],
+        [
+          "Einfluss ausüben auf",
+          "对…施加影响",
+          "Medien üben Einfluss auf Jugendliche aus."
+        ],
+        [
+          "zur Verfügung stehen / stellen",
+          "可供使用 / 提供",
+          "Der Raum steht zur Verfügung. / Wir stellen Mittel zur Verfügung."
+        ],
+        [
+          "in Anspruch nehmen",
+          "使用（服务）/ 占用（时间）",
+          "Sie nahm Beratung in Anspruch. / Die Arbeit nahm ihn in Anspruch."
+        ],
+        [
+          "Anwendung finden",
+          "得到应用（≈被动）",
+          "Das Verfahren findet breite Anwendung."
+        ],
+        [
+          "eine Entscheidung treffen / fällen",
+          "做决定（fällen 更正式）",
+          "Das Gericht fällte die Entscheidung."
+        ],
+        [
+          "Kritik üben an / Rücksicht nehmen auf",
+          "批评 / 顾及",
+          "Er übte Kritik an dem Plan. / Nimm Rücksicht auf die Nachbarn."
+        ],
+        [
+          "in Verbindung stehen mit / zur Sprache bringen",
+          "与…相关 / 提出议题",
+          "Das steht in Verbindung mit … / Er brachte das Problem zur Sprache."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "结构 = 轻动词（变位担当）+ 名词核心（意义担当）+ 固定介词（格已定死，不可换）；时态、语态变在轻动词上。",
+      "主动/被动方向要分清：zur Verfügung **stehen** 是「（东西）可供使用」，zur Verfügung **stellen** 是「（人）提供东西」——主语角色相反。",
+      "Anwendung finden 自带被动义（= angewendet werden)，主语是受事，与 FVG 的「正式感」叠加，是公文最爱。",
+      "FVG 的密度管理与名词化同理：一段两三处提正式度，通篇 FVG 化即成官腔。"
+    ],
+    "examples": [
+      {
+        "de": "Die Stadt zieht den Bau einer neuen Brücke ernsthaft in Betracht.",
+        "zh": ""
+      },
+      {
+        "de": "Die Ministerin nahm zu den Vorwürfen ausführlich Stellung und beantwortete alle Fragen.",
+        "zh": ""
+      },
+      {
+        "de": "Werbung übt auf Kinder einen stärkeren Einfluss aus, als viele Eltern glauben.",
+        "zh": ""
+      },
+      {
+        "de": "Für die Konferenz steht uns ein Raum mit vierzig Plätzen zur Verfügung.",
+        "zh": ""
+      },
+      {
+        "de": "Das neue Verfahren findet in immer mehr Kliniken Anwendung und verbessert die Behandlung.",
+        "zh": ""
+      },
+      {
+        "de": "Wer Hilfe braucht, kann die Beratung der Sozialstation jederzeit in Anspruch nehmen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "stehen/stellen 弄反（把 Raum 写成主语又用 stellen，变成「房间提供东西」）。",
+      "介词自选（„Stellung nehmen über\" 错，应 zu)——FVG 的介词是结构的一部分，整组背。",
+      "把 in Anspruch nehmen 只记「使用」，漏掉「占用（人）」义（„Die Arbeit nimmt mich in Anspruch\" = 工作让我忙得不可开交）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Das kommt nicht in Betracht.\" 的意思是？",
+        "explain": "in Betracht kommen 是被考虑，被动方向。",
+        "options": [
+          "这不在考虑之列",
+          "这不来开会",
+          "他没考虑过来"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Wir ＿＿ Ihren Vorschlag in Betracht.\"（ziehen 现在时 wir 形式）",
+        "explain": "主动考虑用 ziehen，主语是考虑者。",
+        "answer": "ziehen"
+      },
+      {
+        "type": "choice",
+        "q": "方向正确的是？",
+        "explain": "Saal 是被提供的东西，用 stehen。",
+        "options": [
+          "Der Saal steht den Gästen zur Verfügung.",
+          "Der Saal stellt den Gästen zur Verfügung.",
+          "Die Gäste stehen dem Saal zur Verfügung stellen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Die Firma ＿＿ allen Mitarbeitern Laptops zur Verfügung.\"（提供，stellen 现在时）",
+        "explain": "提供方作主语时用 stellen。",
+        "answer": "stellt"
+      },
+      {
+        "type": "choice",
+        "q": "„Das Verfahren findet Anwendung.\" 的改写是？",
+        "explain": "Anwendung finden 自带被动义。",
+        "options": [
+          "Das Verfahren wird angewendet.",
+          "Das Verfahren anwendet sich selbst.",
+          "Man findet das Verfahren zur Anwendung suchen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "立场：„Der Direktor nahm ＿＿ den Gerüchten Stellung.\"（介词）",
+        "explain": "Stellung nehmen zu + 三格，介词固定。",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "„Die Arbeit nimmt ihn voll in Anspruch.\" 的意思是？",
+        "explain": "in Anspruch nehmen 的第二义是「占用（人）的时间精力」。",
+        "options": [
+          "工作让他忙得不可开交",
+          "他使用了工作的服务",
+          "工作雇用了他全职"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨结构义",
+        "explain": "Einfluss ausüben auf，主语是影响源。",
+        "audio": "Eltern üben einen großen Einfluss auf die Berufswahl ihrer Kinder aus.",
+        "options": [
+          "父母对孩子的职业选择影响很大",
+          "父母练习孩子的职业",
+          "孩子影响父母的职业选择"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "决定：„Das Gericht ＿＿ gestern die Entscheidung.\"（fällen 过去时）",
+        "explain": "法院判决用 fällen，是 treffen 的正式档位。",
+        "answer": "fällte"
+      },
+      {
+        "type": "choice",
+        "q": "批评结构正确的是？",
+        "explain": "Kritik üben an + 三格，一组结构一个介词。",
+        "options": [
+          "Sie übte scharfe Kritik an dem Entwurf.",
+          "Sie übte Kritik über dem Entwurf aus an.",
+          "Kritik wurde von ihr an dem Entwurf geübt aus."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "顾及：„Bitte nimm ＿＿ auf die schlafenden Kinder.\"",
+        "explain": "Rücksicht nehmen auf 是「顾及」的固定 FVG。",
+        "answer": "Rücksicht"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "etwas zur Sprache bringen = 把议题提出来，brachte 第二位。",
+        "tokens": [
+          "brachte",
+          "Er",
+          "das Problem",
+          "zur Sprache",
+          "in der Sitzung."
+        ],
+        "answer": [
+          "Er",
+          "brachte",
+          "das Problem",
+          "in der Sitzung.",
+          "zur Sprache"
+        ],
+        "displayAnswer": "Er brachte das Problem in der Sitzung zur Sprache."
+      },
+      {
+        "type": "choice",
+        "q": "哪句 FVG 密度失控？",
+        "explain": "四个 FVG 连环套，官腔拉满；正式文体也讲节制。",
+        "options": [
+          "Es wurde zur Kenntnis genommen, dass die Entscheidung zur Anwendung gebracht wird und in Betracht gezogen wird, Stellung zu nehmen.",
+          "Wir haben Ihre Nachricht erhalten und prüfen den Vorschlag.",
+          "Die Ministerin äußerte sich gestern zu dem Vorwurf."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关联：„Sein Erfolg ＿＿ in Verbindung mit harter Arbeit.\"",
+        "explain": "in Verbindung stehen mit 表「与…相关联」。",
+        "answer": "steht"
+      },
+      {
+        "type": "choice",
+        "q": "时间义选择：„Die Reparatur wird zwei Tage in Anspruch ____.\"（取动词）",
+        "explain": "耗时用 in Anspruch nehmen（占用时间）。",
+        "options": [
+          "nehmen",
+          "stehen",
+          "finden"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "正式宣布：„Die Ergebnisse ＿＿ ab Montag auf der Webseite zur Verfügung.\"（stehen 复数）",
+        "explain": "可供查阅用 stehen，主语复数。",
+        "answer": "stehen"
+      }
+    ],
+    "reading": {
+      "text": "Die Stadtverwaltung teilt mit: Der Rat hat den Bau eines neuen Jugendzentrums in Betracht gezogen und wird im Herbst eine Entscheidung treffen. Das Projekt steht in Verbindung mit dem Programm „Soziale Stadt\" und soll jungen Menschen mehr Raum zur Verfügung stellen. Das Konzept findet bereits in drei Nachbarstädten Anwendung. Bürgerinnen und Bürger können ab sofort Beratung im Rathaus in Anspruch nehmen. Zur Finanzierung nahm die Bürgermeisterin gestern Stellung: Ein Teil der Kosten wird aus Landesmitteln gedeckt, übrige Fragen werde man in der nächsten Sitzung zur Sprache bringen.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①市议会秋天要做什么？（答：就新建青年中心一事作出决定 eine Entscheidung treffen) ②市民现在可以做什么？（答：去市政厅使用咨询服务 Beratung in Anspruch nehmen) ③资金问题市长表态了什么？（答：部分费用由州资金承担，其余问题下次会议再提出）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 FVG 写一段正式公告（约 75 词），须含 in Betracht ziehen、zur Verfügung stehen、in Anspruch nehmen、Stellung nehmen 各一处。",
+      "sample": "范文：Die Bibliothek zieht eine Verlängerung der Öffnungszeiten in Betracht. Ab Oktober steht den Lesern ein neuer Arbeitsraum zur Verfügung. Wer Unterstützung bei der Recherche braucht, kann die Beratung der Mitarbeiter in Anspruch nehmen. Zu den geplanten Änderungen wird die Leitung nächste Woche öffentlich Stellung nehmen und Fragen der Nutzer beantworten.",
+      "selfcheck": "自查：四个 FVG 各一处且介词正确 □;stehen/stellen 方向没弄反 □；没有第五个 FVG 凑数 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-13",
+    "level": "B2",
+    "order": 19,
+    "title": "情态小词系统",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（九个核心小词的分工地图）",
+      "headers": [
+        "小词",
+        "主功能",
+        "典型句"
+      ],
+      "rows": [
+        [
+          "denn",
+          "提问软化、惊讶",
+          "Was machst du denn hier? / Wie heißt er denn?"
+        ],
+        [
+          "doch",
+          "提醒已知、温和反驳、祝愿、命令软化",
+          "Du weißt doch, dass … / Komm doch mit!"
+        ],
+        [
+          "ja",
+          "共识（你我都知道）、惊叹",
+          "Das ist ja klar. / Das ist ja großartig!"
+        ],
+        [
+          "halt / eben",
+          "认命、显而易见（南德更常用 halt)",
+          "Das ist halt so. / Er ist eben der Beste."
+        ],
+        [
+          "wohl",
+          "推测软化（与 werden 推测呼应）",
+          "Er wird wohl krank sein."
+        ],
+        [
+          "mal",
+          "命令/请求软化",
+          "Schau mal! / Kannst du mal helfen?"
+        ],
+        [
+          "schon",
+          "安慰、让步预告",
+          "Das wird schon klappen. / Schon gut, aber …"
+        ],
+        [
+          "ruhig",
+          "鼓励许可（别客气，尽管）",
+          "Nimm dir ruhig noch ein Stück!"
+        ],
+        [
+          "bloß / nur",
+          "警告（否定命令）",
+          "Vergiss bloß nicht anzurufen!"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "小词不重读、居中场、无字面义可单译；意义由**句型 + 语境**定：同一 doch，在陈述句是提醒、在祈使句是软化、在感叹句是强调。",
+      "产出边界：口语与半正式写作（论坛帖、对话）可用；正式公文、求职信、立场文论证段不用（情绪色彩与严肃文体冲突）。",
+      "组合有固定序：denn + mal（„Was ist denn mal wieder los?\")、doch + mal、ja + doch 等叠用表语气加倍，次序不自由。",
+      "与单元 7（主观情态动词）区分：情态小词管的是**说话人态度**，不是命题真值；删掉小词，句子事实不变、语气全变——这是自检法。"
+    ],
+    "examples": [
+      {
+        "de": "Wo warst du denn so lange? Wir haben überall nach dir gesucht!",
+        "zh": ""
+      },
+      {
+        "de": "Du kennst doch den Weg – du bist ihn schon hundertmal gefahren.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist ja eine schöne Überraschung, dich hier zu treffen!",
+        "zh": ""
+      },
+      {
+        "de": "Die Preise sind halt gestiegen, da kann man nichts machen.",
+        "zh": ""
+      },
+      {
+        "de": "Er wird wohl im Stau stehen, sonst wäre er längst hier.",
+        "zh": ""
+      },
+      {
+        "de": "Reich mir mal bitte das Salz, wenn du so nett wärst.",
+        "zh": ""
+      },
+      {
+        "de": "Keine Sorge, die Prüfung wird schon gut gehen, du hast viel gelernt.",
+        "zh": ""
+      },
+      {
+        "de": "Setz dich ruhig zu uns, wir haben noch Platz am Tisch.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把 denn 当连接词用（denn 作连接词是「因为」，居句首引主句语序；作小词在中场）——本组对比 c-b2-5 专门拆。",
+      "正式文书里写 „Kommen Sie doch bitte mal …\"，语气与文体双重违和。",
+      "小词全重读（朗读时重音落在小词上），听感立刻变质——小词永远轻读。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Was ist denn hier los?\" 中 denn 的作用是？",
+        "explain": "问句中场 denn 是小词，与连接词 denn（因为）形同义异。",
+        "options": [
+          "软化提问、带惊讶",
+          "因为（原因连接）",
+          "表示「然后」的时间顺序"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "命令软化：„Hilf mir ＿＿ kurz, ja?\"",
+        "explain": "mal 把命令变请求，是口语标配软化剂。",
+        "answer": "mal"
+      },
+      {
+        "type": "choice",
+        "q": "„Du hast doch morgen frei, oder?\" 的语气是？",
+        "explain": "陈述句 doch = 「你不是……嘛」的提醒义。",
+        "options": [
+          "提醒对方一个已知事实",
+          "第一次告知新消息",
+          "威胁警告"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "共识：„Das ist ＿＿ allgemein bekannt.\"",
+        "explain": "ja 在此标记「这是大家都知道的」。",
+        "answer": "ja"
+      },
+      {
+        "type": "choice",
+        "q": "认命语气的是？",
+        "explain": "halt 表「没办法、就这样了」的认命接受。",
+        "options": [
+          "Das Wetter ist halt schlecht, bleiben wir zu Hause.",
+          "Das Wetter ist denn schlecht heute Morgen.",
+          "Das Wetter ist ruhig schlecht dieser Tage."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "推测软化：„Sie wird ＿＿ schon angekommen sein.\"",
+        "explain": "wohl 与 werden 推测、schon 三件套是 Futur II 推测的标准语气。",
+        "answer": "wohl"
+      },
+      {
+        "type": "choice",
+        "q": "鼓励许可的是？",
+        "explain": "ruhig 在祈使句 = 「尽管、不用客气」。",
+        "options": [
+          "Bedien dich ruhig, es ist genug da!",
+          "Bedien dich bloß, sonst gibt es Ärger!",
+          "Bedien dich denn, das ist ein Befehl!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨语气",
+        "explain": "bloß + 否定祈使是警告专用组合。",
+        "audio": "Vergiss bloß nicht, den Herd auszuschalten!",
+        "options": [
+          "警告提醒",
+          "轻松邀请",
+          "无奈认命"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "安慰：„Das wird ＿＿ wieder gut.\"",
+        "explain": "schon 在此表「放心吧、会好的」安慰义。",
+        "answer": "schon"
+      },
+      {
+        "type": "choice",
+        "q": "哪句小词与文体冲突？",
+        "explain": "正式通知里 doch + mal 双重口语化，与公文语体冲突。",
+        "options": [
+          "Sehr geehrte Damen und Herren, ich teile Ihnen doch mal mit, dass der Termin ausfällt.",
+          "Liebe Leute, ich teile euch mit, dass der Termin leider ausfällt.",
+          "Der Termin fällt aus, das ist eben so."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "惊叹：„Das ist ＿＿ ein Zufall, dich hier zu sehen!\"",
+        "explain": "感叹句中 ja 强化惊讶，与「共识」义同源（出乎共同预期）。",
+        "answer": "ja"
+      },
+      {
+        "type": "choice",
+        "q": "删除测试：哪句删掉小词后事实不变、只变语气？",
+        "explain": "doch 是小词可删；B 的 denn 是连接词，删之则逻辑断。",
+        "options": [
+          "Komm doch bitte um fünf!",
+          "Er kommt, denn er hat Zeit.",
+          "Sie kommt um fünf Uhr an."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "疑问软化组合：„Wie spät ist es ＿＿ eigentlich?\"",
+        "explain": "denn + eigentlich 是问句软化的常见组合。",
+        "answer": "denn"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ja、doch 同现时 ja 在前，组合次序固定；weißt 第二位，小词居中场，nicht 为干扰词块。",
+        "tokens": [
+          "doch",
+          "Das",
+          "du",
+          "ja",
+          "weißt",
+          "nicht"
+        ],
+        "answer": [
+          "Das",
+          "weißt",
+          "du",
+          "ja",
+          "doch"
+        ],
+        "displayAnswer": "Das weißt du ja doch."
+      },
+      {
+        "type": "choice",
+        "q": "„eben\" 与 „halt\" 的关系是？",
+        "explain": "两者都表显而易见/认命，地域与语域略有差。",
+        "options": [
+          "义近可换，halt 更偏南德口语",
+          "eben 是小词、halt 不是",
+          "两者意思完全相反"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "温和反驳：„Das stimmt ＿＿ nicht ganz, die Zahlen sind älter.\"",
+        "explain": "doch 在否定纠偏时作温和反驳的起手小词（此处与句中 nicht 组合表「其实并不完全对」）。",
+        "answer": "doch"
+      }
+    ],
+    "reading": {
+      "text": "„Wo warst du denn gestern? Die Chefin hat dich überall gesucht!\" – „Ich war doch beim Kunden in Leipzig, das stand im Kalender.\" – „Ach ja, stimmt. Sie hat es ja gewusst, aber der Termin wurde vorverlegt.\" – „Na toll, das ist ja wieder typisch. Wann ist denn die Besprechung jetzt?\" – „Um elf. Du schaffst das schon. Nimm dir ruhig vorher noch einen Kaffee.\" – „Danke. Vergiss bloß nicht, die Unterlagen mitzubringen!\" – „Keine Sorge, die liegen schon im Raum bereit.\"",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①对话里 denn 出现了几次、各是什么功能？（答：两次——Wo warst du denn 是惊讶软化提问；Wann ist denn 是一般软化提问）②„Du schaffst das schon\" 里 schon 的语气是？（答：安慰鼓励——「你能行的」）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "把四句无小词的句子各加一个小词读出来并说明语气变化：①Komm her!（加 mal → 请求软化）②Das ist teuer.（加 ja → 惊叹/共识）③Ich kann nicht anders.（加 halt → 认命）④Ruf ihn an!（加 doch → 温和催促）。",
+      "sample": "",
+      "selfcheck": "自查：四个小词各归对功能 □；朗读时小词轻读不重读 □；能说出每句删除小词后丢了什么语气 □。"
+    },
+    "writingLabel": "口头任务"
+  },
+  {
+    "id": "t-b2-06",
+    "level": "B2",
+    "order": 20,
+    "title": "正式书面交涉升级：催告与设定期限",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（交涉升级的四级阶梯）",
+      "headers": [
+        "级别",
+        "文书",
+        "标配句"
+      ],
+      "rows": [
+        [
+          "1 温和提醒",
+          "Zahlungserinnerung",
+          "Wir erlauben uns, Sie an die offene Rechnung zu erinnern. / Möglicherweise ist sie Ihrer Aufmerksamkeit entgangen."
+        ],
+        [
+          "2 正式催告",
+          "Mahnung mit Frist",
+          "Wir fordern Sie auf, den Betrag von … bis spätestens … zu begleichen."
+        ],
+        [
+          "3 最后通牒",
+          "Letzte Mahnung",
+          "Sollte die Zahlung nicht bis zum … eingehen, behalten wir uns weitere Schritte vor."
+        ],
+        [
+          "4 后果宣告",
+          "Androhung / Kündigung",
+          "Wir sehen uns gezwungen, den Vertrag zu kündigen / die Forderung an ein Inkassobüro zu übergeben."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "每封信三件必备：**事由编号**（发票号、合同号、金额）、**确切期限**（日期，不说 „bald\")、**后果预告**（级级递进，只预告真做得到的）。",
+      "语气曲线：级别 1 先假设对方疏忽（给台阶），级别 2 起只剩事实与期限；辱骂、讽刺、威胁人身安全永远不在阶梯上。",
+      "法律色彩词：Verzug（迟延）、Mahngebühren（催告费）、unter Vorbehalt（保留权利）、ohne weitere Ankündigung（不再另行通知）。",
+      "交涉信与求职信落款规则同一：Grüßen 无逗号（全站裁决），并加 Firmenangabe 与 Ansprechpartner。"
+    ],
+    "examples": [
+      {
+        "de": "Wir erlauben uns, Sie an unsere Rechnung Nr. 1042 vom 3. März über 1.250 Euro zu erinnern.",
+        "zh": ""
+      },
+      {
+        "de": "Trotz unserer Erinnerung vom 20. März ist der Betrag bis heute nicht bei uns eingegangen.",
+        "zh": ""
+      },
+      {
+        "de": "Wir fordern Sie daher auf, den ausstehenden Betrag bis spätestens zum 15. Mai zu begleichen.",
+        "zh": ""
+      },
+      {
+        "de": "Sollte die Zahlung nicht fristgerecht eingehen, behalten wir uns vor, Verzugszinsen zu berechnen.",
+        "zh": ""
+      },
+      {
+        "de": "Nach Ablauf dieser Frist sehen wir uns gezwungen, die Forderung an ein Inkassobüro zu übergeben.",
+        "zh": ""
+      },
+      {
+        "de": "Eine Kopie der Rechnung liegt diesem Schreiben zu Ihrer Kontrolle bei.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "期限写 „möglichst bald\" 或 „in den nächsten Tagen\"——没有日期的期限等于没有期限。",
+      "第一封信就威胁报警/律师（级别跳级），既不专业也失去后续升级空间。",
+      "后果预告空炮（说要起诉却永远不做）——预告必须真实可执行，否则整条阶梯失效。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "级别 1 提醒的合格句是？",
+        "explain": "先假设疏忽、给台阶，是第一级的语气基线。",
+        "options": [
+          "Möglicherweise ist unsere Rechnung Ihrer Aufmerksamkeit entgangen; wir legen sie Ihnen nochmals bei.",
+          "Zahlen Sie endlich, sonst gibt es Ärger!",
+          "Sie haben unsere Rechnung ignoriert, das wird Folgen haben für Sie."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "设定期限：„Wir bitten um Zahlung bis ＿＿ zum 30. Juni.\"",
+        "explain": "spätestens 把期限钉到具体日期。",
+        "answer": "spätestens"
+      },
+      {
+        "type": "choice",
+        "q": "后果预告规范的是？",
+        "explain": "保留权利式预告，合法、明确、无威胁色彩。",
+        "options": [
+          "Sollte der Betrag nicht bis zum 30. Juni eingehen, behalten wir uns vor, die Forderung gerichtlich geltend zu machen.",
+          "Wenn Sie nicht zahlen, werden Sie schon sehen, was passiert.",
+          "Zahlen Sie nicht, schicken wir Ihnen jemanden vorbei."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "被迫句式：„Wir ＿＿ uns gezwungen, den Vertrag fristlos zu kündigen.\"",
+        "explain": "sich gezwungen sehen 是正式交涉的「被迫」标配。",
+        "answer": "sehen"
+      },
+      {
+        "type": "choice",
+        "q": "事由完整的一封信开头是？",
+        "explain": "编号 + 日期 + 金额，交涉信的身份三件套。",
+        "options": [
+          "Bezugnehmend auf Rechnung Nr. 208 vom 12. April über 860 Euro teilen wir mit …",
+          "Hallo, es geht um das Geld von neulich.",
+          "Wegen der Sache mit der Zahlung schreiben wir Ihnen jetzt mal."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "迟延利息术语：„Wir berechnen ＿＿ in Höhe von fünf Prozent.\"",
+        "explain": "Verzugszinsen 是迟延利息的固定法律词。",
+        "answer": "Verzugszinsen"
+      },
+      {
+        "type": "choice",
+        "q": "哪处是级别跳级错误？",
+        "explain": "第一级只能温和提醒；且 „ruinieren\" 属威胁语，不在任何级别。",
+        "options": [
+          "第一封提醒信里写 „Wir werden Sie verklagen und ruinieren.\"",
+          "第二封催告设定 14 天期限",
+          "第三封预告转交 Inkasso"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句定级",
+        "explain": "Frist + gezwungen 是阶梯顶端的标志语。",
+        "audio": "Nach Ablauf dieser Frist sehen wir uns gezwungen, weitere Schritte einzuleiten.",
+        "options": [
+          "第 3–4 级（最后通牒/后果宣告）",
+          "第 1 级（温和提醒）",
+          "日常寒暄"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "保留权利：„Die Zahlung erfolgt ＿＿ Vorbehalt der Rückforderung.\"（unter 的同结构词：unter)",
+        "explain": "unter Vorbehalt 是「在保留（追回）权利的前提下」的法律固定短语。",
+        "answer": "unter"
+      },
+      {
+        "type": "choice",
+        "q": "给对方留台阶的表达是？",
+        "explain": "「若已付款请忽略本函」是交涉信的标准收尾礼节。",
+        "options": [
+          "Sollten Sie die Zahlung bereits veranlasst haben, betrachten Sie dieses Schreiben bitte als gegenstandslos.",
+          "Sie haben sicher vergessen zu zahlen, wie immer.",
+          "Entweder Sie zahlen, oder es knallt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "催告费：„Zusätzlich fallen ＿＿ in Höhe von 10 Euro an.\"",
+        "explain": "Mahngebühren 是催告产生的费用名目。",
+        "answer": "Mahngebühren"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "auffordern + zu 不定式，期限短语居不定式之前。",
+        "tokens": [
+          "fordern wir Sie auf,",
+          "bis zum 15. Mai",
+          "den Betrag",
+          "Daher",
+          "zu begleichen."
+        ],
+        "answer": [
+          "Daher",
+          "fordern wir Sie auf,",
+          "den Betrag",
+          "bis zum 15. Mai",
+          "zu begleichen."
+        ],
+        "displayAnswer": "Daher fordern wir Sie auf, den Betrag bis zum 15. Mai zu begleichen."
+      },
+      {
+        "type": "choice",
+        "q": "期限表述合格的是？",
+        "explain": "日期确切到日，是期限唯一合格形态。",
+        "options": [
+          "bis spätestens zum 15. Mai 2026",
+          "möglichst bald irgendwann",
+          "in den nächsten Tagen mal"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "不再通知：„Nach Fristablauf erfolgt die Übergabe ＿＿ weitere Ankündigung.\"",
+        "explain": "ohne weitere Ankündigung 是最后通牒的收尾固定语。",
+        "answer": "ohne"
+      },
+      {
+        "type": "choice",
+        "q": "交涉信落款正确组合是？",
+        "explain": "落款无逗号规则在商务信一致适用，部门与经办人换行列明。",
+        "options": [
+          "Mit freundlichen Grüßen（换行）Buchhaltung, Frau Yilmaz",
+          "Mit freundlichen Grüßen, Buchhaltung!!!",
+          "Viele liebe Grüße, eure Buchhaltung"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "升级承接句：„＿＿ unserer Erinnerung vom 20. März ist die Zahlung bis heute ausgeblieben.\"",
+        "explain": "Trotz + 二格承接前一封信，是催告信的标准第二段开头。",
+        "answer": "Trotz"
+      }
+    ],
+    "reading": {
+      "text": "Sehr geehrte Damen und Herren,\nBezug nehmend auf unsere Rechnung Nr. 3117 vom 2. April über 2.480 Euro und unsere Erinnerung vom 25. April teilen wir Ihnen mit, dass der Betrag bis heute nicht bei uns eingegangen ist. Wir fordern Sie daher auf, den ausstehenden Betrag zuzüglich Mahngebühren von 15 Euro bis spätestens zum 20. Mai auf unser Konto zu überweisen. Sollte die Zahlung nicht fristgerecht eingehen, behalten wir uns vor, die Forderung ohne weitere Ankündigung an ein Inkassobüro zu übergeben. Sollten Sie die Zahlung bereits veranlasst haben, betrachten Sie dieses Schreiben bitte als gegenstandslos.\nMit freundlichen Grüßen\nBuchhaltung der Nordwind GmbH",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这封信处于阶梯第几级，依据是什么？（答：第二级正式催告——引用了第一封 Erinnerung、设定确切期限并预告后果）②已付款的收信人该如何处理这封信？（答：视为无效即可，信末有 gegenstandslos 条款）",
+      "preserveLines": true
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "升级改写任务：把一封一级提醒（要点：发票 Nr. 55，480 欧元，3 月 1 日开出，提醒过一次未付）升级为二级催告，须含编号金额、确切期限（自定一个两周后的日期）、后果预告、gegenstandslos 句与规范落款。",
+      "sample": "范文：Sehr geehrte Damen und Herren, Bezug nehmend auf unsere Rechnung Nr. 55 vom 1. März über 480 Euro und unsere Erinnerung vom 20. März teilen wir Ihnen mit, dass der Betrag bis heute nicht eingegangen ist. Wir fordern Sie auf, den Betrag bis spätestens zum 18. April zu überweisen. Sollte die Zahlung ausbleiben, behalten wir uns weitere Schritte vor. Sollten Sie bereits gezahlt haben, betrachten Sie dieses Schreiben als gegenstandslos. Mit freundlichen Grüßen\nBuchhaltung",
+      "selfcheck": "自查：五要素齐全 □；期限是具体日期 □；语气无威胁词 □；落款无逗号 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-14",
+    "level": "B2",
+    "order": 21,
+    "title": "关系从句深化产出",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（B2 关系从句的进阶形态）",
+      "headers": [
+        "形态",
+        "规则",
+        "例句"
+      ],
+      "rows": [
+        [
+          "介词 + 关系代词",
+          "介词居从句前，代词随先行词性数、随介词变格",
+          "die Frage, über die wir sprachen / der Kollege, mit dem ich arbeite"
+        ],
+        [
+          "wo(r) + 介词（指物）",
+          "先行词是事物时可用 worüber/womit/wofür…",
+          "das Thema, worüber (über das) wir sprachen"
+        ],
+        [
+          "was 型",
+          "先行词为 alles/etwas/nichts/最高级/整件事",
+          "Alles, was er sagte, stimmte. / Das Beste, was …"
+        ],
+        [
+          "dessen / deren 产出",
+          "二格关系代词，替代所有格避免重复",
+          "die Autorin, deren Buch … / der Mann, dessen Auto …"
+        ],
+        [
+          "welcher 变体",
+          "正式文体中替代 der/die/das，避免 der…der 相撞",
+          "der Bericht, welcher gestern erschien"
+        ],
+        [
+          "自由关系从句",
+          "Wer …, der … 句式（谚语与正式）",
+          "Wer früh bucht, der spart Geld."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "介词关系从句的格只由**介词**决定，不由先行词在主句中的角色决定（主句里是主语，从句里 mit + 三格照样三格）。",
+      "指人不用 wo- 形式：„der Kollege, womit …\" 错；指物时 wo- 形式与「介词 + das」等价，wo- 更书面凝练。",
+      "dessen/deren 是产出项：写正式文本时用它消解 „der Mann, sein Auto wurde gestohlen\" 式的松散句；注意 dessen 后名词无冠词。",
+      "was 型的先行词清单背牢：alles, etwas, nichts, vieles, das + 最高级、以及指代**整件事**的 das（„Er kam zu spät, was alle ärgerte.\")。"
+    ],
+    "examples": [
+      {
+        "de": "Das Thema, über das wir gestern sprachen, beschäftigt die ganze Abteilung.",
+        "zh": ""
+      },
+      {
+        "de": "Die Kollegin, mit der ich das Büro teile, kommt aus Krakau und spricht drei Sprachen.",
+        "zh": ""
+      },
+      {
+        "de": "Alles, was du für die Prüfung brauchst, findest du in diesem Ordner.",
+        "zh": ""
+      },
+      {
+        "de": "Die Autorin, deren Romane in zwanzig Sprachen übersetzt wurden, liest heute Abend.",
+        "zh": ""
+      },
+      {
+        "de": "Der Antrag, welcher bereits im März gestellt wurde, ist immer noch nicht entschieden.",
+        "zh": ""
+      },
+      {
+        "de": "Er bestand die Prüfung nicht, was seine Eltern sehr enttäuschte.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "介词按主句格走（„der Kollege, mit den ich arbeite\" 把 den 当四格宾语——mit 恒三格）。",
+      "dessen 后再加冠词（„dessen das Auto\" 错，dessen 本身即限定词）。",
+      "先行词是人却写 was（„der Mann, was …\" 错，应 der)。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "介词关系从句正确的是？",
+        "explain": "sich verlassen auf + 四格，代词 den 由介词决定。",
+        "options": [
+          "der Freund, auf den ich mich verlassen kann",
+          "der Freund, auf dem ich mich verlassen kann",
+          "der Freund, auf der ich mich verlassen kann"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„die Methode, ＿＿ wir das Problem gelöst haben\"（mit 引导的 wo- 形式）",
+        "explain": "先行词是事物，可用 womit 代替 mit der，更凝练。",
+        "answer": "womit"
+      },
+      {
+        "type": "choice",
+        "q": "was 型合法的是？",
+        "explain": "先行词 nichts 用 was；具体名词须用 das/der。",
+        "options": [
+          "Nichts, was er sagte, konnte sie überzeugen.",
+          "Der Mann, was er sagte, war alt.",
+          "Das Buch, was ich las, war lang."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„der Lehrer, ＿＿ Sohn in meiner Klasse ist\"",
+        "explain": "阳性先行词二格关系代词 dessen。",
+        "answer": "dessen"
+      },
+      {
+        "type": "choice",
+        "q": "阴性先行词：„die Ärztin, ____ Praxis in der Nähe ist\"",
+        "explain": "阴性与复数先行词用 deren。",
+        "options": [
+          "deren",
+          "dessen",
+          "ihrem"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Das ist das Schönste, ＿＿ mir je passiert ist.\"",
+        "explain": "最高级先行词后关系代词用 was。",
+        "answer": "was"
+      },
+      {
+        "type": "choice",
+        "q": "指人介词从句错误的是？",
+        "explain": "先行词是人，wo- 形式禁用，须 von dem。",
+        "options": [
+          "der Nachbar, wovon ich dir erzählt habe",
+          "der Nachbar, von dem ich dir erzählt habe",
+          "der Nachbar, über den wir lachten"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨先行词",
+        "explain": "was 在此回指整个主句事件，是整件事型先行。",
+        "audio": "Er hat die Stelle bekommen, was alle überraschte.",
+        "options": [
+          "was 指「他得到职位」整件事",
+          "was 指 die Stelle",
+          "was 指 alle"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "正式变体：„der Vertrag, ＿＿ im Januar unterschrieben wurde\"（welcher 阳性一格）",
+        "explain": "正式文体用 welcher 替代 der，避免与冠词混淆。",
+        "answer": "welcher"
+      },
+      {
+        "type": "choice",
+        "q": "dessen 用法错误的是？",
+        "explain": "dessen 后直接接名词，不再加冠词。",
+        "options": [
+          "der Autor, dessen das Buch berühmt wurde",
+          "der Autor, dessen Buch berühmt wurde",
+          "die Stadt, deren Zentrum alt ist"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„die Themen, ＿＿ wir uns interessieren\"（für 的 wo- 形式）",
+        "explain": "sich interessieren für + 事物先行词 → wofür。",
+        "answer": "wofür"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "介词 mit 决定三格 dem，从句动词 zusammenarbeite 置末，主句 ist 第二位。",
+        "tokens": [
+          "ich",
+          "mit dem",
+          "Der Kollege,",
+          "zusammenarbeite,",
+          "ist",
+          "sehr hilfsbereit."
+        ],
+        "answer": [
+          "Der Kollege,",
+          "mit dem",
+          "ich",
+          "zusammenarbeite,",
+          "ist",
+          "sehr hilfsbereit."
+        ],
+        "displayAnswer": "Der Kollege, mit dem ich zusammenarbeite, ist sehr hilfsbereit."
+      },
+      {
+        "type": "choice",
+        "q": "自由关系从句谚语体正确的是？",
+        "explain": "Wer …, den … 是格呼应的经典自由关系句式。",
+        "options": [
+          "Wer zu spät kommt, den bestraft das Leben.",
+          "Wer zu spät kommt, er bestraft das Leben ihn.",
+          "Wer kommt zu spät, das Leben bestraft."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„die Gründe, aus ＿＿ er schwieg, blieben unklar.\"",
+        "explain": "aus + 复数三格关系代词 denen，表「出于这些原因」，是正式文体常用结构。",
+        "answer": "denen"
+      },
+      {
+        "type": "choice",
+        "q": "从句位置正确的是？",
+        "explain": "关系从句紧贴先行词，嵌在主句中间。",
+        "options": [
+          "Das Problem, das wir lange diskutiert haben, ist endlich gelöst.",
+          "Das Problem ist endlich, das wir lange diskutiert haben, gelöst.",
+          "Diskutiert haben das Problem lange wir, ist gelöst endlich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Alles, ＿＿ zählt, ist die Gesundheit.\"",
+        "explain": "alles 后固定用 was，是 B2 产出的高频结构。",
+        "answer": "was"
+      }
+    ],
+    "reading": {
+      "text": "Die Frau, über deren Leben der Film erzählt, war eine der ersten Pilotinnen des Landes. Der Regisseur, mit dem wir nach der Premiere sprachen, erklärte: „Alles, was sie aufgeschrieben hat, findet sich in ihren Tagebüchern.\" Das Thema, worüber in der Familie jahrzehntelang geschwiegen wurde, war ihr geheimer Flug über den Ozean. Die Stadt, in der sie geboren wurde, widmet ihr nun ein kleines Museum, dessen Eröffnung im Herbst geplant ist. Wer den Film sieht, versteht, warum ihre Geschichte so lange vergessen war.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①deren 在文中指谁、回指什么？（答：指那位女飞行员——先行词是 Die Frau，deren Leben）②哪个关系结构指代了整件事或抽象物而非具体人/物？（答：Alles, was … 与 das Thema, worüber …——was 型与 wo- 形式）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写一段人物介绍（约 80 词），须含介词关系从句、dessen/deren、was 型各一处。",
+      "sample": "范文：Die Frau, mit der ich heute sprach, leitet ein kleines Museum in Lübeck. Ihr Großvater, dessen Briefe im Archiv liegen, war Seemann und Weltreisender. Alles, was sie über ihn erzählt, klingt wie ein Roman. Das Haus, in dem das Museum untergebracht ist, stammt aus dem 18. Jahrhundert und steht unter Denkmalschutz.",
+      "selfcheck": "自查：三处目标结构各一处 □；介词的格复核过 □；dessen/deren 后无多余冠词 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-15",
+    "level": "B2",
+    "order": 22,
+    "title": "构词系统 B2",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（不可分前缀的语义族与后缀系统）",
+      "headers": [
+        "词缀",
+        "语义倾向",
+        "例词（拆解）"
+      ],
+      "rows": [
+        [
+          "ver-",
+          "变化 / 弄错 / 耗尽",
+          "verbessern（变好）、sich verlaufen（走错）、verbrauchen（用完）"
+        ],
+        [
+          "er-",
+          "达成结果 / 致……",
+          "erreichen（抵达达成）、ertrinken（溺亡）、ermöglichen（使成为可能）"
+        ],
+        [
+          "be-",
+          "及物化 / 施加于",
+          "beantworten（be- + Antwort → 及物）、bedecken（覆盖）"
+        ],
+        [
+          "ent-",
+          "去除 / 反向 / 逃离",
+          "entfernen（移除）、entkommen（逃脱）、enttäuschen（使失望）"
+        ],
+        [
+          "miss-",
+          "错误 / 失败",
+          "missverstehen（误解）、misslingen（失败）"
+        ],
+        [
+          "zer-",
+          "破裂分散",
+          "zerbrechen（打碎）、zerfallen（瓦解）"
+        ],
+        [
+          "-sam / -bar / -lich",
+          "倾向 / 可能 / 属性",
+          "sparsam、lesbar、freundlich"
+        ],
+        [
+          "-reich / -arm / -los",
+          "富含 / 缺乏 / 无",
+          "vitaminreich、salzarm、arbeitslos"
+        ],
+        [
+          "-wert / -würdig / -fähig / -bewusst",
+          "值得 / 能够 / 有…意识",
+          "lesenswert、sehenswürdig、arbeitsfähig、umweltbewusst"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "不可分前缀永不重读、永不分离，分词无 ge-（verstanden, nicht geverstanden)；这是与可分前缀（单元回指 A1）的总分野。",
+      "长复合词拆解法：**先找词头（最后一个名词 = 词性、冠词、核心义）**，再逐段左剥：Bundesausbildungsförderungsgesetz → Gesetz（法）→ Förderung（资助）→ Ausbildung（培训）→ Bundes-（联邦的）。",
+      "连接音（Fugenlaut)：-s-（Arbeitsamt)、-n-（Studentenwerk)、-e-、零连接，属词条记忆项，拆词时先认出再剥。",
+      "-bar 与 zu-分词、sein+zu 互通（lesbar ≈ zu lesen)；-wert/-würdig 表「值得被…」，与本单元后缀群成义族。"
+    ],
+    "examples": [
+      {
+        "de": "Wer die Hinweise missachtet, riskiert eine Geldstrafe und Punkte.",
+        "zh": ""
+      },
+      {
+        "de": "Die neue Brücke ermöglicht eine schnellere Verbindung zwischen den Stadtteilen.",
+        "zh": ""
+      },
+      {
+        "de": "Er zerbrach den alten Stuhl versehentlich, als er darauf stand.",
+        "zh": ""
+      },
+      {
+        "de": "Dieser vitaminreiche Salat ist schnell gemacht und hält lange satt.",
+        "zh": ""
+      },
+      {
+        "de": "Das Schloss ist wirklich sehenswürdig und einen Tagesausflug wert.",
+        "zh": ""
+      },
+      {
+        "de": "Die umweltbewussten Bewohner trennen ihren Müll seit Jahren konsequent.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "给不可分前缀动词的分词加 ge-（„geverstanden\")——ver-/er-/be-/ent-/miss-/zer- 一律无 ge-。",
+      "复合词从左边开始猜义，越猜越偏——永远从最右的词头往左剥。",
+      "把 -los（无）与 -arm（少）混用：arbeitslos 是没有工作，salzarm 是盐少但不是零。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "分词正确的是？",
+        "explain": "ver- 不可分，分词无 ge-。",
+        "options": [
+          "verstanden",
+          "geverstanden",
+          "verstandget"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "前缀语义：„sich ＿＿laufen\" = 走错路（前缀）",
+        "explain": "ver- 的「弄错」义：sich verlaufen。",
+        "answer": "ver"
+      },
+      {
+        "type": "choice",
+        "q": "be- 及物化正确例是？",
+        "explain": "be- 把 antworten auf 变成直接及物 beantworten + 四格。",
+        "options": [
+          "Er beantwortet die Frage.（antworten 本不及物，be- 后带四格）",
+          "Er antwortet die Frage sofort.",
+          "Die Frage beantwortet er sich selbst nur."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "复合词词头：„Donaudampfschifffahrtsgesellschaft\" 的核心义（最后一个名词）是？（填 Gesellschaft 的中文义：公司）",
+        "explain": "复合词的性、数、核心义全由最右名词决定，先认词头再左剥。",
+        "answer": "公司"
+      },
+      {
+        "type": "choice",
+        "q": "-bar 的正确改写：„lesbar\" =",
+        "explain": "-bar 表可能被动，与 zu-分词同族。",
+        "options": [
+          "kann gelesen werden",
+          "muss gelesen werden",
+          "wurde gelesen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "缺乏后缀：„eine fett＿＿ Ernährung\"（少脂，用 -arm 构成）",
+        "explain": "fettarme（脂肪少的），-arm 表含量低而非为零。",
+        "answer": "arme"
+      },
+      {
+        "type": "choice",
+        "q": "zer- 用对的是？",
+        "explain": "zer- 表破裂分散，zerbrechen 是标准搭配；B、C 非词。",
+        "options": [
+          "Das Glas zerbrach auf dem Boden.",
+          "Er zerbaute das Haus neu.",
+          "Sie zerschrieb einen Brief langsam."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听词拆义",
+        "explain": "nachvollziehen（理解跟得上）+ -bar = 可以被理解的。",
+        "audio": "Die Entscheidung war nachvollziehbar.",
+        "options": [
+          "可以理解的（nach-vollzieh-bar)",
+          "已经被执行的",
+          "无法更改的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "使役 er-：„Das Stipendium ＿＿möglichte ihr das Studium.\"",
+        "explain": "ermöglichen = er- + möglich + -en，「使成为可能」。",
+        "answer": "er"
+      },
+      {
+        "type": "choice",
+        "q": "Fugenlaut（连接音）识别正确的是？",
+        "explain": "连接音 -s-、-n- 只起连接作用，不表义、不表数、不表格。",
+        "options": [
+          "Arbeitsamt = Arbeit + -s- + Amt，其中的 -s- 是连接音、不表义",
+          "Liebesbrief 中的 -s- 是复数标记",
+          "Studentenwerk 中的 -n- 是四格词尾"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "值得后缀：„ein sehen＿＿ Schloss\"（值得一看，用 -würdig)",
+        "explain": "sehenswürdig，中间 -s- 为连接音，整体作形容词。",
+        "answer": "swürdig"
+      },
+      {
+        "type": "order",
+        "q": "拆词排序（复合词自右向左的剥离顺序）",
+        "explain": "拆解从词头开始逐段左剥，理解全词：联邦培训资助法。",
+        "tokens": [
+          "Gesetz（法）",
+          "Förderung（资助）",
+          "Ausbildung（培训）",
+          "Bundes-（联邦）"
+        ],
+        "answer": [
+          "Gesetz（法）",
+          "Förderung（资助）",
+          "Ausbildung（培训）",
+          "Bundes-（联邦）"
+        ],
+        "displayAnswer": "Gesetz（法）→ Förderung（资助）→ Ausbildung（培训）→ Bundes-（联邦）"
+      },
+      {
+        "type": "choice",
+        "q": "miss- 用对的是？",
+        "explain": "miss- 表错误，missverstehen 是标准词；B、C 非词。",
+        "options": [
+          "Ich habe dich missverstanden, entschuldige bitte.",
+          "Er misskochte das Essen sehr lecker.",
+          "Sie missfuhr schnell nach Hause."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "无后缀：„Nach der Kündigung war er ein Jahr ＿＿.\"（arbeitslos 的词干后部分：los)",
+        "explain": "-los 表完全没有，arbeitslos = 无业。",
+        "answer": "arbeitslos"
+      },
+      {
+        "type": "choice",
+        "q": "ent- 反向义的是？",
+        "explain": "entfernen 是 ent-「去除」义的教科书例词。",
+        "options": [
+          "entfernen（移除）",
+          "kommen（来）",
+          "verstehen（理解，其 ver- 已词汇化）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "意识后缀：„＿＿bewusste Verbraucher achten auf Verpackungen.\"（Umwelt 构成）",
+        "explain": "umweltbewusst = Umwelt + bewusst，「有环保意识的」。",
+        "answer": "Umwelt"
+      }
+    ],
+    "reading": {
+      "text": "Die deutsche Sprache ist für ihre langen Wörter berühmt. Doch selbst ein Wort wie „Grundstücksverkehrsgenehmigungszuständigkeitsübertragungsverordnung\" lässt sich knacken: Man sucht zuerst den Kopf, also das letzte Nomen – hier „Verordnung\" (eine Vorschrift). Dann arbeitet man sich nach links: Übertragung (transfer), Zuständigkeit (responsibility), Genehmigung (permit), Verkehr (traffic), Grundstück (land plot). So wird aus dem Monster ein verständlicher Begriff: eine Vorschrift darüber, wer Genehmigungen für den Grundstücksverkehr erteilen darf. Wer Fugenlaute wie das -s- erkennt, zerlegt selbst Fachwörter aus Verwaltung und Technik ohne Wörterbuch.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①拆词的第一步是什么？（答：找最右边的词头名词，它决定词义核心与语法性别）②文中长词最终被解释成什么？（答：一条关于「谁有权发放土地交易许可」的规定）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "选三个长词，用「词头 → 左剥」的格式各写一行拆解，并各造一句：Wahlberechtigung / Umweltschutzmaßnahmen / Arbeitnehmerüberlassung。",
+      "sample": "范文：①Wahlberechtigung：Kopf = Berechtigung（资格）← Wahl（选举）: „Für die Wahlberechtigung muss man 18 Jahre alt sein.\" ②Umweltschutzmaßnahmen:Kopf = Maßnahmen（措施）← Schutz（保护）← Umwelt（环境）: „Die Stadt plant neue Umweltschutzmaßnahmen.\" ③Arbeitnehmerüberlassung:Kopf = Überlassung（出借）← Arbeitnehmer（雇员）: „Die Arbeitnehmerüberlassung ist gesetzlich geregelt.\"",
+      "selfcheck": "自查：三个词都先标了词头 □；造句时复合词作单一名词使用、冠词随词头 □；没有从左往右硬猜的词 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "t-b2-07",
+    "level": "B2",
+    "order": 23,
+    "title": "展示深化：引用与可视化",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（展示中的证据处理工具箱）",
+      "headers": [
+        "功能",
+        "标配句"
+      ],
+      "rows": [
+        [
+          "标明来源",
+          "Laut einer Studie des Robert-Koch-Instituts (2023) … / Die Daten stammen vom Statistischen Bundesamt."
+        ],
+        [
+          "转述引文（KI)",
+          "Müller argumentiert, der Konsum sei zu hoch. / Wie die Autorin ausführt, gebe es …"
+        ],
+        [
+          "直接引语",
+          "Wörtlich heißt es in dem Bericht: „…\""
+        ],
+        [
+          "嵌入图表",
+          "Wie die Grafik zeigt, … / Die linke Abbildung stellt … dar. / Besonders auffällig ist …"
+        ],
+        [
+          "对比数据",
+          "Im Vergleich zum Vorjahr … / Demgegenüber steht …"
+        ],
+        [
+          "防止抄袭的收尾",
+          "Alle Quellen sind im Verzeichnis am Ende aufgeführt."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "引用的铁律：凡非自己的数据与观点，必标来源；转述用 KI 拉开距离（表明「这是他说的」），直引须加引号且一字不改。",
+      "图表不是装饰：每张图在口头/文字里必须被「点名 + 解读」——先说图的位置与类型，再说最重要的一条信息，不逐项念数。",
+      "引用密度：展示与论文中每段至少一个来源支撑；但连续三句全是转述会显得无主见，转述之间要夹自己的评述句。",
+      "来源格式（简化学术体）：作者/机构 + 年份，进 Quellenverzeichnis 按字母序；课堂展示口头只需机构 + 年份。"
+    ],
+    "examples": [
+      {
+        "de": "Laut einer Studie der Universität Heidelberg aus dem Jahr 2022 steigt die Zahl der Fernpendler stetig.",
+        "zh": ""
+      },
+      {
+        "de": "Wie die Grafik auf der linken Seite zeigt, hat sich der Anteil in zehn Jahren verdoppelt.",
+        "zh": ""
+      },
+      {
+        "de": "Der Autor betont, ein Verbot allein löse das Problem nicht, es brauche Anreize.",
+        "zh": ""
+      },
+      {
+        "de": "Wörtlich heißt es im Bericht: „Die Wende ist ohne die Kommunen nicht zu schaffen.\"",
+        "zh": ""
+      },
+      {
+        "de": "Besonders auffällig ist der starke Anstieg bei den unter Dreißigjährigen seit 2020.",
+        "zh": ""
+      },
+      {
+        "de": "Alle verwendeten Quellen finden Sie im Verzeichnis auf der letzten Folie.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "转述忘用 KI，写成直述句——在学术规范里这等于把别人观点据为己有。",
+      "图表无人解读（放图不说话），或逐项念数（把听众淹没在细节里）。",
+      "直引悄悄改词、拼接不同段落，是造假不是引用。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "合格的来源标注是？",
+        "explain": "机构 + 年份是来源标注的最小完整形态。",
+        "options": [
+          "Laut einer Studie des Umweltbundesamtes (2023) ist die Belastung gesunken.",
+          "Wie alle wissen und überall steht, ist die Belastung gesunken.",
+          "Studien zeigen halt so, dass die Belastung irgendwie gesunken ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转述 KI：„Der Experte sagt: ‚Der Markt erholt sich.'\" → Er sagt, der Markt ＿＿ sich.",
+        "explain": "转述动词 erhole 是 KI 三单，拉开「他说的」距离。",
+        "answer": "erhole"
+      },
+      {
+        "type": "choice",
+        "q": "图表引入合格的是？",
+        "explain": "引入句须直接给出图中最重要的信息，不逐项念、不谈美丑。",
+        "options": [
+          "Wie die Grafik zeigt, verdoppelte sich der Anteil der Online-Käufe seit 2019.",
+          "Hier ist eine Grafik, schauen Sie selbst, ich lese jetzt alles vor.",
+          "Diese Grafik ist sehr schön und bunt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "数据来源句：„Die Daten ＿＿ vom Statistischen Bundesamt.\"",
+        "explain": "Die Daten stammen von … 是数据出处标配套句。",
+        "answer": "stammen"
+      },
+      {
+        "type": "choice",
+        "q": "直引规范的是？",
+        "explain": "直引一字不改并带引号；B、C 都是伪引。",
+        "options": [
+          "Im Bericht heißt es wörtlich: „Die Lage bleibt angespannt.\"",
+          "Im Bericht steht sinngemäß mit meinen Worten: „Die Lage angespannt bleibt.\"",
+          "Ich zitiere frei: „Die Lage ist total schlimm.\""
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "突出点：„Besonders ＿＿ ist der Einbruch im Jahr 2020.\"",
+        "explain": "Besonders auffällig ist … 是解读图表异常值的标配。",
+        "answer": "auffällig"
+      },
+      {
+        "type": "choice",
+        "q": "引用与主见平衡，合格的一段是？",
+        "explain": "转述两处后落回自己的评述与本地结论。",
+        "options": [
+          "Studie A zeigt X. Studie B bestätigt dies für Großstädte. Für unsere Stadt heißt das konkret: …",
+          "A sagt X. B sagt X. C sagt auch X.",
+          "Ich finde ohne jede Quelle, dass X stimmt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨功能",
+        "explain": "Im Vergleich zum Vorjahr 是对比句式，不是出处标注。",
+        "audio": "Im Vergleich zum Vorjahr sank die Zahl der Unfälle um zwölf Prozent.",
+        "options": [
+          "数据对比",
+          "来源标注",
+          "直接引语"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "文献表说明：„Alle Quellen sind im ＿＿ am Ende aufgeführt.\"",
+        "explain": "Quellenverzeichnis 的省称，指文末来源目录。",
+        "answer": "Verzeichnis"
+      },
+      {
+        "type": "choice",
+        "q": "哪句把转述写成了自有观点（抄袭风险）?",
+        "explain": "A 无机构年份、无 KI，等于把学界观点揽为己说。",
+        "options": [
+          "Nach Ansicht vieler Forscher ist Homeoffice produktiv. Ich habe das selbst geprüft.（无来源无 KI 的断言）",
+          "Laut Schmidt (2021) sei Homeoffice produktiv.",
+          "Schmidt (2021) argumentiert, Homeoffice sei produktiv."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "图位置点名：„Die ＿＿ Abbildung zeigt die Entwicklung der Mieten.\"（linke)",
+        "explain": "点名图表位置（左图/下表）是解读的起手。",
+        "answer": "linke"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "Wie 从句动词 zeigt 置末，主句 hat 第二位、分词 verdoppelt 收尾，反身 sich 紧跟 hat。",
+        "tokens": [
+          "Wie",
+          "die Grafik",
+          "zeigt,",
+          "hat sich",
+          "der Anteil",
+          "verdoppelt."
+        ],
+        "answer": [
+          "Wie",
+          "die Grafik",
+          "zeigt,",
+          "hat sich",
+          "der Anteil",
+          "verdoppelt."
+        ],
+        "displayAnswer": "Wie die Grafik zeigt, hat sich der Anteil verdoppelt."
+      },
+      {
+        "type": "choice",
+        "q": "展示结尾的正确动作是？",
+        "explain": "来源页 + 问答是学术展示的标准收尾。",
+        "options": [
+          "展示来源目录页并接受提问",
+          "最后一页只写 „Danke\" 并迅速关屏",
+          "把所有数据再念一遍"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "作者转述动词替换（避免通篇 sagt):„Die Autorin ＿＿ aus, dass die Kosten unterschätzt wurden.\"（ausführen)",
+        "explain": "ausführen 是转述动词的书面档位（Sie führt aus, dass …)。",
+        "answer": "führt"
+      },
+      {
+        "type": "choice",
+        "q": "图表解读的粒度原则是？",
+        "explain": "一个趋势加一个关键数，是听众能记住的上限。",
+        "options": [
+          "报最重要的一个趋势 + 一个关键数字",
+          "逐项念出全部坐标值",
+          "只说「趋势很明显」不给数"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "机构转述：„Das Institut ＿＿, die Wende sei ohne Förderung nicht zu schaffen.\"（betonen)",
+        "explain": "betonen + KI 是强调型转述的标配组合。",
+        "answer": "betont"
+      }
+    ],
+    "reading": {
+      "text": "Meine Damen und Herren, ich komme nun zu den Zahlen. Laut einer Auswertung des Statistischen Bundesamtes (2024) arbeiten inzwischen 24 Prozent der Beschäftigten regelmäßig im Homeoffice. Wie die Grafik links zeigt, ist der Anteil seit 2019 stark gestiegen; besonders auffällig ist der Sprung im Jahr 2020. Die Forscherin Lehmann betont, die Produktivität leide darunter nicht – im Gegenteil. Wörtlich heißt es in ihrem Bericht: „Konzentration und Flexibilität nehmen zu.\" Für unsere Fragestellung heißt das: Die Entwicklung ist keine Ausnahme mehr, sondern der neue Normalzustand. Alle Quellen finden Sie im Verzeichnis auf der letzten Folie.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①文中直接引语是哪一句，出自谁？（答:„Konzentration und Flexibilität nehmen zu.\"，出自研究者 Lehmann 的报告）②演讲者如何避免逐项念图？（答：只报一个总趋势（2019 年以来强劲上升）和一个关键点（2020 年的跳升）)"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 4 句完成一次微型图表汇报：①点名图（Die Grafik zeigt …) ②报趋势（Seit … ist … gestiegen) ③点异常（Besonders auffällig ist …) ④给结论（Für uns heißt das …)。",
+      "sample": "范文：Die Grafik zeigt die Entwicklung der Ticketverkäufe seit 2018. Seit 2020 ist die Zahl der Online-Tickets stark gestiegen und hat sich fast verdreifacht. Besonders auffällig ist der Einbruch im Frühjahr 2020 während der Pandemie. Für uns heißt das: Der Verkauf verlagert sich dauerhaft ins Netz, die Schalter werden weniger wichtig.",
+      "selfcheck": "自查：四句功能齐全 □；带了一个具体数字 □；没有逐项念数 □。"
+    },
+    "writingLabel": "口头任务"
+  },
+  {
+    "id": "g-b2-16",
+    "level": "B2",
+    "order": 24,
+    "title": "长句信息结构收官",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（长句的拆解与搭建地图）",
+      "headers": [
+        "结构位",
+        "功能",
+        "说明"
+      ],
+      "rows": [
+        [
+          "Vorfeld（动词前一位）",
+          "主题槽：不总是主语，可放时间、状语、宾语以设旧信息",
+          "Gestern hat er … / Den Bericht hat er gestern gelesen."
+        ],
+        [
+          "左括号",
+          "变位动词（主句）或从句尾动词组",
+          "找它 = 找到句子的骨架"
+        ],
+        [
+          "Mittelfeld",
+          "副词成分次序 TeKaMoLo：时间 > 原因 > 方式 > 地点；代词优先于名词",
+          "Er ist gestern wegen des Streiks mit dem Bus zur Arbeit gefahren."
+        ],
+        [
+          "右括号",
+          "不定式/分词/可分前缀",
+          "与左括号合围全句"
+        ],
+        [
+          "Nachfeld（出格）",
+          "过长成分外置：关系从句、als 比较、zu 不定式大块",
+          "Er hat versucht, den über Jahre gewachsenen Konflikt in einem Gespräch zu lösen."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "读长句三步：①找变位动词与右括号（定骨架）②剥从句与插入成分 ③剩下的是主干主谓宾——此法通杀 B2/C1 文本。",
+      "TeKaMoLo 是中场缺省序，偏离须有信息理由（强调被提前的成分）；代词永远抢名词前面（„… hat es ihm gegeben\" 的 es/ihm 次序：四格代词 > 三格代词 > 名词）。",
+      "前场只放**一位**：两个状语不能并列站前场（„Gestern im Park hat er …\" 中 Gestern 独占前场，im Park 在中场——实际句子 „Gestern hat er im Park …\"，切勿 „Gestern im Park hat er\"）。",
+      "出格不是错误：当 zu-不定式块、关系从句、als-比较太长时，外置到右括号之后是正式文体的常态，能保骨架清晰。"
+    ],
+    "examples": [
+      {
+        "de": "Den lange erwarteten Bericht hat die Kommission erst gestern nach langer Debatte veröffentlicht.",
+        "zh": ""
+      },
+      {
+        "de": "Er ist heute Morgen wegen des Streiks ausnahmsweise mit dem Fahrrad ins Büro gefahren.",
+        "zh": ""
+      },
+      {
+        "de": "Sie hat ihm das Buch, das sie selbst gern gelesen hatte, zum Geburtstag geschenkt.",
+        "zh": ""
+      },
+      {
+        "de": "Die Regierung hat beschlossen, die seit Jahren geplanten Maßnahmen nun schrittweise umzusetzen.",
+        "zh": ""
+      },
+      {
+        "de": "Kein Thema hat die Öffentlichkeit in diesem Jahr so beschäftigt wie die Energiepreise.",
+        "zh": ""
+      },
+      {
+        "de": "Obwohl die Verhandlungen schwierig waren, konnte ein Kompromiss, der beide Seiten zufriedenstellte, gefunden werden.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "前场塞两个成分（„Gestern zu Hause hat er gearbeitet\"——zu Hause 须进中场或换位）。",
+      "中场里名词排在代词前面（„Er hat das Buch ihm gegeben\" 错，应 ihm 先于名词宾语的反面规则看清：代词宾语优先）。",
+      "见到出格就当错误改回，造出右括号前堆三行的不可读句。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "前场合法的是？",
+        "explain": "前场只容一位，zu Hause 进中场。",
+        "options": [
+          "Gestern hat er zu Hause gearbeitet.",
+          "Gestern zu Hause hat er gearbeitet.",
+          "Hat gestern er zu Hause gearbeitet ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "TeKaMoLo 补空：„Er fährt morgen (Zeit) wegen der Demo (Grund) mit dem Zug (Art) ＿＿ (Ort).\"",
+        "explain": "地点成分殿后，符合时间-原因-方式-地点的缺省序。",
+        "answer": "nach Berlin"
+      },
+      {
+        "type": "choice",
+        "q": "代词次序正确的是？",
+        "explain": "双代词次序为四格 es 在三格 ihr 之前。",
+        "options": [
+          "Er hat es ihr gestern gegeben.",
+          "Er hat ihr es gestern gegeben.",
+          "Er hat gestern gegeben es ihr."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "出格识别：„Sie hat versucht, den schwierigen Text allein zu übersetzen.\" 中右括号是？（填动词形式）",
+        "explain": "hat … versucht 构成括号，zu 不定式块外置于其后。",
+        "answer": "versucht"
+      },
+      {
+        "type": "choice",
+        "q": "哪句需要出格才可读？",
+        "explain": "超长不定式块塞进括号内即不可读，出格是正解。",
+        "options": [
+          "Er hat, den seit Jahren von beiden Seiten mit großer Härte geführten Streit in einem einzigen Gespräch beizulegen, versucht.（括号内堆积，应出格）",
+          "Er hat versucht, den Streit beizulegen.",
+          "Er versuchte es gestern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "前场换宾语设主题： „＿＿ Bericht hat sie noch nicht gelesen.\"（den)",
+        "explain": "四格宾语提前占前场作主题，动词 hat 第二位、主语 sie 其后。",
+        "answer": "Den"
+      },
+      {
+        "type": "choice",
+        "q": "中场次序最自然的是？",
+        "explain": "时间 > 原因 > 方式的 TeKaMoLo 缺省序。",
+        "options": [
+          "Sie ist gestern wegen des Wetters mit dem Bus gefahren.",
+          "Sie ist mit dem Bus wegen des Wetters gestern gefahren.",
+          "Sie ist gefahren gestern mit dem Bus wegen des Wetters."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句找骨架",
+        "explain": "剥掉扩展定语后，主干是 Team + hat geschafft + Durchbruch。",
+        "audio": "Den von allen erwarteten Durchbruch hat das junge Team erst im letzten Spiel geschafft.",
+        "options": [
+          "主干：团队取得了突破",
+          "主干：所有人取得了年轻",
+          "主干：比赛创造了团队"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "从句剥离：„Obwohl er müde war, beendete er den Bericht.\" 主句的变位动词是？",
+        "explain": "先剥 obwohl 从句，主句骨架是 er beendete den Bericht。",
+        "answer": "beendete"
+      },
+      {
+        "type": "choice",
+        "q": "比较出格正确的是？",
+        "explain": "als 比较从句外置于右括号后是常态。",
+        "options": [
+          "Er verdient heute mehr, als er früher je zu hoffen wagte.",
+          "Er verdient heute, als er früher je zu hoffen wagte, mehr.",
+          "Als er früher wagte mehr verdient er heute hoffen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代词优先：„Ich habe ＿＿ das Paket gestern gebracht.\"（ihm)",
+        "explain": "代词宾语 ihm 排在名词宾语 das Paket 之前，中场里代词永远优先于名词。",
+        "answer": "ihm"
+      },
+      {
+        "type": "order",
+        "q": "按 TeKaMoLo 组句",
+        "explain": "时间 heute → 原因 → 方式 → 地点 ins Büro → 分词收尾。",
+        "tokens": [
+          "mit dem Fahrrad",
+          "Er",
+          "ist",
+          "heute",
+          "wegen des Streiks",
+          "ins Büro",
+          "gefahren."
+        ],
+        "answer": [
+          "Er",
+          "ist",
+          "heute",
+          "wegen des Streiks",
+          "mit dem Fahrrad",
+          "ins Büro",
+          "gefahren."
+        ],
+        "displayAnswer": "Er ist heute wegen des Streiks mit dem Fahrrad ins Büro gefahren."
+      },
+      {
+        "type": "choice",
+        "q": "前场放什么最合「旧信息」原则？",
+        "explain": "前场是主题槽，承接旧信息是它的本职；主语只是默认值。",
+        "options": [
+          "把上一句谈过的对象放前场承前",
+          "把全新信息藏在前场",
+          "前场永远只能放主语"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "括号合围：„Kein Thema hat die Öffentlichkeit so ＿＿ wie die Energiepreise.\"（beschäftigen 分词）",
+        "explain": "hat … beschäftigt 构成括号，so … wie 比较殿后出格。",
+        "answer": "beschäftigt"
+      },
+      {
+        "type": "choice",
+        "q": "读长句第一步是？",
+        "explain": "骨架优先是长句解析的铁律。",
+        "options": [
+          "先找变位动词与右括号定骨架",
+          "从第一个词开始逐词翻译",
+          "先查所有生词再读"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "主语后置：„Gestern ＿＿ der Zug wieder ausgefallen.\"（ist)",
+        "explain": "前场被 Gestern 占有时，主语 der Zug 退到动词之后，ist 恒居第二位。",
+        "answer": "ist"
+      }
+    ],
+    "reading": {
+      "text": "Original: „Die von der Opposition scharf kritisierte Entscheidung der Regierung, die Energiepreise trotz steigender Kosten für die Verbraucher zu deckeln, wurde gestern nach wochenlangen Verhandlungen, die beide Seiten an den Rand des Scheiterns gebracht hatten, im Parlament mit knapper Mehrheit beschlossen.\"\n解剖：①左括号 wurde … 右括号 beschlossen（被动骨架）②主语 Die Entscheidung der Regierung ③插入 1:von der Opposition scharf kritisierte（扩展定语修饰 Entscheidung) ④插入 2:die Energiepreise … zu deckeln（定语性 zu 不定式）⑤时间 gestern nach wochenlangen Verhandlungen ⑥插入 3:die beide Seiten … gebracht hatten（关系从句修饰 Verhandlungen) ⑦地点状语 im Parlament ⑧方式 mit knapper Mehrheit。主干一句话：议会昨天以微弱多数通过了政府那项决定。",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这句的主干主语和谓语是什么？（答：主语 die Entscheidung der Regierung；谓语 wurde … beschlossen（被通过）) ②三处插入成分分别是什么类型？（答：扩展分词定语、定语性 zu 不定式、关系从句）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "组装旗舰长句：用给定积木拼一句 20 词以上的正式句并口头拆给「学生」听：主干——Der Ausschuss hat den Plan beschlossen；积木——时间 gestern；扩展定语 von Experten erarbeiteten（修饰 Plan)；zu 不定式块 die Kosten innerhalb von zwei Jahren deutlich zu senken；关系从句 der lange umstritten war（修饰 Plan)。",
+      "sample": "范文：Der Ausschuss hat gestern den von Experten erarbeiteten Plan, der lange umstritten war, beschlossen, die Kosten innerhalb von zwei Jahren deutlich zu senken.（拆解：hat…beschlossen 为骨架，Plan 带扩展定语和关系从句，zu 不定式块出格表 Plan 的内容。）",
+      "selfcheck": "自查：前场只有一位 □；分词定语在名词前、zu 块在括号后 □；自己能三步拆回主干 □。"
+    },
+    "writingLabel": "写作"
+  }
+]

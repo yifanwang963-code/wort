@@ -1,0 +1,2941 @@
+[
+  {
+    "id": "g-a2-07",
+    "level": "A2",
+    "order": 10,
+    "title": "双宾语与动词的格支配扩展",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（双宾语语序——A1 学了名词版，这里补全代词版）",
+      "headers": [
+        "宾语构成",
+        "顺序",
+        "例"
+      ],
+      "rows": [
+        [
+          "名词 + 名词",
+          "与格 → 宾格",
+          "Ich gebe dem Kind das Buch."
+        ],
+        [
+          "代词 + 名词",
+          "代词在前（不论格）",
+          "Ich gebe ihm das Buch. / Ich zeige es dem Kind."
+        ],
+        [
+          "代词 + 代词",
+          "宾格 → 与格（反转！）",
+          "Ich gebe es ihm.（不是 ihm es）"
+        ],
+        [
+          "否定/强调",
+          "顺序不变，靠重音",
+          "Ich gebe es ihm, nicht ihr."
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（格支配动词扩展清单）",
+        "headers": [
+          "只带与格（扩展 A1 的 10 个）",
+          "带宾格 + 与格（给/说/拿类）"
+        ],
+        "rows": [
+          [
+            "helfen, danken, gefallen, gehören, passen, schmecken, wehtun, antworten, folgen（sein）, gratulieren（祝贺）, vertrauen（信任）, begegnen（sein，遇见）, zuhören（认真听）, glauben（相信某人）, zustimmen（认读，赞同）, widersprechen（认读，反驳）",
+            "geben, schenken, zeigen, erklären, erzählen, schreiben, schicken, bringen, leihen, verkaufen, anbieten, mitbringen, vorlesen（认读，朗读给…）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "双代词反转是本单元的核心新点：两个都是代词时，顺序翻过来——宾格代词在前。口诀：名词组「与先宾后」，代词组「宾先与后」，混合组「代词永远在前」。",
+      "es 永远抢先：es 和其他代词同现时 es 最靠前（Ich gebe es ihm. / Ich zeige es ihr.）。",
+      "这批与格动词的共同点：动作「落点是人、东西不转移」。gratulieren/vertrauen/glauben 带人不用 zu/für 中转：Ich gratuliere dir.（不说 zu dir）Ich glaube dir.（信你这个人）vs Ich glaube an dich.（认读：信仰/坚信，分工不同）。",
+      "begegnen 用 sein 助动词且带与格：Ich bin ihm im Park begegnet."
+    ],
+    "examples": [
+      {
+        "de": "Ich gebe dem Kind das Buch.",
+        "zh": ""
+      },
+      {
+        "de": "Ich gebe ihm das Buch.",
+        "zh": ""
+      },
+      {
+        "de": "Ich gebe es ihm.",
+        "zh": ""
+      },
+      {
+        "de": "Sie erzählt den Kindern eine Geschichte.",
+        "zh": ""
+      },
+      {
+        "de": "Er zeigt es ihr auf dem Handy.",
+        "zh": ""
+      },
+      {
+        "de": "Wir gratulieren dir zum Geburtstag!",
+        "zh": ""
+      },
+      {
+        "de": "Ich bin ihm gestern im Park begegnet.",
+        "zh": ""
+      },
+      {
+        "de": "Kannst du mir das Wort erklären?",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "双代词按名词顺序排（„Ich gebe ihm es.\"）：两个代词必须 es ihm。",
+      "gratulieren 后面加 zu：„Ich gratuliere zu dir\" 是错的，正确 Ich gratuliere dir（zu 只跟事：zum Geburtstag）。",
+      "antworten 带与格人、宾格事：Ich antworte dir（人）/ Ich beantworte die Frage（事，beantworten 带宾格）——两个动词分工，别混。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "双代词的正确顺序",
+        "explain": "双代词宾格在前。",
+        "options": [
+          "Ich gebe ihm es.",
+          "Ich gebe es ihm.",
+          "Ich gebe es ihn."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "代词填空",
+        "explain": "代词 + 名词，代词在前，用与格 ihm。",
+        "display": "Sie zeigt ＿＿ das Foto.（给「他」看照片，名词宾语）",
+        "answer": "ihm"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "es 抢先，宾格先于与格。",
+        "tokens": [
+          "gebe",
+          "Ich",
+          "es",
+          "ihm"
+        ],
+        "answer": [
+          "Ich",
+          "gebe",
+          "es",
+          "ihm"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "„Ich gratuliere ＿＿ zum Geburtstag!\"",
+        "explain": "gratulieren 直接带与格人。",
+        "options": [
+          "dir",
+          "zu dir",
+          "dich"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "助动词与格",
+        "explain": "begegnen 用 sein。",
+        "display": "Ich ＿＿ ihm im Park begegnet.",
+        "answer": "bin"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "es ihr = 把它给她（看）。",
+        "audio": "Er zeigt es ihr auf dem Handy.",
+        "options": [
+          "他把东西给她看",
+          "他把她给它看",
+          "他给她买了手机"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "动词按格支配分筐",
+        "explain": "按动作落点分：只落人是与格，物转移是双宾格。",
+        "groups": [
+          "只带与格",
+          "宾格+与格",
+          "只带宾格"
+        ],
+        "items": [
+          {
+            "text": "gratulieren",
+            "group": 0
+          },
+          {
+            "text": "schenken",
+            "group": 1
+          },
+          {
+            "text": "besuchen",
+            "group": 2
+          },
+          {
+            "text": "vertrauen",
+            "group": 0
+          },
+          {
+            "text": "erklären",
+            "group": 1
+          },
+          {
+            "text": "einladen",
+            "group": 2
+          },
+          {
+            "text": "begegnen",
+            "group": 0
+          },
+          {
+            "text": "erzählen",
+            "group": 1
+          },
+          {
+            "text": "verstehen",
+            "group": 2
+          },
+          {
+            "text": "zuhören",
+            "group": 0
+          },
+          {
+            "text": "anbieten",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "代词对填空",
+        "explain": "es 在前，dir 在后。",
+        "display": "— Gibst du mir das Buch? — Ja, ich gebe ＿＿ ＿＿.（它+给你）",
+        "answer": "es dir"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "名词双宾语：与格先。",
+        "tokens": [
+          "erzählt",
+          "Sie",
+          "Kindern",
+          "eine Geschichte",
+          "den"
+        ],
+        "answer": [
+          "Sie",
+          "erzählt",
+          "den",
+          "Kindern",
+          "eine Geschichte"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪个对",
+        "explain": "antworten 带与格人。",
+        "options": [
+          "Ich antworte dir morgen.",
+          "Ich antworte dich morgen.",
+          "Ich antworte zu dir morgen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补代词对",
+        "explain": "双代词顺序 es ihr。",
+        "audio": "Ich zeige es ihr auf dem Handy.",
+        "display": "Ich zeige ＿＿ ＿＿ auf dem Handy.",
+        "answer": "es ihr"
+      },
+      {
+        "type": "fill",
+        "q": "动词选择填空",
+        "explain": "对事用 beantworten + 宾格。",
+        "display": "Ich ＿＿ die Frage morgen.（回答这个问题）",
+        "answer": "beantworte"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "mir（代词）先于名词宾语。",
+        "tokens": [
+          "du",
+          "Kannst",
+          "mir",
+          "erklären",
+          "das Wort"
+        ],
+        "answer": [
+          "Kannst",
+          "du",
+          "mir",
+          "das Wort",
+          "erklären"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "begegnen 的正确句",
+        "explain": "sein + 与格。",
+        "options": [
+          "Ich bin ihm begegnet.",
+          "Ich habe ihn begegnet.",
+          "Ich bin ihn begegnet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代词填空",
+        "explain": "uns 主宾与同形，与格用 uns。",
+        "display": "Er leiht ＿＿ sein Auto.（借给「我们」）",
+        "answer": "uns"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "dir 与格别写成 dich。",
+        "audio": "Wir gratulieren dir zum Geburtstag!",
+        "answer": "Wir gratulieren dir zum Geburtstag!"
+      }
+    ],
+    "reading": {
+      "text": "Am Morgen bringt Frau Lan ihrem Chef die Post. Sie zeigt ihm einen wichtigen Brief und erklärt ihm das Problem. „Kannst du mir den Brief bis Mittag beantworten?\", fragt er. Später erzählt sie einer Kollegin die Neuigkeit: Der Chef hat ihr eine neue Aufgabe gegeben. Die Kollegin gratuliert ihr sofort. Am Abend schreibt Frau Lan ihrem Bruder eine lange Mail und schickt ihm Fotos vom Büro.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Am Morgen bringt Frau Lan ihrem Chef die Post. Sie zeigt ihm einen wichtigen Brief und erklärt ihm das Problem. „Kannst du mir den Brief bis Mittag beantworten?\", fragt er. Später erzählt sie einer Kollegin die Neuigkeit: Der Chef hat ihr eine neue Aufgabe gegeben. Die Kollegin gratuliert ihr sofort. Am Abend schreibt Frau Lan ihrem Bruder eine lange Mail und schickt ihm Fotos vom Büro."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①Frau Lan 给老板做了哪三件事？（答：送邮件、给他看一封重要的信、向他解释问题。）②„Die Kollegin gratuliert ihr\" 里的 ihr 指谁？（答：Frau Lan。）"
+    },
+    "writing": {
+      "task": "写 5 句含双宾语的句子，其中至少 1 句双代词（es ihm / es ihr 类）、1 句 gratulieren 或 begegnen。",
+      "sample": "范文：Ich schenke meiner Mutter ein Buch. Ich habe es ihr gestern gegeben. Mein Bruder zeigt mir sein neues Handy, und ich zeige es ihm auch. Wir gratulieren unserem Lehrer zum Geburtstag. Gestern bin ich meinem Nachbarn im Treppenhaus begegnet.",
+      "selfcheck": "自查：双代词句顺序是宾格在前 □；gratulieren 后面直接跟与格人 □；名词双宾语是与格先 □。"
+    }
+  },
+  {
+    "id": "g-a2-08",
+    "level": "A2",
+    "order": 11,
+    "title": "反身动词全量",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（反身代词全表——宾格与与格）",
+      "headers": [
+        "人称",
+        "宾格反身（动作落在自己整体）",
+        "与格反身（动作落在自己的一部分/为自己）"
+      ],
+      "rows": [
+        [
+          "ich",
+          "mich",
+          "mir"
+        ],
+        [
+          "du",
+          "dich",
+          "dir"
+        ],
+        [
+          "er/sie/es",
+          "sich",
+          "sich"
+        ],
+        [
+          "wir",
+          "uns",
+          "uns"
+        ],
+        [
+          "ihr",
+          "euch",
+          "euch"
+        ],
+        [
+          "sie/Sie",
+          "sich",
+          "sich"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（反身 + 介词的固定搭配，本单元主菜）",
+        "headers": [
+          "搭配",
+          "例"
+        ],
+        "rows": [
+          [
+            "sich freuen auf + Akk（将来的事）",
+            "Ich freue mich auf den Urlaub."
+          ],
+          [
+            "sich freuen über + Akk（已发生的）",
+            "Er freut sich über das Geschenk."
+          ],
+          [
+            "sich interessieren für + Akk",
+            "Sie interessiert sich für Musik."
+          ],
+          [
+            "sich erinnern an + Akk",
+            "Erinnerst du dich an ihn?"
+          ],
+          [
+            "sich beschweren über + Akk / bei + Dat",
+            "Er beschwert sich über das Essen. / Sie beschwert sich beim Chef."
+          ],
+          [
+            "sich bedanken für + Akk / bei + Dat",
+            "Ich bedanke mich für die Hilfe. / Bedank dich bei ihm!"
+          ],
+          [
+            "sich entschuldigen für + Akk / bei + Dat",
+            "Er entschuldigt sich für den Fehler."
+          ],
+          [
+            "sich kümmern um + Akk",
+            "Sie kümmert sich um die Kinder."
+          ],
+          [
+            "sich treffen mit + Dat",
+            "Wir treffen uns mit Freunden."
+          ],
+          [
+            "sich verlieben in + Akk",
+            "Er hat sich in sie verliebt."
+          ],
+          [
+            "sich ärgern über + Akk",
+            "Ärger dich nicht über Kleinigkeiten!"
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            7,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ],
+          [
+            10,
+            0
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "宾格还是与格，看动作落点：落在「自己整个人」用宾格（sich freuen、sich setzen）；落在「自己身上的某个部分或为自己添置」用与格——洗手 sich die Hände waschen（手是宾格实物，自己退到与格）、买东西 sich ein Auto kaufen。判据：句中已经另有一个宾格实物时，反身只能用与格。",
+      "freuen 的时间分工再强调：auf = 还没来的（期待），über = 已经有的（高兴）。这是 A2 考试的经典陷阱。",
+      "反身代词的位置：紧跟变位动词（陈述句）或主语之后（Ich freue mich…；Freust du dich…？），从句里跟在主语后（…, weil ich mich freue）。",
+      "命令式：反身代词跟在动词后连读：Setz dich! / Beeilt euch! / Entschuldigen Sie sich!"
+    ],
+    "examples": [
+      {
+        "de": "Ich freue mich auf das Wochenende.",
+        "zh": ""
+      },
+      {
+        "de": "Er freut sich über die gute Note.",
+        "zh": ""
+      },
+      {
+        "de": "Sie wäscht sich die Hände.",
+        "zh": ""
+      },
+      {
+        "de": "Wir treffen uns morgen mit Freunden.",
+        "zh": ""
+      },
+      {
+        "de": "Er hat sich um die Kinder gekümmert.",
+        "zh": ""
+      },
+      {
+        "de": "Bedank dich bei der Lehrerin!",
+        "zh": ""
+      },
+      {
+        "de": "Ich kann mich nicht an seinen Namen erinnern.",
+        "zh": ""
+      },
+      {
+        "de": "Sie kauft sich ein neues Handy.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "„Ich wasche mich die Hände\"：实物宾格在场，反身必须与格——Ich wasche mir die Hände.",
+      "freuen auf/über 混用：礼物已经在手里只能 über；下周的假期只能 auf。",
+      "完成时别漏 sich：Er hat sich gefreut.（sich 坐在助动词后、分词前）"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich freue ＿＿ auf den Urlaub.\"",
+        "explain": "freuen 落在自己整体，宾格 mich。",
+        "options": [
+          "mich",
+          "mir",
+          "sich"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "与格反身填空",
+        "explain": "有实物宾格 Hände，反身用与格，er/sie 与格反身是 sich。",
+        "display": "Sie wäscht ＿＿ die Hände.",
+        "answer": "sich"
+      },
+      {
+        "type": "choice",
+        "q": "已经收到的礼物",
+        "explain": "已发生用 über。",
+        "options": [
+          "Ich freue mich auf das Geschenk.",
+          "Ich freue mich über das Geschenk."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "sich interessieren für + 宾格。",
+        "display": "Er interessiert sich ＿＿ Geschichte.",
+        "answer": "für"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "反身代词紧跟主语 du。",
+        "tokens": [
+          "dich",
+          "Erinnerst",
+          "an ihn",
+          "du"
+        ],
+        "answer": [
+          "Erinnerst",
+          "du",
+          "dich",
+          "an ihn"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "sich kümmern um = 照顾。",
+        "audio": "Sie kümmert sich um die Kinder.",
+        "options": [
+          "她照顾孩子们",
+          "她给孩子们买东西",
+          "她和孩子们见面"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "sich treffen mit + 与格。",
+        "display": "Wir treffen uns ＿＿ Freunden im Café.",
+        "answer": "mit"
+      },
+      {
+        "type": "classify",
+        "q": "把搭配分筐",
+        "explain": "先把 freuen 家族和情绪类（über）归一筐。",
+        "groups": [
+          "auf/über 组",
+          "其他介词组"
+        ],
+        "items": [
+          {
+            "text": "sich freuen auf",
+            "group": 0
+          },
+          {
+            "text": "sich freuen über",
+            "group": 0
+          },
+          {
+            "text": "sich ärgern über",
+            "group": 0
+          },
+          {
+            "text": "sich beschweren über",
+            "group": 0
+          },
+          {
+            "text": "sich interessieren für",
+            "group": 1
+          },
+          {
+            "text": "sich erinnern an",
+            "group": 1
+          },
+          {
+            "text": "sich kümmern um",
+            "group": 1
+          },
+          {
+            "text": "sich treffen mit",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句（完成时）",
+        "explain": "sich 在助动词之后。",
+        "tokens": [
+          "hat",
+          "Er",
+          "sich",
+          "gefreut",
+          "sehr"
+        ],
+        "answer": [
+          "Er",
+          "hat",
+          "sich",
+          "sehr",
+          "gefreut"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "命令式正确形",
+        "explain": "du 命令式 Bedank dich!",
+        "options": [
+          "Bedank dich bei ihm!",
+          "Bedanken dich bei ihm!",
+          "Bedankst dich bei ihm!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "与格反身填空",
+        "explain": "有实物宾格 ein neues Handy，反身用与格 mir。",
+        "display": "Ich kaufe ＿＿ ein neues Handy.（为我自己）",
+        "answer": "mir"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补搭配",
+        "explain": "sich erinnern an + 宾格。",
+        "audio": "Ich kann mich nicht an seinen Namen erinnern.",
+        "display": "Ich kann mich nicht ＿＿ seinen Namen erinnern.",
+        "answer": "an"
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "为某事道歉 sich entschuldigen für。",
+        "display": "Er entschuldigt sich ＿＿ den Fehler.",
+        "answer": "für"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "sich beschweren über。",
+        "options": [
+          "Sie beschwert sich über das Essen.",
+          "Sie beschwert sich auf das Essen.",
+          "Sie beschwert ihr über das Essen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "uns 紧跟变位动词。",
+        "tokens": [
+          "uns",
+          "Wir",
+          "morgen",
+          "treffen",
+          "mit Freunden"
+        ],
+        "answer": [
+          "Wir",
+          "treffen",
+          "uns",
+          "morgen",
+          "mit Freunden"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "将来假期用 auf。",
+        "audio": "Freust du dich auf die Ferien?",
+        "answer": "Freust du dich auf die Ferien?"
+      }
+    ],
+    "reading": {
+      "text": "Seit Montag arbeitet Herr Yilmaz bei uns. Am ersten Tag hat er sich bei allen vorgestellt. Er interessiert sich für Computer und freut sich auf die neue Arbeit. In der Mittagspause trifft er sich mit Kollegen in der Kantine. Er kümmert sich freundlich um die neuen Praktikanten und erinnert sich an alle Namen. „Ich fühle mich hier wohl\", sagt er. Nur über den langen Weg zur Arbeit ärgert er sich ein bisschen.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Seit Montag arbeitet Herr Yilmaz bei uns. Am ersten Tag hat er sich bei allen vorgestellt. Er interessiert sich für Computer und freut sich auf die neue Arbeit. In der Mittagspause trifft er sich mit Kollegen in der Kantine. Er kümmert sich freundlich um die neuen Praktikanten und erinnert sich an alle Namen. „Ich fühle mich hier wohl\", sagt er. Nur über den langen Weg zur Arbeit ärgert er sich ein bisschen."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①Herr Yilmaz 对什么感兴趣、对什么感到高兴（期待）？（答：对计算机感兴趣；期待新工作——用 auf，因为是即将展开的事。）②他唯一有点烦恼的是什么？（答：上班路太长。）"
+    },
+    "writing": {
+      "task": "写 5 句介绍「我的一天与我的期待」，至少用 3 个反身 + 介词搭配，其中 1 个 auf、1 个 über。",
+      "sample": "范文：Ich freue mich auf das Wochenende. Am Samstag treffe ich mich mit meiner Schwester. Sie interessiert sich für Filme, und wir gehen ins Kino. Letzte Woche habe ich ein gutes Zeugnis bekommen — ich freue mich immer noch darüber. Am Sonntag kümmere ich mich um meine Pflanzen.",
+      "selfcheck": "自查：auf 用在未来的事、über 用在已发生的事 □；反身代词人称对 □；完成时里 sich 没丢 □。"
+    }
+  },
+  {
+    "id": "g-a2-09",
+    "level": "A2",
+    "order": 12,
+    "title": "动词 + 介词搭配",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（高频 20 组，按介词分组记——介词决定格，没道理可讲，整体背）",
+      "headers": [
+        "介词",
+        "搭配（+ 格）"
+      ],
+      "rows": [
+        [
+          "auf + Akk",
+          "warten auf（等）、sich freuen auf（期待）、aufpassen auf（照看）、stolz sein auf（认读，为…自豪）"
+        ],
+        [
+          "an + Akk/Dat",
+          "denken an + Akk（想起）、sich erinnern an + Akk、teilnehmen an + Dat（参加）、glauben an + Akk（坚信）"
+        ],
+        [
+          "über + Akk",
+          "sprechen über、diskutieren über、lachen über、sich beschweren über、sich freuen über"
+        ],
+        [
+          "mit + Dat",
+          "sprechen mit、anfangen mit（着手）、aufhören mit（停止做）、zufrieden sein mit（对…满意）"
+        ],
+        [
+          "für + Akk",
+          "sich interessieren für、danken für、sich bedanken für、sich entscheiden für（决定选，A2 高频）"
+        ],
+        [
+          "von + Dat",
+          "träumen von、erzählen von、abhängen von（认读，取决于）"
+        ],
+        [
+          "um + Akk",
+          "bitten um（请求给）、sich kümmern um、gehen um（事关，认读：Es geht um …）"
+        ],
+        [
+          "zu + Dat",
+          "gratulieren zu、einladen zu、gehören zu（属于）"
+        ],
+        [
+          "vor + Dat",
+          "Angst haben vor（害怕）、warnen vor（认读，警告）"
+        ],
+        [
+          "nach + Dat",
+          "fragen nach（打听）、riechen nach（认读，有…气味）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "提问方式跟着变：问人用介词 + wem/wen（Mit wem sprichst du? / Auf wen wartest du?）；问物/事用 wo(r) + 介词（Worauf wartest du? — 等的是什么事；Womit fängst du an?）。",
+      "回答物/事时可用 da(r) + 介词（代副词）：„Worauf wartest du?\" — „Darauf warte ich schon lange.\" / Ich freue mich darauf. 本单元要求产出高频 6 个：darauf、damit、davon、dafür、darüber、daran。其余认读。",
+      "wo(r)/da(r) 的 r 只在介词以元音开头时出现：auf→worauf/darauf、an→woran/daran、über→worüber/darüber；辅音开头直接拼：mit→womit/damit、für→wofür/dafür。",
+      "搭配里的介词不能用中文直译替换：warten auf（不是 für）、interessieren für、Angst vor。错介词在考试里和错词尾同等扣分。"
+    ],
+    "examples": [
+      {
+        "de": "Worauf wartest du? — Ich warte auf den Bus.",
+        "zh": ""
+      },
+      {
+        "de": "Womit fängst du an? — Ich fange mit den Hausaufgaben an.",
+        "zh": ""
+      },
+      {
+        "de": "Er denkt oft an seine Familie.",
+        "zh": ""
+      },
+      {
+        "de": "Wir sprechen über den neuen Film.",
+        "zh": ""
+      },
+      {
+        "de": "Ich interessiere mich für Geschichte.",
+        "zh": ""
+      },
+      {
+        "de": "Sie träumt von einer Reise nach Japan.",
+        "zh": ""
+      },
+      {
+        "de": "Darf ich Sie um Hilfe bitten?",
+        "zh": ""
+      },
+      {
+        "de": "Ich freue mich darauf!（darauf 指前面提过的事）",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "问人事混用：对人不能用 worauf——„Worauf wartest du?\" 等的是事；等的人是 „Auf wen wartest du?\"。",
+      "da(r) 形式指代人：darauf 只能指事，指人必须用介词 + 代词（auf ihn）。",
+      "teilnehmen 的 an 带与格（am Kurs teilnehmen），和 denken an 的宾格分开记。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich warte ＿＿ den Bus.\"",
+        "explain": "warten auf + 宾格。",
+        "options": [
+          "auf",
+          "für",
+          "an"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "sich interessieren für。",
+        "display": "Sie interessiert sich ＿＿ Musik.",
+        "answer": "für"
+      },
+      {
+        "type": "fill",
+        "q": "提问词填空（问事）",
+        "explain": "问事用 wo(r)+介词，auf 元音开头加 r。",
+        "display": "＿＿ wartest du? — Auf den Bus.",
+        "answer": "Worauf"
+      },
+      {
+        "type": "choice",
+        "q": "问人（等朋友）",
+        "explain": "问人用介词 + wen。",
+        "options": [
+          "Worauf wartest du?",
+          "Auf wen wartest du?",
+          "Womit wartest du?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "anfangen mit，前缀 an 回句尾。",
+        "tokens": [
+          "fange",
+          "Ich",
+          "an",
+          "mit",
+          "den Hausaufgaben"
+        ],
+        "answer": [
+          "Ich",
+          "fange",
+          "mit",
+          "den Hausaufgaben",
+          "an"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听问句选答句",
+        "explain": "sich freuen auf 问期待的事。",
+        "audio": "Worauf freust du dich?",
+        "options": [
+          "Auf das Wochenende.",
+          "Mit meinen Freunden.",
+          "Für das Geschenk."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代副词填空",
+        "explain": "指事用 darauf。",
+        "display": "— Worauf wartest du? — Ich warte schon lange ＿＿.",
+        "answer": "darauf"
+      },
+      {
+        "type": "classify",
+        "q": "搭配按介词分筐",
+        "explain": "介词是搭配的身份证。",
+        "groups": [
+          "auf",
+          "an",
+          "über"
+        ],
+        "items": [
+          {
+            "text": "warten auf",
+            "group": 0
+          },
+          {
+            "text": "sich freuen auf",
+            "group": 0
+          },
+          {
+            "text": "aufpassen auf",
+            "group": 0
+          },
+          {
+            "text": "denken an",
+            "group": 1
+          },
+          {
+            "text": "teilnehmen an",
+            "group": 1
+          },
+          {
+            "text": "sich erinnern an",
+            "group": 1
+          },
+          {
+            "text": "sprechen über",
+            "group": 2
+          },
+          {
+            "text": "lachen über",
+            "group": 2
+          },
+          {
+            "text": "diskutieren über",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "teilnehmen an + 与格（dem Kurs）。",
+        "display": "Er nimmt ＿＿ dem Kurs teil.",
+        "answer": "an"
+      },
+      {
+        "type": "choice",
+        "q": "„Sie träumt ＿＿ einer Reise.\"",
+        "explain": "träumen von + 与格。",
+        "options": [
+          "von",
+          "über",
+          "an"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补介词",
+        "explain": "sprechen über + 宾格。",
+        "audio": "Wir sprechen über den neuen Film.",
+        "display": "Wir sprechen ＿＿ den neuen Film.",
+        "answer": "über"
+      },
+      {
+        "type": "fill",
+        "q": "提问词填空",
+        "explain": "mit 辅音开头，womit 不加 r。",
+        "display": "＿＿ fängst du an? — Mit der Arbeit.",
+        "answer": "Womit"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "darauf 指代前文的事。",
+        "tokens": [
+          "mich",
+          "Ich",
+          "darauf",
+          "freue"
+        ],
+        "answer": [
+          "Ich",
+          "freue",
+          "mich",
+          "darauf"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "Angst haben vor + 与格。",
+        "options": [
+          "Ich habe Angst vor Hunden.",
+          "Ich habe Angst von Hunden.",
+          "Ich habe Angst für Hunde."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "bitten um + 宾格。",
+        "display": "Darf ich Sie ＿＿ Hilfe bitten?",
+        "answer": "um"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "denken an + 宾格。",
+        "audio": "Er denkt oft an seine Familie.",
+        "answer": "Er denkt oft an seine Familie."
+      },
+      {
+        "type": "fill",
+        "q": "代副词填空",
+        "explain": "für 的代副词是 dafür。",
+        "display": "— Wofür interessierst du dich? — Ich interessiere mich ＿＿.（指事：就为这个）",
+        "answer": "dafür"
+      },
+      {
+        "type": "choice",
+        "q": "gehören 的搭配",
+        "explain": "gehören 直接带与格；gehören zu 是「属于某群体」（Er gehört zu uns.）。",
+        "options": [
+          "Das Buch gehört zu mir.（属于我）",
+          "Das Buch gehört mir.",
+          "Das Buch gehört von mir."
+        ],
+        "answer": 1
+      }
+    ],
+    "reading": {
+      "text": "Eine Zeitung fragt: Worauf warten die Leute in unserer Stadt? Viele warten auf den Bus — manchmal zwanzig Minuten! Studenten warten auf ihre Prüfungsergebnisse, und Kinder freuen sich auf die Ferien. „Ich warte auf einen Anruf von einer Firma\", sagt ein junger Mann. „Ich interessiere mich für eine neue Stelle und hoffe darauf.\" Worüber sprechen die Leute im Bus? Über das Wetter, natürlich — und darüber, dass der Bus zu spät kommt.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Eine Zeitung fragt: Worauf warten die Leute in unserer Stadt? Viele warten auf den Bus — manchmal zwanzig Minuten! Studenten warten auf ihre Prüfungsergebnisse, und Kinder freuen sich auf die Ferien. „Ich warte auf einen Anruf von einer Firma\", sagt ein junger Mann. „Ich interessiere mich für eine neue Stelle und hoffe darauf.\" Worüber sprechen die Leute im Bus? Über das Wetter, natürlich — und darüber, dass der Bus zu spät kommt."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①文中出现了哪几个动词 + 介词搭配？（答：warten auf、sich freuen auf、sich interessieren für、hoffen auf（darauf）、sprechen über。）②年轻人等的是什么？（答：一家公司的电话，他对一个新职位感兴趣。）"
+    },
+    "writing": {
+      "task": "写 5 句「我的等待与期待」，至少用 3 个本单元搭配，其中 1 句用 worauf/womit 提问或 darauf/damit 回答。",
+      "sample": "范文：Ich warte jeden Morgen auf den Bus. Im Bus denke ich an meine Familie in der Heimat. Ich interessiere mich für deutsche Filme und spreche gern mit Freunden darüber. Im Moment freue ich mich auf die Ferien — ich freue mich wirklich darauf!",
+      "selfcheck": "自查：每个搭配的介词没串 □；问事用 wo(r)+、指事用 da(r)+ □；teilnehmen 类 an + 与格没写成宾格 □。"
+    }
+  },
+  {
+    "id": "g-a2-10",
+    "level": "A2",
+    "order": 13,
+    "title": "双格介词全量与方位动词对",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（九个双格介词全量产出——问 wohin 用宾格，问 wo 用与格）",
+      "headers": [
+        "介词",
+        "wohin（Akk）",
+        "wo（Dat）"
+      ],
+      "rows": [
+        [
+          "in",
+          "in die Schule（去学校）",
+          "in der Schule（在学校里）"
+        ],
+        [
+          "an",
+          "an die Tafel（到黑板前）",
+          "an der Tafel（在黑板上/旁）"
+        ],
+        [
+          "auf",
+          "auf den Tisch（放到桌上）",
+          "auf dem Tisch（在桌上）"
+        ],
+        [
+          "über",
+          "über die Straße（认读偏多：挂到上方）",
+          "über dem Tisch（在上方悬着）"
+        ],
+        [
+          "unter",
+          "unter den Tisch（钻到桌下）",
+          "unter dem Tisch（在桌下）"
+        ],
+        [
+          "vor",
+          "vor das Haus（走到房前）",
+          "vor dem Haus（在房前）"
+        ],
+        [
+          "hinter",
+          "hinter das Haus（到房后）",
+          "hinter dem Haus（在房后）"
+        ],
+        [
+          "neben",
+          "neben den Stuhl（放到椅子旁）",
+          "neben dem Stuhl（在椅子旁）"
+        ],
+        [
+          "zwischen",
+          "zwischen die Stühle（放到椅子间）",
+          "zwischen den Stühlen（在椅子间）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（方位动词对——「放」的动作 vs「在」的状态，是双格介词的人形搭档）",
+        "headers": [
+          "动作（带宾格，wohin）",
+          "状态（带与格，wo）",
+          "完成时"
+        ],
+        "rows": [
+          [
+            "stellen（竖放）",
+            "stehen",
+            "hat gestellt / hat gestanden（südlich ist gestanden，认读）"
+          ],
+          [
+            "legen（平放）",
+            "liegen",
+            "hat gelegt / hat gelegen"
+          ],
+          [
+            "setzen（放坐下）",
+            "sitzen",
+            "hat gesetzt / hat gesessen"
+          ],
+          [
+            "hängen（及物，挂）",
+            "hängen（不及物，悬着）",
+            "hat gehängt / hat gehangen"
+          ],
+          [
+            "sich setzen（坐下）",
+            "sitzen",
+            "hat sich gesetzt"
+          ],
+          [
+            "sich hinlegen（躺下）",
+            "liegen",
+            "hat sich hingelegt"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "选介词格先问问题：句子里有「移动到某地」的动作 → wohin → 宾格；只是「位于某地」→ wo → 与格。和 A1 对比专练 c2 的规则同一条，A2 把九个介词全量产出。",
+      "动词对的选择先于格：先有「放/在」的概念，才有格。把书平放到桌上 = legen + auf + Akk（Ich lege das Buch auf den Tisch.）；书已经在桌上 = liegen + auf + Dat（Das Buch liegt auf dem Tisch.）。stellen 用于「立着放」（瓶子、花瓶、椅子），legen 用于「躺着放」（书、本子、衣服）。",
+      "hängen 一词两形：及物弱变化（hängte/gehängt）表动作，不及物强变化（hing/gehangen）表状态：Ich hänge das Bild an die Wand. / Das Bild hängt an der Wand.",
+      "sich setzen / sich hinlegen 是「就位动作」，后接 wohin 宾格：Setz dich auf den Stuhl!"
+    ],
+    "examples": [
+      {
+        "de": "Ich stelle die Flasche auf den Tisch.",
+        "zh": ""
+      },
+      {
+        "de": "Die Flasche steht auf dem Tisch.",
+        "zh": ""
+      },
+      {
+        "de": "Leg das Handy neben den Teller!",
+        "zh": ""
+      },
+      {
+        "de": "Das Handy liegt neben dem Teller.",
+        "zh": ""
+      },
+      {
+        "de": "Er hängt das Bild an die Wand.",
+        "zh": ""
+      },
+      {
+        "de": "Das Bild hängt über dem Sofa.",
+        "zh": ""
+      },
+      {
+        "de": "Setz dich bitte auf den Stuhl!",
+        "zh": ""
+      },
+      {
+        "de": "Die Katze liegt unter dem Bett.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "状态句误用宾格：„Das Buch liegt auf den Tisch\" —— liegen 是状态，den 是 wohin 的格，矛盾。先定动词，再定格。",
+      "stellen/stehen 写反：放瓶子用 stellen（动作），瓶子站着用 stehen（状态）。",
+      "hängen 的完成时：动作 hat gehängt、状态 hat gehangen，别混。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich lege das Buch auf ＿＿ Tisch.\"",
+        "explain": "legen 是动作，wohin 用宾格 den。",
+        "options": [
+          "den",
+          "dem",
+          "der"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "格填空",
+        "explain": "liegen 是状态，wo 用与格 dem。",
+        "display": "Das Buch liegt auf ＿＿ Tisch.",
+        "answer": "dem"
+      },
+      {
+        "type": "choice",
+        "q": "竖放瓶子用哪个动词",
+        "explain": "瓶子立着放，stellen。",
+        "options": [
+          "legen",
+          "stellen",
+          "liegen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "动词填空",
+        "explain": "不及物 hängen 表状态。",
+        "display": "Das Bild ＿＿ an der Wand.（状态）",
+        "answer": "hängt"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "stellen + wohin 宾格。",
+        "tokens": [
+          "stelle",
+          "Ich",
+          "Flasche",
+          "auf den Tisch",
+          "die"
+        ],
+        "answer": [
+          "Ich",
+          "stelle",
+          "die",
+          "Flasche",
+          "auf den Tisch"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选图意",
+        "explain": "liegen 状态句。",
+        "audio": "Die Katze liegt unter dem Bett.",
+        "options": [
+          "猫正钻到床下",
+          "猫在床下躺着",
+          "猫在床上"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "格填空",
+        "explain": "wohin 宾格，das Haus 宾格 das。",
+        "display": "Er geht hinter ＿＿ Haus.（走到房后）",
+        "answer": "das"
+      },
+      {
+        "type": "classify",
+        "q": "动词按动作/状态分筐",
+        "explain": "动作组带 wohin，状态组带 wo。",
+        "groups": [
+          "动作",
+          "状态"
+        ],
+        "items": [
+          {
+            "text": "stellen",
+            "group": 0
+          },
+          {
+            "text": "legen",
+            "group": 0
+          },
+          {
+            "text": "setzen",
+            "group": 0
+          },
+          {
+            "text": "hängen（挂）",
+            "group": 0
+          },
+          {
+            "text": "stehen",
+            "group": 1
+          },
+          {
+            "text": "liegen",
+            "group": 1
+          },
+          {
+            "text": "sitzen",
+            "group": 1
+          },
+          {
+            "text": "hängen（悬）",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句（命令式）",
+        "explain": "sich setzen 是就位动作，后接宾格。",
+        "tokens": [
+          "dich",
+          "Setz",
+          "auf den Stuhl"
+        ],
+        "answer": [
+          "Setz",
+          "dich",
+          "auf den Stuhl"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "状态 liegen + 与格。",
+        "options": [
+          "Das Handy liegt neben dem Teller.",
+          "Das Handy liegt neben den Teller.",
+          "Das Handy legt neben dem Teller."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补格",
+        "explain": "hängen 动作，wohin 宾格。",
+        "audio": "Sie hängt das Bild über das Sofa.",
+        "display": "Sie hängt das Bild über ＿＿ Sofa.",
+        "answer": "das"
+      },
+      {
+        "type": "fill",
+        "q": "动词填空（完成时）",
+        "explain": "动作 hängen 弱变化，分词 gehängt。",
+        "display": "Ich habe das Bild an die Wand ＿＿.",
+        "answer": "gehängt"
+      },
+      {
+        "type": "fill",
+        "q": "格填空",
+        "explain": "悬在上方是状态，与格。",
+        "display": "Die Lampe hängt über ＿＿ Tisch.",
+        "answer": "dem"
+      },
+      {
+        "type": "choice",
+        "q": "平放本子",
+        "explain": "本子平放用 legen。",
+        "options": [
+          "Ich stelle das Heft auf den Tisch.",
+          "Ich lege das Heft auf den Tisch.",
+          "Ich stehe das Heft auf den Tisch."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "stehen 状态 + 与格。",
+        "tokens": [
+          "steht",
+          "Die Flasche",
+          "auf dem Tisch"
+        ],
+        "answer": [
+          "Die Flasche",
+          "steht",
+          "auf dem Tisch"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "legen 动作 + 宾格 den。",
+        "audio": "Leg das Handy neben den Teller!",
+        "answer": "Leg das Handy neben den Teller!"
+      },
+      {
+        "type": "fill",
+        "q": "格填空",
+        "explain": "复数与格 den（名词加 -n：Stühlen）。",
+        "display": "Wir sitzen zwischen ＿＿ Stühlen.",
+        "answer": "den"
+      },
+      {
+        "type": "choice",
+        "q": "zwischen 的 wohin",
+        "explain": "动作 wohin 用宾格 die Tische。",
+        "options": [
+          "Er stellt den Stuhl zwischen die Tische.",
+          "Er stellt den Stuhl zwischen den Tische.",
+          "Er stellt den Stuhl zwischen dem Tische."
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Am Samstag ziehen wir um. „Stell die Lampe neben das Sofa!\", sagt mein Vater. Ich stelle die Lampe neben das Sofa. Dann lege ich die Bücher auf den Tisch. Die Bücher liegen jetzt auf dem Tisch. Meine Mutter hängt ein Bild an die Wand im Wohnzimmer. Das Bild hängt über dem Sofa und sieht gut aus. Unser Hund liegt unter dem Tisch und schläft. Er setzt sich nicht, er hilft nicht — er schläft nur.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Am Samstag ziehen wir um. „Stell die Lampe neben das Sofa!\", sagt mein Vater. Ich stelle die Lampe neben das Sofa. Dann lege ich die Bücher auf den Tisch. Die Bücher liegen jetzt auf dem Tisch. Meine Mutter hängt ein Bild an die Wand im Wohnzimmer. Das Bild hängt über dem Sofa und sieht gut aus. Unser Hund liegt unter dem Tisch und schläft. Er setzt sich nicht, er hilft nicht — er schläft nur."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①文中哪些是「放」的动作句、哪些是「在」的状态句？（答：动作：stellt die Lampe、lege die Bücher、hängt ein Bild；状态：liegen auf dem Tisch、hängt über dem Sofa、liegt unter dem Tisch。）②狗在做什么？（答：躺在桌子下睡觉，什么忙都不帮。）"
+    },
+    "writing": {
+      "task": "写 5 句描述「我的房间现在与整理动作」，至少 2 句状态（liegen/stehen + 与格）、2 句动作（legen/stellen + 宾格）。",
+      "sample": "范文：Mein Schreibtisch steht am Fenster. Auf dem Tisch liegt mein Laptop, und neben dem Laptop steht eine Lampe. Jetzt räume ich auf: Ich stelle die Bücher ins Regal und lege das Handy auf den Schreibtisch. Der Stuhl steht zwischen dem Tisch und dem Bett.",
+      "selfcheck": "自查：动作句用宾格、状态句用与格 □；stellen/legen 按竖放/平放选对 □；复数与格名词加了 -n（该加时）□。"
+    }
+  },
+  {
+    "id": "g-a2-11",
+    "level": "A2",
+    "order": 14,
+    "title": "介词系统扩展",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（时间介词体系——按问题分工）",
+      "headers": [
+        "问法",
+        "介词 + 格",
+        "例"
+      ],
+      "rows": [
+        [
+          "几点 Wann（钟点）",
+          "um",
+          "um acht Uhr"
+        ],
+        [
+          "哪天/时段（天、节日、一天的段）",
+          "am + Dat",
+          "am Montag、am Abend、am Wochenende"
+        ],
+        [
+          "月份/季节/年份段",
+          "im",
+          "im Mai、im Winter、im Jahr 2026"
+        ],
+        [
+          "从何时起（持续到现在）",
+          "seit + Dat",
+          "seit zwei Jahren、seit Montag"
+        ],
+        [
+          "多久以前",
+          "vor + Dat",
+          "vor einer Woche、vor drei Tagen"
+        ],
+        [
+          "在…之后",
+          "nach + Dat",
+          "nach dem Essen、nach der Arbeit"
+        ],
+        [
+          "起止",
+          "von … bis",
+          "von Montag bis Freitag"
+        ],
+        [
+          "两点之间",
+          "zwischen + Dat",
+          "zwischen acht und neun"
+        ],
+        [
+          "大约（钟点）",
+          "gegen",
+          "gegen acht（八点左右）"
+        ],
+        [
+          "超过（时长）",
+          "über + Akk",
+          "über eine Stunde warten（认读偏多）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（二格介词认读线——阅读里认得出，不产出）",
+        "headers": [
+          "介词",
+          "义",
+          "例（认读）"
+        ],
+        "rows": [
+          [
+            "wegen + Gen",
+            "因为",
+            "Wegen des Wetters bleibt das Fest aus.（口语常说 wegen dem Wetter，认读即可）"
+          ],
+          [
+            "trotz + Gen",
+            "尽管",
+            "Trotz des Regens gehen wir spazieren."
+          ],
+          [
+            "während + Gen",
+            "在…期间",
+            "Während des Films war es still."
+          ]
+        ],
+        "hl": []
+      },
+      {
+        "caption": "彩色总表 3（地点介词体系盘点——A1 已学，这里成系统）",
+        "headers": [
+          "分工",
+          "介词"
+        ],
+        "rows": [
+          [
+            "去向（城市/国家/回家）",
+            "nach（nach Berlin、nach Hause）"
+          ],
+          [
+            "身在（城市/国家内用 in）",
+            "in + Dat（in Berlin）"
+          ],
+          [
+            "来自",
+            "aus / von（aus China、von der Arbeit）"
+          ],
+          [
+            "在某人处/某场所",
+            "bei + Dat（bei Freunden、beim Arzt）"
+          ],
+          [
+            "去某人处/机构",
+            "zu + Dat（zum Arzt、zu Freunden）"
+          ],
+          [
+            "对面",
+            "gegenüber + Dat（对面，名词后置也可：dem Haus gegenüber）"
+          ],
+          [
+            "除…之外",
+            "außer + Dat（außer mir war niemand da.）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "时间介词最易混的三对：seit vs vor（seit = 从过去持续到现在「已经…了」，vor = 过去某点「…之前」）；am vs im（天和一天的时段用 am，月/季用 im）；nach vs zu（nach 只管回家/城市/国家方向与「在…之后」，去具体的人和机构用 zu）。",
+      "gegen 表时间是「大约」，表方向是「反对/撞上」，靠语境分：gegen acht Uhr（时间）vs gegen die Wand（方向，认读）。",
+      "gegenüber 位置灵活：可放名词前（gegenüber dem Park）也可放名词后（dem Park gegenüber），两种都对。",
+      "二格介词本级只认读：写作口语里 Wegen dem Wetter… 这类与格版在口语中真实存在，但 A2 产出时用 weil 从句或 deshalb 替代，不硬套二格。"
+    ],
+    "examples": [
+      {
+        "de": "Ich lerne seit zwei Jahren Deutsch.",
+        "zh": ""
+      },
+      {
+        "de": "Vor einer Woche war ich in Berlin.",
+        "zh": ""
+      },
+      {
+        "de": "Der Kurs ist zwischen acht und zehn Uhr.",
+        "zh": ""
+      },
+      {
+        "de": "Er kommt gegen acht Uhr.",
+        "zh": ""
+      },
+      {
+        "de": "Nach dem Essen gehen wir spazieren.",
+        "zh": ""
+      },
+      {
+        "de": "Das Café ist gegenüber dem Park.",
+        "zh": ""
+      },
+      {
+        "de": "Außer mir war niemand im Büro.",
+        "zh": ""
+      },
+      {
+        "de": "Wegen des Wetters bleiben wir zu Hause.（认读）",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "„seit zwei Jahre\"：seit 带与格，Jahren 要变 Jahre→Jahren（复数与格加 n）。",
+      "持续时间不用 seit：„Ich warte seit zwei Stunden\" 对；但 „Der Film dauert seit zwei Stunden\" 错——dauern 是时长本身，用 zwei Stunden（无介词宾格时长）或 einfach zwei Stunden lang（认读）。",
+      "am/im 串位：im Montag、am Mai 都是典型错。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich lerne ＿＿ zwei Jahren Deutsch.\"（持续到现在）",
+        "explain": "seit + 与格 = 已经学了两年。",
+        "options": [
+          "seit",
+          "vor",
+          "nach"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "过去某点用 vor，句首大写。",
+        "display": "＿＿ einer Woche war ich krank.（一周前）",
+        "answer": "Vor"
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "von … bis 起止框架。",
+        "display": "Der Kurs ist ＿＿ Mai bis Juli.",
+        "answer": "von"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "天用 am，钟点用 um。",
+        "options": [
+          "Der Unterricht ist am Montag um acht.",
+          "Der Unterricht ist im Montag um acht.",
+          "Der Unterricht ist an Montag um acht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "gegen 表大约。",
+        "audio": "Er kommt gegen acht Uhr.",
+        "options": [
+          "他八点整到",
+          "他大约八点到",
+          "他八点离开"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "在…之后用 nach + 与格。",
+        "display": "＿＿ dem Essen gehen wir spazieren.",
+        "answer": "Nach"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "zwischen + 与格表两点之间。",
+        "tokens": [
+          "ist",
+          "Der Kurs",
+          "zwischen",
+          "und zehn Uhr",
+          "acht"
+        ],
+        "answer": [
+          "Der Kurs",
+          "ist",
+          "zwischen",
+          "acht",
+          "und zehn Uhr"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "时间介词分工分筐",
+        "explain": "seit 看延续、vor 看回望、gegen 看约数。",
+        "groups": [
+          "持续到现在",
+          "过去某点",
+          "大约"
+        ],
+        "items": [
+          {
+            "text": "seit zwei Jahren",
+            "group": 0
+          },
+          {
+            "text": "seit Montag",
+            "group": 0
+          },
+          {
+            "text": "vor einer Woche",
+            "group": 1
+          },
+          {
+            "text": "vor drei Tagen",
+            "group": 1
+          },
+          {
+            "text": "gegen acht",
+            "group": 2
+          },
+          {
+            "text": "gegen Mittag",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "格变化填空",
+        "explain": "Stunden 本身以 n 结尾，与格不再加 n（Stunde→Stunden 已是复数与格形）。",
+        "display": "Sie wartet seit zwei ＿＿.（Stunde 复数与格）",
+        "answer": "Stunden"
+      },
+      {
+        "type": "choice",
+        "q": "gegenüber 的正确句",
+        "explain": "gegenüber + 与格。",
+        "options": [
+          "Das Café ist gegenüber dem Park.",
+          "Das Café ist gegenüber dem Parkes.",
+          "Das Café ist gegenüber den Park."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补介词",
+        "explain": "außer = 除…之外，带与格。",
+        "audio": "Außer mir war niemand im Büro.",
+        "display": "＿＿ mir war niemand im Büro.",
+        "answer": "Außer"
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "回家固定 nach Hause（对比：zu Hause 是在家）。",
+        "display": "Ich gehe jetzt ＿＿ Hause.",
+        "answer": "nach"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "nach + 与格。",
+        "tokens": [
+          "gehen",
+          "Wir",
+          "Essen",
+          "nach dem",
+          "spazieren"
+        ],
+        "answer": [
+          "Wir",
+          "gehen",
+          "nach dem",
+          "Essen",
+          "spazieren"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "认读题——„Trotz des Regens gehen wir.\" 的意思",
+        "explain": "trotz = 尽管，认读即可。",
+        "options": [
+          "因为下雨我们去",
+          "尽管下雨我们还是去",
+          "下雨时我们去"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "钟点的约数用 gegen。",
+        "display": "Der Bus kommt ＿＿ zehn Uhr.（约十点）",
+        "answer": "gegen"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "Jahren 与格复数别漏 n。",
+        "audio": "Ich lerne seit zwei Jahren Deutsch.",
+        "answer": "Ich lerne seit zwei Jahren Deutsch."
+      }
+    ],
+    "reading": {
+      "text": "Sehr geehrte Frau Sommer, ich schreibe Ihnen wegen meines Urlaubs. Vom 3. bis zum 14. August möchte ich frei nehmen. Vor meinem Urlaub beende ich alle wichtigen Aufgaben. Seit zwei Jahren arbeite ich in dieser Firma und war noch nie im Sommer weg. Nach dem Urlaub komme ich am Montag, dem 17. August, wieder ins Büro. Das Büro ist gegenüber der Post, mein Weg dauert gegen zwanzig Minuten. Mit freundlichen Grüßen, Lan Wang",
+      "parts": [
+        {
+          "label": "",
+          "text": "Sehr geehrte Frau Sommer, ich schreibe Ihnen wegen meines Urlaubs. Vom 3. bis zum 14. August möchte ich frei nehmen. Vor meinem Urlaub beende ich alle wichtigen Aufgaben. Seit zwei Jahren arbeite ich in dieser Firma und war noch nie im Sommer weg. Nach dem Urlaub komme ich am Montag, dem 17. August, wieder ins Büro. Das Büro ist gegenüber der Post, mein Weg dauert gegen zwanzig Minuten. Mit freundlichen Grüßen, Lan Wang"
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①假期从几号到几号、哪天回办公室？（答：8 月 3 日到 14 日，8 月 17 日周一回。）②作者在这家公司工作多久了？（答：两年，seit zwei Jahren。）"
+    },
+    "writing": {
+      "task": "写 5 句介绍「我的一周」，至少用 seit、vor、zwischen、gegen 中 3 个时间介词。",
+      "sample": "范文：Ich lerne seit einem Jahr Deutsch. Vor einer Woche habe ich einen neuen Kurs angefangen. Der Kurs ist zwischen 18 und 20 Uhr. Ich komme meistens gegen halb sieben nach Hause. Am Wochenende schlafe ich lange und gehe nach dem Frühstück spazieren.",
+      "selfcheck": "自查：seit 后面是与格 □；am/im/um 没串位 □；约数用了 gegen □。"
+    }
+  },
+  {
+    "id": "g-a2-12",
+    "level": "A2",
+    "order": 15,
+    "title": "从句（一）：wenn / als 与时间从句",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（als vs wenn——过去「当…时」怎么选）",
+      "headers": [
+        "场景",
+        "用词",
+        "例"
+      ],
+      "rows": [
+        [
+          "过去一次性事件",
+          "als",
+          "Als ich Kind war, wohnten wir in Leipzig. / Als der Bus kam, liefen alle los."
+        ],
+        [
+          "过去反复发生",
+          "wenn",
+          "Wenn ich früher krank war, blieb ich zu Hause.（每次）"
+        ],
+        [
+          "现在/将来（每当、如果）",
+          "wenn",
+          "Wenn es morgen regnet, bleiben wir zu Hause."
+        ],
+        [
+          "只有条件义（如果）",
+          "wenn",
+          "Wenn du willst, helfe ich dir."
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（时间从句家族）",
+        "headers": [
+          "连词",
+          "义",
+          "语序/时态要点",
+          "例"
+        ],
+        "rows": [
+          [
+            "bevor",
+            "在…之前",
+            "从句动作在后发生",
+            "Bevor ich gehe, rufe ich an."
+          ],
+          [
+            "bis",
+            "直到…",
+            "主句持续到从句点",
+            "Warte hier, bis ich zurückkomme!"
+          ],
+          [
+            "nachdem",
+            "在…之后",
+            "认读线：从句常用 Plusquamperfekt（hatte/war + 分词），见到认得出即可",
+            "Nachdem wir gegessen hatten, gingen wir spazieren.（认读）"
+          ],
+          [
+            "als/wenn",
+            "当…时",
+            "见上表",
+            "—"
+          ],
+          [
+            "seit（从句版，认读）",
+            "自从",
+            "Seit ich hier wohne, …",
+            "（认读）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "als 的门槛只有一条：过去 + 一次性。小时候（一段时期里的一次性阶段）也用 als：Als ich zehn war, … 将来和现在永远不用 als。",
+      "从句前置时主句倒装：从句整体算第一位，主句动词紧跟逗号（Als ich kam, war das Essen fertig.）——和 A1 语序单元的规则一致，这里在真实从句里落地。",
+      "bevor 的逻辑方向容易反：„Bevor ich gehe\" = 我走之前（gehen 发生得晚）；中文「在…之前」对应的是主句动作在前、从句动作在后，别按字面把两个动作排反。",
+      "bis 常配命令与等待：Bleib im Bett, bis du gesund bist!",
+      "nachdem 认读要点：看到 hatte/war + 分词的从句在前、主句过去式在后，理解为「…之后」即可，产出时用 nach + 名词或简单并列句替代（Nach dem Essen gingen wir spazieren.）。"
+    ],
+    "examples": [
+      {
+        "de": "Als ich gestern nach Hause kam, war es schon dunkel.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn ich früher krank war, blieb meine Mutter zu Hause.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn es morgen regnet, fahren wir nicht ans Meer.",
+        "zh": ""
+      },
+      {
+        "de": "Bevor er geht, macht er das Licht aus.",
+        "zh": ""
+      },
+      {
+        "de": "Warte bitte, bis der Kurs zu Ende ist!",
+        "zh": ""
+      },
+      {
+        "de": "Als wir Kinder waren, spielten wir jeden Tag draußen.",
+        "zh": ""
+      },
+      {
+        "de": "Immer wenn der Bus zu spät kommt, ärgere ich mich.（immer wenn = 每当）",
+        "zh": ""
+      },
+      {
+        "de": "Nachdem wir gegessen hatten, sind wir spazieren gegangen.（认读）",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "将来事用 als：„Als ich morgen komme\" 是错的，将来用 wenn。",
+      "从句前置忘倒装：„Als ich kam, das Essen war fertig.\" 错——逗号后动词必须紧跟（war das Essen）。",
+      "bevor 动作排反：„Ich rufe dich an, bevor ich gehe.\" 是「我走之前给你打电话」，不是打完才走。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„＿＿ ich Kind war, wohnten wir in Leipzig.\"",
+        "explain": "过去一次性阶段用 als。",
+        "options": [
+          "Als",
+          "Wenn",
+          "Bis"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连词填空",
+        "explain": "将来的「如果/当」用 wenn。",
+        "display": "＿＿ es morgen regnet, bleiben wir zu Hause.",
+        "answer": "Wenn"
+      },
+      {
+        "type": "fill",
+        "q": "连词填空（反复）",
+        "explain": "过去反复用 wenn。",
+        "display": "Früher blieb ich immer zu Hause, ＿＿ ich krank war.（每次生病都如此）",
+        "answer": "wenn"
+      },
+      {
+        "type": "order",
+        "q": "组句（前置倒装）",
+        "explain": "从句后主句动词紧跟逗号。",
+        "tokens": [
+          "war",
+          "Als ich kam",
+          "das Essen",
+          "fertig"
+        ],
+        "answer": [
+          "Als ich kam",
+          "war",
+          "das Essen",
+          "fertig"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "bevor = 在…之前，主句动作先发生。",
+        "audio": "Bevor ich gehe, rufe ich dich an.",
+        "options": [
+          "我走之前给你打电话",
+          "我走了之后给你打电话",
+          "我边走边打电话"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "„Warte hier, ＿＿ ich zurückkomme!\"",
+        "explain": "等到某点用 bis。",
+        "options": [
+          "bis",
+          "bevor",
+          "als"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "语序填空",
+        "explain": "从句前置，主句动词第二位 ärgere。",
+        "display": "Wenn der Bus zu spät kommt, ＿＿ ich mich.（ärgern，主句动词）",
+        "answer": "ärgere"
+      },
+      {
+        "type": "classify",
+        "q": "als/wenn 分筐",
+        "explain": "过去一次性 → als；现在/将来/反复 → wenn。",
+        "groups": [
+          "用 als",
+          "用 wenn"
+        ],
+        "items": [
+          {
+            "text": "Als ich zehn war, …",
+            "group": 0
+          },
+          {
+            "text": "Als der Zug ankam, …",
+            "group": 0
+          },
+          {
+            "text": "Wenn ich Zeit habe, …",
+            "group": 1
+          },
+          {
+            "text": "Immer wenn es regnet, …",
+            "group": 1
+          },
+          {
+            "text": "Wenn ich früher krank war, …（反复）",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主句 macht 第二位，可分前缀 aus 回句尾。",
+        "tokens": [
+          "aus",
+          "Bevor er geht",
+          "das Licht",
+          "er",
+          "macht"
+        ],
+        "answer": [
+          "Bevor er geht",
+          "macht",
+          "er",
+          "das Licht",
+          "aus"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "认读题——„Nachdem wir gegessen hatten, gingen wir spazieren.\" 的意思",
+        "explain": "nachdem = …之后，认读。",
+        "options": [
+          "吃饭之前我们去散步",
+          "吃完饭后我们去散步",
+          "吃饭时我们去散步"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补连词",
+        "explain": "过去一次性事件用 als。",
+        "audio": "Als der Bus kam, liefen alle los.",
+        "display": "＿＿ der Bus kam, liefen alle los.",
+        "answer": "Als"
+      },
+      {
+        "type": "fill",
+        "q": "连词填空",
+        "explain": "条件义只能用 wenn。",
+        "display": "＿＿ du willst, helfe ich dir.（如果）",
+        "answer": "Wenn"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "从句前置 + 主句倒装 bleiben。",
+        "tokens": [
+          "regnet",
+          "Wenn es",
+          "morgen",
+          "wir",
+          "bleiben",
+          "zu Hause"
+        ],
+        "answer": [
+          "Wenn es",
+          "morgen",
+          "regnet",
+          "bleiben",
+          "wir",
+          "zu Hause"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "过去一次性 als + 倒装。",
+        "options": [
+          "Als ich kam, war er schon weg.",
+          "Wenn ich kam gestern, war er weg.（昨天一次性到达）",
+          "Als es morgen schneit, bleiben wir."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连词填空",
+        "explain": "bis = 直到。",
+        "display": "Bleib im Bett, ＿＿ du gesund bist!",
+        "answer": "bis"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "als 引导的童年阶段 + 倒装 spielten wir。",
+        "audio": "Als wir Kinder waren, spielten wir jeden Tag draußen.",
+        "answer": "Als wir Kinder waren, spielten wir jeden Tag draußen."
+      }
+    ],
+    "reading": {
+      "text": "Als ich zwölf Jahre alt war, fuhr ich zum ersten Mal allein mit dem Zug. Bevor der Zug kam, stand ich lange auf dem Bahnsteig und wartete. Meine Mutter sagte: „Ruf mich an, wenn du da bist!\" Wenn ich heute mit dem Zug fahre, muss ich immer an diesen Tag denken. Damals war alles neu und ein bisschen gefährlich. Heute ist es normal. Aber immer wenn ein Kind allein am Bahnsteig steht, verstehe ich seine Gefühle.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Als ich zwölf Jahre alt war, fuhr ich zum ersten Mal allein mit dem Zug. Bevor der Zug kam, stand ich lange auf dem Bahnsteig und wartete. Meine Mutter sagte: „Ruf mich an, wenn du da bist!\" Wenn ich heute mit dem Zug fahre, muss ich immer an diesen Tag denken. Damals war alles neu und ein bisschen gefährlich. Heute ist es normal. Aber immer wenn ein Kind allein am Bahnsteig steht, verstehe ich seine Gefühle."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①作者十二岁那年发生了什么？（答：第一次独自坐火车。）②文中哪句是「过去反复/每当」所以用 wenn？（答：Immer wenn ein Kind allein am Bahnsteig steht… 以及 Wenn ich heute…（现在每当）。）"
+    },
+    "writing": {
+      "task": "写 5 句「小时候的一件事」，至少用 als 1 次、wenn（反复或条件）1 次、bevor 或 bis 1 次，注意前置从句的倒装。",
+      "sample": "范文：Als ich klein war, wohnten wir bei meiner Oma. Wenn es im Sommer regnete, spielten wir Karten im Haus. Einmal kam ein großer Sturm. Bevor er richtig anfing, brachte mein Opa alle Stühle in den Garten — nein, ins Haus! Bis der Sturm vorbei war, saßen wir zusammen und erzählten Geschichten.",
+      "selfcheck": "自查：als 只用于过去一次性 □；从句前置后主句动词紧跟逗号 □；bevor 的动作顺序没排反 □。"
+    }
+  },
+  {
+    "id": "g-a2-13",
+    "level": "A2",
+    "order": 16,
+    "title": "间接问句与 ob",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（直接问句 → 间接问句的改造规则）",
+      "headers": [
+        "直接问句",
+        "间接问句",
+        "变了什么"
+      ],
+      "rows": [
+        [
+          "Kommst du morgen?（是否问）",
+          "Ich weiß nicht, ob du morgen kommst.",
+          "加 ob，动词回句尾"
+        ],
+        [
+          "Wann kommt der Bus?（W 问）",
+          "Weißt du, wann der Bus kommt?",
+          "W 词保留，动词回句尾"
+        ],
+        [
+          "Wo ist der Bahnhof?",
+          "Können Sie mir sagen, wo der Bahnhof ist?",
+          "礼貌框架 + 句尾动词"
+        ],
+        [
+          "Hast du Zeit?",
+          "Er fragt, ob ich Zeit habe.",
+          "ob + 动词回句尾"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（高频框架句——间接问句的「外壳」）",
+        "headers": [
+          "外壳",
+          "用途"
+        ],
+        "rows": [
+          [
+            "Ich weiß nicht, ob/wann/wo …",
+            "我不知道…"
+          ],
+          [
+            "Weißt du, ob …? / Wissen Sie, wo …?",
+            "打听"
+          ],
+          [
+            "Können Sie mir sagen, wann …?",
+            "礼貌打听（服务场景）"
+          ],
+          [
+            "Er fragt, ob …",
+            "转述提问"
+          ],
+          [
+            "Ich möchte wissen, ob …",
+            "正式打听（邮件/窗口）"
+          ],
+          [
+            "Keine Ahnung, ob …（口语）",
+            "完全不知道"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "是否问句（能用 Ja/Nein 回答的）变间接必须加 ob，这是 ob 的主业；ob 从句动词回句尾，和 dass 从句一个规矩。",
+      "W 问句变间接不加 ob，W 词自己当连接词：wann/wo/wer/warum + 句尾动词。„Ich weiß nicht, ob wann…\" 是典型错误。",
+      "间接问句结尾标点：外壳是陈述句就用句号（Ich weiß nicht, ob er kommt.），外壳是问句才用问号（Weißt du, ob er kommt?）。",
+      "礼貌等级：服务场景用 Können/Könnten Sie mir sagen, …? 比光秃秃的 Wo ist …? 得体得多——和 t-a2-02 电话、t-a2-01 邮件是同一套礼貌逻辑。",
+      "时态不变：直接问句是什么时态，间接问句保持（Er kommt morgen. → …, ob er morgen kommt.），不要擅自改过去。"
+    ],
+    "examples": [
+      {
+        "de": "Ich weiß nicht, ob der Bus heute noch kommt.",
+        "zh": ""
+      },
+      {
+        "de": "Weißt du, wann der Kurs anfängt?",
+        "zh": ""
+      },
+      {
+        "de": "Können Sie mir sagen, wo der Bahnhof ist?",
+        "zh": ""
+      },
+      {
+        "de": "Er fragt, ob ich morgen Zeit habe.",
+        "zh": ""
+      },
+      {
+        "de": "Sie möchte wissen, ob der Termin noch frei ist.",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe keine Ahnung, warum er nicht anruft.",
+        "zh": ""
+      },
+      {
+        "de": "Fragen Sie ihn, ob er mitkommt!",
+        "zh": ""
+      },
+      {
+        "de": "Weißt du, wie viel das kostet?",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "W 问句误加 ob：„Weißt du, ob wo der Bahnhof ist?\" 错。",
+      "动词没回句尾：„Ich weiß nicht, ob kommt der Bus.\" 错——ob 从句和 dass 一样动词压尾。",
+      "转述时擅自加 dass：„Er fragt, dass ob…\" 双重连接词，错。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich weiß nicht, ＿＿ er heute kommt.\"",
+        "explain": "是否类间接问句用 ob。",
+        "options": [
+          "ob",
+          "dass",
+          "wann"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连接词填空",
+        "explain": "W 问句保留 wann，不加 ob。",
+        "display": "Weißt du, ＿＿ der Kurs anfängt?",
+        "answer": "wann"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ob 从句动词 kommt 压尾。",
+        "tokens": [
+          "nicht",
+          "Ich",
+          "weiß",
+          "ob",
+          "kommt",
+          "er"
+        ],
+        "answer": [
+          "Ich",
+          "weiß",
+          "nicht",
+          "ob",
+          "er",
+          "kommt"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "间接问句动词回句尾、W 词不叠 ob。",
+        "options": [
+          "Können Sie mir sagen, wo der Bahnhof ist?",
+          "Können Sie mir sagen, wo ist der Bahnhof?",
+          "Können Sie mir sagen, ob wo der Bahnhof ist?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选原问句",
+        "explain": "ob 对应是否问句。",
+        "audio": "Er fragt, ob ich morgen Zeit habe.",
+        "options": [
+          "Hast du morgen Zeit?",
+          "Wann hast du Zeit?",
+          "Wer hat Zeit?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "改造填空",
+        "explain": "mitkommen 整体压尾，不拆。",
+        "display": "直接：Kommst du mit? → 间接：Er fragt, ob ich ＿＿.",
+        "answer": "mitkomme"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "礼貌框架 + wann 从句动词压尾。",
+        "tokens": [
+          "sagen",
+          "Sie",
+          "mir",
+          "Können",
+          "der Zug",
+          "wann",
+          "abfährt"
+        ],
+        "answer": [
+          "Können",
+          "Sie",
+          "mir",
+          "sagen",
+          "wann",
+          "der Zug",
+          "abfährt"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "句子分筐",
+        "explain": "Ja/Nein 问 → ob；W 问 → 原 W 词。",
+        "groups": [
+          "用 ob",
+          "用 W 词"
+        ],
+        "items": [
+          {
+            "text": "Ich weiß nicht, ob er kommt.",
+            "group": 0
+          },
+          {
+            "text": "Er fragt, ob sie Zeit hat.",
+            "group": 0
+          },
+          {
+            "text": "Weißt du, wann der Film anfängt?",
+            "group": 1
+          },
+          {
+            "text": "Sagen Sie mir, wo die Post ist.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "连接词填空",
+        "explain": "正式打听是否，用 ob。",
+        "display": "Ich möchte wissen, ＿＿ der Termin noch frei ist.",
+        "answer": "ob"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补连接词",
+        "explain": "W 词 warum 直接作连接词。",
+        "audio": "Ich habe keine Ahnung, warum er nicht anruft.",
+        "display": "Ich habe keine Ahnung, ＿＿ er nicht anruft.",
+        "answer": "warum"
+      },
+      {
+        "type": "choice",
+        "q": "标点正确的一句",
+        "explain": "外壳是陈述句用句号。",
+        "options": [
+          "Ich weiß nicht, ob er kommt.",
+          "Ich weiß nicht, ob er kommt?",
+          "Weißt du, ob er kommt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "改造填空",
+        "explain": "ist 压尾。",
+        "display": "直接：Wo ist die Post? → 间接：Weißt du, wo die Post ＿＿?",
+        "answer": "ist"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ob + habe 压尾。",
+        "tokens": [
+          "fragt",
+          "Er",
+          "habe",
+          "ob",
+          "ich",
+          "Zeit"
+        ],
+        "answer": [
+          "Er",
+          "fragt",
+          "ob",
+          "ich",
+          "Zeit",
+          "habe"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "wie viel 引导的间接问句。",
+        "audio": "Weißt du, wie viel das kostet?",
+        "answer": "Weißt du, wie viel das kostet?"
+      },
+      {
+        "type": "fill",
+        "q": "框架填空",
+        "explain": "Können Sie mir sagen, …? 标准礼貌框架。",
+        "display": "＿＿ Sie mir sagen, wo die Toilette ist?（礼貌打听）",
+        "answer": "Können"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是错的",
+        "explain": "ob 与 W 词不能叠加。",
+        "options": [
+          "Ich weiß nicht, ob wann er kommt.",
+          "Ich weiß nicht, wann er kommt.",
+          "Ich weiß nicht, ob er kommt."
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Ein Tourist steht am Bahnhof und fragt: „Können Sie mir sagen, wann der nächste Zug nach Leipzig abfährt?\" Die Frau am Schalter antwortet freundlich: „Um 14:30 Uhr, Gleis 4.\" Der Tourist fragt weiter, ob der Zug direkt fährt oder ob er umsteigen muss. „Sie müssen in Halle umsteigen\", sagt die Frau. „Und wissen Sie, ob es im Zug ein Restaurant gibt?\" — „Ja, es gibt eins. Gute Fahrt!\"",
+      "parts": [
+        {
+          "label": "",
+          "text": "Ein Tourist steht am Bahnhof und fragt: „Können Sie mir sagen, wann der nächste Zug nach Leipzig abfährt?\" Die Frau am Schalter antwortet freundlich: „Um 14:30 Uhr, Gleis 4.\" Der Tourist fragt weiter, ob der Zug direkt fährt oder ob er umsteigen muss. „Sie müssen in Halle umsteigen\", sagt die Frau. „Und wissen Sie, ob es im Zug ein Restaurant gibt?\" — „Ja, es gibt eins. Gute Fahrt!\""
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①游客一共问了哪三个问题？（答：几点发车、是否直达/是否换乘、车上有没有餐厅。）②哪句是 ob 引导的间接问句？（答：ob der Zug direkt fährt 与 ob es im Zug ein Restaurant gibt。）"
+    },
+    "writing": {
+      "task": "把 4 个直接问句改写成间接问句写下来：①Kommt der Bus um acht? ②Wo ist der Markt? ③Hast du morgen Zeit? ④Wann fängt der Film an?（外壳任选：Ich weiß nicht… / Weißt du…? / Können Sie mir sagen…?）",
+      "sample": "范文：①Ich weiß nicht, ob der Bus um acht kommt. ②Können Sie mir sagen, wo der Markt ist? ③Er fragt, ob ich morgen Zeit habe. ④Weißt du, wann der Film anfängt?",
+      "selfcheck": "自查：是否问句都加了 ob □；W 问句没叠 ob □；从句动词全部压尾 □；标点跟外壳走 □。"
+    }
+  },
+  {
+    "id": "t-a2-02",
+    "level": "A2",
+    "order": 17,
+    "title": "电话沟通深化",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（电话全流程句型库）",
+      "headers": [
+        "环节",
+        "句型"
+      ],
+      "rows": [
+        [
+          "接通自报",
+          "Hier spricht Lan Wang. / Guten Tag, mein Name ist …"
+        ],
+        [
+          "找人",
+          "Könnte ich bitte mit Frau Sommer sprechen? / Ist Herr Klein da?"
+        ],
+        [
+          "转接请求",
+          "Könnten Sie mich bitte mit der Abteilung verbinden?"
+        ],
+        [
+          "请稍等（对方说）",
+          "Einen Moment, bitte. Ich verbinde Sie. / Bleiben Sie bitte dran."
+        ],
+        [
+          "对方不在",
+          "Er ist gerade nicht da. / Sie ist in einer Besprechung."
+        ],
+        [
+          "留言",
+          "Kann ich eine Nachricht hinterlassen? / Könnten Sie ihm sagen, dass ich angerufen habe?"
+        ],
+        [
+          "请回电",
+          "Kann er mich bitte zurückrufen? Meine Nummer ist …"
+        ],
+        [
+          "听不清",
+          "Die Verbindung ist schlecht. Können Sie das bitte wiederholen? / Langsamer, bitte."
+        ],
+        [
+          "复述确认",
+          "Ich wiederhole: Am Donnerstag um zehn Uhr. Stimmt das?"
+        ],
+        [
+          "结束",
+          "Vielen Dank für Ihre Hilfe. Auf Wiederhören!"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（电话专属语与易混点）",
+        "headers": [
+          "表达",
+          "说明"
+        ],
+        "rows": [
+          [
+            "Auf Wiederhören!",
+            "电话告别专用（不见面不用 Wiedersehen）"
+          ],
+          [
+            "dran bleiben",
+            "别挂电话、保持在线"
+          ],
+          [
+            "verbinden",
+            "转接（接线员动作）"
+          ],
+          [
+            "hinterlassen",
+            "留下（留言、东西）"
+          ],
+          [
+            "besetzt",
+            "占线（Die Nummer ist besetzt.）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "电话礼貌三段式：自报家门 → 说明来意 → 确认收尾。没自报就直接提要求，在德国商务电话里算失礼。",
+      "数字信息（电话号码、时间、房号）必须复述确认：对方说完关键信息，自己重复一遍等对方确认——这是电话沟通的专业动作，也是听力考试留言题的得分点。",
+      "留言结构：谁打来的（Hier ist…/Mein Name ist…）+ 什么事 + 请回电 + 自己的号码，慢速逐字说号码（A1 数字单元的实战）。",
+      "听不清时别硬撑：Die Verbindung ist schlecht. / Können Sie das bitte noch einmal sagen? 是标准救急句，说出来不丢人。"
+    ],
+    "examples": [
+      {
+        "de": "Guten Tag, hier spricht Lan Wang. Könnte ich bitte mit Frau Sommer sprechen?",
+        "zh": ""
+      },
+      {
+        "de": "Einen Moment, bitte. Ich verbinde Sie.",
+        "zh": ""
+      },
+      {
+        "de": "Es tut mir leid, Herr Klein ist gerade nicht da.",
+        "zh": ""
+      },
+      {
+        "de": "Kann ich eine Nachricht hinterlassen?",
+        "zh": ""
+      },
+      {
+        "de": "Könnten Sie ihr sagen, dass ich angerufen habe?",
+        "zh": ""
+      },
+      {
+        "de": "Kann sie mich bitte zurückrufen? Meine Nummer ist 0176 …",
+        "zh": ""
+      },
+      {
+        "de": "Die Verbindung ist schlecht. Können Sie das bitte wiederholen?",
+        "zh": ""
+      },
+      {
+        "de": "Ich wiederhole: am Freitag um 14 Uhr. Stimmt das? — Ja, das stimmt. Auf Wiederhören!",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "电话里说 Auf Wiedersehen：看不见对方，要用 Auf Wiederhören（A1 已辨，电话场景再犯高频）。",
+      "留言忘了号码：没有回电号码的留言等于没留。",
+      "转接请求说成命令：„Verbinden Sie mich!\" 太生硬，用 Könnten Sie mich bitte verbinden?"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "电话找人的礼貌说法",
+        "explain": "Könnte ich bitte mit … sprechen? 是标准礼貌形。",
+        "options": [
+          "Könnte ich bitte mit Frau Sommer sprechen?",
+          "Ich will Frau Sommer.",
+          "Geben Sie mir Frau Sommer!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句型填空",
+        "explain": "verbinden = 转接。",
+        "display": "Könnten Sie mich bitte mit der Abteilung ＿＿?",
+        "answer": "verbinden"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听电话选场景",
+        "explain": "gerade nicht da = 此刻不在。",
+        "audio": "Es tut mir leid, Herr Klein ist gerade nicht da.",
+        "options": [
+          "Klein 先生在，你可以和他说",
+          "Klein 先生现在不在",
+          "Klein 先生在开会（Besprechung 未提及，原句只说不在）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "电话告别用哪句",
+        "explain": "电话用 Wiederhören。",
+        "options": [
+          "Auf Wiedersehen!",
+          "Auf Wiederhören!",
+          "Bis sehen!"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "留言填空",
+        "explain": "Nachricht hinterlassen 是固定搭配。",
+        "display": "Kann ich eine Nachricht ＿＿?",
+        "answer": "hinterlassen"
+      },
+      {
+        "type": "order",
+        "q": "组句（请回电）",
+        "explain": "zurückrufen 可分，前缀回句尾。",
+        "tokens": [
+          "mich",
+          "Kann",
+          "zurückrufen",
+          "er",
+          "bitte"
+        ],
+        "answer": [
+          "Kann",
+          "er",
+          "mich",
+          "bitte",
+          "zurückrufen"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "Verbindung = 通话连接。",
+        "audio": "Die Verbindung ist schlecht. Können Sie das bitte wiederholen?",
+        "display": "Die ＿＿ ist schlecht.",
+        "answer": "Verbindung"
+      },
+      {
+        "type": "classify",
+        "q": "句子按电话环节分筐",
+        "explain": "按通话流程分段。",
+        "groups": [
+          "找人/转接",
+          "留言/回电",
+          "确认/收尾"
+        ],
+        "items": [
+          {
+            "text": "Könnte ich mit Herrn Klein sprechen?",
+            "group": 0
+          },
+          {
+            "text": "Könnten Sie mich bitte verbinden?",
+            "group": 0
+          },
+          {
+            "text": "Kann ich eine Nachricht hinterlassen?",
+            "group": 1
+          },
+          {
+            "text": "Kann er mich zurückrufen?",
+            "group": 1
+          },
+          {
+            "text": "Ich wiederhole: um zehn Uhr. Stimmt das?",
+            "group": 2
+          },
+          {
+            "text": "Auf Wiederhören!",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "复述确认填空",
+        "explain": "复述确认是电话专业动作。",
+        "display": "Ich ＿＿: Am Donnerstag um zehn Uhr. Stimmt das?",
+        "answer": "wiederhole"
+      },
+      {
+        "type": "choice",
+        "q": "占线怎么说",
+        "explain": "besetzt = 占线。",
+        "options": [
+          "Die Nummer ist besetzt.",
+          "Die Nummer ist frei.",
+          "Die Nummer ist kaputt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写（留言开头）",
+        "explain": "电话自报用 hier spricht。",
+        "audio": "Guten Tag, hier spricht Lan Wang.",
+        "answer": "Guten Tag, hier spricht Lan Wang."
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "请转告的标准留言句。",
+        "tokens": [
+          "sagen",
+          "Könnten",
+          "ihr",
+          "Sie",
+          "angerufen habe",
+          "dass ich"
+        ],
+        "answer": [
+          "Könnten",
+          "Sie",
+          "ihr",
+          "sagen",
+          "dass ich",
+          "angerufen habe"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "句型填空",
+        "explain": "接线员请稍等的固定说法。",
+        "display": "Einen ＿＿, bitte. Ich verbinde Sie.",
+        "answer": "Moment"
+      },
+      {
+        "type": "choice",
+        "q": "听不清时的正确应对",
+        "explain": "礼貌救急句。",
+        "options": [
+          "Die Verbindung ist schlecht. Können Sie das bitte wiederholen?",
+          "Was? Noch mal!",
+          "Ich verstehe Ihre Stimme nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听留言选关键信息",
+        "explain": "留言三要素：谁、什么事、请回电。",
+        "audio": "Hier ist Frau Klein. Ich rufe wegen des Termins am Freitag an. Rufen Sie mich bitte zurück.",
+        "options": [
+          "她想确认周五的预约并请回电",
+          "她取消了周五的预约",
+          "她周五要来拜访"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "号码表达填空",
+        "explain": "回电号码必备。",
+        "display": "Meine ＿＿ ist 0176 345 289.",
+        "answer": "Nummer"
+      }
+    ],
+    "reading": {
+      "text": "„Guten Tag, hier spricht Herr Yilmaz von der Firma Sonne. Ich rufe wegen der Rechnung von letzter Woche an. Es gibt eine Frage zur Rechnung. Rufen Sie mich bitte unter 030 445 210 zurück. Vielen Dank und auf Wiederhören!\"\n„Hallo Frau Lan, hier ist Sara. Unser Treffen am Samstag muss ich leider verschieben. Meine Tochter ist krank. Ich rufe dich morgen noch einmal an. Bis dann!\"",
+      "parts": [
+        {
+          "label": "留言一",
+          "text": "„Guten Tag, hier spricht Herr Yilmaz von der Firma Sonne. Ich rufe wegen der Rechnung von letzter Woche an. Es gibt eine Frage zur Rechnung. Rufen Sie mich bitte unter 030 445 210 zurück. Vielen Dank und auf Wiederhören!\""
+        },
+        {
+          "label": "留言二",
+          "text": "„Hallo Frau Lan, hier ist Sara. Unser Treffen am Samstag muss ich leider verschieben. Meine Tochter ist krank. Ich rufe dich morgen noch einmal an. Bis dann!\""
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①留言一的来电人为什么打电话、希望对方做什么？（答：为上周的账单有问题，希望回电到 030 445 210。）②留言二和留言一的语气有什么不同、为什么？（答：留言二是私人电话，称呼和说法都随意（Hallo、dich），因为是朋友 Sara。）"
+    },
+    "writing": {
+      "task": "写一条完整的电话留言（5–6 句）：自报、找的人不在、说明来意、请回电并留号码、告别。",
+      "sample": "范文：Guten Tag, hier spricht Mei Chen. Ich wollte mit Frau Sommer sprechen. Es geht um meinen Termin am Donnerstag. Ich muss ihn leider verschieben. Könnten Sie mich bitte zurückrufen? Meine Nummer ist 0176 345 289. Vielen Dank und auf Wiederhören!",
+      "selfcheck": "自查：自报了姓名 □；来意说清（Es geht um…）□；回电号码写了 □；告别用 Wiederhören □。"
+    }
+  }
+]

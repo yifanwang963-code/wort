@@ -1,0 +1,507 @@
+{
+  "grammar": [
+    {
+      "type": "fill",
+      "q": "Du ___ (haben) einen Bruder.",
+      "answer": "hast",
+      "group": "现在时"
+    },
+    {
+      "type": "fill",
+      "q": "Er ___ (fahren) jeden Tag mit dem Bus.",
+      "answer": "fährt",
+      "group": "现在时"
+    },
+    {
+      "type": "choice",
+      "q": "Sie ___ mir das Buch. (geben)",
+      "options": [
+        "gibt",
+        "gebt"
+      ],
+      "answer": 0,
+      "group": "元音变化"
+    },
+    {
+      "type": "fill",
+      "q": "Wir ___ heute nicht kommen. (können)",
+      "answer": "können",
+      "group": "情态"
+    },
+    {
+      "type": "choice",
+      "q": "「你不必来」",
+      "options": [
+        "Du musst nicht kommen.",
+        "Du darfst nicht kommen."
+      ],
+      "answer": 0,
+      "group": "情态"
+    },
+    {
+      "type": "fill",
+      "q": "Ich stehe um sieben Uhr ___. (aufstehen)",
+      "answer": "auf",
+      "group": "可分"
+    },
+    {
+      "type": "choice",
+      "q": "essen 的分词",
+      "options": [
+        "gegessen",
+        "geessen"
+      ],
+      "answer": 0,
+      "group": "完成时"
+    },
+    {
+      "type": "fill",
+      "q": "Wir ___ nach Berlin geflogen.",
+      "answer": "sind",
+      "group": "完成时"
+    },
+    {
+      "type": "fill",
+      "q": "Gestern ___ ich krank. (sein 过去式）",
+      "answer": "war",
+      "group": "过去式"
+    },
+    {
+      "type": "choice",
+      "q": "命令式哪句对？",
+      "options": [
+        "Kommt bitte her, Kinder!",
+        "Kommen bitte her, Kinder!"
+      ],
+      "answer": 0,
+      "group": "命令式"
+    },
+    {
+      "type": "choice",
+      "q": "die 的复数名词是？",
+      "options": [
+        "die Zeitung → Zeitungen",
+        "Zeitungs"
+      ],
+      "answer": 0,
+      "group": "名词"
+    },
+    {
+      "type": "fill",
+      "q": "Ich sehe ___ Mann. (der, 宾格）",
+      "answer": "den",
+      "group": "格"
+    },
+    {
+      "type": "fill",
+      "q": "Ich helfe ___ Frau. (die, 与格）",
+      "answer": "der",
+      "group": "格"
+    },
+    {
+      "type": "fill",
+      "q": "Das ist ___ Auto. (ich, 物主主格中性）",
+      "answer": "mein",
+      "group": "格"
+    },
+    {
+      "type": "fill",
+      "q": "Kannst du ___ helfen? (ich, 代词）",
+      "answer": "mir",
+      "group": "格"
+    },
+    {
+      "type": "choice",
+      "q": "哪句对？",
+      "options": [
+        "Ich gebe dem Kind den Ball.",
+        "Ich gebe den Kind dem Ball."
+      ],
+      "answer": 0,
+      "group": "格"
+    },
+    {
+      "type": "fill",
+      "q": "Er wartet ___ den Bus.",
+      "answer": "auf",
+      "group": "介词"
+    },
+    {
+      "type": "fill",
+      "q": "Das Bild hängt ___ der Wand.",
+      "answer": "an",
+      "group": "介词"
+    },
+    {
+      "type": "fill",
+      "q": "Wir fahren ___ dem Zug.",
+      "answer": "mit",
+      "group": "介词"
+    },
+    {
+      "type": "fill",
+      "q": "Sie geht ___ Hause. (在家，位置）",
+      "answer": "zu",
+      "group": "格/介词"
+    },
+    {
+      "type": "fill",
+      "q": "Ich habe ___ Zeit. (否定）",
+      "answer": "keine",
+      "group": "否定"
+    },
+    {
+      "type": "order",
+      "q": "组句",
+      "tokens": [
+        "Deutsch",
+        "lerne",
+        "abends",
+        "Ich"
+      ],
+      "answer": [
+        "Ich",
+        "lerne",
+        "abends",
+        "Deutsch"
+      ],
+      "group": "语序"
+    },
+    {
+      "type": "fill",
+      "q": "___ Buch ist das? (哪个）",
+      "answer": "Welches",
+      "group": "提问"
+    },
+    {
+      "type": "fill",
+      "q": "Ich bleibe zu Hause, ___ ich krank bin.",
+      "answer": "weil",
+      "group": "连词"
+    },
+    {
+      "type": "choice",
+      "q": "否定纠正：Das ist kein Bus, ___ ein Auto.",
+      "options": [
+        "aber",
+        "sondern"
+      ],
+      "answer": 1,
+      "group": "连词"
+    },
+    {
+      "type": "fill",
+      "q": "Ich wasche ___ am Morgen.",
+      "answer": "mich",
+      "group": "反身"
+    },
+    {
+      "type": "fill",
+      "q": "Mein Zimmer ist ___ als deins. (groß)",
+      "answer": "größer",
+      "group": "比较"
+    },
+    {
+      "type": "fill",
+      "q": "___ Mann da ist mein Bruder. (指示）",
+      "answer": "Dieser",
+      "group": "指示"
+    },
+    {
+      "type": "listen_choice",
+      "audio": "Es ist halb acht.",
+      "q": "你听到的是？",
+      "options": [
+        "7:30",
+        "8:30"
+      ],
+      "answer": 0,
+      "group": "时间"
+    },
+    {
+      "type": "listen_dictation",
+      "audio": "Ich hätte gern ein Kilo Äpfel.",
+      "answer": "Ich hätte gern ein Kilo Äpfel.",
+      "group": "交际"
+    }
+  ],
+  "listening": [
+    {
+      "title": "Teil 1 数字与时间",
+      "clips": [
+        {
+          "audio": "Der Zug nach München fährt um dreizehn Uhr fünfundvierzig von Gleis vier ab.",
+          "questions": [
+            {
+              "number": 1,
+              "q": "火车几点开？",
+              "options": [
+                "13:45",
+                "13:15"
+              ],
+              "answer": 0
+            },
+            {
+              "number": 2,
+              "q": "几号站台？",
+              "options": [
+                "Gleis 4",
+                "Gleis 14"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "audio": "Ein Kilo Tomaten kostet zwei Euro neunundzwanzig.",
+          "questions": [
+            {
+              "number": 3,
+              "q": "一公斤西红柿多少钱？",
+              "options": [
+                "2,29 €",
+                "2,92 €"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "audio": "Der Kurs beginnt am Montag um halb sieben.",
+          "questions": [
+            {
+              "number": 4,
+              "q": "课程几点开始？",
+              "options": [
+                "6:30",
+                "7:30"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teil 2 公共广播",
+      "clips": [
+        {
+          "audio": "Achtung, eine Durchsage: Der Bus zum Flughafen fährt heute nicht um neun Uhr, sondern um neun Uhr dreißig. Haltestelle B.",
+          "questions": [
+            {
+              "number": 5,
+              "q": "巴士改到几点？",
+              "options": [
+                "9:00",
+                "9:30"
+              ],
+              "answer": 1
+            },
+            {
+              "number": 6,
+              "q": "在哪里上车？",
+              "options": [
+                "Haltestelle A",
+                "Haltestelle B"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teil 3 电话留言",
+      "clips": [
+        {
+          "audio": "Hallo Sara, hier ist Tom. Ich kann heute Abend nicht kommen. Ich muss arbeiten. Geht es morgen um achtzehn Uhr? Ruf mich bitte an!",
+          "questions": [
+            {
+              "number": 7,
+              "q": "Tom 今天为什么不能来？",
+              "options": [
+                "Er ist krank.",
+                "Er muss arbeiten."
+              ],
+              "answer": 1
+            },
+            {
+              "number": 8,
+              "q": "他提议改到什么时候？",
+              "options": [
+                "heute Abend",
+                "morgen um 18 Uhr"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teil 4 短对话",
+      "clips": [
+        {
+          "audio": "— Guten Tag, ich suche ein Zimmer für zwei Nächte. — Ein Einzelzimmer oder ein Doppelzimmer? — Ein Doppelzimmer, bitte. Was kostet es? — 80 Euro pro Nacht.",
+          "questions": [
+            {
+              "number": 9,
+              "q": "他要住几晚？",
+              "options": [
+                "eine Nacht",
+                "zwei Nächte"
+              ],
+              "answer": 1
+            },
+            {
+              "number": 10,
+              "q": "一晚多少钱？",
+              "options": [
+                "18 Euro",
+                "80 Euro"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "title": "Text 1 告示",
+      "text": "„Bibliothek: Geöffnet Mo–Fr 9–19 Uhr, Sa 9–13 Uhr. Sonntags geschlossen. Bücher: 4 Wochen ausleihen.\"",
+      "questions": [
+        {
+          "number": 1,
+          "q": "周六几点关门？",
+          "options": [
+            "19 Uhr",
+            "13 Uhr"
+          ],
+          "answer": 1
+        },
+        {
+          "number": 2,
+          "q": "书可以借多久？",
+          "options": [
+            "2 Wochen",
+            "4 Wochen"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "title": "Text 2 广告",
+      "text": "„Fahrrad zu verkaufen! City-Bike, fast neu, rot. Preis: 120 Euro. Tel: 0176 2345678. Abholung in Hamburg.\"",
+      "questions": [
+        {
+          "number": 3,
+          "q": "自行车是什么颜色？",
+          "options": [
+            "blau",
+            "rot"
+          ],
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "q": "价格多少？",
+          "options": [
+            "120 Euro",
+            "210 Euro"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 5,
+          "q": "在哪里取车？",
+          "options": [
+            "Berlin",
+            "Hamburg"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "title": "Text 3 短信",
+      "text": "„Hallo Paul! Am Samstag mache ich eine kleine Party bei mir zu Hause. Sie beginnt um 19 Uhr. Bring bitte etwas zu trinken mit. Viele Grüße, Emma\"",
+      "questions": [
+        {
+          "number": 6,
+          "q": "派对在谁家？",
+          "options": [
+            "bei Paul",
+            "bei Emma"
+          ],
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "q": "几点开始？",
+          "options": [
+            "17 Uhr",
+            "19 Uhr"
+          ],
+          "answer": 1
+        },
+        {
+          "number": 8,
+          "q": "Was soll Paul mitbringen?",
+          "options": [
+            "etwas zu essen",
+            "etwas zu trinken"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "title": "Teil 1 填表",
+      "prompt": "照下列字段写你自己的信息（可用化名）：Familienname / Vorname / Geburtsdatum / Geburtsort / Staatsangehörigkeit / Straße und Hausnummer / PLZ und Wohnort / Beruf / Telefonnummer / E-Mail-Adresse。",
+      "checks": [
+        "十个字段都填了",
+        "日期格式是 TT.MM.JJJJ（日.月.年）",
+        "PLZ 在城市名前",
+        "邮箱里的 @ 和点都写明"
+      ]
+    },
+    {
+      "title": "Teil 2 短信息",
+      "prompt": "给朋友写一条 30 词左右的消息，必须包含四点：①你周六过生日（或请客）②时间 ③地点（你家）④请对方带一样东西。范文：Hallo Lisa! Am Samstag habe ich Geburtstag. Ich mache eine kleine Party bei mir zu Hause. Sie beginnt um 18 Uhr. Bring bitte einen Salat mit. Ich freue mich! Viele Grüße, Wei。",
+      "checks": [
+        "四点齐全",
+        "动词都在第二位",
+        "时间地点都写了",
+        "结尾有 Grüße 和署名"
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "title": "Teil 1 自我介绍与问答",
+      "task": "先连续说至少 8 句自我介绍，然后从下列问题里抽 4 个回答：Woher kommst du? / Wo wohnst du? / Was bist du von Beruf? / Hast du Geschwister? / Was sprichst du für Sprachen? / Wie ist deine Telefonnummer? / Wann hast du Geburtstag? / Was machst du gern am Wochenende?"
+    },
+    {
+      "title": "Teil 2 主题问答（两组各抽一组）",
+      "task": "A 家庭：Wie groß ist deine Familie? / Was macht dein Vater von Beruf? / Wohnst du mit deiner Familie zusammen? / Wie alt ist deine Schwester/dein Bruder?；B 爱好：Was ist dein Hobby? / Wie oft machst du Sport? / Was machst du am liebsten am Abend? / Gehst du gern ins Kino?"
+    },
+    {
+      "title": "Teil 3 请求卡（抽 2 张，当场说出完整句）",
+      "task": "卡 1 问现在几点；卡 2 问去火车站的路；卡 3 在商店问一件毛衣的价格；卡 4 请对方慢一点再说一遍。参考句：Wie viel Uhr ist es? / Entschuldigung, wie komme ich zum Bahnhof? / Was kostet der Pullover? / Langsamer, bitte. Noch einmal, bitte."
+    }
+  ],
+  "speakingRubric": "**评分清单（每部分三档：达成 / 勉强 / 未达成；「达成」标准）**：发音：按 P1–P6 的规则读，对方能听懂，不要求口音；句型：动词位置与时态基本正确，小错不中断意思；任务：把卡上的事办成（问到信息/说清请求）；流利度不计分。任一部分「未达成」即整关不过，按清单指出弱项、回对应单元补练后再考。",
+  "vocabulary": {
+    "coreCount": 340,
+    "recognitionCount": 405,
+    "coreSample": 100,
+    "recognitionSample": 100,
+    "corePass": 85,
+    "recognitionPass": 90
+  }
+}

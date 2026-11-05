@@ -1,0 +1,2588 @@
+[
+  {
+    "id": "s-a2-01",
+    "level": "A2",
+    "order": 1,
+    "title": "诊所复诊与转诊",
+    "recommended": "g-a2-07、g-a2-16",
+    "prerequisites": [
+      "g-a2-07",
+      "g-a2-16"
+    ],
+    "sceneIntro": "你上周因胃痛看了家庭医生，今天来复诊。医生询问恢复情况，转述上次的医嘱要点，并为你开转诊单去看专科医生，你当场预约并确认注意事项。",
+    "dialogue": [
+      {
+        "speaker": "Arzt",
+        "text": "Guten Tag, Frau Lan. Wie geht es Ihnen heute? Ist der Magen besser?",
+        "audio": "Guten Tag, Frau Lan. Wie geht es Ihnen heute? Ist der Magen besser?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Viel besser, Herr Doktor. Die Tabletten, die Sie mir verschrieben haben, helfen gut.",
+        "audio": "Viel besser, Herr Doktor. Die Tabletten, die Sie mir verschrieben haben, helfen gut."
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Das freut mich. Nehmen Sie die Tabletten noch eine Woche, damit der Magen ganz gesund wird.",
+        "audio": "Das freut mich. Nehmen Sie die Tabletten noch eine Woche, damit der Magen ganz gesund wird."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Und was darf ich essen? Letzte Woche haben Sie gesagt, dass ich nichts Scharfes essen soll.",
+        "audio": "Und was darf ich essen? Letzte Woche haben Sie gesagt, dass ich nichts Scharfes essen soll."
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Genau. Und trinken Sie viel Wasser. Ich gebe Ihnen auch eine Überweisung zum Spezialisten, der sich den Magen noch einmal genau ansieht.",
+        "audio": "Genau. Und trinken Sie viel Wasser. Ich gebe Ihnen auch eine Überweisung zum Spezialisten, der sich den Magen noch einmal genau ansieht."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Könnten Sie mir sagen, wann ich dort anrufen soll?",
+        "audio": "Könnten Sie mir sagen, wann ich dort anrufen soll?"
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Am besten gleich morgen. Die Praxis, bei der Sie anrufen müssen, steht auf der Überweisung.",
+        "audio": "Am besten gleich morgen. Die Praxis, bei der Sie anrufen müssen, steht auf der Überweisung."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Vielen Dank. Muss ich die Überweisung mitbringen?",
+        "audio": "Vielen Dank. Muss ich die Überweisung mitbringen?"
+      },
+      {
+        "speaker": "Arzt",
+        "text": "Ja, und Ihre Versichertenkarte auch. Gute Besserung!",
+        "audio": "Ja, und Ihre Versichertenkarte auch. Gute Besserung!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Die Tabletten, die Sie mir verschrieben haben, helfen gut.",
+          "转述医嘱 + 关系从句反馈"
+        ],
+        [
+          "Nehmen Sie … noch eine Woche, damit …",
+          "复述疗程目的"
+        ],
+        [
+          "Ich gebe Ihnen eine Überweisung zum Spezialisten.",
+          "转诊"
+        ],
+        [
+          "Die Praxis, bei der ich anrufen muss, …",
+          "介词关系从句指地点"
+        ],
+        [
+          "Muss ich … mitbringen?",
+          "确认要带的东西"
+        ],
+        [
+          "Gute Besserung!",
+          "诊所告别"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——医生让 Frau Lan 还要做什么",
+        "explain": "Tabletten noch eine Woche + Überweisung。",
+        "options": [
+          "再吃一周药并给专科医生打电话",
+          "停药并卧床",
+          "去医院住院"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "转诊单。",
+        "display": "Ich gebe Ihnen eine ＿＿ zum Spezialisten.",
+        "answer": "Überweisung"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "bei der 关系从句指诊所。",
+        "audio": "Die Praxis, bei der Sie anrufen müssen, steht auf der Überweisung.",
+        "options": [
+          "你要打电话的那家诊所在转诊单上写着",
+          "诊所会给你打电话",
+          "转诊单在诊所里"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "复诊时确认带什么的正确问法",
+        "explain": "确认自己要带的东西。",
+        "options": [
+          "Muss ich die Überweisung mitbringen?",
+          "Ich bringe Überweisung mit?",
+          "Bringen Sie mir die Überweisung?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "关系从句转述医嘱（注：意群块拼读）。",
+        "tokens": [
+          "helfen",
+          "Die Tabletten",
+          "die",
+          "Sie mir verschrieben haben",
+          "gut"
+        ],
+        "answer": [
+          "Die Tabletten",
+          "die",
+          "Sie mir verschrieben haben",
+          "helfen",
+          "gut"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "阳性主格关系代词。",
+        "display": "Der Spezialist, ＿＿ sich den Magen ansieht, …",
+        "answer": "der"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "疗程时长。",
+        "display": "Nehmen Sie die Tabletten noch eine ＿＿.",
+        "audio": "Nehmen Sie die Tabletten noch eine Woche.",
+        "answer": "Woche"
+      },
+      {
+        "type": "choice",
+        "q": "„damit der Magen ganz gesund wird\" 在对话中的作用",
+        "explain": "damit 引目的。",
+        "options": [
+          "说明吃药的目的",
+          "说明吃药的原因（药让胃好了）",
+          "说明时间"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "Gute Besserung!",
+        "display": "＿＿ Besserung!（告别祝语）",
+        "answer": "Gute"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "礼貌打听 + 间接问句压尾。",
+        "tokens": [
+          "mir",
+          "Könnten",
+          "Sie",
+          "sagen",
+          "ich anrufen soll",
+          "wann"
+        ],
+        "answer": [
+          "Könnten",
+          "Sie",
+          "mir",
+          "sagen",
+          "wann",
+          "ich anrufen soll"
+        ]
+      }
+    ],
+    "speaking": "你来复诊，三件事：①告诉医生药的效果和现在的感觉；②确认疗程和饮食禁忌；③问清转诊怎么预约、要带什么。至少用 1 个关系从句和 1 个 Könnten Sie …?",
+    "sceneWords": [
+      "dass",
+      "ganz",
+      "genau",
+      "der Magen"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Arzt",
+            "speak": "Guten Tag, Frau Lan. Wie geht es Ihnen heute? Ist der Magen besser?"
+          },
+          {
+            "label": "Lan",
+            "speak": "Viel besser, Herr Doktor. Die Tabletten, die Sie mir verschrieben haben, helfen gut."
+          },
+          {
+            "label": "Arzt",
+            "speak": "Das freut mich. Nehmen Sie die Tabletten noch eine Woche, damit der Magen ganz gesund wird."
+          },
+          {
+            "label": "Lan",
+            "speak": "Und was darf ich essen? Letzte Woche haben Sie gesagt, dass ich nichts Scharfes essen soll."
+          },
+          {
+            "label": "Arzt",
+            "speak": "Genau. Und trinken Sie viel Wasser. Ich gebe Ihnen auch eine Überweisung zum Spezialisten, der sich den Magen noch einmal genau ansieht."
+          },
+          {
+            "label": "Lan",
+            "speak": "Könnten Sie mir sagen, wann ich dort anrufen soll?"
+          },
+          {
+            "label": "Arzt",
+            "speak": "Am besten gleich morgen. Die Praxis, bei der Sie anrufen müssen, steht auf der Überweisung."
+          },
+          {
+            "label": "Lan",
+            "speak": "Vielen Dank. Muss ich die Überweisung mitbringen?"
+          },
+          {
+            "label": "Arzt",
+            "speak": "Ja, und Ihre Versichertenkarte auch. Gute Besserung!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-02",
+    "level": "A2",
+    "order": 2,
+    "title": "租房看房与签约问答",
+    "recommended": "g-a2-08、g-a2-10",
+    "prerequisites": [
+      "g-a2-08",
+      "g-a2-10"
+    ],
+    "sceneIntro": "你和房东/中介一起看房。你问清租金构成（冷租/暖租、水电）、家具与位置、入住时间和押金，最后约定考虑后回复。",
+    "dialogue": [
+      {
+        "speaker": "Makler",
+        "text": "So, das ist die Wohnung. Sie hat zwei Zimmer, eine Küche und ein Bad.",
+        "audio": "So, das ist die Wohnung. Sie hat zwei Zimmer, eine Küche und ein Bad."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Die Wohnung gefällt mir. Wie hoch ist die Miete?",
+        "audio": "Die Wohnung gefällt mir. Wie hoch ist die Miete?"
+      },
+      {
+        "speaker": "Makler",
+        "text": "Die Kaltmiete ist 650 Euro. Mit Nebenkosten sind es 780 Euro warm.",
+        "audio": "Die Kaltmiete ist 650 Euro. Mit Nebenkosten sind es 780 Euro warm."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ist die Küche schon eingerichtet? Und der große Schrank, der im Schlafzimmer steht — bleibt er hier?",
+        "audio": "Ist die Küche schon eingerichtet? Und der große Schrank, der im Schlafzimmer steht — bleibt er hier?"
+      },
+      {
+        "speaker": "Makler",
+        "text": "Ja, die Küche und der Schrank bleiben. Der Schrank steht neben dem Bett, das Fenster ist gegenüber.",
+        "audio": "Ja, die Küche und der Schrank bleiben. Der Schrank steht neben dem Bett, das Fenster ist gegenüber."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ab wann ist die Wohnung frei?",
+        "audio": "Ab wann ist die Wohnung frei?"
+      },
+      {
+        "speaker": "Makler",
+        "text": "Ab dem ersten November. Die Kaution ist drei Kaltmieten.",
+        "audio": "Ab dem ersten November. Die Kaution ist drei Kaltmieten."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ich interessiere mich sehr für die Wohnung. Muss ich mich schnell entscheiden?",
+        "audio": "Ich interessiere mich sehr für die Wohnung. Muss ich mich schnell entscheiden?"
+      },
+      {
+        "speaker": "Makler",
+        "text": "Es gibt noch zwei andere Interessenten. Wenn Sie die Wohnung nehmen, rufen Sie mich bitte bis Freitag an.",
+        "audio": "Es gibt noch zwei andere Interessenten. Wenn Sie die Wohnung nehmen, rufen Sie mich bitte bis Freitag an."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Alles klar. Ich denke darüber nach und melde mich. Vielen Dank für die Besichtigung!",
+        "audio": "Alles klar. Ich denke darüber nach und melde mich. Vielen Dank für die Besichtigung!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Wie hoch ist die Miete? / Die Kaltmiete ist …",
+          "问/答冷租"
+        ],
+        [
+          "Mit Nebenkosten sind es … warm.",
+          "暖租总价"
+        ],
+        [
+          "Der Schrank, der im Schlafzimmer steht, bleibt hier.",
+          "关系从句确认家具"
+        ],
+        [
+          "Ab wann ist die Wohnung frei?",
+          "问入住时间"
+        ],
+        [
+          "Die Kaution ist drei Kaltmieten.",
+          "押金（德国惯例）"
+        ],
+        [
+          "Ich interessiere mich für die Wohnung.",
+          "表态（反身 + 介词）"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——暖租总价是多少、包含什么",
+        "explain": "Mit Nebenkosten 780 warm。",
+        "options": [
+          "650 欧元冷租",
+          "780 欧元含杂费",
+          "780 欧元不含杂费"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "押金。",
+        "display": "Die ＿＿ ist drei Kaltmieten.",
+        "answer": "Kaution"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "frei 指可入住时间。",
+        "audio": "Ab wann ist die Wohnung frei?",
+        "options": [
+          "房子什么时候能入住",
+          "房子有多大",
+          "房子在哪里"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "确认家具去留的正确说法",
+        "explain": "关系从句嵌入问句。",
+        "options": [
+          "Der Schrank, der im Schlafzimmer steht — bleibt er hier?",
+          "Der Schrank steht im Schlafzimmer, er bleibt hier gestern?",
+          "Bleibt der Schrank, der steht im Schlafzimmer?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "sich interessieren für。",
+        "tokens": [
+          "mich",
+          "Ich",
+          "für",
+          "Wohnung",
+          "interessiere",
+          "die"
+        ],
+        "answer": [
+          "Ich",
+          "interessiere",
+          "mich",
+          "für",
+          "die",
+          "Wohnung"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "固定搭配。",
+        "display": "Ich interessiere mich ＿＿ die Wohnung.",
+        "answer": "für"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补数字",
+        "explain": "冷租数字听辨。",
+        "display": "Die Kaltmiete ist ＿＿ Euro.",
+        "audio": "Die Kaltmiete ist 650 Euro.",
+        "answer": "650"
+      },
+      {
+        "type": "choice",
+        "q": "押金按德国惯例是多少（对话口径）",
+        "explain": "drei Kaltmieten。",
+        "options": [
+          "一个月冷租",
+          "三个月冷租",
+          "三个月暖租"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "位置填空",
+        "explain": "neben + 与格（状态）。",
+        "display": "Der Schrank steht ＿＿ dem Bett.（旁边）",
+        "answer": "neben"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wenn 前置 + 主句倒装（注：意群块拼读）。",
+        "tokens": [
+          "Wenn",
+          "Wohnung",
+          "Sie die",
+          "nehmen",
+          "rufen Sie",
+          "bis Freitag",
+          "bitte",
+          "mich",
+          "an"
+        ],
+        "answer": [
+          "Wenn",
+          "Sie die",
+          "Wohnung",
+          "nehmen",
+          "rufen Sie",
+          "mich",
+          "bitte",
+          "bis Freitag",
+          "an"
+        ]
+      }
+    ],
+    "speaking": "你去看房，三件事：①问清冷租、暖租和押金；②确认两件家具的去留和位置；③问入住时间和回复期限。至少用 1 个关系从句和 1 个 sich interessieren 句。",
+    "sceneWords": [
+      "gegenüber",
+      "neben",
+      "rufen",
+      "das Schlafzimmer"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Makler",
+            "speak": "So, das ist die Wohnung. Sie hat zwei Zimmer, eine Küche und ein Bad."
+          },
+          {
+            "label": "Gast",
+            "speak": "Die Wohnung gefällt mir. Wie hoch ist die Miete?"
+          },
+          {
+            "label": "Makler",
+            "speak": "Die Kaltmiete ist 650 Euro. Mit Nebenkosten sind es 780 Euro warm."
+          },
+          {
+            "label": "Gast",
+            "speak": "Ist die Küche schon eingerichtet? Und der große Schrank, der im Schlafzimmer steht — bleibt er hier?"
+          },
+          {
+            "label": "Makler",
+            "speak": "Ja, die Küche und der Schrank bleiben. Der Schrank steht neben dem Bett, das Fenster ist gegenüber."
+          },
+          {
+            "label": "Gast",
+            "speak": "Ab wann ist die Wohnung frei?"
+          },
+          {
+            "label": "Makler",
+            "speak": "Ab dem ersten November. Die Kaution ist drei Kaltmieten."
+          },
+          {
+            "label": "Gast",
+            "speak": "Ich interessiere mich sehr für die Wohnung. Muss ich mich schnell entscheiden?"
+          },
+          {
+            "label": "Makler",
+            "speak": "Es gibt noch zwei andere Interessenten. Wenn Sie die Wohnung nehmen, rufen Sie mich bitte bis Freitag an."
+          },
+          {
+            "label": "Gast",
+            "speak": "Alles klar. Ich denke darüber nach und melde mich. Vielen Dank für die Besichtigung!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-03",
+    "level": "A2",
+    "order": 3,
+    "title": "银行开户与汇款",
+    "recommended": "g-a2-09、g-a2-13",
+    "prerequisites": [
+      "g-a2-09",
+      "g-a2-13"
+    ],
+    "sceneIntro": "你去银行开一个 Girokonto。柜员介绍账户和费用，你咨询往国外汇款的手续费和到账时间，并确认要带的材料。",
+    "dialogue": [
+      {
+        "speaker": "Beraterin",
+        "text": "Guten Tag! Wie kann ich Ihnen helfen?",
+        "audio": "Guten Tag! Wie kann ich Ihnen helfen?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Guten Tag. Ich möchte ein Girokonto eröffnen. Was brauche ich dafür?",
+        "audio": "Guten Tag. Ich möchte ein Girokonto eröffnen. Was brauche ich dafür?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Ihren Ausweis und eine Meldebescheinigung. Das Konto kostet fünf Euro im Monat.",
+        "audio": "Ihren Ausweis und eine Meldebescheinigung. Das Konto kostet fünf Euro im Monat."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Können Sie mir sagen, ob ich mit der Karte auch im Ausland bezahlen kann?",
+        "audio": "Können Sie mir sagen, ob ich mit der Karte auch im Ausland bezahlen kann?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Ja, das geht. Und in der EU zahlen Sie keine Gebühren.",
+        "audio": "Ja, das geht. Und in der EU zahlen Sie keine Gebühren."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ich warte oft auf Geld von meiner Familie aus China. Wie lange dauert eine Überweisung aus dem Ausland?",
+        "audio": "Ich warte oft auf Geld von meiner Familie aus China. Wie lange dauert eine Überweisung aus dem Ausland?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Meistens drei bis fünf Tage. Die Gebühr hängt vom Betrag ab.",
+        "audio": "Meistens drei bis fünf Tage. Die Gebühr hängt vom Betrag ab."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Und worüber muss ich mich noch informieren?",
+        "audio": "Und worüber muss ich mich noch informieren?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Über unsere App. Damit können Sie alles am Handy machen. Ich gebe Ihnen diese Broschüre, damit Sie alles in Ruhe lesen können.",
+        "audio": "Über unsere App. Damit können Sie alles am Handy machen. Ich gebe Ihnen diese Broschüre, damit Sie alles in Ruhe lesen können."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Vielen Dank! Ich bringe die Unterlagen morgen mit.",
+        "audio": "Vielen Dank! Ich bringe die Unterlagen morgen mit."
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich möchte ein Girokonto eröffnen.",
+          "提出开户"
+        ],
+        [
+          "Was brauche ich dafür?",
+          "问材料（wofür 的对话版）"
+        ],
+        [
+          "Können Sie mir sagen, ob …?",
+          "礼貌打听是否"
+        ],
+        [
+          "Ich warte auf Geld von …",
+          "等待到账（warten auf）"
+        ],
+        [
+          "Die Gebühr hängt vom Betrag ab.",
+          "费用取决于金额"
+        ],
+        [
+          "Ich gebe Ihnen …, damit Sie … können.",
+          "给资料的目的句"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——开户需要带什么",
+        "explain": "Ausweis + Meldebescheinigung。",
+        "options": [
+          "护照和工资单",
+          "身份证件和住址登记证明",
+          "只有身份证"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "开户动词 eröffnen。",
+        "display": "Ich möchte ein Girokonto ＿＿.",
+        "answer": "eröffnen"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "abhängen von。",
+        "audio": "Die Gebühr hängt vom Betrag ab.",
+        "options": [
+          "费用固定不变",
+          "费用看金额多少",
+          "费用已经取消"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "礼貌打听的正确说法",
+        "explain": "ob 从句压尾。",
+        "options": [
+          "Können Sie mir sagen, ob ich im Ausland bezahlen kann?",
+          "Können Sie mir sagen, ob kann ich im Ausland bezahlen?",
+          "Sagen Sie mir, ob ich kann im Ausland bezahlen?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "warten auf。",
+        "tokens": [
+          "warte",
+          "Ich",
+          "auf",
+          "von meiner Familie",
+          "Geld"
+        ],
+        "answer": [
+          "Ich",
+          "warte",
+          "auf",
+          "Geld",
+          "von meiner Familie"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "代副词填空",
+        "explain": "指事的「为此」用代副词 dafür（für 不以元音开头，不加 r）。",
+        "display": "Was brauche ich ＿＿?（为了开户，需要什么）",
+        "answer": "dafür"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补数字范围",
+        "explain": "到账时长。",
+        "display": "Eine Überweisung dauert meistens ＿＿ bis fünf Tage.",
+        "audio": "Eine Überweisung dauert meistens drei bis fünf Tage.",
+        "answer": "drei"
+      },
+      {
+        "type": "choice",
+        "q": "„Ich gebe Ihnen die Broschüre, damit Sie alles lesen können.\" 中 damit 的作用",
+        "explain": "damit 目的从句。",
+        "options": [
+          "引出目的",
+          "引出原因",
+          "引出时间"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "账户月费。",
+        "display": "Das Konto ＿＿ fünf Euro im Monat.",
+        "answer": "kostet"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "间接问句框架（注：意群块 „ob es Gebühren gibt\" 拼读）。",
+        "tokens": [
+          "sagen",
+          "Können",
+          "mir",
+          "Sie",
+          "es Gebühren gibt",
+          "ob"
+        ],
+        "answer": [
+          "Können",
+          "Sie",
+          "mir",
+          "sagen",
+          "ob",
+          "es Gebühren gibt"
+        ]
+      }
+    ],
+    "speaking": "你去银行开户，三件事：①说清要开的账户并问材料；②问清月费和国外汇款的费用、到账时间；③用间接问句确认一个细节（卡能否在国外用）。至少用 1 个动词 + 介词搭配和 1 个 ob 间接问句。",
+    "sceneWords": [
+      "die Ruhe"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Beraterin",
+            "speak": "Guten Tag! Wie kann ich Ihnen helfen?"
+          },
+          {
+            "label": "Gast",
+            "speak": "Guten Tag. Ich möchte ein Girokonto eröffnen. Was brauche ich dafür?"
+          },
+          {
+            "label": "Beraterin",
+            "speak": "Ihren Ausweis und eine Meldebescheinigung. Das Konto kostet fünf Euro im Monat."
+          },
+          {
+            "label": "Gast",
+            "speak": "Können Sie mir sagen, ob ich mit der Karte auch im Ausland bezahlen kann?"
+          },
+          {
+            "label": "Beraterin",
+            "speak": "Ja, das geht. Und in der EU zahlen Sie keine Gebühren."
+          },
+          {
+            "label": "Gast",
+            "speak": "Ich warte oft auf Geld von meiner Familie aus China. Wie lange dauert eine Überweisung aus dem Ausland?"
+          },
+          {
+            "label": "Beraterin",
+            "speak": "Meistens drei bis fünf Tage. Die Gebühr hängt vom Betrag ab."
+          },
+          {
+            "label": "Gast",
+            "speak": "Und worüber muss ich mich noch informieren?"
+          },
+          {
+            "label": "Beraterin",
+            "speak": "Über unsere App. Damit können Sie alles am Handy machen. Ich gebe Ihnen diese Broschüre, damit Sie alles in Ruhe lesen können."
+          },
+          {
+            "label": "Gast",
+            "speak": "Vielen Dank! Ich bringe die Unterlagen morgen mit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-04",
+    "level": "A2",
+    "order": 4,
+    "title": "工作面试",
+    "recommended": "g-a2-02/03、g-a2-17",
+    "prerequisites": [
+      "g-a2-02",
+      "g-a2-03",
+      "g-a2-17"
+    ],
+    "sceneIntro": "你参加一家公司的面试。面试官问你的经历和上一份工作，你用过去式讲述，并礼貌地询问工作时间、团队和入职时间。",
+    "dialogue": [
+      {
+        "speaker": "Chefin",
+        "text": "Guten Tag, Herr Wang. Erzählen Sie bitte etwas über sich.",
+        "audio": "Guten Tag, Herr Wang. Erzählen Sie bitte etwas über sich."
+      },
+      {
+        "speaker": "Wang",
+        "text": "Guten Tag. Ich habe drei Jahre als Verkäufer gearbeitet. In meiner letzten Firma war ich für Kunden in Asien verantwortlich.",
+        "audio": "Guten Tag. Ich habe drei Jahre als Verkäufer gearbeitet. In meiner letzten Firma war ich für Kunden in Asien verantwortlich."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Warum haben Sie die Firma gewechselt?",
+        "audio": "Warum haben Sie die Firma gewechselt?"
+      },
+      {
+        "speaker": "Wang",
+        "text": "Ich wollte etwas Neues lernen. Die Arbeit war gut, aber es gab keine Weiterbildung.",
+        "audio": "Ich wollte etwas Neues lernen. Die Arbeit war gut, aber es gab keine Weiterbildung."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Was sind Ihre Stärken?",
+        "audio": "Was sind Ihre Stärken?"
+      },
+      {
+        "speaker": "Wang",
+        "text": "Ich arbeite gern im Team und spreche drei Sprachen. Wenn es Probleme gibt, bleibe ich ruhig und suche eine Lösung.",
+        "audio": "Ich arbeite gern im Team und spreche drei Sprachen. Wenn es Probleme gibt, bleibe ich ruhig und suche eine Lösung."
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Haben Sie noch Fragen an uns?",
+        "audio": "Haben Sie noch Fragen an uns?"
+      },
+      {
+        "speaker": "Wang",
+        "text": "Ja. Könnten Sie mir sagen, wann die Arbeitszeit beginnt? Und gibt es ein festes Team?",
+        "audio": "Ja. Könnten Sie mir sagen, wann die Arbeitszeit beginnt? Und gibt es ein festes Team?"
+      },
+      {
+        "speaker": "Chefin",
+        "text": "Die Arbeitszeit beginnt um neun. Und ja, Sie arbeiten in einem Team von fünf Leuten.",
+        "audio": "Die Arbeitszeit beginnt um neun. Und ja, Sie arbeiten in einem Team von fünf Leuten."
+      },
+      {
+        "speaker": "Wang",
+        "text": "Das klingt gut. Vielen Dank für das Gespräch!",
+        "audio": "Das klingt gut. Vielen Dank für das Gespräch!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich habe … Jahre als … gearbeitet.",
+          "讲经历（Perfekt）"
+        ],
+        [
+          "In meiner letzten Firma war ich …",
+          "讲过去职位（war）"
+        ],
+        [
+          "Ich wollte etwas Neues lernen.",
+          "离职理由（wollte）"
+        ],
+        [
+          "Wenn es Probleme gibt, bleibe ich ruhig.",
+          "讲工作方式"
+        ],
+        [
+          "Könnten Sie mir sagen, wann …?",
+          "反问细节"
+        ],
+        [
+          "Vielen Dank für das Gespräch!",
+          "面试收尾"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——Herr Wang 为什么换工作",
+        "explain": "wollte etwas Neues lernen + keine Weiterbildung。",
+        "options": [
+          "工资太低",
+          "想学新东西、原公司没有培训",
+          "和同事吵架"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "讲经历的完成时。",
+        "display": "Ich habe drei Jahre als Verkäufer ＿＿.",
+        "answer": "gearbeitet"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "verantwortlich für = 负责。",
+        "audio": "In meiner letzten Firma war ich für Kunden in Asien verantwortlich.",
+        "options": [
+          "他负责亚洲客户",
+          "他去过亚洲旅游",
+          "他的客户住在亚洲（句意重心在负责关系，非居住）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "讲过去职位最自然的说法",
+        "explain": "war 叙述过去职位。",
+        "options": [
+          "In meiner letzten Firma war ich Teamleiter.",
+          "In meiner letzten Firma bin ich Teamleiter gewesen jeden Tag.",
+          "In meiner letzten Firma ich war Teamleiter gestern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wollte 过去式讲动机。",
+        "tokens": [
+          "wollte",
+          "Ich",
+          "lernen",
+          "etwas Neues"
+        ],
+        "answer": [
+          "Ich",
+          "wollte",
+          "etwas Neues",
+          "lernen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "情态过去填空",
+        "explain": "wollen 的 Präteritum。",
+        "display": "Die Arbeit war gut, aber ich ＿＿ mehr lernen.（当时想）",
+        "answer": "wollte"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "面试高频句。",
+        "display": "Wenn es ＿＿ gibt, bleibe ich ruhig.",
+        "audio": "Wenn es Probleme gibt, bleibe ich ruhig.",
+        "answer": "Probleme"
+      },
+      {
+        "type": "choice",
+        "q": "面试反问环节的礼貌问法",
+        "explain": "Könnten Sie mir sagen, …",
+        "options": [
+          "Könnten Sie mir sagen, wann die Arbeit beginnt?",
+          "Sagen Sie mir jetzt, wann die Arbeit beginnt!",
+          "Wann beginnt die Arbeit, sagen Sie mal!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句型填空",
+        "explain": "Dank für 固定搭配。",
+        "display": "Vielen Dank ＿＿ das Gespräch!",
+        "answer": "für"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "面试标准问句。",
+        "tokens": [
+          "sind",
+          "Was",
+          "Stärken",
+          "Ihre"
+        ],
+        "answer": [
+          "Was",
+          "sind",
+          "Ihre",
+          "Stärken"
+        ]
+      }
+    ],
+    "speaking": "你参加面试，三件事：①用过去式讲你上一份工作和离职原因；②说一个你的强项并举例；③礼貌地反问两个细节（工作时间/团队/入职）。至少用 war/wollte 各 1 次和 1 个 Könnten Sie mir sagen 句。",
+    "sceneWords": [
+      "als",
+      "etwas",
+      "das Team"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Chefin",
+            "speak": "Guten Tag, Herr Wang. Erzählen Sie bitte etwas über sich."
+          },
+          {
+            "label": "Wang",
+            "speak": "Guten Tag. Ich habe drei Jahre als Verkäufer gearbeitet. In meiner letzten Firma war ich für Kunden in Asien verantwortlich."
+          },
+          {
+            "label": "Chefin",
+            "speak": "Warum haben Sie die Firma gewechselt?"
+          },
+          {
+            "label": "Wang",
+            "speak": "Ich wollte etwas Neues lernen. Die Arbeit war gut, aber es gab keine Weiterbildung."
+          },
+          {
+            "label": "Chefin",
+            "speak": "Was sind Ihre Stärken?"
+          },
+          {
+            "label": "Wang",
+            "speak": "Ich arbeite gern im Team und spreche drei Sprachen. Wenn es Probleme gibt, bleibe ich ruhig und suche eine Lösung."
+          },
+          {
+            "label": "Chefin",
+            "speak": "Haben Sie noch Fragen an uns?"
+          },
+          {
+            "label": "Wang",
+            "speak": "Ja. Könnten Sie mir sagen, wann die Arbeitszeit beginnt? Und gibt es ein festes Team?"
+          },
+          {
+            "label": "Chefin",
+            "speak": "Die Arbeitszeit beginnt um neun. Und ja, Sie arbeiten in einem Team von fünf Leuten."
+          },
+          {
+            "label": "Wang",
+            "speak": "Das klingt gut. Vielen Dank für das Gespräch!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-05",
+    "level": "A2",
+    "order": 5,
+    "title": "旅行计划与预订变更",
+    "recommended": "t-a2-03、g-a2-20",
+    "prerequisites": [
+      "t-a2-03",
+      "g-a2-20"
+    ],
+    "sceneIntro": "你订的火车临时有事要改签。你打电话给铁路服务中心，说明原订单、提出新时间，确认差价和新的车次信息。",
+    "dialogue": [
+      {
+        "speaker": "Service",
+        "text": "Deutsche Bahn, guten Tag. Wie kann ich helfen?",
+        "audio": "Deutsche Bahn, guten Tag. Wie kann ich helfen?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Guten Tag, hier ist Lan Wang. Ich habe ein Ticket für Freitag um zehn Uhr nach München, aber ich muss die Fahrt verschieben.",
+        "audio": "Guten Tag, hier ist Lan Wang. Ich habe ein Ticket für Freitag um zehn Uhr nach München, aber ich muss die Fahrt verschieben."
+      },
+      {
+        "speaker": "Service",
+        "text": "Kein Problem. Auf wann möchten Sie umbuchen?",
+        "audio": "Kein Problem. Auf wann möchten Sie umbuchen?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Auf Samstag um neun Uhr. Wird der Zug pünktlich sein? Letztes Mal hatte er zwei Stunden Verspätung.",
+        "audio": "Auf Samstag um neun Uhr. Wird der Zug pünktlich sein? Letztes Mal hatte er zwei Stunden Verspätung."
+      },
+      {
+        "speaker": "Service",
+        "text": "Am Samstag wird es nach dem Wetterbericht sonnig, der Zug um neun Uhr fährt planmäßig. Die Umbuchung kostet zehn Euro.",
+        "audio": "Am Samstag wird es nach dem Wetterbericht sonnig, der Zug um neun Uhr fährt planmäßig. Die Umbuchung kostet zehn Euro."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Das ist in Ordnung. Könnten Sie mir die neue Verbindung noch einmal sagen?",
+        "audio": "Das ist in Ordnung. Könnten Sie mir die neue Verbindung noch einmal sagen?"
+      },
+      {
+        "speaker": "Service",
+        "text": "Gern: Samstag, neun Uhr ab Berlin, Ankunft in München um dreizehn Uhr zehn, Gleis vier.",
+        "audio": "Gern: Samstag, neun Uhr ab Berlin, Ankunft in München um dreizehn Uhr zehn, Gleis vier."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Ich wiederhole: Samstag neun Uhr, Ankunft dreizehn Uhr zehn. Stimmt das?",
+        "audio": "Ich wiederhole: Samstag neun Uhr, Ankunft dreizehn Uhr zehn. Stimmt das?"
+      },
+      {
+        "speaker": "Service",
+        "text": "Genau. Sie bekommen eine Bestätigung per E-Mail.",
+        "audio": "Genau. Sie bekommen eine Bestätigung per E-Mail."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Vielen Dank für Ihre Hilfe. Auf Wiederhören!",
+        "audio": "Vielen Dank für Ihre Hilfe. Auf Wiederhören!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich muss die Fahrt verschieben. / Ich möchte umbuchen.",
+          "提出改签"
+        ],
+        [
+          "Auf wann möchten Sie umbuchen?",
+          "问新时间"
+        ],
+        [
+          "Wird der Zug pünktlich sein?",
+          "问准点（将来）"
+        ],
+        [
+          "Die Umbuchung kostet …",
+          "差价/改签费"
+        ],
+        [
+          "Ich wiederhole: … Stimmt das?",
+          "复述确认（t-a2-02 复用）"
+        ],
+        [
+          "Sie bekommen eine Bestätigung per E-Mail.",
+          "确认方式"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——改签后的行程是",
+        "explain": "新连接 Samstag 9:00 → 13:10。",
+        "options": [
+          "周五十点去慕尼黑",
+          "周六九点出发、十三点十分到达",
+          "周六十点出发"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "推迟/改期。",
+        "display": "Ich muss die Fahrt ＿＿.",
+        "answer": "verschieben"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "Umbuchung kostet。",
+        "audio": "Die Umbuchung kostet zehn Euro.",
+        "options": [
+          "改签免费",
+          "改签费十欧元",
+          "车票十欧元"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "复述确认的正确说法",
+        "explain": "自己复述 + Stimmt das?",
+        "options": [
+          "Ich wiederhole: Samstag neun Uhr. Stimmt das?",
+          "Ich wiederhole Samstag neun Uhr stimmt das schnell.",
+          "Wiederholen Sie: Samstag neun Uhr!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "提出改签。",
+        "tokens": [
+          "muss",
+          "Ich",
+          "verschieben",
+          "die Fahrt"
+        ],
+        "answer": [
+          "Ich",
+          "muss",
+          "die Fahrt",
+          "verschieben"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "将来说法填空",
+        "explain": "Futur I 预测。",
+        "display": "Der Zug ＿＿ pünktlich sein.（预报口吻）",
+        "answer": "wird"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补时间",
+        "explain": "到达时间听辨。",
+        "display": "Ankunft in München um ＿＿ Uhr zehn.",
+        "audio": "Ankunft in München um dreizehn Uhr zehn.",
+        "answer": "dreizehn"
+      },
+      {
+        "type": "choice",
+        "q": "电话结尾用哪句",
+        "explain": "电话用 Wiederhören。",
+        "options": [
+          "Auf Wiedersehen!",
+          "Auf Wiederhören!",
+          "Bis später sehen!"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "确认函。",
+        "display": "Sie bekommen eine ＿＿ per E-Mail.",
+        "answer": "Bestätigung"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "礼貌请复述（注：意群块拼读）。",
+        "tokens": [
+          "Könnten",
+          "die neue Verbindung",
+          "Sie",
+          "mir",
+          "noch einmal sagen"
+        ],
+        "answer": [
+          "Könnten",
+          "Sie",
+          "mir",
+          "die neue Verbindung",
+          "noch einmal sagen"
+        ]
+      }
+    ],
+    "speaking": "你打电话改签火车票，三件事：①说明原订单和改签原因；②提出新时间并确认费用；③复述新的车次信息确认无误。至少用 1 个 Futur I 句和 1 次复述确认。",
+    "sceneWords": [
+      "sonnig",
+      "verschieben",
+      "die Verspätung"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Service",
+            "speak": "Deutsche Bahn, guten Tag. Wie kann ich helfen?"
+          },
+          {
+            "label": "Gast",
+            "speak": "Guten Tag, hier ist Lan Wang. Ich habe ein Ticket für Freitag um zehn Uhr nach München, aber ich muss die Fahrt verschieben."
+          },
+          {
+            "label": "Service",
+            "speak": "Kein Problem. Auf wann möchten Sie umbuchen?"
+          },
+          {
+            "label": "Gast",
+            "speak": "Auf Samstag um neun Uhr. Wird der Zug pünktlich sein? Letztes Mal hatte er zwei Stunden Verspätung."
+          },
+          {
+            "label": "Service",
+            "speak": "Am Samstag wird es nach dem Wetterbericht sonnig, der Zug um neun Uhr fährt planmäßig. Die Umbuchung kostet zehn Euro."
+          },
+          {
+            "label": "Gast",
+            "speak": "Das ist in Ordnung. Könnten Sie mir die neue Verbindung noch einmal sagen?"
+          },
+          {
+            "label": "Service",
+            "speak": "Gern: Samstag, neun Uhr ab Berlin, Ankunft in München um dreizehn Uhr zehn, Gleis vier."
+          },
+          {
+            "label": "Gast",
+            "speak": "Ich wiederhole: Samstag neun Uhr, Ankunft dreizehn Uhr zehn. Stimmt das?"
+          },
+          {
+            "label": "Service",
+            "speak": "Genau. Sie bekommen eine Bestätigung per E-Mail."
+          },
+          {
+            "label": "Gast",
+            "speak": "Vielen Dank für Ihre Hilfe. Auf Wiederhören!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-06",
+    "level": "A2",
+    "order": 6,
+    "title": "学校家长会",
+    "recommended": "g-a2-18、t-a2-05",
+    "prerequisites": [
+      "g-a2-18",
+      "t-a2-05"
+    ],
+    "sceneIntro": "你作为家长参加家长会。老师评价孩子的学习和社交情况，你认真听取，表达自己的看法，并和老师约定改进办法。",
+    "dialogue": [
+      {
+        "speaker": "Lehrerin",
+        "text": "Guten Abend, Frau Lan. Schön, dass Sie da sind. Es geht um Ihren Sohn Bo.",
+        "audio": "Guten Abend, Frau Lan. Schön, dass Sie da sind. Es geht um Ihren Sohn Bo."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Guten Abend. Wie macht er sich in der Schule?",
+        "audio": "Guten Abend. Wie macht er sich in der Schule?"
+      },
+      {
+        "speaker": "Lehrerin",
+        "text": "In Mathematik ist er sehr gut. Er lernt schnell, deshalb muss er oft auf andere warten. Aber im Deutschen sollte er mehr lesen, damit sein Wortschatz größer wird.",
+        "audio": "In Mathematik ist er sehr gut. Er lernt schnell, deshalb muss er oft auf andere warten. Aber im Deutschen sollte er mehr lesen, damit sein Wortschatz größer wird."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Das verstehe ich. Meiner Meinung nach liest er zu wenig, weil er lieber Sport macht.",
+        "audio": "Das verstehe ich. Meiner Meinung nach liest er zu wenig, weil er lieber Sport macht."
+      },
+      {
+        "speaker": "Lehrerin",
+        "text": "Sport ist wichtig, trotzdem braucht er jeden Tag zwanzig Minuten Lesen. Ich gebe Ihnen eine Bücherliste, damit Sie zusammen üben können.",
+        "audio": "Sport ist wichtig, trotzdem braucht er jeden Tag zwanzig Minuten Lesen. Ich gebe Ihnen eine Bücherliste, damit Sie zusammen üben können."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Vielen Dank. Ich finde, dass ein fester Leseplan hilft. Wir lesen ab heute jeden Abend zusammen.",
+        "audio": "Vielen Dank. Ich finde, dass ein fester Leseplan hilft. Wir lesen ab heute jeden Abend zusammen."
+      },
+      {
+        "speaker": "Lehrerin",
+        "text": "Das ist eine gute Idee. Wenn er regelmäßig liest, wird er schnell besser.",
+        "audio": "Das ist eine gute Idee. Wenn er regelmäßig liest, wird er schnell besser."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Dann sehen wir uns beim nächsten Termin. Vielen Dank für Ihre Zeit!",
+        "audio": "Dann sehen wir uns beim nächsten Termin. Vielen Dank für Ihre Zeit!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Wie macht er sich in der Schule?",
+          "问孩子表现"
+        ],
+        [
+          "Er lernt schnell, deshalb …",
+          "老师讲因果"
+        ],
+        [
+          "Er sollte mehr lesen, damit …",
+          "建议 + 目的"
+        ],
+        [
+          "Meiner Meinung nach … / Ich finde, dass …",
+          "家长表达看法"
+        ],
+        [
+          "Sport ist wichtig, trotzdem …",
+          "让步协商"
+        ],
+        [
+          "Wenn er regelmäßig liest, wird er besser.",
+          "条件 + 效果"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——老师对 Bo 的评价是",
+        "explain": "Mathematik sehr gut + mehr lesen。",
+        "options": [
+          "数学好，德语要多读",
+          "数学差，德语好",
+          "各科都不好"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "表达观点固定短语。",
+        "display": "＿＿ Meinung nach liest er zu wenig.",
+        "answer": "Meiner"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "sollte 建议 + damit 目的。",
+        "audio": "Er sollte mehr lesen, damit sein Wortschatz größer wird.",
+        "options": [
+          "他应该多读，这样词汇量变大",
+          "他读得太多，词汇量太大",
+          "他不喜欢读书"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "让步句的正确形式",
+        "explain": "trotzdem 倒装。",
+        "options": [
+          "Sport ist wichtig, trotzdem braucht er Zeit zum Lesen.",
+          "Sport ist wichtig, trotzdem er braucht Zeit zum Lesen.",
+          "Sport ist wichtig, trotzdem braucht er Zeit zum Lesen gestern an."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "观点句 dass 从句。",
+        "tokens": [
+          "finde",
+          "Ich",
+          "hilft",
+          "dass",
+          "ein fester Plan"
+        ],
+        "answer": [
+          "Ich",
+          "finde",
+          "dass",
+          "ein fester Plan",
+          "hilft"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "目的填空",
+        "explain": "异主语目的 damit。",
+        "display": "Ich gebe Ihnen eine Liste, ＿＿ Sie zusammen üben können.",
+        "answer": "damit"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补数词",
+        "explain": "每日阅读时长。",
+        "display": "Er braucht jeden Tag ＿＿ Minuten Lesen.",
+        "audio": "Er braucht jeden Tag zwanzig Minuten Lesen.",
+        "answer": "zwanzig"
+      },
+      {
+        "type": "choice",
+        "q": "因果方向正确的一句",
+        "explain": "deshalb 引结果。",
+        "options": [
+          "Er lernt schnell, deshalb muss er oft warten.",
+          "Er lernt schnell, weil muss er oft warten.",
+          "Er lernt schnell, darum muss oft er warten an."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "条件句填空",
+        "explain": "wenn + wird （将来效果）。",
+        "display": "Wenn er regelmäßig liest, ＿＿ er schnell besser.",
+        "answer": "wird"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "家长会开场问句。",
+        "tokens": [
+          "macht",
+          "Wie",
+          "sich",
+          "er",
+          "in der Schule"
+        ],
+        "answer": [
+          "Wie",
+          "macht",
+          "er",
+          "sich",
+          "in der Schule"
+        ]
+      }
+    ],
+    "speaking": "你参加家长会，三件事：①问清孩子一门强项和一门弱项；②对老师的建议表达你的看法（Ich finde, dass … / Meiner Meinung nach …）；③约定一个具体改进办法并说明目的（damit …）。至少用 deshalb 和 trotzdem 各 1 次。",
+    "sceneWords": [
+      "dass",
+      "deshalb",
+      "die Idee",
+      "die Meinung"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Lehrerin",
+            "speak": "Guten Abend, Frau Lan. Schön, dass Sie da sind. Es geht um Ihren Sohn Bo."
+          },
+          {
+            "label": "Lan",
+            "speak": "Guten Abend. Wie macht er sich in der Schule?"
+          },
+          {
+            "label": "Lehrerin",
+            "speak": "In Mathematik ist er sehr gut. Er lernt schnell, deshalb muss er oft auf andere warten. Aber im Deutschen sollte er mehr lesen, damit sein Wortschatz größer wird."
+          },
+          {
+            "label": "Lan",
+            "speak": "Das verstehe ich. Meiner Meinung nach liest er zu wenig, weil er lieber Sport macht."
+          },
+          {
+            "label": "Lehrerin",
+            "speak": "Sport ist wichtig, trotzdem braucht er jeden Tag zwanzig Minuten Lesen. Ich gebe Ihnen eine Bücherliste, damit Sie zusammen üben können."
+          },
+          {
+            "label": "Lan",
+            "speak": "Vielen Dank. Ich finde, dass ein fester Leseplan hilft. Wir lesen ab heute jeden Abend zusammen."
+          },
+          {
+            "label": "Lehrerin",
+            "speak": "Das ist eine gute Idee. Wenn er regelmäßig liest, wird er schnell besser."
+          },
+          {
+            "label": "Lan",
+            "speak": "Dann sehen wir uns beim nächsten Termin. Vielen Dank für Ihre Zeit!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-07",
+    "level": "A2",
+    "order": 7,
+    "title": "邻里纠纷调解",
+    "recommended": "t-a2-04、g-a2-17",
+    "prerequisites": [
+      "t-a2-04",
+      "g-a2-17"
+    ],
+    "sceneIntro": "楼上邻居晚上经常很吵。你礼貌地敲门沟通，陈述事实，提出具体请求，协商出双方都能接受的安静时间方案。",
+    "dialogue": [
+      {
+        "speaker": "Lan",
+        "text": "Guten Abend, Frau Berger. Entschuldigung, dass ich störe. Ich hätte ein Anliegen.",
+        "audio": "Guten Abend, Frau Berger. Entschuldigung, dass ich störe. Ich hätte ein Anliegen."
+      },
+      {
+        "speaker": "Nachbarin",
+        "text": "Guten Abend. Worum geht es?",
+        "audio": "Guten Abend. Worum geht es?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "In den letzten Wochen war es abends oft sehr laut. Mein Sohn kann dann nicht schlafen, weil er morgens um sechs aufstehen muss.",
+        "audio": "In den letzten Wochen war es abends oft sehr laut. Mein Sohn kann dann nicht schlafen, weil er morgens um sechs aufstehen muss."
+      },
+      {
+        "speaker": "Nachbarin",
+        "text": "Oh, das tut mir leid. Wir hatten oft Besuch. Das wusste ich nicht.",
+        "audio": "Oh, das tut mir leid. Wir hatten oft Besuch. Das wusste ich nicht."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Ich verstehe das. Könnten wir uns auf eine Uhrzeit einigen? Ab zweiundzwanzig Uhr sollte es ruhig sein.",
+        "audio": "Ich verstehe das. Könnten wir uns auf eine Uhrzeit einigen? Ab zweiundzwanzig Uhr sollte es ruhig sein."
+      },
+      {
+        "speaker": "Nachbarin",
+        "text": "Zweiundzwanzig Uhr ist für uns ein bisschen früh. Aber ab dreiundzwanzig Uhr sind wir leise, versprochen.",
+        "audio": "Zweiundzwanzig Uhr ist für uns ein bisschen früh. Aber ab dreiundzwanzig Uhr sind wir leise, versprochen."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Damit bin ich einverstanden. Und am Wochenende können Sie mich auch gern anrufen, wenn es bei uns zu laut ist.",
+        "audio": "Damit bin ich einverstanden. Und am Wochenende können Sie mich auch gern anrufen, wenn es bei uns zu laut ist."
+      },
+      {
+        "speaker": "Nachbarin",
+        "text": "Das ist nett. Vielen Dank, dass Sie so freundlich waren.",
+        "audio": "Das ist nett. Vielen Dank, dass Sie so freundlich waren."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Gern geschehen. Dann wünsche ich Ihnen noch einen schönen Abend!",
+        "audio": "Gern geschehen. Dann wünsche ich Ihnen noch einen schönen Abend!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Entschuldigung, dass ich störe. Ich hätte ein Anliegen.",
+          "礼貌开场提事"
+        ],
+        [
+          "Es war oft sehr laut. / … kann nicht schlafen, weil …",
+          "陈述事实 + 影响"
+        ],
+        [
+          "Könnten wir uns auf eine Uhrzeit einigen?",
+          "提协商框架"
+        ],
+        [
+          "Ab … sollte es ruhig sein.",
+          "提具体方案"
+        ],
+        [
+          "Damit bin ich einverstanden.",
+          "接受方案"
+        ],
+        [
+          "Vielen Dank, dass Sie so freundlich waren.",
+          "对方收尾致谢"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——最后协商的结果是",
+        "explain": "ab 23 Uhr leise + Anruf-Angebot。",
+        "options": [
+          "22 点起安静",
+          "23 点起安静，互留电话",
+          "以后不许来客人"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "礼貌提事的说法。",
+        "display": "Ich hätte ein ＿＿.（有个请求/事情）",
+        "answer": "Anliegen"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "einigen 是协商语气。",
+        "audio": "Könnten wir uns auf eine Uhrzeit einigen?",
+        "options": [
+          "我们能不能商量一个时间",
+          "现在几点",
+          "你必须几点安静（命令）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "陈述事实的正确顺序说法",
+        "explain": "weil 压尾。",
+        "options": [
+          "Mein Sohn kann nicht schlafen, weil er um sechs aufstehen muss.",
+          "Mein Sohn kann nicht schlafen, weil er muss um sechs aufstehen.",
+          "Weil mein Sohn schlafen nicht kann, er steht um sechs auf."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "接受方案。",
+        "tokens": [
+          "bin",
+          "Damit",
+          "einverstanden",
+          "ich"
+        ],
+        "answer": [
+          "Damit",
+          "bin",
+          "ich",
+          "einverstanden"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "建议填空",
+        "explain": "sollte 提方案。",
+        "display": "Ab 22 Uhr ＿＿ es ruhig sein.（礼貌建议）",
+        "answer": "sollte"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补时间",
+        "explain": "协商结果时间。",
+        "display": "Aber ab ＿＿ Uhr sind wir leise.",
+        "audio": "Aber ab dreiundzwanzig Uhr sind wir leise.",
+        "answer": "dreiundzwanzig"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是有效的协商动作",
+        "explain": "拒绝并给替代方案。",
+        "options": [
+          "Das geht leider nicht, aber ab 23 Uhr geht es.",
+          "Nein, niemals!",
+          "Sie müssen ab 20 Uhr leise sein!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "致谢固定开头。",
+        "display": "＿＿ Dank, dass Sie so freundlich waren.",
+        "answer": "Vielen"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "缓冲开场。",
+        "tokens": [
+          "störe",
+          "Entschuldigung",
+          "ich",
+          "dass"
+        ],
+        "answer": [
+          "Entschuldigung",
+          "dass",
+          "ich",
+          "störe"
+        ]
+      }
+    ],
+    "speaking": "你去和邻居沟通噪音问题，三件事：①礼貌开场并陈述事实和影响；②提出一个具体的安静时间方案（sollte）；③接受或调整对方方案并收尾致意（einverstanden）。全程不用命令句。",
+    "sceneWords": [
+      "der Besuch",
+      "dass",
+      "freundlich",
+      "nett",
+      "wenn"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Lan",
+            "speak": "Guten Abend, Frau Berger. Entschuldigung, dass ich störe. Ich hätte ein Anliegen."
+          },
+          {
+            "label": "Nachbarin",
+            "speak": "Guten Abend. Worum geht es?"
+          },
+          {
+            "label": "Lan",
+            "speak": "In den letzten Wochen war es abends oft sehr laut. Mein Sohn kann dann nicht schlafen, weil er morgens um sechs aufstehen muss."
+          },
+          {
+            "label": "Nachbarin",
+            "speak": "Oh, das tut mir leid. Wir hatten oft Besuch. Das wusste ich nicht."
+          },
+          {
+            "label": "Lan",
+            "speak": "Ich verstehe das. Könnten wir uns auf eine Uhrzeit einigen? Ab zweiundzwanzig Uhr sollte es ruhig sein."
+          },
+          {
+            "label": "Nachbarin",
+            "speak": "Zweiundzwanzig Uhr ist für uns ein bisschen früh. Aber ab dreiundzwanzig Uhr sind wir leise, versprochen."
+          },
+          {
+            "label": "Lan",
+            "speak": "Damit bin ich einverstanden. Und am Wochenende können Sie mich auch gern anrufen, wenn es bei uns zu laut ist."
+          },
+          {
+            "label": "Nachbarin",
+            "speak": "Das ist nett. Vielen Dank, dass Sie so freundlich waren."
+          },
+          {
+            "label": "Lan",
+            "speak": "Gern geschehen. Dann wünsche ich Ihnen noch einen schönen Abend!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-08",
+    "level": "A2",
+    "order": 8,
+    "title": "手机网络故障报修",
+    "recommended": "g-a2-09、g-a2-19",
+    "prerequisites": [
+      "g-a2-09",
+      "g-a2-19"
+    ],
+    "sceneIntro": "你家的网络从昨天起断了。你打电话给运营商客服描述故障，配合做简单检查，最后确认技术员上门时间和注意事项。",
+    "dialogue": [
+      {
+        "speaker": "Hotline",
+        "text": "Guten Tag, TeleService. Was kann ich für Sie tun?",
+        "audio": "Guten Tag, TeleService. Was kann ich für Sie tun?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Guten Tag, hier ist Wang. Seit gestern funktioniert unser Internet nicht mehr. Der Router wird auch nicht mehr gefunden.",
+        "audio": "Guten Tag, hier ist Wang. Seit gestern funktioniert unser Internet nicht mehr. Der Router wird auch nicht mehr gefunden."
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Das tut mir leid. Leuchtet die Lampe am Router rot oder grün?",
+        "audio": "Das tut mir leid. Leuchtet die Lampe am Router rot oder grün?"
+      },
+      {
+        "speaker": "Gast",
+        "text": "Sie leuchtet rot. Ich habe den Router schon neu gestartet, aber es hilft nicht.",
+        "audio": "Sie leuchtet rot. Ich habe den Router schon neu gestartet, aber es hilft nicht."
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Verstehe. Die Leitung wird von uns geprüft. Einen Moment … Die Prüfung zeigt ein Problem in Ihrer Straße.",
+        "audio": "Verstehe. Die Leitung wird von uns geprüft. Einen Moment … Die Prüfung zeigt ein Problem in Ihrer Straße."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Wie lange dauert die Reparatur?",
+        "audio": "Wie lange dauert die Reparatur?"
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Ein Techniker wird morgen zwischen neun und zwölf zu Ihnen kommen. Sie werden per SMS informiert.",
+        "audio": "Ein Techniker wird morgen zwischen neun und zwölf zu Ihnen kommen. Sie werden per SMS informiert."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Muss ich zu Hause sein?",
+        "audio": "Muss ich zu Hause sein?"
+      },
+      {
+        "speaker": "Hotline",
+        "text": "Ja, bitte. Der Techniker braucht Zugang zum Router, der im Flur steht.",
+        "audio": "Ja, bitte. Der Techniker braucht Zugang zum Router, der im Flur steht."
+      },
+      {
+        "speaker": "Gast",
+        "text": "Alles klar, ich bin da. Vielen Dank!",
+        "audio": "Alles klar, ich bin da. Vielen Dank!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Seit gestern funktioniert … nicht mehr.",
+          "报故障 + 起始时间"
+        ],
+        [
+          "Ich habe … schon neu gestartet, aber es hilft nicht.",
+          "说明已自查"
+        ],
+        [
+          "Die Leitung wird von uns geprüft.",
+          "客服被动句（流程）"
+        ],
+        [
+          "Ein Techniker wird morgen kommen. / Sie werden per SMS informiert.",
+          "上门安排与通知"
+        ],
+        [
+          "Muss ich zu Hause sein?",
+          "确认配合事项"
+        ],
+        [
+          "Der Router, der im Flur steht, …",
+          "定位设备（关系从句）"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——故障的原因和安排是",
+        "explain": "Problem in Ihrer Straße + Techniker morgen 9–12。",
+        "options": [
+          "路由器坏了，要自己买新的",
+          "街道线路有问题，技术员明天 9–12 点上门",
+          "需要等一周"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "报故障标志句。",
+        "display": "Seit gestern ＿＿ unser Internet nicht mehr.",
+        "answer": "funktioniert"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "被动 informiert werden。",
+        "audio": "Sie werden per SMS informiert.",
+        "options": [
+          "你要发短信",
+          "你会收到短信通知",
+          "短信坏了"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "被动句正确的一句",
+        "explain": "wird + 分词压尾。",
+        "options": [
+          "Die Leitung wird von uns geprüft.",
+          "Die Leitung prüft von uns wird.",
+          "Die Leitung ist geprüft von uns wird."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "von + 主体。",
+        "tokens": [
+          "wird",
+          "Die Leitung",
+          "geprüft",
+          "von uns"
+        ],
+        "answer": [
+          "Die Leitung",
+          "wird",
+          "von uns",
+          "geprüft"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "被动填空",
+        "explain": "Sie werden informiert。",
+        "display": "Sie ＿＿ per SMS informiert.",
+        "answer": "werden"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补颜色",
+        "explain": "故障指示灯。",
+        "display": "Die Lampe am Router leuchtet ＿＿.",
+        "audio": "Die Lampe am Router leuchtet rot.",
+        "answer": "rot"
+      },
+      {
+        "type": "choice",
+        "q": "已自查的说法",
+        "explain": "Perfekt 说明已尝试。",
+        "options": [
+          "Ich habe den Router schon neu gestartet.",
+          "Ich starte den Router gestern neu gewesen.",
+          "Der Router startet mich neu."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "上门技术员。",
+        "display": "Ein ＿＿ wird morgen kommen.",
+        "answer": "Techniker"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "确认配合事项。",
+        "tokens": [
+          "ich",
+          "Muss",
+          "sein",
+          "zu Hause"
+        ],
+        "answer": [
+          "Muss",
+          "ich",
+          "zu Hause",
+          "sein"
+        ]
+      }
+    ],
+    "speaking": "你打电话报修网络，三件事：①描述故障和开始时间（seit …）；②说明你已经试过的办法；③确认上门时间和你要配合的事。至少用 1 个被动句（听懂客服的也算复述）和 1 个关系从句定位设备。",
+    "sceneWords": [
+      "die Lampe"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Hotline",
+            "speak": "Guten Tag, TeleService. Was kann ich für Sie tun?"
+          },
+          {
+            "label": "Gast",
+            "speak": "Guten Tag, hier ist Wang. Seit gestern funktioniert unser Internet nicht mehr. Der Router wird auch nicht mehr gefunden."
+          },
+          {
+            "label": "Hotline",
+            "speak": "Das tut mir leid. Leuchtet die Lampe am Router rot oder grün?"
+          },
+          {
+            "label": "Gast",
+            "speak": "Sie leuchtet rot. Ich habe den Router schon neu gestartet, aber es hilft nicht."
+          },
+          {
+            "label": "Hotline",
+            "speak": "Verstehe. Die Leitung wird von uns geprüft. Einen Moment … Die Prüfung zeigt ein Problem in Ihrer Straße."
+          },
+          {
+            "label": "Gast",
+            "speak": "Wie lange dauert die Reparatur?"
+          },
+          {
+            "label": "Hotline",
+            "speak": "Ein Techniker wird morgen zwischen neun und zwölf zu Ihnen kommen. Sie werden per SMS informiert."
+          },
+          {
+            "label": "Gast",
+            "speak": "Muss ich zu Hause sein?"
+          },
+          {
+            "label": "Hotline",
+            "speak": "Ja, bitte. Der Techniker braucht Zugang zum Router, der im Flur steht."
+          },
+          {
+            "label": "Gast",
+            "speak": "Alles klar, ich bin da. Vielen Dank!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-09",
+    "level": "A2",
+    "order": 9,
+    "title": "节日家庭聚会",
+    "recommended": "g-a2-14/15、g-a2-16",
+    "prerequisites": [
+      "g-a2-14",
+      "g-a2-15",
+      "g-a2-16"
+    ],
+    "sceneIntro": "圣诞节你受邀去德国朋友家聚会。你带礼物、介绍自己带来的家人、聊两国节日习俗，表达感谢。",
+    "dialogue": [
+      {
+        "speaker": "Gastgeberin",
+        "text": "Frohe Weihnachten! Schön, dass ihr da seid. Kommt herein!",
+        "audio": "Frohe Weihnachten! Schön, dass ihr da seid. Kommt herein!"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Frohe Weihnachten! Das ist mein Bruder, der gestern aus China angekommen ist. Und das ist für dich — ein Tee, den meine Mutter selbst gemacht hat.",
+        "audio": "Frohe Weihnachten! Das ist mein Bruder, der gestern aus China angekommen ist. Und das ist für dich — ein Tee, den meine Mutter selbst gemacht hat."
+      },
+      {
+        "speaker": "Gastgeberin",
+        "text": "Wie lieb, vielen Dank! Setzt euch. Das Essen, das auf dem Tisch steht, hat meine Oma gemacht.",
+        "audio": "Wie lieb, vielen Dank! Setzt euch. Das Essen, das auf dem Tisch steht, hat meine Oma gemacht."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Es riecht wunderbar. Bei uns feiert man das Frühlingsfest mit der Familie. Das, was mir am besten gefällt, ist das gemeinsame Essen.",
+        "audio": "Es riecht wunderbar. Bei uns feiert man das Frühlingsfest mit der Familie. Das, was mir am besten gefällt, ist das gemeinsame Essen."
+      },
+      {
+        "speaker": "Gastgeberin",
+        "text": "Bei uns ist es genauso. Die Kinder, denen der Weihnachtsmann Geschenke bringt, freuen sich das ganze Jahr darauf.",
+        "audio": "Bei uns ist es genauso. Die Kinder, denen der Weihnachtsmann Geschenke bringt, freuen sich das ganze Jahr darauf."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Ich hätte gern das Rezept für den Kuchen, der so gut schmeckt.",
+        "audio": "Ich hätte gern das Rezept für den Kuchen, der so gut schmeckt."
+      },
+      {
+        "speaker": "Gastgeberin",
+        "text": "Gern! Ich schreibe es dir auf. Und ihr müsst unbedingt den Nachtisch probieren, den mein Mann gemacht hat.",
+        "audio": "Gern! Ich schreibe es dir auf. Und ihr müsst unbedingt den Nachtisch probieren, den mein Mann gemacht hat."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Sehr gern. Vielen Dank für die Einladung!",
+        "audio": "Sehr gern. Vielen Dank für die Einladung!"
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Frohe Weihnachten! / Schön, dass ihr da seid!",
+          "节日问候"
+        ],
+        [
+          "Das ist mein Bruder, der …",
+          "介绍家人（关系从句）"
+        ],
+        [
+          "Das ist für dich — ein Tee, den …",
+          "送礼说明"
+        ],
+        [
+          "Das, was mir am besten gefällt, ist …",
+          "聊习俗喜好"
+        ],
+        [
+          "Ich hätte gern das Rezept für …",
+          "礼貌索要"
+        ],
+        [
+          "Vielen Dank für die Einladung!",
+          "致谢"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——Lan 带了什么礼物、谁做的饭",
+        "explain": "Tee von der Mutter + Essen von der Oma。",
+        "options": [
+          "妈妈做的茶；奶奶做的饭",
+          "商店买的酒；丈夫做的饭",
+          "自己做的蛋糕；邻居做的饭"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "介绍用的关系从句。",
+        "display": "Das ist mein Bruder, ＿＿ gestern angekommen ist.",
+        "answer": "der"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "Das, was … 结构。",
+        "audio": "Das, was mir am besten gefällt, ist das gemeinsame Essen.",
+        "options": [
+          "我最喜欢的是大家一起吃饭",
+          "我最喜欢自己做饭",
+          "我不爱吃这顿饭"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "礼貌索要食谱",
+        "explain": "hätte gern。",
+        "options": [
+          "Ich hätte gern das Rezept.",
+          "Gib mir das Rezept!",
+          "Ich will das Rezept jetzt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "送礼 + 关系从句（注：意群块拼读）。",
+        "tokens": [
+          "ist",
+          "Das",
+          "für dich",
+          "ein Tee",
+          "den",
+          "meine Mutter gemacht hat"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "für dich",
+          "ein Tee",
+          "den",
+          "meine Mutter gemacht hat"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "复数与格 denen。",
+        "display": "Die Kinder, ＿＿ der Weihnachtsmann Geschenke bringt, freuen sich.",
+        "answer": "denen"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "聚会场景词。",
+        "display": "Setzt euch. Das Essen steht auf dem ＿＿.",
+        "audio": "Setzt euch. Das Essen steht auf dem Tisch.",
+        "answer": "Tisch"
+      },
+      {
+        "type": "choice",
+        "q": "节日问候正确的一句",
+        "explain": "固定祝语 Frohe Weihnachten!",
+        "options": [
+          "Frohe Weihnachten!",
+          "Frohes Weihnachten dir!",
+          "Glückliche Weihnacht gestern!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "Dank für。",
+        "display": "Vielen Dank ＿＿ die Einladung!",
+        "answer": "für"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "hätte gern + 名词。",
+        "tokens": [
+          "hätte",
+          "Ich",
+          "gern",
+          "das Rezept"
+        ],
+        "answer": [
+          "Ich",
+          "hätte",
+          "gern",
+          "das Rezept"
+        ]
+      }
+    ],
+    "speaking": "你参加朋友家的节日聚会，三件事：①介绍一位和你同来的人（关系从句）；②说明你带的礼物是什么、谁做的（关系从句）；③聊一句你们国家的节日习俗并致谢。至少用 was 从句 1 次（Das, was …）。",
+    "sceneWords": [
+      "darauf",
+      "dass",
+      "herein",
+      "das Rezept",
+      "selbst",
+      "unbedingt"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Gastgeberin",
+            "speak": "Frohe Weihnachten! Schön, dass ihr da seid. Kommt herein!"
+          },
+          {
+            "label": "Lan",
+            "speak": "Frohe Weihnachten! Das ist mein Bruder, der gestern aus China angekommen ist. Und das ist für dich — ein Tee, den meine Mutter selbst gemacht hat."
+          },
+          {
+            "label": "Gastgeberin",
+            "speak": "Wie lieb, vielen Dank! Setzt euch. Das Essen, das auf dem Tisch steht, hat meine Oma gemacht."
+          },
+          {
+            "label": "Lan",
+            "speak": "Es riecht wunderbar. Bei uns feiert man das Frühlingsfest mit der Familie. Das, was mir am besten gefällt, ist das gemeinsame Essen."
+          },
+          {
+            "label": "Gastgeberin",
+            "speak": "Bei uns ist es genauso. Die Kinder, denen der Weihnachtsmann Geschenke bringt, freuen sich das ganze Jahr darauf."
+          },
+          {
+            "label": "Lan",
+            "speak": "Ich hätte gern das Rezept für den Kuchen, der so gut schmeckt."
+          },
+          {
+            "label": "Gastgeberin",
+            "speak": "Gern! Ich schreibe es dir auf. Und ihr müsst unbedingt den Nachtisch probieren, den mein Mann gemacht hat."
+          },
+          {
+            "label": "Lan",
+            "speak": "Sehr gern. Vielen Dank für die Einladung!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a2-10",
+    "level": "A2",
+    "order": 10,
+    "title": "人生规划谈话",
+    "recommended": "g-a2-17、g-a2-20",
+    "prerequisites": [
+      "g-a2-17",
+      "g-a2-20"
+    ],
+    "sceneIntro": "你和一位好朋友喝咖啡，聊起各自今后几年的打算：工作、学习、旅行和家庭。你们谈愿望、条件和现实计划。",
+    "dialogue": [
+      {
+        "speaker": "Freundin",
+        "text": "Sag mal, was hast du in den nächsten Jahren vor?",
+        "audio": "Sag mal, was hast du in den nächsten Jahren vor?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Ich werde nächstes Jahr eine Weiterbildung machen, damit ich eine bessere Stelle finde. Und ich spare, um in zwei Jahren eine große Reise zu machen.",
+        "audio": "Ich werde nächstes Jahr eine Weiterbildung machen, damit ich eine bessere Stelle finde. Und ich spare, um in zwei Jahren eine große Reise zu machen."
+      },
+      {
+        "speaker": "Freundin",
+        "text": "Das klingt gut! Wenn ich mehr Geld hätte, würde ich auch eine Weltreise machen.",
+        "audio": "Das klingt gut! Wenn ich mehr Geld hätte, würde ich auch eine Weltreise machen."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Man muss nicht reich sein. Man sollte klein anfangen und jeden Monat etwas sparen.",
+        "audio": "Man muss nicht reich sein. Man sollte klein anfangen und jeden Monat etwas sparen."
+      },
+      {
+        "speaker": "Freundin",
+        "text": "Du hast recht. Ich sollte auch einen Plan machen. Vielleicht lerne ich eine neue Sprache.",
+        "audio": "Du hast recht. Ich sollte auch einen Plan machen. Vielleicht lerne ich eine neue Sprache."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Das ist eine gute Idee. Wenn du willst, lernen wir zusammen. Zusammen ist es leichter.",
+        "audio": "Das ist eine gute Idee. Wenn du willst, lernen wir zusammen. Zusammen ist es leichter."
+      },
+      {
+        "speaker": "Freundin",
+        "text": "Gern! In fünf Jahren wären wir beide gern an einem anderen Punkt im Leben.",
+        "audio": "Gern! In fünf Jahren wären wir beide gern an einem anderen Punkt im Leben."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Genau. Deshalb fangen wir heute an — mit kleinen Schritten.",
+        "audio": "Genau. Deshalb fangen wir heute an — mit kleinen Schritten."
+      }
+    ],
+    "table": {
+      "caption": "高频句块",
+      "headers": [
+        "句块",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Was hast du in den nächsten Jahren vor?",
+          "问打算"
+        ],
+        [
+          "Ich werde … machen, damit ich … finde.",
+          "计划 + 目的"
+        ],
+        [
+          "Wenn ich mehr Geld hätte, würde ich …",
+          "虚拟愿望"
+        ],
+        [
+          "Man sollte klein anfangen.",
+          "建议"
+        ],
+        [
+          "In fünf Jahren wäre ich gern …",
+          "远景愿望"
+        ],
+        [
+          "Deshalb fangen wir heute an.",
+          "落地收尾"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "对话理解——Lan 明年的计划是",
+        "explain": "Weiterbildung + bessere Stelle。",
+        "options": [
+          "做进修培训找更好的工作",
+          "立刻辞职去旅行",
+          "买房子"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "句块填空",
+        "explain": "虚拟条件句开头。",
+        "display": "＿＿ ich mehr Geld hätte, würde ich eine Weltreise machen.",
+        "answer": "Wenn"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话句选义",
+        "explain": "sollte 建议。",
+        "audio": "Man sollte klein anfangen und jeden Monat etwas sparen.",
+        "options": [
+          "应该从小处开始、每月存一点",
+          "应该借很多钱",
+          "应该等有钱了再说"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "愿望句正确的一句",
+        "explain": "hätte 压尾 + würde 主句。",
+        "options": [
+          "Wenn ich Zeit hätte, würde ich mehr lesen.",
+          "Wenn ich Zeit habe, würde ich mehr lesen gestern.",
+          "Wenn ich hätte Zeit, ich würde lesen mehr."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "Futur I 计划句。",
+        "tokens": [
+          "werde",
+          "Ich",
+          "machen",
+          "eine Weiterbildung",
+          "nächstes Jahr"
+        ],
+        "answer": [
+          "Ich",
+          "werde",
+          "nächstes Jahr",
+          "eine Weiterbildung",
+          "machen"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "目的填空",
+        "explain": "同主语 um…zu。",
+        "display": "Ich spare, ＿＿ eine große Reise zu machen.",
+        "answer": "um"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "wären gern 远景愿望。",
+        "display": "In fünf Jahren ＿＿ wir beide gern an einem anderen Punkt.",
+        "audio": "In fünf Jahren wären wir beide gern an einem anderen Punkt.",
+        "answer": "wären"
+      },
+      {
+        "type": "choice",
+        "q": "计划 + 目的的完整句",
+        "explain": "damit 从句 finde 压尾。",
+        "options": [
+          "Ich mache eine Weiterbildung, damit ich eine bessere Stelle finde.",
+          "Ich mache eine Weiterbildung, damit ich finde eine bessere Stelle.",
+          "Ich mache eine Weiterbildung, um ich finde eine bessere Stelle."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "建议填空",
+        "explain": "solltest 提建议。",
+        "display": "Du ＿＿ auch einen Plan machen.（建议语气）",
+        "answer": "solltest"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "deshalb 倒装 + 可分 an 回尾。",
+        "tokens": [
+          "fangen",
+          "Deshalb",
+          "heute",
+          "wir",
+          "an"
+        ],
+        "answer": [
+          "Deshalb",
+          "fangen",
+          "wir",
+          "heute",
+          "an"
+        ]
+      }
+    ],
+    "speaking": "和朋友聊人生规划，三件事：①说你明年的一个具体计划（Futur I 或现在时）和它的目的；②许一个虚拟愿望（Wenn ich … hätte/wäre, würde ich …）；③给朋友一条建议并约定一个从小处开始的行动。至少用 sollte 和 deshalb 各 1 次。",
+    "sceneWords": [
+      "etwas",
+      "die Idee",
+      "mal",
+      "reich",
+      "sparen"
+    ],
+    "audioChips": [
+      {
+        "group": "对话点读",
+        "items": [
+          {
+            "label": "Freundin",
+            "speak": "Sag mal, was hast du in den nächsten Jahren vor?"
+          },
+          {
+            "label": "Lan",
+            "speak": "Ich werde nächstes Jahr eine Weiterbildung machen, damit ich eine bessere Stelle finde. Und ich spare, um in zwei Jahren eine große Reise zu machen."
+          },
+          {
+            "label": "Freundin",
+            "speak": "Das klingt gut! Wenn ich mehr Geld hätte, würde ich auch eine Weltreise machen."
+          },
+          {
+            "label": "Lan",
+            "speak": "Man muss nicht reich sein. Man sollte klein anfangen und jeden Monat etwas sparen."
+          },
+          {
+            "label": "Freundin",
+            "speak": "Du hast recht. Ich sollte auch einen Plan machen. Vielleicht lerne ich eine neue Sprache."
+          },
+          {
+            "label": "Lan",
+            "speak": "Das ist eine gute Idee. Wenn du willst, lernen wir zusammen. Zusammen ist es leichter."
+          },
+          {
+            "label": "Freundin",
+            "speak": "Gern! In fünf Jahren wären wir beide gern an einem anderen Punkt im Leben."
+          },
+          {
+            "label": "Lan",
+            "speak": "Genau. Deshalb fangen wir heute an — mit kleinen Schritten."
+          }
+        ]
+      }
+    ]
+  }
+]

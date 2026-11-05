@@ -1,0 +1,8 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Wort 第三步验收数据</title>
+<style>body{font:14px/1.7 system-ui;background:#f8f7f3;color:#34372f;max-width:1200px;margin:35px auto;padding:0 22px}button,a{padding:10px 14px;margin-right:10px}table{border-collapse:collapse;width:100%;background:white}th,td{padding:9px;border:1px solid #ddd;text-align:left}pre{white-space:pre-wrap}.scroll{overflow:auto}h1{font-size:26px}</style></head><body>
+<h1>第三步验收数据（开发用）</h1>
+<p>仅允许在 <b>http://localhost:5174</b> 使用，与正式预览 127.0.0.1:5173 的 IndexedDB 隔离。本页不进入生产构建。准备按钮只新增验收词，不重置已有数据。</p>
+<button id="prepare">准备验收数据（只新增）</button><button id="inspect">查看当前进度</button><a href="/#today" target="_blank">打开验收网站</a>
+<pre id="message" role="status"></pre><div class="scroll"><table><thead><tr><th>单词</th><th>验收用途</th><th>status</th><th>dueAt（本地）</th><th>intervalDays</th><th>ease</th><th>reps</th><th>lapses</th></tr></thead><tbody id="rows"></tbody></table></div>
+<script type="module" src="./manual-fixtures.js"></script></body></html>

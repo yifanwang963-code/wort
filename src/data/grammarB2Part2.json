@@ -1,0 +1,2047 @@
+[
+  {
+    "id": "g-b2-06",
+    "level": "B2",
+    "order": 9,
+    "title": "条件与让步升级",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（条件与让步的完整工具箱）",
+      "headers": [
+        "连接",
+        "类型",
+        "语气/语域",
+        "示例"
+      ],
+      "rows": [
+        [
+          "wenn / falls",
+          "条件（中性 / 更正式、概率低）",
+          "falls 多用于书面与正式口头",
+          "Falls es regnet, bleiben wir zu Hause."
+        ],
+        [
+          "sofern",
+          "条件（正式）= wenn，前提性强",
+          "法律、合同、通知",
+          "Sofern die Zahlung bis Freitag eingeht, gilt der Rabatt."
+        ],
+        [
+          "vorausgesetzt, (dass)",
+          "以…为前提",
+          "句首短语 + 主句",
+          "Vorausgesetzt, alle stimmen zu, beginnen wir im Mai."
+        ],
+        [
+          "es sei denn (, dass)",
+          "除非（唯一例外）",
+          "主句后置",
+          "Ich komme mit, es sei denn, es regnet stark."
+        ],
+        [
+          "auch wenn / selbst wenn",
+          "让步（即使，假设性）",
+          "selbst wenn 语气更强",
+          "Selbst wenn es teuer ist, lohnt es sich."
+        ],
+        [
+          "wenn … auch / mag … noch so",
+          "即使（书面变体）",
+          "认读为主",
+          "Mag er noch so erfahren sein, Fehler passieren."
+        ],
+        [
+          "obwohl / trotzdem 系统",
+          "让步（事实性，A2/B1 已学）",
+          "本单元与假设性让步对照",
+          "Obwohl es regnet, gehen wir."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "falls 与 wenn 的差别不在语法，在概率与语域：falls 暗示可能性较低、正式场合首选；真实日常条件仍用 wenn。",
+      "sofern 常带「前提确认」味，后常接完整条件从句；与 falls 可换，语域同为正式。",
+      "es sei denn 引导的是**唯一能推翻主句**的例外，主句多为肯定或否定断言；从句动词置末（dass 可省）。",
+      "让步分两层：obwohl 谈已成事实的让步（天真的下雨），auch wenn/selbst wenn 谈假设（就算下雨也去）；别混。",
+      "条件从句倒装变体（书面）：„Sollte es regnen, …\" / „Kommt er zu spät, …\"——动词提前省连接词，认读 + 高阶产出。"
+    ],
+    "examples": [
+      {
+        "de": "Falls Sie Fragen haben, wenden Sie sich bitte an das Sekretariat im Erdgeschoss.",
+        "zh": ""
+      },
+      {
+        "de": "Sofern alle Unterlagen vollständig sind, erhalten Sie den Bescheid innerhalb von zwei Wochen.",
+        "zh": ""
+      },
+      {
+        "de": "Wir schaffen den Termin, es sei denn, der Zug fällt wegen des Sturms aus.",
+        "zh": ""
+      },
+      {
+        "de": "Auch wenn der Weg weit ist, besuchen wir sie jedes Jahr zu Weihnachten.",
+        "zh": ""
+      },
+      {
+        "de": "Selbst wenn ich mehr verdiente, würde ich nicht in ein größeres Haus ziehen.",
+        "zh": ""
+      },
+      {
+        "de": "Sollte der Flug gestrichen werden, informiert die Airline alle Passagiere per E-Mail.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "es sei denn 后再加否定，造出双重否定（„es sei denn, es regnet nicht\" 逻辑自相矛盾，除非本意就是「除非不下雨」）。",
+      "事实让步用 selbst wenn（既成事实应 obwohl）。",
+      "sofern 写成主句语序（从句动词须置末）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "正式通知里选哪个条件词最恰当？„＿＿ Sie mit der Entscheidung nicht einverstanden sind, können Sie Widerspruch einlegen.\"",
+        "explain": "低概率 + 正式语域，falls 是标准选词。",
+        "options": [
+          "Falls",
+          "Wenn auch",
+          "Es sei denn"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„＿＿ die Zahlung bis Monatsende eingeht, wird der Vertrag automatisch verlängert.\"（正式前提）",
+        "explain": "sofern 引导正式条件从句，动词 eingeht 置末。",
+        "answer": "Sofern"
+      },
+      {
+        "type": "choice",
+        "q": "es sei denn 用对的是？",
+        "explain": "从句须是唯一能推翻主句的例外；B 的例外逻辑不成立，C 语序错。",
+        "options": [
+          "Ich helfe dir, es sei denn, ich bin selbst krank.",
+          "Ich helfe dir, es sei denn, ich bin gesund.",
+          "Es sei denn helfe ich dir morgen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "事实让步：„＿＿ das Wetter schlecht war, fand das Fest draußen statt.\"",
+        "explain": "已成事实的让步用 obwohl，从句动词置末。",
+        "answer": "Obwohl"
+      },
+      {
+        "type": "choice",
+        "q": "假设让步（就算…也）选？",
+        "explain": "selbst wenn 引导假设性让步；trotzdem 是副词不能引导从句。",
+        "options": [
+          "Selbst wenn der Preis steigt, kaufen die Leute weiter.",
+          "Obwohl der Preis steigt morgen, kaufen.",
+          "Trotzdem der Preis steigt, kaufen die Leute."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "倒装条件句：„＿＿ es morgen schneien, fällt der Ausflug aus.\"（sollen 的虚拟式起句）",
+        "explain": "Sollte + 主语 + 不定式的倒装条件是书面高阶变体，省去 wenn。",
+        "answer": "Sollte"
+      },
+      {
+        "type": "choice",
+        "q": "vorausgesetzt 的位置正确的是？",
+        "explain": "Vorausgesetzt 短语居前，主句动词第二位。",
+        "options": [
+          "Vorausgesetzt, alle zahlen pünktlich, kann das Projekt starten.",
+          "Vorausgesetzt alle pünktlich zahlen Projekt starten kann.",
+          "Das Projekt, vorausgesetzt, kann starten alle zahlen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨类型",
+        "explain": "es sei denn 标记唯一例外。",
+        "audio": "Ich bleibe zu Hause, es sei denn, das Wetter wird besser.",
+        "options": [
+          "除非天气变好（否则不出门）",
+          "因为天气会变好",
+          "虽然天气会变好"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Auch ＿＿ es mitten in der Nacht ist, bleibt der Bahnhof geöffnet.\"",
+        "explain": "auch wenn 是固定搭配，引导假设/泛指让步。",
+        "answer": "wenn"
+      },
+      {
+        "type": "choice",
+        "q": "哪句逻辑通顺？",
+        "explain": "例外须能真实阻止主句事件；B 的「天气好」不是阻碍，C 是同义反复。",
+        "options": [
+          "Wir fahren ans Meer, es sei denn, es regnet.",
+          "Wir fahren ans Meer, es sei denn, das Wetter ist schön.",
+          "Wir fahren, es sei denn, wir fahren nicht ans Meer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "falls 从句语序：„Falls du Hilfe ＿＿, ruf mich einfach an.\"（brauchen 现在时）",
+        "explain": "条件从句动词置末，brauchst 在末位。",
+        "answer": "brauchst"
+      },
+      {
+        "type": "choice",
+        "q": "wenn 与 falls 的差别，表述正确的是？",
+        "explain": "差别在语域与主观概率，不在时态或语气。",
+        "options": [
+          "falls 概率感更低、更正式；wenn 中性常用",
+          "falls 只用于过去",
+          "falls 后必须接虚拟式"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "强让步：„＿＿ wenn er sich noch so sehr anstrengt, den Rekord wird er nicht brechen.\"",
+        "explain": "selbst wenn + noch so 结构是让步的最高强度。",
+        "answer": "Selbst"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主句在前，es sei denn 从句后置，动词 sagt 在从句末位与可分前缀 ab 合体。",
+        "tokens": [
+          "es sei denn,",
+          "Wir",
+          "der Chef",
+          "sagt ab.",
+          "treffen uns",
+          "morgen,"
+        ],
+        "answer": [
+          "Wir",
+          "treffen uns",
+          "morgen,",
+          "es sei denn,",
+          "der Chef",
+          "sagt ab."
+        ],
+        "displayAnswer": "Wir treffen uns morgen, es sei denn, der Chef sagt ab."
+      },
+      {
+        "type": "choice",
+        "q": "合同条文风格的是？",
+        "explain": "sofern + 被动完成时是典型的条文句式。",
+        "options": [
+          "Sofern nichts anderes vereinbart wurde, gilt die gesetzliche Regelung.",
+          "Wenn du nichts anderes willst, ist es halt so.",
+          "Es sei denn du willst was anderes, okay dann nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„＿＿ auch der Weg lang und beschwerlich war, erreichten sie das Dorf vor Einbruch der Nacht.\"（obwohl 的书面高阶同义连接词）",
+        "explain": "wenngleich 是 obwohl 的书面变体，从句动词置末，B2 产出可用。",
+        "answer": "Wenngleich"
+      }
+    ],
+    "reading": {
+      "text": "Die Teilnahme am Zeltlager ist nur möglich, sofern die Anmeldung bis zum 1. Juni eingegangen ist. Falls die Mindestteilnehmerzahl nicht erreicht wird, fällt das Lager aus; die Beiträge werden dann vollständig zurückerstattet. Das Programm findet auch bei Regen statt, es sei denn, es besteht Gefahr durch Gewitter oder Sturm. Selbst wenn einzelne Programmpunkte ausfallen, bleibt der Gesamtpreis unverändert. Sollte ein Teilnehmer krank werden, kann er ohne Kosten absagen, vorausgesetzt, er legt ein Attest vor. So steht es in den Teilnahmebedingungen, und so wird es auch gehandhabt.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①哪种情况下露营会取消？（答：报名人数达不到最低人数）②生病取消免费的条件是什么？（答：须提交医生证明 Attest) ③什么样的天气才会让节目停办？（答：有雷暴或风暴危险时——普通下雨不停）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "为一次社区活动写四条参加条件（约 70 词），须用到 sofern、falls、es sei denn、selbst wenn 各一次。",
+      "sample": "范文：Die Teilnahme ist möglich, sofern die Anmeldung bis Freitag vorliegt. Falls mehr als dreißig Personen kommen, teilen wir die Gruppe. Das Fest findet im Garten statt, es sei denn, es regnet in Strömen. Selbst wenn das Wetter umschlägt, wird für Essen und Musik drinnen gesorgt sein.",
+      "selfcheck": "自查：四个连接各用一次且逻辑正确 □；从句动词都置末 □；es sei denn 的例外能真正推翻主句 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "t-b2-03",
+    "level": "B2",
+    "order": 10,
+    "title": "讨论主持与话轮管理",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（主持人的话轮工具箱）",
+      "headers": [
+        "功能",
+        "标配句"
+      ],
+      "rows": [
+        [
+          "开场定题",
+          "Unser Thema heute ist … / Wir sprechen heute über die Frage, ob …"
+        ],
+        [
+          "邀请发言",
+          "Frau X, wie sehen Sie das? / Herr Y, möchten Sie dazu etwas sagen?"
+        ],
+        [
+          "打断与拉回",
+          "Entschuldigung, wenn ich kurz unterbreche … / Lassen Sie uns zum Thema zurückkommen."
+        ],
+        [
+          "澄清确认",
+          "Wenn ich Sie richtig verstehe, meinen Sie also, dass …"
+        ],
+        [
+          "汇总过渡",
+          "Fassen wir kurz zusammen: Einig sind wir uns, dass … / Strittig bleibt …"
+        ],
+        [
+          "控制时间",
+          "Wir haben noch zehn Minuten; ich bitte um kurze Beiträge."
+        ],
+        [
+          "收尾定论",
+          "Zum Abschluss lässt sich sagen … / Vielen Dank für die lebhafte Diskussion."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "主持人不站队：主持语只做流程管理，评价性表态会破坏中立（B1 t-b1-02 是参与者话术，本单元是主持人话术）。",
+      "打断要三段式：致歉/示意 → 点名理由 → 给出替代（稍后、书面、茶歇后谈）。",
+      "澄清句是主持人的核心武器：复述 + 确认问句，既推进又防跑偏。",
+      "话轮分配显性化：按手势顺序、按名单、或「先请还没发言的」——规则当场说清。"
+    ],
+    "examples": [
+      {
+        "de": "Ich begrüße alle zur heutigen Runde; unser Thema ist die Zukunft des öffentlichen Nahverkehrs.",
+        "zh": ""
+      },
+      {
+        "de": "Herr Yilmaz, Sie hatten sich gemeldet – bitte, Sie haben das Wort.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn ich kurz unterbrechen darf: Dieser Punkt gehört zum nächsten Tagesordnungspunkt.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn ich Sie richtig verstehe, schlagen Sie also eine Testphase von sechs Monaten vor.",
+        "zh": ""
+      },
+      {
+        "de": "Fassen wir zusammen: Über das Ziel sind wir einig, über den Weg noch nicht.",
+        "zh": ""
+      },
+      {
+        "de": "Zum Abschluss danke ich allen für die sachliche und lebhafte Diskussion heute.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "主持人忍不住发表自己的立场，变成辩论一方。",
+      "打断时只说 „Stopp\"，不给理由也不给替代路径，显得粗暴。",
+      "汇总时把争议假装成共识，参会者会当场纠正。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "合格的开场句是？",
+        "explain": "开场只定题不站队，B 是主持人先表态，大忌。",
+        "options": [
+          "Unser Thema heute ist die Frage, ob die Stadt mehr Radwege braucht.",
+          "Also ich finde ja, die Stadt braucht viel mehr Radwege, oder?",
+          "Radwege, Radwege, fangen wir einfach mal irgendwie an."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "邀请发言：„Frau Costa, wie ＿＿ Sie das?\"",
+        "explain": "Wie sehen Sie das? 是邀请表态的标准问句。",
+        "answer": "sehen"
+      },
+      {
+        "type": "choice",
+        "q": "规范的打断是？",
+        "explain": "致歉 + 理由（议程归属）+ 替代路径，三段齐全。",
+        "options": [
+          "Entschuldigung, wenn ich kurz unterbreche – zu diesem Punkt kommen wir unter TOP 3.",
+          "Stopp, das ist falsch, weiter im Text.",
+          "Sie reden schon viel zu lange, jetzt reicht es."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "澄清句：„Wenn ich Sie richtig ＿＿, meinen Sie also, dass die Frist zu kurz ist.\"",
+        "explain": "Wenn ich Sie richtig verstehe … 是复述确认的固定开头。",
+        "answer": "verstehe"
+      },
+      {
+        "type": "choice",
+        "q": "汇总句合格的是？",
+        "explain": "汇总要把共识与争议分别说清，不虚构一致。",
+        "options": [
+          "Einig sind wir uns beim Ziel; strittig bleibt die Finanzierung.",
+          "Also alle sind einig, fertig, weiter.",
+          "Ich finde, wir haben uns gut geeinigt heute."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分配话轮：„Sie haben das ＿＿, Frau Berger.\"",
+        "explain": "jemandem das Wort geben/erteilen 是会议固定用语。",
+        "answer": "Wort"
+      },
+      {
+        "type": "choice",
+        "q": "时间控制得体的是？",
+        "explain": "报剩余时间 + 提出具体请求，礼貌而有效。",
+        "options": [
+          "Uns bleiben zehn Minuten; ich bitte um knappe Beiträge zum letzten Punkt.",
+          "Beeilen Sie sich gefälligst alle mal ein bisschen.",
+          "Die Zeit ist um, keiner sagt mehr was."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨功能",
+        "explain": "zurückkommen + Tagesordnung 是跑偏时的拉回句式。",
+        "audio": "Lassen Sie uns zu der Frage zurückkommen, die auf der Tagesordnung steht.",
+        "options": [
+          "拉回主题",
+          "宣布休会",
+          "提出新议题"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "过渡到下一点：„Kommen wir nun zum nächsten ＿＿.\"",
+        "explain": "Tagesordnungspunkt 的简称为 Punkt，会议流程用语。",
+        "answer": "Punkt"
+      },
+      {
+        "type": "choice",
+        "q": "有人长时间跑题，最佳处理是？",
+        "explain": "肯定 → 关联 → 替代，是主持干预的标准三段。",
+        "options": [
+          "先肯定其贡献，再点明与议程的关系，最后请其会后或书面补充",
+          "直接关掉他的麦克风",
+          "让他讲完，哪怕超时一小时"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "征求未发言者：„Ich würde gern noch hören, was die Kollegen sagen, die sich bisher ＿＿ gemeldet haben.\"（否定式）",
+        "explain": "句意为请尚未发言的人补充，用 die sich bisher nicht gemeldet haben。",
+        "answer": "nicht"
+      },
+      {
+        "type": "choice",
+        "q": "收尾句规范的是？",
+        "explain": "收尾总结成果 + 致谢，不评价自己、不粗暴收场。",
+        "options": [
+          "Zum Abschluss lässt sich sagen, dass wir heute die wichtigsten Fragen geklärt haben.",
+          "So, jetzt ist aber Schluss mit dem Gerede hier.",
+          "Ich hoffe, Sie fanden mich als Moderator gut."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "排队发言规则：„Wir sprechen der ＿＿ nach, wie Sie sich gemeldet haben.\"",
+        "explain": "der Reihe nach 表示按（举手）顺序依次发言。",
+        "answer": "Reihe"
+      },
+      {
+        "type": "order",
+        "q": "组句（澄清确认）",
+        "explain": "澄清从句用 KI（sei）复述对方立场，体现「这是你的意思」的距离感。",
+        "tokens": [
+          "meinen Sie",
+          "Wenn ich",
+          "der Plan",
+          "Sie richtig",
+          "verstehe,",
+          "also,",
+          "sei zu teuer."
+        ],
+        "answer": [
+          "Wenn ich",
+          "Sie richtig",
+          "verstehe,",
+          "meinen Sie",
+          "also,",
+          "der Plan",
+          "sei zu teuer."
+        ],
+        "displayAnswer": "Wenn ich Sie richtig verstehe, meinen Sie also, der Plan sei zu teuer."
+      },
+      {
+        "type": "choice",
+        "q": "主持人对争议的处理原则是？",
+        "explain": "主持人管理流程与记录，不代替群体做实质裁决。",
+        "options": [
+          "让双方各说清立场与理由，记录为 strittig，不强行裁决",
+          "永远支持先发言的一方",
+          "把争议话题直接删除"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "正式称呼听众席：„Meine Damen und ＿＿, ich begrüße Sie zur heutigen Diskussion.\"",
+        "explain": "Meine Damen und Herren 是正式场合的标准称呼语。",
+        "answer": "Herren"
+      }
+    ],
+    "reading": {
+      "text": "„Meine Damen und Herren, ich begrüße Sie zur Anhörung über die geplante Umgehungsstraße. Unser Ziel heute ist es, alle Argumente zu hören; eine Entscheidung fällt erst in der nächsten Ratssitzung. Ich bitte um Beiträge von höchstens drei Minuten, damit alle zu Wort kommen. Wir sprechen der Reihe nach, wie Sie sich melden.\" Später unterbricht die Moderatorin einen Redner freundlich: „Wenn ich kurz unterbrechen darf – Fragen der Finanzierung besprechen wir im zweiten Teil.\" Zum Abschluss fasst sie zusammen: „Einig sind wir uns, dass der Verkehr in der Ortsmitte abnehmen muss. Strittig bleibt die Trasse. Ich danke Ihnen für die lebhafte, aber faire Diskussion.\"",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这场听证会今天会不会做决定？（答：不会，决定在下一次议会会议才做）②主持人打断发言时用的理由是什么？（答：资金问题属于第二部分议程，现在先不谈）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "模拟主持一段 1 分钟讨论：开场定题（主题：学校是否应禁止手机）→ 邀请一位发言 → 做一次澄清复述 → 汇总收尾，四句成段。",
+      "sample": "范文：Unser Thema heute ist die Frage, ob Handys an Schulen verboten werden sollten. Frau X, wie sehen Sie das? — Wenn ich Sie richtig verstehe, meinen Sie also, dass ein Verbot die Konzentration verbessert. Fassen wir zusammen: Über das Ziel, mehr Ruhe im Unterricht, sind wir einig; strittig bleibt, ob ein Verbot der richtige Weg ist.",
+      "selfcheck": "自查：主持全程未表态站队 □；四个功能句各出现一次 □；汇总分开了共识与争议 □。"
+    },
+    "writingLabel": "口头任务"
+  },
+  {
+    "id": "g-b2-07",
+    "level": "B2",
+    "order": 11,
+    "title": "连接词系统 B2",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（篇章连接词的功能地图）",
+      "headers": [
+        "功能",
+        "连接词（词性）",
+        "语序要点",
+        "示例"
+      ],
+      "rows": [
+        [
+          "因果推出",
+          "folglich / somit / infolgedessen（副词）",
+          "居句首时动词紧随其后",
+          "Folglich musste der Termin verschoben werden."
+        ],
+        [
+          "转折让步",
+          "allerdings / dennoch / nichtsdestotrotz（副词）",
+          "可居中",
+          "Die Aufgabe war schwer, wurde dennoch gelöst."
+        ],
+        [
+          "对照更正",
+          "im Gegenteil（短语） / vielmehr（副词）",
+          "Gegenteil 常独立成段首",
+          "Die Preise sanken nicht, im Gegenteil: Sie stiegen."
+        ],
+        [
+          "否则",
+          "ansonsten / andernfalls（副词）",
+          "居从句化主句之首",
+          "Melden Sie sich bitte an, ansonsten verfällt der Platz."
+        ],
+        [
+          "补充递进",
+          "darüber hinaus / zudem / ferner（副词/短语）",
+          "段首衔接新论点",
+          "Darüber hinaus bietet der Kurs ein Praktikum."
+        ],
+        [
+          "归纳收束",
+          "insgesamt / kurz gesagt（副词/短语）",
+          "总结段专用",
+          "Insgesamt überwiegen die Vorteile deutlich."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "本单元的连接词多为**副词性连接**：占句中一个位置，居首时其后动词第二位（„Folglich musste …\")，不是从句连接词，语序别套 nachdem 规则。",
+      "folglich/somit 表「由此得出」的逻辑结果，比口语的 also 正式；infolgedessen 最正式，多见于书面结论。",
+      "vielmehr 不是「更多」，是更正型连接：「与其说 A，不如说 B」，常接在否定之后。",
+      "链式使用：一段里每个逻辑环节换一个连接词，避免通篇 nur außerdem；对照 c-b2 系列的辨析练法，本单元先产出。"
+    ],
+    "examples": [
+      {
+        "de": "Die Kosten stiegen unerwartet stark an, folglich musste das Budget neu geplant werden.",
+        "zh": ""
+      },
+      {
+        "de": "Er hatte alle Unterlagen eingereicht und somit die Frist gerade noch eingehalten.",
+        "zh": ""
+      },
+      {
+        "de": "Die neue Regel gilt nicht nur für Studierende, sie betrifft vielmehr alle Beschäftigten.",
+        "zh": ""
+      },
+      {
+        "de": "Bitte bestätigen Sie Ihre Teilnahme bis Donnerstag, ansonsten geben wir den Platz weiter.",
+        "zh": ""
+      },
+      {
+        "de": "Darüber hinaus wünschen sich viele Teilnehmer mehr Übungsmaterial zum Selbstlernen.",
+        "zh": ""
+      },
+      {
+        "de": "Die Ergebnisse waren gemischt, insgesamt lässt sich dennoch ein positiver Trend erkennen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把 folglich 当从句连接词，写成 „…, folglich der Termin verschoben wurde\"（动词置末，错）。",
+      "vielmehr 用成比较级 „viel mehr\" 的意思，句意全变。",
+      "一段话里连接词与逻辑不符：明明是递进却用 im Gegenteil。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "语序正确的是？",
+        "explain": "folglich 是副词性连接，占一位，动词 mussten 紧随。",
+        "options": [
+          "Die Nachfrage sank, folglich mussten die Preise gesenkt werden.",
+          "Die Nachfrage sank, folglich die Preise mussten gesenkt werden.",
+          "Folglich die Preise mussten gesenkt werden, weil Nachfrage sank."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Er reichte alles fristgerecht ein und ＿＿ war die Bewerbung vollständig.\"（由此）",
+        "explain": "somit 在句中表逻辑结果，位置灵活。",
+        "answer": "somit"
+      },
+      {
+        "type": "choice",
+        "q": "im Gegenteil 用对的是？",
+        "explain": "im Gegenteil 更正前句的判断方向；B、C 都是误用（C 应为 im Gegensatz dazu 或 stattdessen）。",
+        "options": [
+          "Die Lage ist nicht besser geworden, im Gegenteil, sie hat sich verschärft.",
+          "Im Gegenteil der Stadt gibt es viele Parks.",
+          "Er trinkt im Gegenteil Kaffee statt Tee jeden Morgen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "更正句：„Das Problem ist nicht das Geld, es ist ＿＿ die fehlende Zeit.\"",
+        "explain": "nicht …, vielmehr … 是更正型固定结构。",
+        "answer": "vielmehr"
+      },
+      {
+        "type": "choice",
+        "q": "「否则」正式版选？",
+        "explain": "ansonsten 引导「否则」后果，正式通知标配；andernfalls 同义更书面，本题选项中为 ansonsten。",
+        "options": [
+          "Zahlen Sie bitte bis Freitag, ansonsten wird der Vertrag gekündigt.",
+          "Zahlen Sie, oder halt nicht, dann ist es auch egal.",
+          "Zahlen Sie bis Freitag, trotzdem wird gekündigt sowieso."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "递进补充：„Der Kurs ist kostenlos. ＿＿ hinaus erhalten alle Teilnehmer ein Zertifikat.\"",
+        "explain": "Darüber hinaus 是段首递进连接短语。",
+        "answer": "Darüber"
+      },
+      {
+        "type": "choice",
+        "q": "最正式的因果收束是？",
+        "explain": "infolgedessen 是三者中语域最高的书面连接词。",
+        "options": [
+          "Infolgedessen wurde die Sitzung vertagt.",
+          "Also wurde die Sitzung halt vertagt.",
+          "Darum wurde die Sitzung mal vertagt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨逻辑",
+        "explain": "nichtsdestotrotz 表「尽管如此」，是让步收束。",
+        "audio": "Die Teilnehmerzahl war gering, nichtsdestotrotz fand der Kurs statt.",
+        "options": [
+          "尽管人数少，课还是开了（让步）",
+          "因为人数少，课开了（因果）",
+          "人数少，所以课取消了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "中位副词：„Die Aufgabe war anspruchsvoll, wurde von allen ＿＿ erfolgreich gelöst.\"（然而）",
+        "explain": "dennoch 可居句中，表转折让步。",
+        "answer": "dennoch"
+      },
+      {
+        "type": "choice",
+        "q": "哪句的连接词与逻辑匹配？",
+        "explain": "涨租 → 找小房是因果链，infolgedessen 匹配。",
+        "options": [
+          "Die Miete stieg stark, infolgedessen suchten viele eine kleinere Wohnung.",
+          "Die Miete stieg stark, im Gegenteil suchten viele eine kleinere Wohnung.",
+          "Die Miete stieg, vielmehr suchten alle größere Wohnungen aus Trotz."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "收束总结：„＿＿ gesagt: Das Projekt war ein Erfolg.\"",
+        "explain": "Kurz gesagt 是总结段开头的固定短语。",
+        "answer": "Kurz"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "Folglich 占第一位，musste 第二位，被动尾组 geändert werden 收尾。",
+        "tokens": [
+          "musste",
+          "Folglich",
+          "werden.",
+          "der Plan",
+          "geändert"
+        ],
+        "answer": [
+          "Folglich",
+          "musste",
+          "der Plan",
+          "geändert",
+          "werden."
+        ],
+        "displayAnswer": "Folglich musste der Plan geändert werden."
+      },
+      {
+        "type": "choice",
+        "q": "zudem 与 darüber hinaus 的关系是？",
+        "explain": "两者都是递进型连接，语域略差，可互换使用以避重复。",
+        "options": [
+          "同为递进补充，zudem 更短更书面，二者可换",
+          "zudem 表转折",
+          "darüber hinaus 只能用于句末"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Die Brücke ist alt, ＿＿ muss sie dringend saniert werden.\"（口语 also 的正式版）",
+        "explain": "由事实推出必要措施，folglich 最贴。",
+        "answer": "folglich"
+      },
+      {
+        "type": "choice",
+        "q": "哪句把 andernfalls 用对了？",
+        "explain": "andernfalls 占一位，其后动词 beginnt 第二位。",
+        "options": [
+          "Bitte erscheinen Sie pünktlich, andernfalls beginnt die Prüfung ohne Sie.",
+          "Andernfalls beginnt, bitte pünktlich erscheinen Sie.",
+          "Ich komme andernfalls gern zu der Prüfung pünktlich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转折引入：„Die Datenlage ist dünn. ＿＿ lassen erste Ergebnisse einen Trend erkennen.\"（尽管如此）",
+        "explain": "句首 Dennoch + 动词 lassen 第二位，承接前句的弱点转出积极面。",
+        "answer": "Dennoch"
+      }
+    ],
+    "reading": {
+      "text": "Der Stadtrat hat am Dienstag über den neuen Radwegplan beraten. Die Kosten waren höher als erwartet, folglich wurde das Projekt in zwei Bauabschnitte geteilt. Die Entscheidung fiel nicht einstimmig, nichtsdestotrotz beginnt der Bau noch in diesem Jahr. Darüber hinaus beschloss der Rat, zusätzliche Parkplätze am Stadtrand zu schaffen. Die Anwohner der Innenstadt sind damit nicht entlastet, im Gegenteil: Viele befürchten mehr Verkehr in den Seitenstraßen. Insgesamt überwiegen nach Einschätzung der Verwaltung jedoch die Vorteile, zumal der Busverkehr ebenfalls ausgebaut wird.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①为什么项目被分成两期？（答：成本高于预期，folglich 推出分期）②居民担心什么，与「缓解」的说法是什么关系？（答：担心小街交通更多，与缓解说法相反——im Gegenteil)"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写一段立场短文（约 80 词），主题：是否应该限制市中心汽车。须用 folglich、im Gegenteil、ansonsten、insgesamt 各一次。",
+      "sample": "范文：Die Luft in der Innenstadt ist schlecht, folglich muss der Autoverkehr begrenzt werden. Ein Verbot würde die Probleme nicht verlagern, im Gegenteil: Mehr Radwege und Busse entlasten alle Straßen. Die Geschäfte brauchen Lieferzeiten am Morgen, ansonsten leiden sie unter dem Verbot. Insgesamt überwiegen die Vorteile für Gesundheit und Lebensqualität deutlich.",
+      "selfcheck": "自查：四个连接词各一次且逻辑正确 □；句首连接词后动词在第二位 □；没有从句化误用（动词置末）□。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-08",
+    "level": "B2",
+    "order": 12,
+    "title": "haben / sein + zu：义务与可能",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（两组结构与它们的改写式）",
+      "headers": [
+        "结构",
+        "含义",
+        "改写",
+        "示例"
+      ],
+      "rows": [
+        [
+          "haben + zu + Infinitiv",
+          "必须（主语有义务做）",
+          "= müssen",
+          "Ich habe den Bericht heute abzugeben."
+        ],
+        [
+          "sein + zu + Infinitiv",
+          "必须被 / 可以被（主语是受事）",
+          "= müssen/können + Passiv",
+          "Der Bericht ist heute abzugeben."
+        ],
+        [
+          "sein + zu + Infinitiv（否定/ kaum)",
+          "几乎不能被",
+          "= kaum können + Passiv",
+          "Der Text ist kaum zu verstehen."
+        ],
+        [
+          "nichts / viel + zu …",
+          "名词化搭配",
+          "—",
+          "Es gibt viel zu tun. / Du hast hier nichts zu suchen."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "haben + zu 的主语是**动作执行者**，语气比 müssen 更正式，多用于规定、任务说明与正式口头。",
+      "sein + zu 的主语是**动作承受者**，自带被动义，不要再加 werden（误：„ist abzugeben werden\")。",
+      "sein + zu 的具体读法（müssen 还是 können）由语境定：带 Frist/noch 时多为必须，带 leicht/kaum 时多为可能。",
+      "否定差异：„hat nicht zu kommen\" 是正式禁令（不得来）；„muss nicht kommen\" 是不必来——别混。"
+    ],
+    "examples": [
+      {
+        "de": "Die Teilnehmer haben ihre Ausweise am Eingang vorzuzeigen.",
+        "zh": ""
+      },
+      {
+        "de": "Das Formular ist in zweifacher Ausfertigung einzureichen.",
+        "zh": ""
+      },
+      {
+        "de": "Der Fehler ist leicht zu vermeiden, wenn man die Anleitung genau liest.",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe heute noch drei E-Mails zu beantworten und einen Anruf zu machen.",
+        "zh": ""
+      },
+      {
+        "de": "Diese Regel ist unbedingt zu beachten, sonst droht eine Geldstrafe.",
+        "zh": ""
+      },
+      {
+        "de": "Der alte Vertrag hat keine Gültigkeit mehr und ist daher nicht zu verwenden.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "sein + zu 后面再叠加被动 werden，双重被动。",
+      "把 „hat zu warten\" 理解成「有等待的东西」，其实是「必须等待」。",
+      "kaum zu + Infinitiv 漏掉可能义，翻成「必须不做」。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Der Antrag ist bis Freitag einzureichen.\" 的意思是？",
+        "explain": "sein + zu + 期限 = 必须被提交。",
+        "options": [
+          "申请必须在周五前提交",
+          "申请可以在周五提交着玩",
+          "我周五有申请要交"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "haben + zu：„Wir ＿＿ die Gäste am Bahnhof abzuholen.\"",
+        "explain": "主语 wir 是执行者，用 haben + zu + 不定式。",
+        "answer": "haben"
+      },
+      {
+        "type": "choice",
+        "q": "改写正确的是（sein+zu → 情态被动）?",
+        "explain": "sein+zu 与 müssen + 被动等值。",
+        "options": [
+          "Die Tür ist abzuschließen. = Die Tür muss abgeschlossen werden.",
+          "Die Tür muss abschließen werden aktiv.",
+          "Die Tür ist abzuschließen werden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "可能义：„Das Problem ist leicht ＿＿ lösen.\"",
+        "explain": "leicht 提示可能读法：很容易被解决。",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "禁令义的是？",
+        "explain": "haben + nicht + zu 是正式的「不得」，与 muss nicht 的「不必」正相反。",
+        "options": [
+          "Du hast dich hier nicht einzumischen.（不得干涉）",
+          "Du musst dich nicht einmischen.（不必干涉）",
+          "Du hast nichts einzumischen gesucht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "sein + zu 变位：„Die Kosten ＿＿ von der Firma zu tragen.\"（复数主语）",
+        "explain": "sein 按主语变位，复数用 sind。",
+        "answer": "sind"
+      },
+      {
+        "type": "choice",
+        "q": "„Es gibt viel zu tun.\" 里 zu 结构修饰的是？",
+        "explain": "Es gibt + 量词 + zu + 不定式是固定构式，无主语义务者。",
+        "options": [
+          "viel（有许多要做的事）",
+          "Es gibt 本身是 sein+zu",
+          "这是 haben+zu 的省略主语版"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨义",
+        "explain": "sofort 强化必须读法。",
+        "audio": "Die Rechnung ist sofort zu bezahlen.",
+        "options": [
+          "账单必须立即支付",
+          "账单可以慢慢付",
+          "我马上要付账单"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "kaum 可能义：„Seine Handschrift ist kaum ＿＿ entziffern.\"",
+        "explain": "kaum zu = 几乎不能被，表可能是 haben/sein+zu 的否定端。",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "执行者主语的句子是？",
+        "explain": "A 中 Fahrer 是执行者（haben+zu)；B 中 Wagen 是承受者（sein+zu 被动义）。",
+        "options": [
+          "Der Fahrer hat den Wagen vor der Fahrt zu prüfen.",
+          "Der Wagen ist vor der Fahrt zu prüfen.",
+          "Beides sind Passivsätze."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "haben + zu 过去时（认读）：„Gestern ＿＿ er noch eine Rede zu halten.\"",
+        "explain": "haben+zu 的过去时用 hatte，正式叙述中出现。",
+        "answer": "hatte"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "sind 第二位，auszuwerten（zu 与可分动词合体）居末。",
+        "tokens": [
+          "Die Ergebnisse",
+          "sind",
+          "bis Montag",
+          "auszuwerten."
+        ],
+        "answer": [
+          "Die Ergebnisse",
+          "sind",
+          "bis Montag",
+          "auszuwerten."
+        ],
+        "displayAnswer": "Die Ergebnisse sind bis Montag auszuwerten."
+      },
+      {
+        "type": "choice",
+        "q": "哪句有双重被动错误？",
+        "explain": "sein+zu 自带被动义，加 werden 即错。",
+        "options": [
+          "Das ist noch zu prüfen werden.",
+          "Das ist noch zu prüfen.",
+          "Das hat noch geprüft zu werden nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "任务说明体：„Die Bewerber haben ein Foto ＿＿.\"（beifügen，zu 构式收尾）",
+        "explain": "可分动词的 zu 嵌在中间：bei-zu-fügen。",
+        "answer": "beizufügen"
+      },
+      {
+        "type": "choice",
+        "q": "„Du hast hier nichts zu suchen.\" 的意思是？",
+        "explain": "nichts zu suchen haben 是固定说法：无权在此、与你无关。",
+        "options": [
+          "你不该待在这里（没你的事）",
+          "你在这里没找到东西",
+          "你不用在这里找东西"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "正式公告：„Die Fahrgäste ＿＿ ihre Tickets bereitzuhalten.\"",
+        "explain": "公告对执行者提要求，用 haben + zu。",
+        "answer": "haben"
+      }
+    ],
+    "reading": {
+      "text": "Im Labor ist Folgendes zu beachten: Schutzbrillen sind während aller Versuche zu tragen. Chemikalienreste sind nicht in den Ausguss zu schütten, sondern in den gekennzeichneten Behältern zu sammeln. Jeder Mitarbeiter hat seinen Arbeitsplatz nach Versuchsende zu reinigen und die Geräte auszuschalten. Lebensmittel sind im Labor weder zu lagern noch zu verzehren. Im Brandfall ist der Raum sofort zu verlassen; der Notruf ist von der Flurtelefonstation aus abzusetzen. Diese Regeln sind von allen Praktikanten vor Beginn des Praktikums zu lesen und zu unterschreiben.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①哪两件东西是「不得」做的？（答：化学残留不得倒进水槽；食物不得在实验室存放或食用）②实习生开始实习前必须做什么？（答：阅读并签署这些规则）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 haben/sein+zu 写一段办公室守则（约 70 词），各用至少两处。",
+      "sample": "范文：Im Büro ist Folgendes zu beachten: Der Serverraum ist stets abzuschließen. Besucher haben sich am Empfang anzumelden. Vertrauliche Unterlagen sind nicht auf dem Drucker liegen zu lassen. Jeder Mitarbeiter hat seinen Schreibtisch am Abend aufzuräumen. Im Notfall ist der Hausmeister zu verständigen, dessen Nummer an der Tür hängt.",
+      "selfcheck": "自查：:haben+zu 的主语是执行者 □;sein+zu 的主语是承受者且无多余 werden □；可分动词的 zu 嵌对位置 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-09",
+    "level": "B2",
+    "order": 13,
+    "title": "名词化文体：从句与介词短语互换",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（逻辑关系的双轨表达）",
+      "headers": [
+        "逻辑",
+        "从句版（动词文体）",
+        "介词版（名词化文体）"
+      ],
+      "rows": [
+        [
+          "原因",
+          "weil es regnete",
+          "wegen des Regens"
+        ],
+        [
+          "让步",
+          "obwohl es regnete",
+          "trotz des Regens"
+        ],
+        [
+          "时间·先行",
+          "nachdem er ankam",
+          "nach seiner Ankunft"
+        ],
+        [
+          "时间·同时",
+          "während er schlief",
+          "während des Schlafs / im Schlaf"
+        ],
+        [
+          "时间·后行",
+          "bevor er abreiste",
+          "vor seiner Abreise"
+        ],
+        [
+          "条件",
+          "wenn es nötig ist",
+          "bei Bedarf / im Bedarfsfall"
+        ],
+        [
+          "目的",
+          "damit alle teilnehmen können",
+          "zur Teilnahme aller / zum Zweck der Teilnahme"
+        ],
+        [
+          "方式",
+          "indem man sparte",
+          "durch Sparen / mittels Einsparungen"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "互换的核心动作：从句动词 → 派生名词（-ung / 动词不定式名词化 / 复合词），主语 → 二格或 von 短语（„weil die Kosten stiegen\" → „wegen des Kostenanstiegs\")。",
+      "介词的格支配必须跟牢：wegen/trotz + 二格（口语三格，考试写二格）；nach/vor/bei + 三格；durch/mittels 二格系见单元 16。",
+      "名词化不是越密越好：一句至多嵌一处重名词化，否则句子僵死；正式文体（公文、学术、新闻评论）密度高，邮件与口语保持动词文体。",
+      "复数高频名词化后缀：-ung (Entscheidung)、-heit/-keit、-schaft、-tum，以及零派生（Anstieg, Verzicht)。"
+    ],
+    "examples": [
+      {
+        "de": "Wegen des starken Regens wurde das Training in die Halle verlegt.",
+        "zh": ""
+      },
+      {
+        "de": "Trotz mehrfacher Warnungen setzte die Gruppe den Aufstieg fort.",
+        "zh": ""
+      },
+      {
+        "de": "Nach dem Ende der Sitzung wurden die Ergebnisse sofort veröffentlicht.",
+        "zh": ""
+      },
+      {
+        "de": "Bei Fragen zur Anmeldung wenden Sie sich bitte an das Büro im zweiten Stock.",
+        "zh": ""
+      },
+      {
+        "de": "Zur Verbesserung der Luftqualität plant die Stadt neue Radwege und Grünflächen.",
+        "zh": ""
+      },
+      {
+        "de": "Durch regelmäßiges Training verbesserte sie ihre Aussprache innerhalb eines Jahres deutlich.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "wegen 后用一格或四格（应二格）：„wegen dem Regen\" 是口语，笔试写作扣分。",
+      "把主语硬塞成二格导致歧义（„wegen Peters\" 不知是人还是事时补 von 或改从句）。",
+      "整段全名词化，读起来像机器翻译的公文腔，自己也读不懂。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "互换正确的是（weil → wegen)?",
+        "explain": "动词 steigen 名词化为 Anstieg，主语 die Preise 溶入复合词，二格 des。",
+        "options": [
+          "Weil die Preise stiegen, … → Wegen des Preisanstiegs …",
+          "Wegen die Preise stiegen …",
+          "Wegen dem Preisanstieg stiegen …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Trotz ＿＿ (der Regen，二格） fand das Fest statt.\"",
+        "explain": "trotz 支配二格，der Regen 的二格是 des Regens。",
+        "answer": "des Regens"
+      },
+      {
+        "type": "choice",
+        "q": "时间先后换对的是？",
+        "explain": "nach + 三格，ankommen 名词化为 Ankunft，原主语变所有格 seiner。",
+        "options": [
+          "Nachdem er ankam, … → Nach seiner Ankunft …",
+          "Nach er ankam bald …",
+          "Nachdem seiner Ankunft, …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Während ＿＿ (der Schlaf) träumte er von der Prüfung.\"（二格形式填空）",
+        "explain": "während 作介词时支配二格（des Schlafs)，与从句版的 während 并存。",
+        "answer": "des Schlafs"
+      },
+      {
+        "type": "choice",
+        "q": "条件名词化：„Wenn es regnet, …\" →",
+        "explain": "bei + 三格表条件性场合，Bei Regen ist标准公务句式。",
+        "options": [
+          "Bei Regen …",
+          "Wegen Regen bei …",
+          "Trotz Regen wenn …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "目的：„＿＿ Verbesserung der Sicherheit wurden neue Kameras installiert.\"",
+        "explain": "zu + 三格表目的，名词化 Verbesserung 用阴性三格 Zur (zu der)。",
+        "answer": "Zur"
+      },
+      {
+        "type": "choice",
+        "q": "哪句名词化过头、不合格？",
+        "explain": "四层二格嵌套，信息密度失控；正式文体也忌这种链条。",
+        "options": [
+          "Die Durchführung der Untersuchung der Wirkung der Maßnahmen wurde beschlossen.",
+          "Zur Untersuchung der Wirkung wurden die Maßnahmen ein Jahr lang beobachtet.",
+          "Man untersuchte ein Jahr lang, wie die Maßnahmen wirkten."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨逻辑",
+        "explain": "trotz 是让步介词，对应 obwohl 从句。",
+        "audio": "Trotz des hohen Preises war das Konzert ausverkauft.",
+        "options": [
+          "尽管价格高（让步）",
+          "因为价格高（原因）",
+          "为了高价格（目的）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Durch ＿＿ (regelmäßiges Training） blieb sie auch im Alter fit.\"（名词化短语，三格/裸名词）",
+        "explain": "durch + 四格，Training 中性四格同形，不定式名词化即可，无需派生。",
+        "answer": "regelmäßiges Training"
+      },
+      {
+        "type": "choice",
+        "q": "主语处理正确的是（„weil der Lehrer fehlte\")?",
+        "explain": "动词 fehlen → das Fehlen，主语 der Lehrer 以二格后置，无歧义。",
+        "options": [
+          "Wegen des Fehlens des Lehrers fiel der Kurs aus.",
+          "Wegen Lehrer fehlte fiel Kurs aus.",
+          "Wegen dem Lehrer gefehlt fiel der Kurs aus."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Vor ＿＿ (die Abreise） packte er den Koffer.\"（三格）",
+        "explain": "vor + 三格表时间在前，阴性名词用 der。",
+        "answer": "der Abreise"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "介词短语占首位，wurde 第二位，主语 die Sitzung 随后。",
+        "tokens": [
+          "wurde",
+          "Wegen",
+          "die Sitzung",
+          "des Streiks",
+          "verschoben."
+        ],
+        "answer": [
+          "Wegen",
+          "des Streiks",
+          "wurde",
+          "die Sitzung",
+          "verschoben."
+        ],
+        "displayAnswer": "Wegen des Streiks wurde die Sitzung verschoben."
+      },
+      {
+        "type": "choice",
+        "q": "方式互换（indem → mittels/durch）正确的是？",
+        "explain": "vergleichen → der Vergleich，主语溶入二格短语 der Daten。",
+        "options": [
+          "Indem man Daten verglich, … → Durch den Vergleich der Daten …",
+          "Durch man Daten verglich, …",
+          "Mittels Daten verglichen wurden, …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Im ＿＿ der Sparmaßnahmen wurden zwei Stellen gestrichen.\"（在…框架/范围内的固定说法，Rahmen 词干）",
+        "explain": "im Rahmen + 二格 是「在…范围内」的标配名词化框架。",
+        "answer": "Rahmen"
+      },
+      {
+        "type": "choice",
+        "q": "哪种场合应优先动词文体而不是名词化？",
+        "explain": "文体匹配原则：正式度越低越用动词文体，名词化过重在日常沟通中显得做作。",
+        "options": [
+          "给朋友的日常邮件",
+          "政府公文",
+          "学术摘要"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "复合名词化：„wegen des ＿＿\"（die Kosten steigen → 复合词 Anstieg 构成）",
+        "explain": "Kostenanstieg 的二格是 Kostenanstiegs，复合词整体变格。",
+        "answer": "Kostenanstiegs"
+      }
+    ],
+    "reading": {
+      "text": "Wegen der Sanierung der Hauptstraße bleibt diese ab Montag für den Verkehr gesperrt. Während der Bauarbeiten wird der Busverkehr über die Ringstraße umgeleitet. Trotz der Umleitung sind Verzögerungen im Berufsverkehr nicht auszuschließen. Nach dem Abschluss der Arbeiten im Oktober steht eine zusätzliche Fahrspur zur Verfügung. Zur Entlastung der Anwohner finden laute Arbeiten nur zwischen 7 und 19 Uhr statt. Bei Fragen zur Baustelle wenden Sie sich an das Tiefbauamt. Die Stadt bittet für die Unannehmlichkeiten um Verständnis.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①主街为什么封闭、从何时起？（答：因翻修 Sanierung，自周一起）②吵闹施工的时间限制是多少，用了哪个介词结构？（答：仅 7 点至 19 点；Zur Entlastung der Anwohner 表目的）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "把一段动词文体的通知改成名词化公告体（约 70 词）：原文要点——因为下雪，学校停课（wegen)；虽然路滑，校车照常（trotz 只到车站）；放学后家长接孩子（nach)；有问题打电话（bei)。",
+      "sample": "范文：Wegen des starken Schneefalls fällt der Unterricht am Dienstag aus. Trotz der glatten Straßen fahren die Schulbusse bis zum Bahnhof. Nach dem Ende des Schultages werden die Kinder von ihren Eltern abgeholt. Bei Rückfragen zur Betreuung wenden Sie sich bitte an das Sekretariat.",
+      "selfcheck": "自查：四种介词结构各出现一次 □；wegen/trotz 的二格正确 □；主语处理无歧义 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "t-b2-04",
+    "level": "B2",
+    "order": 14,
+    "title": "总结与立场文",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（立场文的段落骨架，歌德 B2 写作题型一）",
+      "headers": [
+        "段",
+        "任务",
+        "标配句"
+      ],
+      "rows": [
+        [
+          "引言",
+          "复述话题 + 点出争议",
+          "Heutzutage wird viel darüber diskutiert, ob … / Das Thema … ist umstritten."
+        ],
+        [
+          "他方观点",
+          "公正呈现一至两个对立论点",
+          "Die Befürworter argumentieren, dass … / Die Gegner wenden ein, dass …"
+        ],
+        [
+          "自方立场",
+          "旗帜鲜明表态 + 理由",
+          "Meiner Meinung nach überwiegen die Vorteile, weil … / Ich vertrete den Standpunkt, dass …"
+        ],
+        [
+          "论证展开",
+          "理由分点 + 例证",
+          "Einerseits … andererseits … / Ein Beispiel dafür ist …"
+        ],
+        [
+          "结论",
+          "回扣立场 + 展望或建议",
+          "Abschließend lässt sich sagen … / Zusammenfassend bin ich der Ansicht, dass …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "B2 立场文的及格线是「有他方」：只写自己观点、不呈现对立面，结构分直接腰斩。",
+      "立场只表一次态、但要贯穿：引言中立、中间摆他方、第三段起亮明并守住，结论不许反转。",
+      "评价词分级使用：überwiegen / überzeugen / fraglich / kaum haltbar——用单元 11 的连接词与批次 11 的论证词撑起密度。",
+      "论坛体可略口语（„Ich finde schon, dass …\")，但骨架不变；字数目标 150 词上下（出口定线）。"
+    ],
+    "examples": [
+      {
+        "de": "Heutzutage wird viel darüber diskutiert, ob das Arbeiten von zu Hause mehr Vor- oder Nachteile bringt.",
+        "zh": ""
+      },
+      {
+        "de": "Die Befürworter argumentieren, dass man Fahrzeit spart und konzentrierter arbeiten kann.",
+        "zh": ""
+      },
+      {
+        "de": "Die Gegner wenden ein, dass der persönliche Kontakt im Team verloren gehe.",
+        "zh": ""
+      },
+      {
+        "de": "Meiner Meinung nach überwiegen die Vorteile, solange die Absprachen im Team gut funktionieren.",
+        "zh": ""
+      },
+      {
+        "de": "Ein Beispiel dafür ist unsere Abteilung: Seit der Umstellung sind die Ergebnisse messbar besser.",
+        "zh": ""
+      },
+      {
+        "de": "Abschließend lässt sich sagen, dass flexible Modelle die Zukunft der Arbeit prägen werden.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "全文只有 „Ich finde …\" 一边倒，没有 Gegner/Befürworter 段。",
+      "结论段突然改口（前文支持、结尾反对），立场崩塌。",
+      "把举例当论证：例子只能佐证理由，不能替代理由。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "合格的引言句是？",
+        "explain": "引言复述话题并点出争议，不抢先表态。",
+        "options": [
+          "Heutzutage wird viel darüber diskutiert, ob Jugendliche ab 16 wählen dürfen sollten.",
+          "Ich finde, Jugendliche sollten wählen dürfen, und zwar sofort alle.",
+          "Wählen ab 16 ist einfach nur gut und richtig für alle."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "他方引入：„Die ＿＿ wenden ein, dass die Kosten zu hoch seien.\"",
+        "explain": "Gegner + einwenden 是呈现反对论点的标配组合，注意 KI 的 seien。",
+        "answer": "Gegner"
+      },
+      {
+        "type": "choice",
+        "q": "立场句合格的是？",
+        "explain": "立场 + 理由同句给出，且用 überwiegen 的论证级措辞。",
+        "options": [
+          "Meiner Meinung nach überwiegen die Vorteile, weil die Maßnahme langfristig Kosten spart.",
+          "Ich bin total dafür und finde alles daran super.",
+          "Vielleicht ist es gut, vielleicht auch nicht, mal sehen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "结论开头：„＿＿ lässt sich sagen, dass ein Verbot allein nicht ausreicht.\"",
+        "explain": "Abschließend lässt sich sagen 是结论段的标准起句。",
+        "answer": "Abschließend"
+      },
+      {
+        "type": "choice",
+        "q": "哪处犯了「结论反转」错误？",
+        "explain": "结论必须回扣既定立场，反转即结构事故。",
+        "options": [
+          "正文论证支持限速，结论却写 „Daher lehne ich ein Tempolimit ab.\"",
+          "正文支持限速，结论重申支持",
+          "正文摆出双方后第三段亮明支持"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "例证引入：„Ein ＿＿ dafür ist die Stadt Freiburg, wo das Modell seit Jahren funktioniert.\"",
+        "explain": "Ein Beispiel dafür ist … 是例证的标准引入句。",
+        "answer": "Beispiel"
+      },
+      {
+        "type": "choice",
+        "q": "他方段的公正性要求是？",
+        "explain": "先立得住对方的最强论点，自己的回应才有说服力。",
+        "options": [
+          "如实呈现对方最有力的论点，再在后文回应",
+          "把对方论点写得很弱，方便自己反驳",
+          "只写对方论点中的错误部分"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨段落功能",
+        "explain": "Zusammenfassend + bin ich der Ansicht 是结论收束的标志。",
+        "audio": "Zusammenfassend bin ich der Ansicht, dass die Vorteile überwiegen.",
+        "options": [
+          "结论段",
+          "引言段",
+          "他方观点段"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分点论证：„＿＿ spricht die Zeitersparnis für das Modell, andererseits fehlt der Austausch.\"（一方面）",
+        "explain": "Einerseits … andererseits 是理由分点的骨架连接。",
+        "answer": "Einerseits"
+      },
+      {
+        "type": "choice",
+        "q": "评价词用得有分寸的是？",
+        "explain": "kaum haltbar + 给出依据，是论证级批评；B、C 是情绪输出。",
+        "options": [
+          "Dieses Argument ist kaum haltbar, weil die Zahlen das Gegenteil zeigen.",
+          "Dieses Argument ist totaler Unsinn von dummen Leuten.",
+          "Das ist halt einfach falsch, Punkt, fertig."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "亮明立场变体：„Ich ＿＿ den Standpunkt, dass die Stadt mehr investieren muss.\"",
+        "explain": "den Standpunkt vertreten 是「持…立场」的固定搭配。",
+        "answer": "vertrete"
+      },
+      {
+        "type": "order",
+        "q": "排段落顺序",
+        "explain": "五段骨架的固定次序，立场在看清对立面之后亮明。",
+        "tokens": [
+          "引言：复述话题",
+          "结论：回扣立场",
+          "他方观点",
+          "自方立场与理由",
+          "例证展开"
+        ],
+        "answer": [
+          "引言：复述话题",
+          "他方观点",
+          "自方立场与理由",
+          "例证展开",
+          "结论：回扣立场"
+        ],
+        "displayAnswer": "引言：复述话题 → 他方观点 → 自方立场与理由 → 例证展开 → 结论：回扣立场"
+      },
+      {
+        "type": "choice",
+        "q": "字数与范围提醒，正确的是？",
+        "explain": "B2 写作按要点覆盖评分，跑题与注水都扣分。",
+        "options": [
+          "围绕题目四要点展开，不跑题、不堆无关例子",
+          "越长越好，把知道的都写上",
+          "只写 50 词，点到为止"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "回应他方的过渡：„＿＿ diese Bedenken verständlich sind, überwiegt der Nutzen.\"（让步连接，让步从句）",
+        "explain": "Obwohl 先让一步，再推自己的结论，是高分回应结构。",
+        "answer": "Obwohl"
+      },
+      {
+        "type": "choice",
+        "q": "论坛体允许的口语化是？",
+        "explain": "论坛体可轻口语（schon 的语气），但不得滑向街头俚语或公文腔，两端都扣分。",
+        "options": [
+          "Ich finde schon, dass man das Thema ernst nehmen muss.",
+          "Ey Leute, das Thema ist echt krass, oder was meint ihr so?",
+          "Sehr geehrte Damen und Herren, hiermit finde ich, dass …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "展望式结尾：„Es ist zu ＿＿, dass das Thema uns noch lange beschäftigen wird.\"",
+        "explain": "Es ist zu erwarten, dass … 是结论段展望句式。",
+        "answer": "erwarten"
+      }
+    ],
+    "reading": {
+      "text": "Heutzutage wird viel darüber diskutiert, ob Autos in der Innenstadt Platz an Radwege abgeben sollten. Die Befürworter argumentieren, dass mehr Radwege die Luft verbessern und die Stadt leiser machen. Die Gegner wenden ein, dass Autofahrer und Lieferanten auf die Straßen angewiesen seien und Parkplätze verloren gingen. Meiner Meinung nach überwiegen die Vorteile der Radwege. Ein Beispiel dafür ist unsere Straße: Seit der Umwandlung ist der Verkehr ruhiger und die Unfallzahl gesunken. Obwohl die Parkplatzsorgen verständlich sind, lassen sich mit Parkhäusern am Rand Lösungen finden. Abschließend lässt sich sagen, dass eine fahrradfreundliche Stadt allen nützt – auch denen, die weiter Auto fahren.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①作者的立场是什么？（答：支持给自行车道更多空间，认为其优点占上风）②作者如何处理对方的停车顾虑？（答：先让步承认可理解，再提出城边停车场作为解决方案）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "按五段骨架写一篇立场短文（约 120 词），题目：学校是否应该推迟上学时间到九点？须包含：引言、一个 Gegner 论点、自己的立场 + 两个理由、一个例证、结论。",
+      "sample": "范文：Heutzutage wird viel darüber diskutiert, ob der Unterricht erst um neun Uhr beginnen sollte. Die Gegner wenden ein, dass ein späterer Beginn die Betreuung jüngerer Kinder erschwere und der Schultag dann zu spät ende. Meiner Meinung nach überwiegen die Vorteile eines späteren Beginns. Jugendliche schlafen nachweislich später ein und brauchen morgens mehr Schlaf; ausgeschlafene Schüler lernen nachweislich besser. Ein Beispiel dafür ist eine Schule in Hamburg, die nach der Umstellung bessere Leistungen und weniger Verspätungen meldete. Obwohl die Betreuungsfrage berechtigt ist, lässt sie sich mit früheren Angeboten für jüngere Kinder lösen. Abschließend lässt sich sagen, dass ein späterer Schulbeginn Gesundheit und Lernerfolg fördert.",
+      "selfcheck": "自查：五段齐全且次序正确 □；立场只表一次且结论不反转 □；他方论点呈现得公正 □；至少三个本课连接/评价词（überwiegen / einwenden / abschließend 等）□。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-10",
+    "level": "B2",
+    "order": 15,
+    "title": "扩展分词定语产出",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（扩展定语的构成与还原）",
+      "headers": [
+        "基础",
+        "扩展式",
+        "展开成从句"
+      ],
+      "rows": [
+        [
+          "现在分词作定语（主动、同时）",
+          "der seit Jahren in Berlin lebende Autor",
+          "der Autor, der seit Jahren in Berlin lebt"
+        ],
+        [
+          "过去分词作定语（被动、完成）",
+          "der gestern veröffentlichte Bericht",
+          "der Bericht, der gestern veröffentlicht wurde"
+        ],
+        [
+          "zu + 现在分词（被动、未然）",
+          "die bis Freitag einzureichenden Unterlagen",
+          "die Unterlagen, die bis Freitag eingereicht werden müssen"
+        ],
+        [
+          "分词词尾",
+          "按形容词变格（一格示例：der lebende / den lebenden / dem lebenden）",
+          "与冠词、格、数走形容词规则"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "结构 = 冠词 + [状语/宾语等扩展成分] + 分词 + 名词；扩展成分再多，分词永远紧贴名词之前。",
+      "三种分词定语分工：Partizip I 主动同时，Partizip II 被动完成，zu + Partizip I 表「将被/须被」（与单元 12 的 sein+zu 呼应）。",
+      "可分动词的 zu 嵌入分词内部（einzureichenden）；不可分与规则动词的 zu 前置（zu lösenden)。",
+      "产出节制：一句话至多一处扩展定语，先从短扩展（两三个词）练起；口语里优先拆成关系从句。"
+    ],
+    "examples": [
+      {
+        "de": "Die seit Monaten diskutierte Frage wurde gestern endgültig entschieden.",
+        "zh": ""
+      },
+      {
+        "de": "Der von allen Seiten kritisierte Vorschlag fand am Ende keine Mehrheit.",
+        "zh": ""
+      },
+      {
+        "de": "Die bis Ende der Woche einzureichenden Formulare liegen im Sekretariat aus.",
+        "zh": ""
+      },
+      {
+        "de": "Die in den letzten Jahren stark gestiegenen Preise belasten viele Familien.",
+        "zh": ""
+      },
+      {
+        "de": "Das erst kürzlich eröffnete und schon überlaufene Café sucht neues Personal.",
+        "zh": ""
+      },
+      {
+        "de": "Er las den über mehrere Jahrhunderte entstandenen Roman in einer modernen Ausgabe.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "分词与名词之间漏掉扩展成分的语序（把状语甩到名词后面，结构即散）。",
+      "Partizip II 用在主动义上（„der geschlafene Mann\" 应为 der schlafende / der Mann, der geschlafen hat——schlafen 无被动，用 I 或从句）。",
+      "zu-分词漏 zu 或位置错（„die reichenden einzureichenden\" 类叠床架屋）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "展开正确的是：„der gestern veröffentlichte Bericht\" =",
+        "explain": "过去分词定语 = 被动关系从句。",
+        "options": [
+          "der Bericht, der gestern veröffentlicht wurde",
+          "der Bericht, der gestern veröffentlicht",
+          "der Bericht, gestern wurde veröffentlicht"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Partizip I 构成：„die seit 2010 in Köln ＿＿ Künstlerin\"（leben)",
+        "explain": "现在分词 lebend + 阴性一格词尾 -e。",
+        "answer": "lebende"
+      },
+      {
+        "type": "choice",
+        "q": "zu-分词正确的是？",
+        "explain": "zu 紧贴分词之前（zu lösende)，扩展时间成分在其前。",
+        "options": [
+          "die bis Montag zu lösende Aufgabe",
+          "die bis Montag lösende zu Aufgabe",
+          "die zu Montag bis lösende Aufgabe"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "可分动词 zu 嵌入：„die morgen ＿＿ Unterlagen\"（einreichen)",
+        "explain": "zu 嵌在前缀与词干之间：ein-zu-reichenden。",
+        "answer": "einzureichenden"
+      },
+      {
+        "type": "choice",
+        "q": "哪句分词用错？",
+        "explain": "schlafen 是不及物主动动词，无过去分词定语的被动义；应拆成从句。",
+        "options": [
+          "der gut geschlafene Gast",
+          "der lachende Gast",
+          "der gestern angekommene Gast"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "格变格（一格→四格，阳性）：„Ich kenne den seit Jahren hier ＿＿ Autor.\"（leben)",
+        "explain": "定冠词阳性四格后形容词词尾 -en：den … lebenden Autor。",
+        "answer": "lebenden"
+      },
+      {
+        "type": "choice",
+        "q": "还原从句：„der von der Jury ausgewählte Film\" =",
+        "explain": "von 短语标明施事，仍是被动还原。",
+        "options": [
+          "der Film, der von der Jury ausgewählt wurde",
+          "der Film, der die Jury ausgewählt hat",
+          "der Film, von der Jury er auswählte"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨结构",
+        "explain": "lebende 位于冠词与名词之间，是扩展定语而非谓语。",
+        "audio": "Die in Berlin lebende Autorin liest heute Abend aus ihrem neuen Roman.",
+        "options": [
+          "住在柏林的女作家（定语在名词前）",
+          "女作家住在柏林（主句叙述）",
+          "作家把柏林写成小说"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Partizip II 构成：„das vor Kurzem ＿＿ Gesetz\"（beschließen)",
+        "explain": "beschließen 分词 beschlossen + 中性一格 -e。",
+        "answer": "beschlossene"
+      },
+      {
+        "type": "choice",
+        "q": "产出节制的原则是？",
+        "explain": "扩展定语是调味不是主食，节制使用。",
+        "options": [
+          "一句至多一处扩展定语，太长就拆关系从句",
+          "每句至少三处才显水平",
+          "扩展定语越长越正式"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "同时主动：„die auf dem Podium ＿＿ Experten\"（sitzen，复数一格）",
+        "explain": "现在分词 sitzend + 复数词尾 -en。",
+        "answer": "sitzenden"
+      },
+      {
+        "type": "order",
+        "q": "组扩展定语短语",
+        "explain": "顺序：冠词 → 扩展（gestern) → 分词 → 名词。",
+        "tokens": [
+          "Bericht",
+          "der",
+          "gestern",
+          "vorgelegte"
+        ],
+        "answer": [
+          "der",
+          "gestern",
+          "vorgelegte",
+          "Bericht"
+        ],
+        "displayAnswer": "der gestern vorgelegte Bericht"
+      },
+      {
+        "type": "choice",
+        "q": "哪句需要拆成从句才清楚？",
+        "explain": "双层嵌入的扩展定语已不可读，必须拆解；B、C 都是可接受的清爽版本。",
+        "options": [
+          "Der die seit über zehn Jahren in der von ihrem Großvater gegründeten Firma arbeitende Frau leitende Abteilungsleiter wurde befördert.",
+          "Die seit zehn Jahren hier arbeitende Abteilungsleiterin wurde befördert.",
+          "Die Abteilungsleiterin, die seit zehn Jahren hier arbeitet, wurde befördert."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "zu-分词的意义：„die noch zu ＿＿ Fragen\" = 仍待回答的问题（beantworten)",
+        "explain": "zu + Partizip I 表未然被动，beantwortenden 为复数形式。",
+        "answer": "beantwortenden"
+      },
+      {
+        "type": "fill",
+        "q": "与格词尾：„mit dem seit Langem ＿＿ Freund\"（warten)",
+        "explain": "dem 后形容词/分词词尾恒为 -en。",
+        "answer": "wartenden"
+      },
+      {
+        "type": "fill",
+        "q": "完成+被动综合：„die im letzten Jahr stark ＿＿ Mieten\"（steigen 的分词——注意 steigen 无被动，此空应填 Partizip I 形式表主动完成？实际德语用 gestiegen 作定语表已发生的主动变化）",
+        "explain": "steigen 的过去分词 gestiegen 可作定语表「已上涨的」，这是少数主动义动词用分词 II 作定语的情形（完成状态义），与被动无关。",
+        "answer": "gestiegenen"
+      }
+    ],
+    "reading": {
+      "text": "Der in diesem Frühjahr erschienene Roman der seit Jahren in Lissabon lebenden Autorin erzählt von einer Familie im Wandel. Die von den Kritikern viel gelobte Erzählung verbindet Geschichte mit persönlichen Schicksalen. Das im Anhang abgedruckte Interview mit der Autorin erklärt die über ein Jahrzehnt entstandene Werkgeschichte. Die im Herbst erscheinende Taschenbuchausgabe enthält zusätzlich ein Nachwort der Übersetzerin. Die vom Verlag geplante Lesereise führt die Autorin in zwölf deutsche Städte; die noch zu bestätigenden Termine werden nächste Woche bekannt gegeben.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①哪处定语是 zu-分词、表什么义？（答：die noch zu bestätigenden Termine——尚未被确认的，即「待确认」）②哪处定语用过去分词表主动已完成？（答：der in diesem Frühjahr erschienene Roman，erscheinen 无被动，分词定语表已发生）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写一段书店海报文案（约 70 词），须用三处扩展定语（Partizip I、Partizip II、zu-Partizip I 各一处）。",
+      "sample": "范文：Der seit Wochen ausverkaufte und von Lesern sehnlichst erwartete neue Roman der in Wien lebenden Autorin ist wieder da! Die in alle großen Sprachen übersetzte Geschichte einer Familie begeistert jung und alt. Die am Freitag in unserer Buchhandlung stattfindende Lesung ist kostenlos; die noch zu vergebenden Plätze sind begrenzt – Reservierung empfohlen!",
+      "selfcheck": "自查：三处定语类型齐全 □；分词词尾与名词性数格一致 □；句子仍然可读、没有双层嵌入 □。"
+    },
+    "writingLabel": "写作"
+  },
+  {
+    "id": "g-b2-11",
+    "level": "B2",
+    "order": 16,
+    "title": "二格介词全量产出",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（B2 二格介词清单与分工）",
+      "headers": [
+        "介词",
+        "逻辑",
+        "例句骨架"
+      ],
+      "rows": [
+        [
+          "innerhalb / außerhalb",
+          "时间/空间之内·外",
+          "innerhalb eines Monats / außerhalb der Stadt"
+        ],
+        [
+          "anlässlich",
+          "借…之机（正式）",
+          "anlässlich des Jubiläums"
+        ],
+        [
+          "bezüglich",
+          "关于（公文）",
+          "bezüglich Ihres Antrags"
+        ],
+        [
+          "hinsichtlich",
+          "在…方面",
+          "hinsichtlich der Qualität"
+        ],
+        [
+          "infolge",
+          "由于（结果导向）",
+          "infolge des Unwetters"
+        ],
+        [
+          "mittels",
+          "借助于（手段）",
+          "mittels eines Formulars"
+        ],
+        [
+          "zwecks",
+          "为了（目的，公文）",
+          "zwecks Prüfung"
+        ],
+        [
+          "aufgrund",
+          "由于（依据）",
+          "aufgrund der Daten"
+        ],
+        [
+          "trotz / wegen / während",
+          "让步/原因/同时（B1–前课已学，并入系统）",
+          "trotz des Regens"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "全部支配二格：名词二格形态别错——阳性/中性 -(e)s (des Monats)，阴性/复数 der (der Stadt / der Kosten)。",
+      "口语里 innerhalb/trotz/wegen 常接三格，书面与考试一律二格；这是产出目标，不得含糊。",
+      "anlässlich 只接事件性名词（周年、访问、开幕），不接天气类。",
+      "mittels 与 durch 的分工：mittels 强调「用某个工具/手段」，durch 更宽泛（方式、渠道、原因）；二格介词里 mittels 最「工具化」。",
+      "zwecks 后常跟名词化短语（zwecks besserer Zusammenarbeit)，是公文目的表达，与 um…zu 的从句版对照。"
+    ],
+    "examples": [
+      {
+        "de": "Innerhalb eines Jahres hat sich die Zahl der Mitglieder fast verdoppelt.",
+        "zh": ""
+      },
+      {
+        "de": "Außerhalb der Öffnungszeiten ist der Zutritt zum Gelände nicht gestattet.",
+        "zh": ""
+      },
+      {
+        "de": "Anlässlich des hundertjährigen Jubiläums lädt die Firma zu einem Fest ein.",
+        "zh": ""
+      },
+      {
+        "de": "Bezüglich Ihrer Anfrage vom Mai teilen wir Ihnen mit, dass noch Plätze frei sind.",
+        "zh": ""
+      },
+      {
+        "de": "Hinsichtlich der Kosten gibt es zwischen den beiden Angeboten kaum Unterschiede.",
+        "zh": ""
+      },
+      {
+        "de": "Infolge des starken Schneefalls fielen zahlreiche Züge im ganzen Land aus.",
+        "zh": ""
+      },
+      {
+        "de": "Mittels einer Online-Umfrage wurden die Kunden nach ihrer Zufriedenheit befragt.",
+        "zh": ""
+      },
+      {
+        "de": "Zwecks weiterer Absprachen treffen sich die Partner nächste Woche in Berlin.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "冠词用成三格（„innerhalb dem Monat\")——口语可、笔试扣。",
+      "anlässlich 滥用在非事件名词上（„anlässlich des Regens\" 不成话，应 infolge/wegen)。",
+      "bezüglich 漏掉所指对象，自己漂在句中（它必须带二格宾语）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "二格正确的是？",
+        "explain": "innerhalb 支配二格，阳性名词用 eines + -s。",
+        "options": [
+          "innerhalb eines Monats",
+          "innerhalb einem Monat",
+          "innerhalb einen Monat"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Außerhalb ＿＿ (die Stadt） steht das neue Logistikzentrum.\"",
+        "explain": "阴性名词二格用 der。",
+        "answer": "der Stadt"
+      },
+      {
+        "type": "choice",
+        "q": "anlässlich 的合法搭配是？",
+        "explain": "anlässlich 只接庆典、访问等事件性场合。",
+        "options": [
+          "anlässlich des Firmenjubiläums",
+          "anlässlich des schlechten Wetters",
+          "anlässlich des Hungers"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "公文关于：„＿＿ Ihres Schreibens vom 3. Mai …\"",
+        "explain": "Bezüglich + 二格是信函「关于」句首件，Ihres 为二格。",
+        "answer": "Bezüglich"
+      },
+      {
+        "type": "choice",
+        "q": "hinsichtlich 的意思是？",
+        "explain": "hinsichtlich 限定讨论维度，不表原因。",
+        "options": [
+          "在（质量）方面",
+          "由于（质量）",
+          "代替（质量）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Infolge ＿＿ (das Unwetter） mussten Flüge gestrichen werden.\"",
+        "explain": "infolge + 二格，中性名词 des Unwetters。",
+        "answer": "des Unwetters"
+      },
+      {
+        "type": "choice",
+        "q": "mittels 与 durch 的选择，手段义最贴的是？",
+        "explain": "mittels + 二格表工具手段；durch 支配四格，B 形式且逻辑错，C 语序义皆错。",
+        "options": [
+          "Mittels eines Codes öffnet man die Tür.",
+          "Durch des Codes öffnet man die Tür.",
+          "Mittels die Tür öffnet man den Code."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听辨介词逻辑",
+        "explain": "zwecks 是目的介词，公文常用。",
+        "audio": "Zwecks besserer Planung bitten wir um frühe Anmeldung.",
+        "options": [
+          "为了更好规划（目的）",
+          "由于规划好（原因）",
+          "关于规划（主题）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Aufgrund ＿＿ (die neuen Daten） wurde die Prognose geändert.\"",
+        "explain": "复数二格用 der，形容词词尾 -en。",
+        "answer": "der neuen Daten"
+      },
+      {
+        "type": "choice",
+        "q": "口语与笔试的界限，正确态度是？",
+        "explain": "B2 产出目标按书面规范走二格。",
+        "options": [
+          "笔试写作中 trotz/wegen/innerhalb 一律用二格",
+          "任何场合都用三格更自然",
+          "二格已经过时，不用学"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Während ＿＿ (die Sitzung） wurde nicht telefoniert.\"",
+        "explain": "während 作介词支配二格。",
+        "answer": "der Sitzung"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "介词短语首位，wurde 第二位，被动分词收尾。",
+        "tokens": [
+          "wurde",
+          "Infolge",
+          "abgesagt.",
+          "das Konzert",
+          "des Gewitters"
+        ],
+        "answer": [
+          "Infolge",
+          "des Gewitters",
+          "wurde",
+          "das Konzert",
+          "abgesagt."
+        ],
+        "displayAnswer": "Infolge des Gewitters wurde das Konzert abgesagt."
+      },
+      {
+        "type": "choice",
+        "q": "哪句二格形态有误？",
+        "explain": "mittels 支配二格，应为 eines Formulars；选项三用了三格 einem，形态错误。",
+        "options": [
+          "trotz des langen Weges",
+          "innerhalb der nächsten Wochen",
+          "mittels einem Formulars"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "fill",
+        "q": "„Anlässlich ＿＿ (der Besuch des Ministers） findet ein Empfang statt.\"（复合表达填二格冠词+n）",
+        "explain": "anlässlich des Besuchs，der Besuch 二格为 des Besuchs。",
+        "answer": "des Besuchs"
+      },
+      {
+        "type": "choice",
+        "q": "zwecks 的从句版改写是？",
+        "explain": "目的介词短语与 um…zu 从句等值。",
+        "options": [
+          "Zwecks Prüfung der Daten … = Um die Daten zu prüfen, …",
+          "= Weil die Daten geprüft wurden, …",
+          "= Trotz der Prüfung der Daten, …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "综合：„＿＿ der Sommerferien bleibt die Bibliothek geschlossen.\"（期间）",
+        "explain": "während + 二格名词化短语表时间段，是公告体的标准写法。",
+        "answer": "Während"
+      }
+    ],
+    "reading": {
+      "text": "Sehr geehrte Bürgerinnen und Bürger, bezüglich der Baumaßnahmen in der Hauptstraße teilen wir Ihnen Folgendes mit: Innerhalb der nächsten zwei Wochen werden die Arbeiten am ersten Abschnitt beendet. Infolge des unerwartet harten Winters haben sich die Termine um einen Monat verschoben. Hinsichtlich der Umleitungen ändert sich nichts an den bekannten Regelungen. Anlässlich des Abschlusses der Bauarbeiten lädt die Stadt zu einem kleinen Straßenfest ein. Zwecks besserer Information finden Sie alle Pläne auf der Webseite der Stadt. Außerhalb der Bauzeiten ist die Straße für Anwohner frei befahrbar. Wir danken für Ihr Verständnis während der Bauzeit.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①工期为何推迟一个月，用了哪个介词？（答：因异常严寒的冬天；infolge) ②这封信「关于」什么事，用的是哪个介词？（答：关于主街的施工措施；bezüglich)"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写一封正式通知短函（约 80 词），主题：图书馆夏季闭馆翻修。须用 innerhalb、infolge、bezüglich、zwecks 各至少一次，二格全部写对。",
+      "sample": "范文：Sehr geehrte Leserinnen und Leser, bezüglich der Sommerpause teilen wir Ihnen mit: Die Bibliothek bleibt zwecks Renovierung des Lesesaals vom 1. bis 31. Juli geschlossen. Infolge der Bauarbeiten ist auch der Online-Katalog zeitweise nicht erreichbar. Innerhalb der Schließzeit können Medien über den Rückgabekasten am Eingang zurückgegeben werden. Ab dem 1. August sind wir wieder zu den üblichen Zeiten für Sie da.",
+      "selfcheck": "自查：四个介词各用一次 □；每个二格形态复核过 □;anlässlich 类事件介词没有误用在天气上 □。"
+    },
+    "writingLabel": "写作"
+  }
+]

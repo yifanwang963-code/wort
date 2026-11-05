@@ -1,0 +1,676 @@
+[
+  {
+    "id": "c-b2-1",
+    "level": "B2",
+    "order": 25,
+    "title": "KI 转述 vs KII 假设",
+    "intro": "",
+    "table": {
+      "caption": "对比表",
+      "headers": [
+        "",
+        "Konjunktiv I",
+        "Konjunktiv II"
+      ],
+      "rows": [
+        [
+          "本职",
+          "转述（他说…，真假不表态）",
+          "假设/愿望/礼貌（与现实的距离）"
+        ],
+        [
+          "典型场景",
+          "新闻、纪要、引用",
+          "条件句、建议、委婉请求"
+        ],
+        [
+          "例",
+          "Er sagt, er sei krank.（据他说他病了）",
+          "Er wäre gern gesund.（他倒希望自己健康）"
+        ],
+        [
+          "混淆点",
+          "sei 有时借 werde/hätte 等 KII 形避与直陈同形",
+          "hätte/wäre 也出现在转述的过去式与同形替代中"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是转述？",
+        "explain": "erklärte + werde 是新闻转述的标配。",
+        "options": [
+          "Die Ministerin erklärte, sie werde die Steuer senken.",
+          "Ich hätte gern eine Steuer gesenkt.",
+          "Würden Sie die Steuer bitte senken?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "假设义：„Wenn ich reich ＿＿, würde ich reisen.\"",
+        "explain": "与现实相反的条件用 KII。",
+        "answer": "wäre"
+      },
+      {
+        "type": "choice",
+        "q": "哪句 KI 用错（与直陈同形未替换）?",
+        "explain": "复数转述 haben 与直陈同形，规范转述改用 hätten。",
+        "options": [
+          "Sie sagen, sie haben keine Zeit.（转述中 haben 与直陈同形，应改 hätten）",
+          "Sie sagt, sie habe keine Zeit.",
+          "Er sagt, er sei müde."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "礼貌请求：„＿＿ Sie mir bitte helfen?\"（KII)",
+        "explain": "礼貌式是 KII 的社交用法，非转述。",
+        "answer": "Würden"
+      },
+      {
+        "type": "choice",
+        "q": "过去转述正确的是？",
+        "explain": "转述过去用 habe + 分词（KI 完成式）。",
+        "options": [
+          "Er sagte, er habe den Zug verpasst.",
+          "Er sagte, er hätte den Zug gern verpasst jeden Tag.",
+          "Er sagte, er verpasste gestern den Zug immer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨义",
+        "explain": "behauptet + habe 是声称型转述，说话人不背书。",
+        "audio": "Sie behauptet, sie habe die E-Mail nie bekommen.",
+        "options": [
+          "转述（她声称没收到）",
+          "事实断言（她确实没收到）",
+          "假设（要是没收到就好了）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "愿望句：„＿＿ ich doch nur besser vorbereitet!\"",
+        "explain": "Wäre ich doch … 是愿望句的 KII 倒装。",
+        "answer": "Wäre"
+      },
+      {
+        "type": "choice",
+        "q": "分工总结正确的是？",
+        "explain": "一句定分工：来源 vs 距离。",
+        "options": [
+          "KI 管「谁说的」，KII 管「与现实多远」",
+          "KI 管过去，KII 管将来",
+          "两者任何场合可互换"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-b2-2",
+    "level": "B2",
+    "order": 26,
+    "title": "被动 vs 名词化文体",
+    "intro": "",
+    "table": {
+      "caption": "对比表",
+      "headers": [
+        "",
+        "被动句",
+        "名词化短语"
+      ],
+      "rows": [
+        [
+          "形态",
+          "wird gebaut / wurde geprüft",
+          "der Bau / die Prüfung der Daten"
+        ],
+        [
+          "信息焦点",
+          "动作与受事，施事可省",
+          "概念与关系，句子变短变密"
+        ],
+        [
+          "典型文体",
+          "说明、新闻、流程",
+          "公文、标题、摘要、公告"
+        ],
+        [
+          "例",
+          "Der Antrag wird geprüft.",
+          "Die Prüfung des Antrags dauert."
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "标题体应选？",
+        "explain": "标题用名词化，短而密。",
+        "options": [
+          "Erhöhung der Studiengebühren beschlossen",
+          "Die Studiengebühren werden erhöht, wie beschlossen wurde",
+          "Man hat beschlossen, dass die Gebühren erhöht werden sollen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "被动改名词化：„Die Brücke wird saniert.\" → „die ＿＿ der Brücke\"",
+        "explain": "动词 sanieren 名词化 Sanierung，从句主语变二格。",
+        "answer": "Sanierung"
+      },
+      {
+        "type": "choice",
+        "q": "流程说明应选？",
+        "explain": "给读者一步步照做的说明用被动时序句最清楚。",
+        "options": [
+          "Zuerst wird das Formular ausgefüllt, dann wird es abgegeben.",
+          "Die Ausfüllung des Formulars mit anschließender Abgabe desselben.",
+          "Ausfüllung, Abgabe, fertig ist das Ganze hier."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "名词化改被动：„die Prüfung der Daten\" → „Die Daten werden ＿＿.\"",
+        "explain": "名词 Prüfung 还原为分词 geprüft。",
+        "answer": "geprüft"
+      },
+      {
+        "type": "choice",
+        "q": "哪句混合失当？",
+        "explain": "名词化套被动套介词，三层叠加不可读。",
+        "options": [
+          "Die Durchführung der Messung erfolgt durch Messung der Werte mittels Messgeräten.",
+          "Die Messung wird mit geeichten Geräten durchgeführt.",
+          "Zur Messung der Werte dienen geeichte Geräte."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨文体",
+        "explain": "全句无被动，信息全在名词短语里，是公文体。",
+        "audio": "Die Entscheidung über den Antrag erfolgt nach Prüfung aller Unterlagen.",
+        "options": [
+          "名词化公文体",
+          "被动流程体",
+          "口语体"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "施事介词：„Der Preis wurde ＿＿ dem Anbieter um zehn Prozent gesenkt.\"",
+        "explain": "被动句的施事用 von + 三格引出；名词化版本里同一施事则多用 durch 或二格关系，各走各的轨道。",
+        "answer": "von"
+      },
+      {
+        "type": "choice",
+        "q": "选择原则正确的是？",
+        "explain": "文体选择服务于读者，不是等级竞赛。",
+        "options": [
+          "要过程清楚用被动，要概念密度用名词化；一段里搭配着用",
+          "全文统一一种最高级",
+          "名词化永远比被动高级"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-b2-3",
+    "level": "B2",
+    "order": 27,
+    "title": "Futur I 推测 vs 现在时事实",
+    "intro": "",
+    "table": {
+      "caption": "对比表",
+      "headers": [
+        "",
+        "现在时事实",
+        "Futur I 推测"
+      ],
+      "rows": [
+        [
+          "形态",
+          "Er ist zu Hause.",
+          "Er wird zu Hause sein."
+        ],
+        [
+          "说话人姿态",
+          "断言、已知",
+          "推断、未证实"
+        ],
+        [
+          "常见搭词",
+          "sicher, tatsächlich",
+          "wohl, schon, vermutlich"
+        ],
+        [
+          "误读点",
+          "——",
+          "不是将来！谈的是当下"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "推测句是？",
+        "explain": "jetzt + wird 是现状推测；C 是真将来。",
+        "options": [
+          "Sie wird jetzt im Zug sitzen.",
+          "Sie sitzt jetzt im Zug, ich sehe sie.",
+          "Sie wird morgen in den Zug steigen und fahren."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "改推测：„Er ist krank.\"（加推测义 Futur I)→ „Er ＿＿ krank sein.\"",
+        "explain": "加 werden 即把断言降为推断。",
+        "answer": "wird"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是事实断言？",
+        "explain": "A 是可核实的事实陈述；B、C 皆推测（B 为 Futur II)。",
+        "options": [
+          "Der Laden hat heute bis 20 Uhr geöffnet.",
+          "Der Laden wird heute bis 20 Uhr geöffnet haben.",
+          "Der Laden wird wohl geöffnet sein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "推测搭词：„Sie wird ＿＿ schon Bescheid wissen.\"",
+        "explain": "wohl 是推测义的标志搭词。",
+        "answer": "wohl"
+      },
+      {
+        "type": "choice",
+        "q": "上下文决定读法：„Um 8 Uhr wird der Zug abfahren.\"（时刻表语境）是？",
+        "explain": "时刻表语境下 werden 是事实性将来，推测读法由语境关闭。",
+        "options": [
+          "将来的计划/时刻（事实性将来）",
+          "对现在的推测",
+          "对过去的推测"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨姿态",
+        "explain": "对当下状态的推断，安慰语境。",
+        "audio": "Du wirst müde sein nach der langen Fahrt.",
+        "options": [
+          "体贴的推断",
+          "确认的诊断",
+          "将来的预言"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "事实版补主语事实：„Tatsächlich ＿＿ er heute zu Hause, ich habe ihn gesehen.\"",
+        "explain": "tatsächlich + ist 是断言姿态，与推测版对照。",
+        "answer": "ist"
+      },
+      {
+        "type": "choice",
+        "q": "翻译陷阱：„Er wird jetzt schlafen.\" 最贴切的中文是？",
+        "explain": "推测义谈当下，不谈将来动作。",
+        "options": [
+          "他这会儿想必在睡觉",
+          "他将要现在睡觉",
+          "他应该马上去睡觉"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-b2-4",
+    "level": "B2",
+    "order": 28,
+    "title": "als ob 虚拟比较 vs als/wie 真实比较",
+    "intro": "",
+    "table": {
+      "caption": "对比表",
+      "headers": [
+        "",
+        "als ob + KII",
+        "als / wie + 直陈"
+      ],
+      "rows": [
+        [
+          "性质",
+          "虚拟：看起来像，其实不然",
+          "真实：确有可比性"
+        ],
+        [
+          "语序",
+          "ob 从句动词置末",
+          "als 从句动词置末；wie 同"
+        ],
+        [
+          "例",
+          "Er tut so, als ob er alles wüsste.（其实不知道）",
+          "Er ist größer als sein Bruder. / Wie ich sagte, …"
+        ],
+        [
+          "省略形",
+          "als + KII 倒装：…, als wäre er krank.",
+          "——"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "虚拟比较是？",
+        "explain": "als ob + wäre 表「装得像，其实不是」。",
+        "options": [
+          "Sie spricht, als ob sie die Chefin wäre.",
+          "Sie spricht wie die Chefin in Sitzungen.",
+          "Sie ist älter als die Chefin."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Er verhält sich, ＿＿ er alles besser wüsste.\"（als ob 的省略倒装引导词）",
+        "explain": "als + KII 倒装是 als ob 的凝练变体，wüsste 提前。",
+        "answer": "als"
+      },
+      {
+        "type": "choice",
+        "q": "真实比较是？",
+        "explain": "结果确实好于预期，是事实比较，als + 直陈。",
+        "options": [
+          "Das Ergebnis war besser, als wir erwartet hatten.",
+          "Er tat so, als hätte er nichts gehört.",
+          "Sie lächelte, als ob nichts wäre."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Tu nicht so, als ＿＿ du mich nicht kennst!\"",
+        "explain": "tu so, als ob … 是「装作」的固定框架。",
+        "answer": "ob"
+      },
+      {
+        "type": "choice",
+        "q": "KII 用错的是？",
+        "explain": "护照身高是事实数据，不用 als ob 虚拟式。",
+        "options": [
+          "Er ist so groß, als ob er zwei Meter wäre im Pass.（真实身高比较误用虚拟）",
+          "Er tut so, als ob er schliefe.",
+          "Als wäre sie taub, reagierte sie nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨真假",
+        "explain": "als + KII 倒装 = als ob 虚拟比较。",
+        "audio": "Sie redet, als wäre sie Expertin.",
+        "options": [
+          "她装得像专家（虚拟，她并不是）",
+          "她是专家在发言",
+          "她比专家说得好"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„＿＿ ich schon sagte, beginnt die Sitzung um neun.\"（wie)",
+        "explain": "Wie ich schon sagte 是真实回指的开场套句。",
+        "answer": "Wie"
+      },
+      {
+        "type": "choice",
+        "q": "分工总结：als ob 与 als（比较级后）的差别是？",
+        "explain": "一词定性：als ob 管真假，als 管高低。",
+        "options": [
+          "前者虚拟装样，后者真实比大小",
+          "前者只用于过去",
+          "两者永远等值"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-b2-5",
+    "level": "B2",
+    "order": 29,
+    "title": "情态小词 denn / doch / ja",
+    "intro": "",
+    "table": {
+      "caption": "对比表",
+      "headers": [
+        "小词",
+        "核心语气",
+        "反例场景"
+      ],
+      "rows": [
+        [
+          "denn",
+          "只活在问句里：软化、惊讶、关心",
+          "陈述句中场出现 „denn\" 即是小词误用——那是连接词 denn 的地盘"
+        ],
+        [
+          "doch",
+          "提醒已知 / 温和反驳 / 催促",
+          "对方真不知道时用 doch 提醒，会显得指责"
+        ],
+        [
+          "ja",
+          "共识与惊叹：说的是「你我都懂」",
+          "把新信息用 ja 包装，会让对方困惑「我该知道吗」"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Wo ist denn mein Schlüssel?\" 里 denn 换成哪个最不丢语气？",
+        "explain": "问句软化只有 denn 能担当。",
+        "options": [
+          "无可替换，这是小词 denn 的专属位置",
+          "weil",
+          "aber als Konjunktion"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Das habe ich dir ＿＿ gestern gesagt!\"（提醒）",
+        "explain": "doch 提醒对方一个已知事实，带轻微责备。",
+        "answer": "doch"
+      },
+      {
+        "type": "choice",
+        "q": "ja 用对的是？",
+        "explain": "ja 标记双方已知的共识信息。",
+        "options": [
+          "Wir sehen uns ja morgen auf der Konferenz – wie besprochen.",
+          "Ich teile dir ja jetzt eine völlig neue Nachricht mit.",
+          "Ja denn ist das Wetter heute gut."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Wie geht es dir ＿＿?\"（关心式提问）",
+        "explain": "denn 让问候问句变暖、显关切。",
+        "answer": "denn"
+      },
+      {
+        "type": "choice",
+        "q": "doch 的反驳用法是？",
+        "explain": "A 是反驳纠偏；B 是提醒义，doch 用得对但功能不同；C 语序错误，doch 小词不能这样占据句首。",
+        "options": [
+          "Das stimmt doch nicht, schau dir die Zahlen an!",
+          "Er kommt doch morgen, das weißt du ja.",
+          "Doch ist er gestern gekommen pünktlich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨小词功能",
+        "explain": "感叹句中的 ja 表出乎意料的惊讶。",
+        "audio": "Das ist ja eine Überraschung!",
+        "options": [
+          "惊叹",
+          "提问软化",
+          "认命"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Komm ＿＿ endlich, wir warten schon!\"（催促）",
+        "explain": "doch 用于祈使句的催促，语气急但不粗。",
+        "answer": "doch"
+      },
+      {
+        "type": "choice",
+        "q": "三词总分工正确的是？",
+        "explain": "按句型与功能分工，是本组的核心地图。",
+        "options": [
+          "denn 问句软化、doch 提醒反驳、ja 共识惊叹",
+          "三者都表示「真的」",
+          "三者书面语里随便用"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "c-b2-6",
+    "level": "B2",
+    "order": 30,
+    "title": "nachdem / bevor 时态逻辑",
+    "intro": "",
+    "table": {
+      "caption": "对比表",
+      "headers": [
+        "场景",
+        "nachdem（先行完成）",
+        "bevor（后行未发）"
+      ],
+      "rows": [
+        [
+          "过去叙事",
+          "Plusquamperfekt + Präteritum:Nachdem er gegessen hatte, ging er.",
+          "Präteritum + Präteritum:Bevor er ging, aß er."
+        ],
+        [
+          "现在/将来",
+          "Perfekt + Präsens:Nachdem ich gegessen habe, gehe ich.",
+          "Präsens + Präsens:Bevor ich gehe, esse ich."
+        ],
+        [
+          "逻辑检查",
+          "nachdem 的事必定先完成",
+          "bevor 的事在参照点尚未发生"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "过去时态链正确的是？",
+        "explain": "先行 Plusquamperfekt，后行 Präteritum。",
+        "options": [
+          "Nachdem sie die Prüfung bestanden hatte, feierte sie.",
+          "Nachdem sie die Prüfung bestand, hatte sie gefeiert.",
+          "Nachdem sie besteht die Prüfung, feierte sie gestern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Bevor er ＿＿ (gehen，过去时）, schloss er die Fenster.\"",
+        "explain": "bevor 双侧同时态，过去叙事都 Präteritum。",
+        "answer": "ging"
+      },
+      {
+        "type": "choice",
+        "q": "时态错位的是？",
+        "explain": "A 把现在、过去完成、过去三层搅在一起。",
+        "options": [
+          "Nachdem er ankommt, hatte er gegessen gestern.",
+          "Nachdem er angekommen war, aß er.",
+          "Nachdem er angekommen ist, isst er."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "将来语境：„Nachdem ich die Arbeit ＿＿ habe, ruhe ich mich aus.\"（schreiben 分词）",
+        "explain": "将来/现在语境 nachdem 用 Perfekt：geschrieben habe。",
+        "answer": "geschrieben"
+      },
+      {
+        "type": "choice",
+        "q": "逻辑义辨别：„Bevor der Film begann, kaufte er Popcorn.\" 中先发生的是？",
+        "explain": "bevor 标明其后事件后发生，主句事件在前。",
+        "options": [
+          "买爆米花",
+          "电影开始",
+          "两者同时"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句定时序",
+        "explain": "Plusquamperfekt 标先行完成。",
+        "audio": "Nachdem der Regen aufgehört hatte, gingen die Kinder wieder hinaus.",
+        "options": [
+          "雨先停，孩子后出去",
+          "孩子先出去，雨后停",
+          "雨和孩子同时"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„＿＿ du unterschreibst, lies den Vertrag genau!\"（bevor)",
+        "explain": "bevor 引导的动作（签字）尚未发生，劝诫正为此设。",
+        "answer": "Bevor"
+      },
+      {
+        "type": "choice",
+        "q": "总规则正确的是？",
+        "explain": "错级 vs 同级，是这组对比的骨架。",
+        "options": [
+          "nachdem 管「先行时间差」，两时态错开一级；bevor 管「后行」，两时态同级",
+          "nachdem 与 bevor 时态都自由搭配",
+          "bevor 后必须用 Plusquamperfekt"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]

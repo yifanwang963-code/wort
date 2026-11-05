@@ -1,0 +1,28 @@
+{
+  "name": "A1 日常词汇",
+  "level": "A1",
+  "words": [
+    {
+      "german": "Apfel",
+      "article": "der",
+      "plural": "Äpfel",
+      "chinese": "苹果",
+      "partOfSpeech": "名词",
+      "exampleDe": "Ich esse einen Apfel.",
+      "exampleZh": "我吃一个苹果。",
+      "unit": "Lektion 1",
+      "level": "A1"
+    },
+    {
+      "german": "lernen",
+      "article": "",
+      "plural": "",
+      "chinese": "学习",
+      "partOfSpeech": "动词",
+      "exampleDe": "Ich lerne Deutsch.",
+      "exampleZh": "我在学德语。",
+      "unit": "Lektion 1",
+      "level": "A1"
+    }
+  ]
+}

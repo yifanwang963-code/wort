@@ -1,0 +1,1431 @@
+[
+  {
+    "id": "g-a1-21",
+    "level": "A1",
+    "order": 7,
+    "title": "问候、介绍与个人信息",
+    "titleDe": "Begrüßung, Vorstellung & Formulare",
+    "table": {
+      "caption": "问候与告别按时段和正式程度分层——对上司和对朋友不能用同一句",
+      "headers": [
+        "场景",
+        "正式（Sie）",
+        "日常（du）"
+      ],
+      "rows": [
+        [
+          "早晨（约 11 点前）",
+          "Guten Morgen!",
+          "Morgen! / Hallo!"
+        ],
+        [
+          "白天",
+          "Guten Tag!",
+          "Hallo! / Hi!"
+        ],
+        [
+          "傍晚",
+          "Guten Abend!",
+          "Abend! / Hallo!"
+        ],
+        [
+          "告别（当面）",
+          "Auf Wiedersehen!",
+          "Tschüss! / Bis später!"
+        ],
+        [
+          "告别（电话）",
+          "Auf Wiederhören!",
+          "Bis dann!"
+        ],
+        [
+          "睡前告别",
+          "Gute Nacht!（只作告别，不作问候）",
+          "Gute Nacht!"
+        ],
+        [
+          "问候近况",
+          "Wie geht es Ihnen?",
+          "Wie geht's dir?"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "个人信息全套问答——自我介绍要能一口气说完这一整组",
+        "headers": [
+          "问",
+          "答（句型）"
+        ],
+        "rows": [
+          [
+            "Wie heißen Sie? / Wie heißt du?",
+            "Ich heiße Chen Wei. / Mein Name ist Chen Wei."
+          ],
+          [
+            "Woher kommen Sie?",
+            "Ich komme aus China, aus Shanghai."
+          ],
+          [
+            "Wo wohnen Sie?",
+            "Ich wohne in Shanghai."
+          ],
+          [
+            "Was sind Sie von Beruf?",
+            "Ich bin Ingenieur.（职业前不加冠词）"
+          ],
+          [
+            "Wie alt sind Sie?",
+            "Ich bin 27 Jahre alt."
+          ],
+          [
+            "Wann sind Sie geboren?",
+            "Ich bin am 12. März 1999 geboren."
+          ],
+          [
+            "Welche Sprachen sprechen Sie?",
+            "Ich spreche Chinesisch und ein bisschen Deutsch."
+          ],
+          [
+            "Wie ist Ihre Telefonnummer?",
+            "Meine Nummer ist 138 1234 5678.（数字逐个读）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "问候选 Sie 版还是 du 版，先看关系：不认识的成年人、办事窗口、长辈一律 Sie 版起步，对方改口才换",
+      "答「Wie geht's」有固定梯度：Sehr gut. / Gut, danke. / Es geht.（还行）/ Nicht so gut.（不太好）；答完要回问：Und dir? / Und Ihnen?",
+      "介绍第三人用 Das ist …：Das ist Frau Li. / Das ist mein Freund Tom.",
+      "职业句型不带冠词（Ich bin Lehrer.），但带形容词时要加：Ich bin ein guter Lehrer.（A1 先认前者）",
+      "救急套语单独成组背（听不懂时的四件套）：Wie bitte?（请再说一遍）/ Noch einmal, bitte. / Langsamer, bitte. / Ich verstehe nicht.；问词义：Was bedeutet „Bahnhof\"? / Wie sagt man „火车站\" auf Deutsch?"
+    ],
+    "examples": [
+      {
+        "de": "Guten Morgen! Ich heiße Chen Wei. Ich komme aus Shanghai.",
+        "zh": "早上好！我叫 Chen Wei，我来自上海。"
+      },
+      {
+        "de": "Das ist Frau Wang. Sie ist Lehrerin.",
+        "zh": "这是王女士，她是教师。"
+      },
+      {
+        "de": "Wie bitte? Langsamer, bitte. Ich lerne noch Deutsch.",
+        "zh": "请再说一遍？请慢一点，我还在学德语。"
+      },
+      {
+        "de": "Meine Telefonnummer ist null-eins-drei-acht, …",
+        "zh": "我的电话是 0138…——号码逐个数字读"
+      }
+    ],
+    "pitfalls": [
+      "Gute Nacht 只能告别用，晚上见面打招呼是 Guten Abend",
+      "电话告别是 Auf Wiederhören（hören 听），当面才是 Wiedersehen（sehen 见），别用反",
+      "年龄用 sein 不用 haben：Ich bin 27 Jahre alt.，英语式直译是常见错"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "上午 9 点进办公室，对上司打招呼？",
+        "explain": "早晨正式问候 Guten Morgen。",
+        "options": [
+          "Gute Nacht",
+          "Guten Morgen",
+          "Tschüss"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "晚上 8 点见面打招呼？",
+        "explain": "傍晚见面 Guten Abend，Gute Nacht 只告别。",
+        "options": [
+          "Guten Abend",
+          "Gute Nacht",
+          "Auf Wiedersehen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Auf Wiederhören!",
+        "q": "这句告别用在什么场景？",
+        "explain": "hören 是听，电话里用 Wiederhören。",
+        "options": [
+          "当面告别",
+          "电话告别",
+          "睡前告别"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Ich ___ 27 Jahre alt.",
+        "explain": "年龄用 sein 的 bin。",
+        "answer": "bin"
+      },
+      {
+        "type": "fill",
+        "q": "Ich komme ___ Shanghai.",
+        "explain": "来自某地用 aus。",
+        "answer": "aus"
+      },
+      {
+        "type": "choice",
+        "q": "职业句哪个对？",
+        "explain": "职业前不加冠词。",
+        "options": [
+          "Ich bin ein Ingenieur.",
+          "Ich bin Ingenieur."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "aus + 国家。",
+        "tokens": [
+          "komme",
+          "Ich",
+          "China",
+          "aus"
+        ],
+        "answer": [
+          "Ich",
+          "komme",
+          "aus",
+          "China"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich spreche Chinesisch und ein bisschen Deutsch.",
+        "display": "Ich spreche Chinesisch und ein ___ Deutsch.",
+        "explain": "ein bisschen = 一点点。",
+        "answer": "bisschen"
+      },
+      {
+        "type": "choice",
+        "q": "没听清时最得体的一句？",
+        "explain": "Wie bitte 是礼貌的「请再说一遍」。",
+        "options": [
+          "Was?",
+          "Wie bitte?",
+          "Nein."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "「Wie sagt man … auf Deutsch?」是在问？",
+        "explain": "问某个说法用 Wie sagt man …。",
+        "options": [
+          "这个词德语怎么说",
+          "你叫什么名字",
+          "这是什么意思（指物）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "正式还是日常，把句子分栏",
+        "groups": [
+          "正式",
+          "日常"
+        ],
+        "items": [
+          {
+            "text": "Guten Tag",
+            "group": 0
+          },
+          {
+            "text": "Hi",
+            "group": 1
+          },
+          {
+            "text": "Wie geht es Ihnen",
+            "group": 0
+          },
+          {
+            "text": "Wie geht's dir",
+            "group": 1
+          },
+          {
+            "text": "Tschüss",
+            "group": 1
+          },
+          {
+            "text": "Auf Wiedersehen",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Das ist Frau Li. Sie kommt aus Beijing.",
+        "q": "Frau Li 从哪儿来？",
+        "explain": "kommt aus Beijing。",
+        "options": [
+          "Shanghai",
+          "Beijing",
+          "Berlin"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "___ ist mein Freund Tom.（介绍第三人）",
+        "explain": "Das ist … 是介绍句型。",
+        "answer": "Das"
+      },
+      {
+        "type": "choice",
+        "q": "回答 Wie geht's 的「还行」是？",
+        "explain": "Es geht = 还行、凑合。",
+        "options": [
+          "Sehr gut.",
+          "Es geht.",
+          "Auf Wiedersehen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "排对话顺序",
+        "explain": "问—答—回问的完整回合。",
+        "tokens": [
+          "Und dir?",
+          "Gut",
+          "danke.",
+          "Wie geht's dir?"
+        ],
+        "answer": [
+          "Wie geht's dir?",
+          "Gut",
+          "danke.",
+          "Und dir?"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich wohne in Shanghai.",
+        "explain": "wohnen in + 城市。",
+        "answer": "Ich wohne in Shanghai."
+      }
+    ],
+    "reading": {
+      "text": "下表是一张填好的报名表（按文本呈现）：\nName: Chen / Vorname: Wei / Geburtsdatum: 12.03.1999 / Geburtsort: Shanghai / Staatsangehörigkeit: chinesisch / Adresse: Renmin-Straße 100, 200000 Shanghai / Beruf: Ingenieur / Telefon: 138 1234 5678",
+      "questions": [
+        {
+          "q": "Wie ist der Vorname?",
+          "options": [
+            "Chen",
+            "Wei",
+            "Li"
+          ],
+          "answer": 1,
+          "explain": "Vorname 是名：Wei；Chen 是姓（Name/Familienname）。"
+        },
+        {
+          "q": "Was ist Herr Chen von Beruf?",
+          "options": [
+            "Lehrer",
+            "Ingenieur",
+            "Arzt"
+          ],
+          "answer": 1,
+          "explain": "Beruf: Ingenieur。"
+        },
+        {
+          "q": "Wo ist er geboren?",
+          "options": [
+            "Berlin",
+            "Shanghai",
+            "Beijing"
+          ],
+          "answer": 1,
+          "explain": "Geburtsort: Shanghai。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "照短文里的表头，把你自己的信息逐项写一遍（假名也可以），再用附加表的句型写 5 句自我介绍。",
+      "sample": "范文：Name: Chen / Vorname: Wei / Geburtsdatum: 12.03.1999 / Geburtsort: Shanghai / Beruf: Ingenieur。自我介绍：Ich heiße Chen Wei. Ich komme aus Shanghai und wohne auch in Shanghai. Ich bin 27 Jahre alt und Ingenieur von Beruf. Ich spreche Chinesisch und ein bisschen Deutsch."
+    }
+  },
+  {
+    "id": "g-a1-19",
+    "level": "A1",
+    "order": 8,
+    "title": "数字与价格",
+    "titleDe": "Zahlen & Preise",
+    "table": {
+      "caption": "基数词全表——0 到 19 逐个背，20 起靠结构拼",
+      "headers": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "0 null",
+          "1 eins",
+          "2 zwei",
+          "3 drei",
+          "4 vier"
+        ],
+        [
+          "5 fünf",
+          "6 sechs",
+          "7 sieben",
+          "8 acht",
+          "9 neun"
+        ],
+        [
+          "10 zehn",
+          "11 elf",
+          "12 zwölf",
+          "13 dreizehn",
+          "14 vierzehn"
+        ],
+        [
+          "15 fünfzehn",
+          "16 sechzehn",
+          "17 siebzehn",
+          "18 achtzehn",
+          "19 neunzehn"
+        ],
+        [
+          "20 zwanzig",
+          "30 dreißig",
+          "40 vierzig",
+          "50 fünfzig",
+          "60 sechzig"
+        ],
+        [
+          "70 siebzig",
+          "80 achtzig",
+          "90 neunzig",
+          "100 (ein)hundert",
+          "1000 (ein)tausend"
+        ],
+        [
+          "10 000 zehntausend",
+          "100 000 einhunderttausend",
+          "1 000 000 eine Million",
+          "1 000 000 000 eine Milliarde（认读）",
+          ""
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "21–99 的倒读结构与年份读法——本课的听力主战场",
+        "headers": [
+          "数字",
+          "读法",
+          "结构拆解"
+        ],
+        "rows": [
+          [
+            "21",
+            "einundzwanzig",
+            "ein(s) + und + zwanzig（先个位后十位）"
+          ],
+          [
+            "38",
+            "achtunddreißig",
+            "acht + und + dreißig"
+          ],
+          [
+            "47",
+            "siebenundvierzig",
+            "sieben + und + vierzig"
+          ],
+          [
+            "99",
+            "neunundneunzig",
+            "neun + und + neunzig"
+          ],
+          [
+            "365",
+            "dreihundertfünfundsechzig",
+            "三百 + 六十五"
+          ],
+          [
+            "1999 年",
+            "neunzehnhundertneunundneunzig",
+            "19 百 + 99（2000 年前的年份这样读）"
+          ],
+          [
+            "2026 年",
+            "zweitausendsechsundzwanzig",
+            "两千 + 26（2000 年后这样读）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "21–99 一律「个位 + und + 十位」，和中文顺序正好反过来：先听到的数字是个位——这是听力最容易翻车的地方，要专项练",
+      "三个缩略：sechzehn（六变 sech-）、siebzehn（七变 sieb-）、sechzig/siebzig 同理；30 是 dreißig（ß），其他整十都是 -zig",
+      "单独的 1 是 eins；进了组合里变 ein：einundzwanzig、einunddreißig；101 是 einhunderteins、121 是 einhunderteinundzwanzig",
+      "价格：小数点是逗号，数字在前符号在后：2,50 € 读 zwei Euro fünfzig（Cent 常省略）；0,80 € 读 achtzig Cent；问价：Was kostet das? / Wie viel kostet der Pullover?；总价：Wie viel macht das zusammen?",
+      "数量表达：ein Kilo Äpfel、ein Liter Milch、eine Flasche Wasser、ein Stück Kuchen；次数：einmal / zweimal / dreimal",
+      "电话号码、门牌、公交线路号逐个数字读（0 读 null），不要读成整十整百"
+    ],
+    "examples": [
+      {
+        "de": "Das T-Shirt kostet neunzehn Euro neunundneunzig.",
+        "zh": "这件 T 恤 19.99 欧。"
+      },
+      {
+        "de": "Ich kaufe zwei Kilo Äpfel und eine Flasche Wasser.",
+        "zh": "我买两公斤苹果和一瓶水。"
+      },
+      {
+        "de": "Meine Schwester ist siebzehn Jahre alt.",
+        "zh": "我妹妹 17 岁。——siebzehn 的缩略"
+      },
+      {
+        "de": "Der Bus kommt um acht Uhr fünfundzwanzig.",
+        "zh": "公交 8:25 到。——时间里的倒读，T2 细讲"
+      }
+    ],
+    "pitfalls": [
+      "dreizehn（13）和 dreißig（30）只差词尾鼻音，先听 -zehn 还是 -ßig 再定数",
+      "听到 einundzwanzig 别按顺序写成 12：先到的是个位 1，全数是 21",
+      "写价格要用逗号：2,50 € 不是 2.50；读的时候 Euro 在数字后"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "dreizehn",
+        "q": "你听到的是？",
+        "explain": "-zehn 是十几（13）。",
+        "options": [
+          "13",
+          "30",
+          "3"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "dreißig",
+        "q": "你听到的是？",
+        "explain": "-ßig 是整十（30）。",
+        "options": [
+          "13",
+          "30",
+          "33"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "einundzwanzig",
+        "q": "你听到的是？",
+        "explain": "倒读结构，先听到的 ein 是个位。",
+        "options": [
+          "12",
+          "21",
+          "22"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "achtundvierzig",
+        "q": "你听到的是？",
+        "explain": "acht（个位）+ vierzig = 48。",
+        "options": [
+          "48",
+          "84",
+          "44"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "siebzehn",
+        "explain": "17 写作 siebzehn，sieben 进组合缩成 sieb-。",
+        "answer": "siebzehn"
+      },
+      {
+        "type": "fill",
+        "q": "24 = ___undzwanzig",
+        "explain": "vierundzwanzig。",
+        "answer": "vier"
+      },
+      {
+        "type": "choice",
+        "q": "16 的正确拼写？",
+        "explain": "sechs 进组合丢 s：sechzehn。",
+        "options": [
+          "sechszehn",
+          "sechzehn"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "99 的读法？",
+        "explain": "个位在前：neunundneunzig。",
+        "options": [
+          "neunzigundneun",
+          "neunundneunzig"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "zwei Euro fünfzig",
+        "q": "你听到的是？",
+        "explain": "fünfzig 是 50 分。",
+        "options": [
+          "2,05 €",
+          "2,50 €",
+          "2,15 €"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Das kostet zwölf Euro neunundneunzig.",
+        "display": "Das kostet ___ Euro neunundneunzig.",
+        "explain": "总价 12,99 €。",
+        "answer": "zwölf"
+      },
+      {
+        "type": "choice",
+        "q": "「一瓶水」的量词结构？",
+        "explain": "eine Flasche + 物质名词。",
+        "options": [
+          "ein Wasser Flasche",
+          "eine Flasche Wasser"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "把数字分进「十几 / 整十」两栏",
+        "groups": [
+          "十几",
+          "整十"
+        ],
+        "items": [
+          {
+            "text": "dreizehn",
+            "group": 0
+          },
+          {
+            "text": "dreißig",
+            "group": 1
+          },
+          {
+            "text": "siebzehn",
+            "group": 0
+          },
+          {
+            "text": "siebzig",
+            "group": 1
+          },
+          {
+            "text": "vierzehn",
+            "group": 0
+          },
+          {
+            "text": "vierzig",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "einhundertfünfundzwanzig",
+        "explain": "125 = 100 + 25（fünfundzwanzig），整个数拼成一个词。",
+        "answer": "einhundertfünfundzwanzig"
+      },
+      {
+        "type": "choice",
+        "q": "2026 年的读法？",
+        "explain": "2000 年后按「两千 + …」读。",
+        "options": [
+          "zwanzighundertsechsundzwanzig",
+          "zweitausendsechsundzwanzig"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Ich kaufe ein ___ Äpfel.（一公斤苹果）",
+        "explain": "ein Kilo + 复数名词。",
+        "answer": "Kilo"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "null eins drei acht",
+        "q": "这串数字是？",
+        "explain": "逐个读的号码：0-1-3-8。",
+        "options": [
+          "0138",
+          "0318",
+          "0183"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "总价怎么问？",
+        "explain": "结账总价的固定问法。",
+        "options": [
+          "Was kostet zusammen?",
+          "Wie viel macht das zusammen?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "把数字按从小到大排",
+        "explain": "9 < 19 < 90 < 99。",
+        "tokens": [
+          "neunzig",
+          "neunzehn",
+          "neunundneunzig",
+          "neun"
+        ],
+        "answer": [
+          "neun",
+          "neunzehn",
+          "neunzig",
+          "neunundneunzig"
+        ]
+      }
+    ],
+    "reading": {
+      "text": "超市小票：Brot 1,80 € / Milch 1,20 € / Käse 3,50 € / Äpfel (1 Kilo) 2,90 € / Zusammen: 9,40 €。",
+      "questions": [
+        {
+          "q": "Wie viel kostet der Käse?",
+          "options": [
+            "1,80 €",
+            "3,50 €",
+            "2,90 €"
+          ],
+          "answer": 1,
+          "explain": "Käse 3,50 €。"
+        },
+        {
+          "q": "Alles zusammen macht …?",
+          "options": [
+            "8,40 €",
+            "9,40 €",
+            "10,40 €"
+          ],
+          "answer": 1,
+          "explain": "小票总计 9,40 €。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "把下列数字与价格写成德语词：27、48、16、100、2026（年份）、3,75 €。",
+      "sample": "范文：siebenundzwanzig；achtundvierzig；sechzehn；einhundert；zweitausendsechsundzwanzig；drei Euro fünfundsiebzig。"
+    }
+  },
+  {
+    "id": "g-a1-20",
+    "level": "A1",
+    "order": 9,
+    "title": "日期与时间",
+    "titleDe": "Datum & Uhrzeit",
+    "table": {
+      "caption": "星期、月份、季节——介词各管一段：星期和日期用 am，月份和季节用 im，钟点用 um",
+      "headers": [
+        "星期（am）",
+        "月份（im）",
+        "季节（im）"
+      ],
+      "rows": [
+        [
+          "der Montag 周一",
+          "der Januar 一月",
+          "der Frühling 春"
+        ],
+        [
+          "der Dienstag 周二",
+          "der Februar 二月",
+          "der Sommer 夏"
+        ],
+        [
+          "der Mittwoch 周三",
+          "der März 三月",
+          "der Herbst 秋"
+        ],
+        [
+          "der Donnerstag 周四",
+          "der April 四月",
+          "der Winter 冬"
+        ],
+        [
+          "der Freitag 周五",
+          "der Mai 五月",
+          ""
+        ],
+        [
+          "der Samstag 周六（南部也说 Sonnabend 认读）",
+          "der Juni 六月 / Juli 七月",
+          ""
+        ],
+        [
+          "der Sonntag 周日",
+          "der August 八月 / September 九月",
+          ""
+        ],
+        [
+          "",
+          "der Oktober 十月 / November 十一月 / Dezember 十二月",
+          ""
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "序数词——说日期全靠它，三处不规则先标红",
+        "headers": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "1. der erste",
+            "2. der zweite",
+            "3. der dritte",
+            "4. der vierte"
+          ],
+          [
+            "5. der fünfte",
+            "6. der sechste",
+            "7. der siebte",
+            "8. der achte"
+          ],
+          [
+            "9. der neunte",
+            "10. der zehnte",
+            "11. der elfte",
+            "12. der zwölfte"
+          ],
+          [
+            "13.–19. -te（如 neunzehnte）",
+            "20. der zwanzigste",
+            "21. der einundzwanzigste",
+            "31. der einunddreißigste"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "日期两种说法：陈述用主格——Heute ist der sechste April.（今天是 4 月 6 日）；回答「什么时候」用 am + 与格——am sechsten April（序数词尾变 -en），am Montag, den sechsten April 是完整版，A1 先会 am sechsten April",
+      "生日固定句：Ich habe am dritten Mai Geburtstag. / Mein Geburtstag ist am dritten Mai.",
+      "钟点官方读法（正式场合、广播、时刻表）：Es ist dreizehn Uhr fünfundzwanzig.——小时 + Uhr + 分钟直读，24 小时制",
+      "钟点口语读法（12 小时制，日常对话）：整点 ein Uhr 注意 1 点是 ein Uhr 不是 eins Uhr；过点用 nach：fünf nach eins（1:05）；一刻钟 Viertel nach eins（1:15）；半点是重点——halb zwei = 1:30（halb 指「走向 2 的一半」，和中文「一点半」结果一样、思路相反）；差一刻 Viertel vor zwei（1:45）；差分用 vor：fünf vor zwei（1:55）；南部/东部还有 Viertel zwei 一类地方说法，认读即可不产出",
+      "时间介词四件套：um + 钟点（um acht Uhr）、am + 星期/日期、im + 月份/季节、von … bis …（von acht bis zwölf Uhr 从八点到十二点）；时长问 Wie lange?，时段问 Von wann bis wann?",
+      "时段副词：morgens（每天早上）、mittags、abends、nachts、heute Morgen（今天早上）、morgen Abend（明晚）"
+    ],
+    "examples": [
+      {
+        "de": "Heute ist Freitag, der dritte November.",
+        "zh": "今天是 11 月 3 日星期五。"
+      },
+      {
+        "de": "Der Termin ist am Montag um zehn Uhr.",
+        "zh": "预约在周一十点。"
+      },
+      {
+        "de": "Es ist halb zwei: Zeit für Kaffee!",
+        "zh": "一点半了：该喝咖啡了！"
+      },
+      {
+        "de": "Ich arbeite von acht bis siebzehn Uhr.",
+        "zh": "我从八点工作到十七点。"
+      }
+    ],
+    "pitfalls": [
+      "halb zwei 是 1:30 不是 2:30——这是德语时间第一大坑，记法：「走到 2 的一半」",
+      "写日期顺序是日.月.年：06.04.2027 是 4 月 6 日，不是 6 月 4 日",
+      "am / im / um 三个别串：am Montag、im Mai、um acht Uhr，各管一段"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Es ist halb zwei.",
+        "q": "你听到的是？",
+        "explain": "halb zwei = 走向 2 的一半 = 1:30。",
+        "options": [
+          "1:30",
+          "2:30",
+          "2:00"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "Viertel nach eins 是几点？",
+        "explain": "nach 是过点，一刻钟过 1 点。",
+        "options": [
+          "1:15",
+          "1:45",
+          "12:15"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "fünf vor zwei",
+        "q": "你听到的是？",
+        "explain": "vor 是差，差 5 分到 2 点。",
+        "options": [
+          "1:55",
+          "2:05",
+          "2:55"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Der Termin ist ___ Montag.",
+        "explain": "星期用 am。",
+        "answer": "am"
+      },
+      {
+        "type": "fill",
+        "q": "Wir fahren ___ Juli nach Berlin.",
+        "explain": "月份用 im。",
+        "answer": "im"
+      },
+      {
+        "type": "fill",
+        "q": "Der Film beginnt ___ zwanzig Uhr.",
+        "explain": "钟点用 um。",
+        "answer": "um"
+      },
+      {
+        "type": "choice",
+        "q": "序数词哪个是错的？",
+        "explain": "1. 是 erste，没有 einte 这个词。",
+        "options": [
+          "der erste",
+          "der dritte",
+          "der einte"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "q": "「am 20. Mai」里 20. 的读法？",
+        "explain": "20 起用 -ste，am 后变 -en：am zwanzigsten。",
+        "options": [
+          "am zwanzigten Mai",
+          "am zwanzigsten Mai"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Heute ist der sechste April.",
+        "explain": "陈述日期用主格 der sechste。",
+        "answer": "Heute ist der sechste April."
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich habe am dritten Mai Geburtstag.",
+        "display": "Ich habe am ___ Mai Geburtstag.",
+        "explain": "am + 与格，dritten。",
+        "answer": "dritten"
+      },
+      {
+        "type": "choice",
+        "q": "官方读法 13:45 是？",
+        "explain": "官方 24 小时直读；Viertel vor zwei 是口语版（同一时刻）。",
+        "options": [
+          "Es ist dreizehn Uhr fünfundvierzig.",
+          "Es ist Viertel vor zwei."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "介词归类——把时间表达分进 am / im / um 三栏",
+        "groups": [
+          "am",
+          "im",
+          "um"
+        ],
+        "items": [
+          {
+            "text": "Montag",
+            "group": 0
+          },
+          {
+            "text": "Januar",
+            "group": 1
+          },
+          {
+            "text": "acht Uhr",
+            "group": 2
+          },
+          {
+            "text": "Freitag",
+            "group": 0
+          },
+          {
+            "text": "Sommer",
+            "group": 1
+          },
+          {
+            "text": "halb zwei",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Es ist dreizehn Uhr fünfundzwanzig.",
+        "q": "你听到的是？",
+        "explain": "官方读法直译：13 点 25 分。",
+        "options": [
+          "13:25",
+          "13:52",
+          "12:25"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Ich arbeite von acht ___ zwölf Uhr.",
+        "explain": "von … bis … 从…到…。",
+        "answer": "bis"
+      },
+      {
+        "type": "choice",
+        "q": "06.04.2027 是哪天？",
+        "explain": "德语日期日.月.在前。",
+        "options": [
+          "2027 年 6 月 4 日",
+          "2027 年 4 月 6 日"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "am 管星期、um 管钟点，一句里可以同时出现。",
+        "tokens": [
+          "ist",
+          "Termin",
+          "Der",
+          "Montag",
+          "am",
+          "zehn",
+          "um",
+          "Uhr"
+        ],
+        "answer": [
+          "Der",
+          "Termin",
+          "ist",
+          "am",
+          "Montag",
+          "um",
+          "zehn",
+          "Uhr"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "morgen Abend",
+        "q": "指的是？",
+        "explain": "morgen 是明天，别和 der Morgen（早晨）混；morgen Abend = 明晚。",
+        "options": [
+          "今天早上",
+          "明天晚上",
+          "昨天晚上"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "___ ist der erste Januar.（今天）",
+        "explain": "Heute ist der … 陈述日期。",
+        "answer": "Heute"
+      }
+    ],
+    "reading": {
+      "text": "Arzttermin（医生预约卡）：Patient: Chen Wei / Termin: Dienstag, der 14. November / Uhrzeit: 9:30 Uhr / Bitte kommen Sie 10 Minuten früher.（请提前 10 分钟到）",
+      "questions": [
+        {
+          "q": "Wann ist der Termin?",
+          "options": [
+            "Montag, 13. November",
+            "Dienstag, 14. November",
+            "Mittwoch, 15. November"
+          ],
+          "answer": 1,
+          "explain": "卡上写 Dienstag, der 14. November。"
+        },
+        {
+          "q": "Um wie viel Uhr?",
+          "options": [
+            "9:00",
+            "9:30",
+            "10:30"
+          ],
+          "answer": 1,
+          "explain": "9:30 Uhr。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写出你自己的生日（完整句），再把三个时间写成德语词：7:30（口语版）、18:45（官方版）、周五下午三点（完整句）。",
+      "sample": "范文：Ich habe am zwölften März Geburtstag.；halb acht；achtzehn Uhr fünfundvierzig；Der Termin ist am Freitag um fünfzehn Uhr."
+    }
+  },
+  {
+    "id": "g-a1-22",
+    "level": "A1",
+    "order": 28,
+    "title": "日常交际动作",
+    "titleDe": "Kommunikation im Alltag",
+    "table": {
+      "caption": "请求、感谢、道歉——日常交际的三组基本动作，句句都是整句背的",
+      "headers": [
+        "功能",
+        "句子"
+      ],
+      "rows": [
+        [
+          "礼貌请求",
+          "Können Sie mir bitte helfen? / Kann ich bitte das Fenster öffnen?"
+        ],
+        [
+          "点单/要东西",
+          "Ich hätte gern einen Kaffee.（hätte gern 是固定礼貌说法，先整体背，语法以后再拆）"
+        ],
+        [
+          "感谢",
+          "Danke. / Vielen Dank! / Danke schön!"
+        ],
+        [
+          "回应感谢",
+          "Gern geschehen. / Bitte schön. / Kein Problem."
+        ],
+        [
+          "道歉/打扰",
+          "Entschuldigung! / Es tut mir leid."
+        ],
+        [
+          "回应道歉",
+          "Kein Problem. / Alles gut."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "邀请、建议与喜好——接受和拒绝都要有句可说",
+        "headers": [
+          "功能",
+          "句子"
+        ],
+        "rows": [
+          [
+            "邀请",
+            "Hast du am Samstag Zeit? / Hast du Lust auf einen Kaffee?"
+          ],
+          [
+            "建议",
+            "Wollen wir ins Kino gehen? / Gehen wir spazieren!"
+          ],
+          [
+            "接受",
+            "Ja, gern! / Gute Idee! / Warum nicht?"
+          ],
+          [
+            "确认时间",
+            "Das passt mir gut. / Geht es um acht Uhr?"
+          ],
+          [
+            "婉拒",
+            "Leider nicht, ich muss arbeiten. / Schade! Vielleicht morgen?"
+          ],
+          [
+            "喜好梯度",
+            "Ich trinke gern Tee.（喜欢）/ lieber Kaffee.（更喜欢）/ Am liebsten trinke ich Wasser.（最喜欢）"
+          ],
+          [
+            "喜好（名词）",
+            "Ich mag Tee, aber ich mag keinen Kaffee. / Das gefällt mir gut."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "bitte 一词三用：请求时的「请」、递东西时的「请拿」、回应感谢时的「不客气」——靠场景分，不用纠结",
+      "婉拒的固定结构：先 Schade/Leider + 给原因（ich muss …）+ 留台阶（Vielleicht morgen? / Ein anderes Mal.）——直接说 Nein 是失礼的，A1 起就按完整结构说",
+      "gern 站在动词后面：Ich esse gern Pizza.；比较用 lieber，最高用 am liebsten，两者也站在动词后面",
+      "gefallen 的句型主语是东西不是人：Das Buch gefällt mir.（这本书我喜欢，直译「这本书讨我喜欢」）——先整句用，与格的理在 g-a1-13 里",
+      "约定确认的问答对：Geht es um acht? — Ja, das passt. / Nein, da kann ich nicht.（da = 那个时间）"
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigung, können Sie mir helfen?",
+        "zh": "打扰一下，您能帮我吗？"
+      },
+      {
+        "de": "Wollen wir am Samstag ins Kino gehen? — Gute Idee! Um wie viel Uhr?",
+        "zh": "周六去看电影吗？——好主意！几点？"
+      },
+      {
+        "de": "Ich hätte gern ein Kilo Äpfel, bitte.",
+        "zh": "请给我一公斤苹果。"
+      },
+      {
+        "de": "Leider kann ich heute nicht. Ich muss lernen. Vielleicht morgen?",
+        "zh": "今天不行，我得学习。明天呢？"
+      }
+    ],
+    "pitfalls": [
+      "拒绝别只说 Nein 或 Ich kann nicht 就完事：缺了理由和台阶，在德语日常里听起来很硬",
+      "Ich mag keinen Kaffee 的 keinen 是「一点也不」式否定名词，别换成 nicht",
+      "hätte gern 只管「想要某物/想点单」，想做某个动作要用 Ich möchte gern + 动词（Ich möchte gern ins Kino gehen.）"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "在咖啡馆点单最礼貌的一句？",
+        "explain": "hätte gern 是点单的礼貌固定说法。",
+        "options": [
+          "Ich will einen Kaffee.",
+          "Ich hätte gern einen Kaffee.",
+          "Gib mir einen Kaffee."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "___ Sie mir bitte helfen?（您能帮我吗）",
+        "explain": "Können Sie …? 礼貌请求句型。",
+        "answer": "Können"
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Gern geschehen.",
+        "q": "这句是用来回应什么的？",
+        "explain": "回应 Danke：Gern geschehen（乐意效劳）。",
+        "options": [
+          "道歉",
+          "感谢",
+          "邀请"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "朋友邀请你周六看电影，你想去，怎么答？",
+        "explain": "接受 = Ja, gern + 正向评价。",
+        "options": [
+          "Leider nicht.",
+          "Ja, gern! Gute Idee.",
+          "Kein Problem."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "你周六要上班，婉拒的完整句是？",
+        "explain": "理由 + 台阶的完整婉拒结构。",
+        "options": [
+          "Nein.",
+          "Leider nicht, ich muss arbeiten. Vielleicht ein anderes Mal?",
+          "Ich will nicht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "gern 站动词后。",
+        "tokens": [
+          "gern",
+          "Ich",
+          "Tee",
+          "trinke"
+        ],
+        "answer": [
+          "Ich",
+          "trinke",
+          "gern",
+          "Tee"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "Ich trinke ___ Kaffee als Tee.（比起茶我更喜欢咖啡）",
+        "explain": "比较级喜好用 lieber。",
+        "answer": "lieber"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Das Buch gefällt mir sehr gut.",
+        "display": "Das Buch ___ mir sehr gut.",
+        "explain": "gefallen 句型：东西作主语。",
+        "answer": "gefällt"
+      },
+      {
+        "type": "choice",
+        "q": "约时间时对方说「Das passt mir gut.」，意思是？",
+        "explain": "约时间确认的固定说法（衣服合身用的也是 passen，看语境区分）。",
+        "options": [
+          "这件衣服很合身",
+          "这个时间我很合适",
+          "我身体很好"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "___，können Sie mir helfen?（打扰一下的开场）",
+        "explain": "向陌生人开口求助先说 Entschuldigung。",
+        "answer": "Entschuldigung"
+      },
+      {
+        "type": "classify",
+        "q": "把回应分进「接受邀请 / 婉拒邀请」两栏",
+        "groups": [
+          "接受",
+          "婉拒",
+          "婉拒（留台阶）"
+        ],
+        "items": [
+          {
+            "text": "Ja, gern!",
+            "group": 0
+          },
+          {
+            "text": "Leider muss ich lernen.",
+            "group": 1
+          },
+          {
+            "text": "Gute Idee!",
+            "group": 0
+          },
+          {
+            "text": "Vielleicht morgen?",
+            "group": 2
+          },
+          {
+            "text": "Warum nicht?",
+            "group": 0
+          },
+          {
+            "text": "Schade, ich kann nicht.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Wollen wir am Freitag ins Kino gehen?",
+        "q": "说话人在做什么？",
+        "explain": "Wollen wir …? 是建议句型。",
+        "options": [
+          "道歉",
+          "提出建议",
+          "问路"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "回应道歉的一句是？",
+        "explain": "Kein Problem 回应道歉或感谢都可以。",
+        "options": [
+          "Es tut mir leid.",
+          "Kein Problem.",
+          "Vielen Dank."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句（点单）",
+        "explain": "hätte gern + 宾格名词。",
+        "tokens": [
+          "gern",
+          "hätte",
+          "Ich",
+          "Wasser",
+          "ein"
+        ],
+        "answer": [
+          "Ich",
+          "hätte",
+          "gern",
+          "ein",
+          "Wasser"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Vielen Dank für Ihre Hilfe.",
+        "explain": "感谢 + für 的固定搭配（Hilfe 帮助，认读）。",
+        "answer": "Vielen Dank für Ihre Hilfe."
+      },
+      {
+        "type": "fill",
+        "q": "Ich mag ___ Kaffee.（我不喜欢咖啡，否定名词）",
+        "explain": "mag + keinen = 一点也不喜欢。",
+        "answer": "keinen"
+      }
+    ],
+    "reading": {
+      "text": "— Hallo Anna! Hast du am Samstag Lust auf Kino? Der Film beginnt um 20 Uhr. — Hallo Tom! Schade, am Samstag muss ich arbeiten. Geht es am Sonntag? — Ja, Sonntag passt gut! Bis Sonntag! — Bis Sonntag!",
+      "questions": [
+        {
+          "q": "Warum kann Anna am Samstag nicht?",
+          "options": [
+            "Sie ist krank.",
+            "Sie muss arbeiten.",
+            "Sie hat keine Lust."
+          ],
+          "answer": 1,
+          "explain": "muss arbeiten。"
+        },
+        {
+          "q": "Wann gehen sie ins Kino?",
+          "options": [
+            "am Samstag",
+            "am Sonntag",
+            "heute Abend"
+          ],
+          "answer": 1,
+          "explain": "改到 Sonntag。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "邀请朋友周末做一件事（写明星期与时间），婉拒则照「Leider + 原因 + 台阶」结构写。",
+      "sample": "范文（邀请）：Hallo Lisa! Hast du am Sonntag Zeit? Wollen wir zusammen spazieren gehen? Um 15 Uhr am Park? — 范文（婉拒）：Hallo Lisa! Leider kann ich am Sonntag nicht, ich muss für die Arbeit lernen. Vielleicht nächsten Samstag? Es tut mir leid!"
+    }
+  }
+]

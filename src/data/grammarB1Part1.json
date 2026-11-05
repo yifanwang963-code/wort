@@ -1,0 +1,2384 @@
+[
+  {
+    "id": "p-b1-01",
+    "level": "B1",
+    "order": 1,
+    "title": "句重音与长句节奏",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（谁重读、谁轻读）",
+      "headers": [
+        "重读（实词，承载意义）",
+        "轻读（虚词，只管结构）"
+      ],
+      "rows": [
+        [
+          "名词、实义动词、形容词、副词、疑问词、nicht",
+          "冠词、代词、助动词、介词、连词"
+        ],
+        [
+          "例：Der **Mann** kauft heute ein **Auto**.",
+          "例句中的 der、ein 不重读"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（意群与句核）",
+        "headers": [
+          "结构",
+          "读法",
+          "例"
+        ],
+        "rows": [
+          [
+            "一句一个主重音（句核）",
+            "落在**新信息**的实词上，通常靠句末",
+            "— Was hast du geschrieben? — Ich habe einen **Brief** geschrieben."
+          ],
+          [
+            "长句分意群",
+            "在逗号、连词处停顿（/），每个意群有自己的小重音",
+            "Weil ich früh **aufstehen** muss, / gehe ich heute früh ins **Bett**."
+          ],
+          [
+            "从句",
+            "从句内部有自己的重音核，主句核通常更强",
+            "Obwohl es **regnet**, / gehen wir **spazieren**."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "回答问题时，被问到的信息就是新信息，要重读：问 „Was?\" 重读事物，问 „Wer?\" 重读人，问 „Wann?\" 重读时间。",
+      "句末的助动词、情态动词弱读；分词可带次重音，但句核在新信息实词上：Er hat das **Buch** schon gelesen.",
+      "一口气读完长句是大忌：按意群切开，逗号处必停，连词（weil、obwohl、und、aber）前可停。"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe gestern einen **Brief** bekommen.",
+        "zh": ""
+      },
+      {
+        "de": "Wir fahren am **Wochenende** nach **Berlin**.",
+        "zh": ""
+      },
+      {
+        "de": "Obwohl es **regnet**, gehen wir **spazieren**.",
+        "zh": ""
+      },
+      {
+        "de": "Sie hat das **Fenster** geöffnet, weil es so **warm** war.",
+        "zh": ""
+      },
+      {
+        "de": "Kannst du mir bitte das **Salz** geben?",
+        "zh": ""
+      },
+      {
+        "de": "Er liest jeden **Abend** die **Zeitung**.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "每个词一样重（平读）：听者抓不住重点，是最典型的中式口音特征。",
+      "重读冠词和代词（„**Der** Mann hat **das** gesagt\"）：除非是对比（下一单元），虚词一律弱读。",
+      "从句不停顿、连词和主句粘连成一团。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "问句 — „Was hast du heute geschrieben?\" 哪句答句重音对",
+        "explain": "问「写了什么」，新信息是 Brief，重读它。",
+        "options": [
+          "Ich habe heute einen **Brief** geschrieben.",
+          "**Ich** habe heute einen Brief geschrieben.",
+          "Ich **habe** heute einen Brief geschrieben."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选句核",
+        "explain": "句核落在句末的新信息地名 Hamburg 上。",
+        "audio": "Sie fährt morgen mit dem Zug nach Hamburg.",
+        "options": [
+          "Zug",
+          "Hamburg",
+          "Sie"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "写出句核词",
+        "explain": "地点 Kino 是新信息，承载句核。",
+        "display": "Wir treffen uns morgen vor dem Kino.（见面地点是新信息）",
+        "answer": "Kino"
+      },
+      {
+        "type": "classify",
+        "q": "轻重分筐",
+        "explain": "hat 在句中作助动词时弱读；nicht 虽是小词，但表否定，属重读。",
+        "groups": [
+          "重读（实词）",
+          "轻读（虚词）"
+        ],
+        "items": [
+          {
+            "text": "Tisch",
+            "group": 0
+          },
+          {
+            "text": "der",
+            "group": 1
+          },
+          {
+            "text": "schnell",
+            "group": 0
+          },
+          {
+            "text": "und",
+            "group": 1
+          },
+          {
+            "text": "nicht",
+            "group": 0
+          },
+          {
+            "text": "sie",
+            "group": 1
+          },
+          {
+            "text": "wichtig",
+            "group": 0
+          },
+          {
+            "text": "hat",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "长句在哪停顿最自然",
+        "explain": "意群边界在从句结束处（逗号处）。",
+        "display": "Weil der Zug Verspätung hatte, sind wir zu spät gekommen.",
+        "options": [
+          "„hatte\" 之后",
+          "„Zug\" 之后",
+          "全句不停顿"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选句核",
+        "explain": "句核在新信息 Buch 上，gelesen 只带次重音。",
+        "audio": "Ich habe das Buch schon gelesen.",
+        "options": [
+          "Buch",
+          "schon",
+          "gelesen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "写出从句的句核词",
+        "explain": "从句内部句核落在 Bus 上，ist 弱读。",
+        "display": "Weil der Bus nicht gekommen ist, sind wir gelaufen.（从句的新信息）",
+        "answer": "Bus"
+      },
+      {
+        "type": "choice",
+        "q": "哪种读法对",
+        "explain": "实词重读、虚词轻读是德语节奏的骨架。",
+        "display": "Die Kinder spielen im Garten.",
+        "options": [
+          "每个词读得一样重",
+          "Kinder、spielen、Garten 重读，其余轻读",
+          "只重读 Die"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "意群组句",
+        "explain": "从句意群在前，主句意群随后。",
+        "tokens": [
+          "heute",
+          "gehen wir",
+          "Weil es regnet",
+          "nicht spazieren"
+        ],
+        "answer": [
+          "Weil es regnet",
+          "gehen wir",
+          "heute",
+          "nicht spazieren"
+        ],
+        "displayAnswer": "Weil es regnet, gehen wir heute nicht spazieren."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词（该词也是句核）",
+        "explain": "句末新信息 Eltern 既是空处也是句核。",
+        "audio": "Am Freitag besuchen wir meine Eltern.",
+        "display": "Am Freitag besuchen wir meine ＿＿.",
+        "answer": "Eltern"
+      },
+      {
+        "type": "choice",
+        "q": "问句 — „Wer hat das Fenster geöffnet?\" 哪句答句重音对",
+        "explain": "问「谁」，重读人 Anna。",
+        "options": [
+          "**Anna** hat das Fenster geöffnet.",
+          "Anna hat das **Fenster** geöffnet.",
+          "Anna **hat** das Fenster geöffnet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "写出句核词",
+        "explain": "问时间，数字 acht 是新信息核心。",
+        "display": "Das Konzert beginnt um acht Uhr.（语境：有人问 Wann beginnt das Konzert?)",
+        "answer": "acht"
+      },
+      {
+        "type": "classify",
+        "q": "句核位置分筐",
+        "explain": "常规叙述句核靠后；回答「谁」或作对比时句核前移。",
+        "groups": [
+          "句核在句末实词",
+          "句核在句首（回答 Wer 或对比）"
+        ],
+        "items": [
+          {
+            "text": "1. Er kauft ein **Auto**.",
+            "group": 0
+          },
+          {
+            "text": "2. **Ich** habe das nicht gesagt.",
+            "group": 1
+          },
+          {
+            "text": "3. Wir fahren nach **Berlin**.",
+            "group": 0
+          },
+          {
+            "text": "4. **Heute** geht es nicht, morgen!",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选句核",
+        "explain": "句核落在句末实词 Deutsch。",
+        "audio": "Sie spricht sehr gut Deutsch.",
+        "options": [
+          "gut",
+          "Deutsch",
+          "spricht"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "从句 „…, weil ich heute keine Zeit habe.\" 的句核应落在",
+        "explain": "habe 是句末动词形式，弱读；句核在 Zeit。",
+        "options": [
+          "Zeit",
+          "habe",
+          "keine"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "heute、einkaufen 重读，müssen 弱读。",
+        "audio": "Wir müssen heute noch einkaufen.",
+        "answer": "Wir müssen heute noch einkaufen."
+      }
+    ],
+    "reading": {
+      "text": "Am **Samstag** / fahren wir mit dem **Zug** nach **München**. / Wir wollen meine **Schwester** besuchen, / die dort seit einem **Jahr** wohnt. / Am **Abend** / gehen wir zusammen ins **Kino**.",
+      "parts": [],
+      "questions": [],
+      "tasks": ""
+    },
+    "readingLabel": "跟读短文",
+    "writing": {
+      "task": "给下面 3 句标出句核（自标后对参考答案）：\n1. Ich habe den Film gestern gesehen.\n2. Obwohl er krank war, ist er zur Arbeit gegangen.\n3. Kannst du mir bitte helfen?",
+      "sample": "参考：\n1. **Film**\n2. **krank**、**Arbeit**\n3. **helfen**",
+      "selfcheck": "自查：每句只标 1 个主句核（从句可另有小重音）□；没标冠词和代词 □；长句标了停顿位置 □。"
+    }
+  },
+  {
+    "id": "p-b1-02",
+    "level": "B1",
+    "order": 2,
+    "title": "对比重音与情感语调",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（对比重音：重音搬家到被对比的词上）",
+      "headers": [
+        "对比点",
+        "例"
+      ],
+      "rows": [
+        [
+          "人",
+          "Nicht **ich** habe das gesagt, sondern **er**."
+        ],
+        [
+          "动作",
+          "Ich habe das Buch nicht **gekauft**, sondern **geliehen**."
+        ],
+        [
+          "地点",
+          "Er wohnt nicht in **Berlin**, sondern in **München**."
+        ],
+        [
+          "所属",
+          "Das ist nicht **mein** Handy, das ist **deins**."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（语调传情）",
+        "headers": [
+          "情景",
+          "读法",
+          "例"
+        ],
+        "rows": [
+          [
+            "真诚疑问",
+            "关键词重读 + 句末上扬",
+            "Kommst du **wirklich** mit?↗"
+          ],
+          [
+            "惊讶",
+            "关键词音高拉大、稍拉长",
+            "Das ist ja **toll**!"
+          ],
+          [
+            "不满强调",
+            "nicht / nie 重读，语速放慢",
+            "Ich habe das **nicht** gesagt!"
+          ],
+          [
+            "反讽（认读）",
+            "关键词异常重读 + 平调，靠语境判断",
+            "（轮胎爆了）Das ist ja eine **schöne** Überraschung."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "对比句的规律：被纠正的词和纠正后的词**成对重读**，句子其余部分全部弱化。听不出对比，往往是重音没搬家。",
+      "nicht 的重音决定否定范围：重读 nicht 是全盘否认（„Ich habe das **nicht** gesagt!\"=我没说过）；重音在别的词上，是局部纠正（„…nicht **heute**, sondern morgen.\"）。",
+      "情感三要素：音高范围（惊讶时拉大）、语速（强调时放慢）、关键词拉长。礼貌请求相反：音量放低、句末柔和降调。"
+    ],
+    "examples": [
+      {
+        "de": "Nicht der **Mann**, die **Frau** hat angerufen.",
+        "zh": ""
+      },
+      {
+        "de": "Ich wollte den **roten** Pullover, nicht den **blauen**.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist **nicht** wahr!",
+        "zh": ""
+      },
+      {
+        "de": "Du hast **schon wieder** vergessen, mich anzurufen!",
+        "zh": ""
+      },
+      {
+        "de": "Sie ist nicht **Lehrerin**, sondern **Ärztin**.",
+        "zh": ""
+      },
+      {
+        "de": "Wir treffen uns nicht um **acht**, sondern um **neun**.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "对比句还按常规句核读（重音留在句末）：对方听不出你在纠正什么。",
+      "惊讶读成平调陈述：„Das ist toll.\" 平读像敷衍。",
+      "把反讽当真话听：schöne Überraschung 配平调 + 倒霉语境 = 反话。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "纠正句 — „Du hast den roten Stift genommen.\" 哪句纠正得对（拿的是蓝笔）",
+        "explain": "纠正点在颜色，对比重音落在 blauen。",
+        "options": [
+          "Ich habe den **blauen** Stift genommen.",
+          "**Ich** habe den blauen Stift genommen.",
+          "Ich habe den blauen Stift **genommen**."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "对比落在 er 与 sie，实际打电话的是 sie。",
+        "audio": "Nicht er hat angerufen, sondern sie.",
+        "options": [
+          "她打的电话",
+          "他打的电话",
+          "两个人都打了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "写出被重读的词",
+        "explain": "对比对子是 Auto 与 Zug，两端都重读。",
+        "display": "Er ist nicht mit dem Auto gekommen, sondern mit dem Zug.（与 Zug 对比而被重读的交通工具词）",
+        "answer": "Auto"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是「我没说过这话」的全盘否认",
+        "explain": "重读 nicht = 否认整件事。",
+        "options": [
+          "Ich habe das **nicht** gesagt!",
+          "Ich habe **das** nicht gesagt!",
+          "Ich habe das nicht **gesagt**!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨语气",
+        "explain": "倒霉语境 + 平调重读 schöne，是反话。",
+        "audio": "Das ist ja eine schöne Überraschung.",
+        "display": "语境：爆胎了，司机看着轮胎说这句。",
+        "options": [
+          "真心高兴",
+          "反讽、无奈",
+          "在提问"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "句子分筐",
+        "explain": "有成对纠正（nicht…sondern… 或前后对照）的就是对比句。",
+        "groups": [
+          "对比重音句",
+          "普通叙述句"
+        ],
+        "items": [
+          {
+            "text": "1. Nicht heute, morgen fahren wir.",
+            "group": 0
+          },
+          {
+            "text": "2. Wir fahren morgen nach Hause.",
+            "group": 1
+          },
+          {
+            "text": "3. Das ist nicht mein Problem, sondern deins.",
+            "group": 0
+          },
+          {
+            "text": "4. Er liest gern Bücher.",
+            "group": 1
+          },
+          {
+            "text": "5. Ich trinke keinen Kaffee, sondern Tee.",
+            "group": 0
+          },
+          {
+            "text": "6. Sie arbeitet in einem Büro.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "写出第一个被对比的词",
+        "explain": "对比对子 Hamburg—Köln，先出现的 Hamburg 也要重读。",
+        "display": "Sie wohnt nicht mehr in Hamburg, sondern in Köln.",
+        "answer": "Hamburg"
+      },
+      {
+        "type": "choice",
+        "q": "惊讶语调的特征是",
+        "explain": "惊讶靠拉大音高范围和放慢语速传情。",
+        "options": [
+          "关键词音高拉大、语速放慢",
+          "全句一个音高",
+          "句末快速降调"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "对比结构：Nicht + 对照项在前，sondern + 纠正项在后。",
+        "tokens": [
+          "habe das gesagt",
+          "sondern er",
+          "Nicht ich"
+        ],
+        "answer": [
+          "Nicht ich",
+          "habe das gesagt",
+          "sondern er"
+        ],
+        "displayAnswer": "Nicht ich habe das gesagt, sondern er."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补被对比的词",
+        "explain": "roten 与 blauen 成对重读。",
+        "audio": "Ich wollte den roten Pullover, nicht den blauen.",
+        "display": "Ich wollte den ＿＿ Pullover, nicht den blauen.",
+        "answer": "roten"
+      },
+      {
+        "type": "choice",
+        "q": "礼貌请求 „Könnten Sie mir bitte helfen?\" 应读成",
+        "explain": "请求越柔和越礼貌，对比/命令式重读会显得无礼。",
+        "options": [
+          "柔和降调、音量放低",
+          "高声上扬",
+          "重读 helfen 并加速"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "写出对比结构的第二个重读词",
+        "explain": "纠正项 Auto 是第二个重读点。",
+        "display": "Er fährt nicht mit dem Bus, sondern mit dem Auto.",
+        "answer": "Auto"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "对比在 ihm 与 ihr 之间，实际给的是 ihm。",
+        "audio": "Ich habe es ihm gegeben, nicht ihr.",
+        "options": [
+          "给了他（男）",
+          "给了她",
+          "给了他们"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "哪句重音表达「不是今天，是明天」",
+        "explain": "时间对子 morgen—heute 成对重读。",
+        "options": [
+          "Wir fahren **morgen**, nicht **heute**.",
+          "Wir **fahren** morgen, nicht heute.",
+          "Wir fahren morgen, nicht heute **Abend**."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "写出与 gut 对比的词",
+        "explain": "gut—schlecht 是对比对子，schlecht 是纠正项。",
+        "display": "Das Essen war nicht gut, sondern schlecht.",
+        "answer": "schlecht"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "省略句靠 rote 与 blaue 的对比重音撑起意思。",
+        "audio": "Nicht das rote Auto, das blaue!",
+        "answer": "Nicht das rote Auto, das blaue!"
+      }
+    ],
+    "reading": {
+      "text": "A: Hast du **meinen** Schlüssel gesehen?\nB: Nicht den **kleinen**, den **großen**?\nA: Nein, den **kleinen**! Er lag nicht auf dem **Tisch**, sondern in der **Küche**.",
+      "parts": [],
+      "questions": [],
+      "tasks": ""
+    },
+    "readingLabel": "跟读短文",
+    "writing": {
+      "task": "给下面 3 句标出成对的对比重音（自标后对参考答案）：\n1. Ich habe nicht Tee bestellt, sondern Kaffee.\n2. Sie ist nicht Lehrerin, sondern Ärztin.\n3. Wir treffen uns nicht um acht, sondern um neun.",
+      "sample": "参考：\n1. **Tee**、**Kaffee**\n2. **Lehrerin**、**Ärztin**\n3. **acht**、**neun**",
+      "selfcheck": "自查：每句都标出了一对（纠正前 + 纠正后）□；没有把句末实词误标为唯一重音 □；sondern 后面的词都标了 □。"
+    }
+  },
+  {
+    "id": "g-b1-01",
+    "level": "B1",
+    "order": 3,
+    "title": "被动语态过去时",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（werden 的过去时 + 分词，语序与 A2 现在时被动完全相同）",
+      "headers": [
+        "人称",
+        "过去时",
+        "例"
+      ],
+      "rows": [
+        [
+          "ich / er / sie / es",
+          "wurde",
+          "Der Brief **wurde** geschrieben."
+        ],
+        [
+          "du",
+          "wurdest",
+          "**Wurdest** du gefragt?"
+        ],
+        [
+          "wir / sie / Sie",
+          "wurden",
+          "Die Briefe **wurden** abgeschickt."
+        ],
+        [
+          "ihr",
+          "wurdet",
+          "Ihr **wurdet** informiert."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "构成：wurde/wurden + 过去分词（句末）。这是新闻、报道、历史叙述的主力时态：建造、开幕、逮捕、受伤都用它。",
+      "施动者照旧用 von + 与格：Er wurde **von einem Hund** gebissen.",
+      "主语单复数决定 wurde 还是 wurden：Die Tür wurde… / Die Fenster wurden…",
+      "口语日常说过去的事仍多用完成时主动句；但被动过去时在书面和口头报告里极高频，必须能读能写。"
+    ],
+    "examples": [
+      {
+        "de": "Die Brücke wurde 1890 gebaut.",
+        "zh": ""
+      },
+      {
+        "de": "Das Fenster wurde in der Nacht geöffnet.",
+        "zh": ""
+      },
+      {
+        "de": "Er wurde von einem Hund gebissen.",
+        "zh": ""
+      },
+      {
+        "de": "Die Briefe wurden gestern abgeschickt.",
+        "zh": ""
+      },
+      {
+        "de": "Das Schloss wurde im Krieg zerstört.",
+        "zh": ""
+      },
+      {
+        "de": "Bei dem Unfall wurden zwei Menschen verletzt.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "wurde 与 würde 混淆：wurde 是被动过去（真发生了），würde 是虚拟式（假设）。一个字母之差，意思天壤。",
+      "复数主语还用 wurde（„Die Briefe wurde…\"）：主语是复数必须 wurden。",
+      "把分词提到中间：分词永远在句末。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "正确句",
+        "explain": "过去时间 + 被动 = wurde + 分词（句末）。",
+        "options": [
+          "Die Tür wurde gestern geöffnet.",
+          "Die Tür wurde gestern öffnen.",
+          "Die Tür wird gestern geöffnet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "单数主语 + 过去时被动 = wurde。",
+        "display": "Der Brief ＿＿ gestern geschrieben.",
+        "answer": "wurde"
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "复数主语用 wurden。",
+        "display": "Die Fenster ＿＿ in der Nacht geöffnet.",
+        "answer": "wurden"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wurde 第二位，分词句末。",
+        "tokens": [
+          "wurde",
+          "Das Auto",
+          "gestern",
+          "repariert"
+        ],
+        "answer": [
+          "Das Auto",
+          "wurde",
+          "gestern",
+          "repariert"
+        ],
+        "displayAnswer": "Das Auto wurde gestern repariert."
+      },
+      {
+        "type": "choice",
+        "q": "主动变被动",
+        "explain": "1890 是过去，被动过去时。",
+        "display": "Man baute die Brücke 1890.",
+        "options": [
+          "Die Brücke wurde 1890 gebaut.",
+          "Die Brücke wird 1890 gebaut.",
+          "Die Brücke wurde 1890 bauen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "wurde gebaut = 过去完成的建造。",
+        "audio": "Das Haus wurde vor zehn Jahren gebaut.",
+        "options": [
+          "房子十年前建的",
+          "房子十年后要建",
+          "房子正在建"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "介词填空",
+        "explain": "被动的施动者用 von + 与格。",
+        "display": "Er wurde ＿＿ einem Hund gebissen.",
+        "answer": "von"
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "zerstören 的分词 zerstört，放句末。",
+        "display": "Das Schloss wurde im Krieg ＿＿.（zerstören）",
+        "answer": "zerstört"
+      },
+      {
+        "type": "classify",
+        "q": "时态分筐",
+        "explain": "看助动词：wird/werden 是现在，wurde/wurden 是过去。",
+        "groups": [
+          "被动现在时",
+          "被动过去时"
+        ],
+        "items": [
+          {
+            "text": "wird repariert",
+            "group": 0
+          },
+          {
+            "text": "wurde repariert",
+            "group": 1
+          },
+          {
+            "text": "wurden repariert",
+            "group": 1
+          },
+          {
+            "text": "wird verkauft",
+            "group": 0
+          },
+          {
+            "text": "wurde verkauft",
+            "group": 1
+          },
+          {
+            "text": "werden verkauft",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "正确的疑问句",
+        "explain": "被动过去时提问，wurdest 提到句首。",
+        "options": [
+          "Wurdest du zum Essen eingeladen?",
+          "Wirst du gestern zum Essen eingeladen?",
+          "Hast du zum Essen eingeladen gestern?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补助动词",
+        "explain": "letztes Jahr 是过去信号，wurde。",
+        "audio": "Die Straße wurde letztes Jahr erneuert.",
+        "display": "Die Straße ＿＿ letztes Jahr erneuert.",
+        "answer": "wurde"
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "Briefe 是复数。",
+        "display": "Die Briefe ＿＿ gestern abgeschickt.",
+        "answer": "wurden"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "时间状语在中段，分词守句末。",
+        "tokens": [
+          "geöffnet",
+          "Das Geschäft",
+          "wurde",
+          "um 9 Uhr"
+        ],
+        "answer": [
+          "Das Geschäft",
+          "wurde",
+          "um 9 Uhr",
+          "geöffnet"
+        ],
+        "displayAnswer": "Das Geschäft wurde um 9 Uhr geöffnet."
+      },
+      {
+        "type": "choice",
+        "q": "主动变被动",
+        "explain": "verhaftete 是过去时，被动也必须是过去时。",
+        "display": "Die Polizei verhaftete den Dieb.",
+        "options": [
+          "Der Dieb wurde von der Polizei verhaftet.",
+          "Der Dieb wird von der Polizei verhaftet gestern.",
+          "Der Dieb wurde von der Polizei verhaften."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "新闻填空",
+        "explain": "zwei Menschen 是复数。",
+        "display": "Bei dem Unfall ＿＿ zwei Menschen verletzt.",
+        "answer": "wurden"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "eröffnet 是分词，wurde 别写成 würde。",
+        "audio": "Das Museum wurde im Mai eröffnet.",
+        "answer": "Das Museum wurde im Mai eröffnet."
+      }
+    ],
+    "reading": {
+      "text": "Die neue Brücke über den Fluss wurde am Samstag eröffnet. Sie wurde in nur zwei Jahren gebaut. Vorher mussten die Autos einen langen Umweg fahren. Bei der Eröffnung wurde ein großes Fest gefeiert. Der Bürgermeister sagte, die Brücke wurde von vielen Firmen zusammen geplant. Auch eine alte Straße wurde erneuert.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这座桥建了多久？（答：两年。）②开幕时做了什么？（答：举行了庆祝活动。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "根据事实写 4 句小新闻，全部用被动过去时。事实：昨天新图书馆开幕；很多书由市民捐赠；夜里一扇窗户被打破；图书馆前的路修好了。",
+      "sample": "范文：Gestern wurde die neue Bibliothek eröffnet. Viele Bücher wurden von den Bürgern gespendet. In der Nacht wurde ein Fenster zerbrochen. Die Straße vor der Bibliothek wurde repariert.",
+      "selfcheck": "自查：每句有 wurde 或 wurden □；分词都在句末 □；复数主语配的是 wurden □。"
+    }
+  },
+  {
+    "id": "g-b1-02",
+    "level": "B1",
+    "order": 4,
+    "title": "带情态动词的被动",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（句末三件套：分词 + werden，情态动词在第二位）",
+      "headers": [
+        "时态",
+        "结构",
+        "例"
+      ],
+      "rows": [
+        [
+          "现在",
+          "muss/kann/soll/darf + 分词 + werden",
+          "Das Formular **muss** unterschrieben **werden**."
+        ],
+        [
+          "过去",
+          "musste/konnte + 分词 + werden",
+          "Der Termin **musste** verschoben **werden**."
+        ],
+        [
+          "从句",
+          "…分词 + werden + 情态动词（句末）",
+          "…, weil das Auto repariert **werden muss**."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "主句里情态动词管第二位，句末是「分词 + werden（原形）」——werden 在这里永远用原形，不变位。",
+      "否定：nicht 放在分词前：Das darf **nicht** vergessen werden. Hier darf nicht geraucht werden.",
+      "意思差：muss nicht gemacht werden = 不必做（没必要）；darf nicht gemacht werden = 不准做。别混。",
+      "从句的三件套顺序是考试和写作的硬考点：… gemacht werden muss（分词 → werden → 情态动词）。"
+    ],
+    "examples": [
+      {
+        "de": "Das Formular muss unterschrieben werden.",
+        "zh": ""
+      },
+      {
+        "de": "Die Rechnung konnte nicht bezahlt werden.",
+        "zh": ""
+      },
+      {
+        "de": "Der Termin musste verschoben werden.",
+        "zh": ""
+      },
+      {
+        "de": "Das Problem soll heute gelöst werden.",
+        "zh": ""
+      },
+      {
+        "de": "Hier darf nicht geraucht werden.",
+        "zh": ""
+      },
+      {
+        "de": "Er sagt, dass der Brief noch geschrieben werden muss.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "用 wird 替 werden（„Das muss gemacht wird\"）：情态动词后面跟的是原形 werden。",
+      "从句顺序错（„… repariert muss werden\" / „… muss repariert werden\" 照搬主句）：从句必须「分词 + werden + 情态」收尾。",
+      "把 werden 漏掉（„Das muss gemacht.\"）：三件套缺一不可。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "句末该是什么",
+        "explain": "情态被动的句末是「分词 + werden」。",
+        "display": "Das muss heute noch ＿＿.",
+        "options": [
+          "gemacht werden",
+          "werden gemacht",
+          "gemacht wird"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "分词之后的 werden 用原形。",
+        "display": "Die Tür muss abgeschlossen ＿＿.",
+        "answer": "werden"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "muss 第二位，geschlossen werden 句末。",
+        "tokens": [
+          "werden",
+          "muss",
+          "Das Fenster",
+          "geschlossen"
+        ],
+        "answer": [
+          "Das Fenster",
+          "muss",
+          "geschlossen",
+          "werden"
+        ],
+        "displayAnswer": "Das Fenster muss geschlossen werden."
+      },
+      {
+        "type": "fill",
+        "q": "情态动词过去时",
+        "explain": "叙述过去的必须，用 musste。",
+        "display": "Der Flug ＿＿ wegen des Wetters gestrichen werden.",
+        "answer": "musste"
+      },
+      {
+        "type": "choice",
+        "q": "从句顺序哪个对",
+        "explain": "从句句末三件套：分词 → werden → 情态动词。",
+        "options": [
+          "…, weil das Auto repariert werden muss.",
+          "…, weil das Auto muss repariert werden.",
+          "…, weil das Auto repariert muss werden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "muss … verlassen werden = 必须在 11 点前离开。",
+        "audio": "Das Zimmer muss bis 11 Uhr verlassen werden.",
+        "options": [
+          "房间最晚 11 点要退",
+          "房间 11 点才能入住",
+          "房间已经退了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "rauchen 的分词 geraucht 在 werden 前。",
+        "display": "Hier darf nicht ＿＿ werden.（rauchen）",
+        "answer": "geraucht"
+      },
+      {
+        "type": "choice",
+        "q": "主动变被动",
+        "explain": "zeigen 的分词 gezeigt + werden。",
+        "display": "Man muss den Pass zeigen.",
+        "options": [
+          "Der Pass muss gezeigt werden.",
+          "Der Pass muss zeigen werden.",
+          "Der Pass wird gemusst gezeigt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补情态动词",
+        "explain": "过去时情态 musste。",
+        "audio": "Die Aufgabe musste bis Freitag abgegeben werden.",
+        "display": "Die Aufgabe ＿＿ bis Freitag abgegeben werden.",
+        "answer": "musste"
+      },
+      {
+        "type": "classify",
+        "q": "句末结构分筐",
+        "explain": "看情态动词站的位置：在动词链前面是主句型，被推到最末尾是从句型。",
+        "groups": [
+          "主句型（情态在第二位）",
+          "从句型（情态在句末）"
+        ],
+        "items": [
+          {
+            "text": "muss gemacht werden",
+            "group": 0
+          },
+          {
+            "text": "gemacht werden muss",
+            "group": 1
+          },
+          {
+            "text": "kann bezahlt werden",
+            "group": 0
+          },
+          {
+            "text": "bezahlt werden konnte",
+            "group": 1
+          },
+          {
+            "text": "soll gelöst werden",
+            "group": 0
+          },
+          {
+            "text": "gelöst werden soll",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "vergessen 本身即分词形（ver- 动词不加 ge-）。",
+        "display": "Das darf nicht ＿＿ werden!（vergessen）",
+        "answer": "vergessen"
+      },
+      {
+        "type": "order",
+        "q": "从句组句",
+        "explain": "dass 从句内三件套顺序：分词 → werden → muss。",
+        "tokens": [
+          "ausgefüllt",
+          "Er sagt",
+          "werden muss",
+          "dass das Formular"
+        ],
+        "answer": [
+          "Er sagt",
+          "dass das Formular",
+          "ausgefüllt",
+          "werden muss"
+        ],
+        "displayAnswer": "Er sagt, dass das Formular ausgefüllt werden muss."
+      },
+      {
+        "type": "choice",
+        "q": "正确句",
+        "explain": "soll 第二位，gelöst werden 收尾。",
+        "options": [
+          "Das Problem soll heute gelöst werden.",
+          "Das Problem soll heute gelöst wird.",
+          "Das Problem soll heute werden gelöst."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "einnehmen 的分词是 eingenommen（可分动词，分词 ge 在中间）。",
+        "display": "Die Medikamente müssen regelmäßig ＿＿ werden.（einnehmen）",
+        "answer": "eingenommen"
+      },
+      {
+        "type": "choice",
+        "q": "辨义",
+        "explain": "muss nicht = 没必要；「不准」要用 darf nicht。",
+        "display": "Das muss nicht gemacht werden. 的意思是",
+        "options": [
+          "不必做",
+          "绝对不能做",
+          "已经做完了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "句末 verschoben werden，别漏 werden。",
+        "audio": "Der Termin musste leider verschoben werden.",
+        "answer": "Der Termin musste leider verschoben werden."
+      }
+    ],
+    "reading": {
+      "text": "Liebe Gäste, unser Hotel wird renoviert. Die Zimmer im zweiten Stock müssen bis Freitag geräumt werden. Das Frühstück wird im Restaurant im Erdgeschoss serviert. Der Pool kann diese Woche nicht benutzt werden. Wir bitten um Verständnis: Der Lärm kann leider nicht vermieden werden.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①二楼的客人最迟什么时候要腾房？（答：周五之前。）②这周哪样设施不能用？（答：泳池。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 条场所规则或通知，全部用情态被动，其中至少 1 条否定句。",
+      "sample": "范文：In der Bibliothek darf nicht telefoniert werden. Bücher müssen nach zwei Wochen zurückgegeben werden. Der Ausweis muss an der Tür gezeigt werden. Essen darf in den Lesesaal nicht mitgebracht werden.",
+      "selfcheck": "自查：每句末尾是「分词 + werden」□；情态动词在第二位 □；分清了 muss nicht（不必）和 darf nicht（不准）□。"
+    }
+  },
+  {
+    "id": "g-b1-03",
+    "level": "B1",
+    "order": 5,
+    "title": "状态被动与被动替代形式",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（过程被动 vs 状态被动——本单元主线是认读分清，状态被动轻产出）",
+      "headers": [
+        "过程被动（动作正在发生/被执行）",
+        "状态被动（结果状态已经摆在那）"
+      ],
+      "rows": [
+        [
+          "Die Tür **wird geschlossen**.（有人在关门）",
+          "Die Tür **ist geschlossen**.（门关着）"
+        ],
+        [
+          "Das Fenster **wird geöffnet**.",
+          "Das Fenster **ist geöffnet**."
+        ],
+        [
+          "Das Auto **wurde repariert**.",
+          "Das Auto **war repariert**.（认读：当时已修好）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（被动替代形式——说的都是「能被……」）",
+        "headers": [
+          "形式",
+          "例",
+          "等于"
+        ],
+        "rows": [
+          [
+            "sich lassen + 不定式",
+            "Das Fenster **lässt sich** leicht öffnen.",
+            "Das Fenster kann leicht geöffnet werden."
+          ],
+          [
+            "-bar / -lich 形容词",
+            "Der Text ist gut **lesbar**. / Das ist **machbar**.",
+            "Der Text kann gut gelesen werden."
+          ],
+          [
+            "man",
+            "**Man** spricht hier Deutsch.",
+            "Hier wird Deutsch gesprochen."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "状态被动 = sein + 分词，只报告**结果状态**，不说谁做的、也不接 von 施动者：Der Laden ist geschlossen.（不说 „vom Händler geschlossen\" 来表状态）",
+      "sich lassen 的 sich 随主语走：单数 lässt sich，复数 lassen sich：Die Türen **lassen sich** nur von innen öffnen.",
+      "-bar 形容词在词书里已有一批：sichtbar（B1）、verständlich、lesbar、machbar、waschbar——见到 -bar 先想「能被……的」。"
+    ],
+    "examples": [
+      {
+        "de": "Der Laden ist heute geschlossen.",
+        "zh": ""
+      },
+      {
+        "de": "Keine Sorge, das Problem lässt sich lösen.",
+        "zh": ""
+      },
+      {
+        "de": "Der Text ist gut lesbar.",
+        "zh": ""
+      },
+      {
+        "de": "Die Fenster lassen sich nur schwer öffnen.",
+        "zh": ""
+      },
+      {
+        "de": "Als wir ankamen, war das Essen schon serviert.",
+        "zh": ""
+      },
+      {
+        "de": "Man kann ihn morgen anrufen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "给状态被动硬加 von + 施动者：状态句的任务是描述状态，加了 von 就变味（过程被动才带 von）。",
+      "ist geschlossen 与 wird geschlossen 不分：一个是「关着」，一个是「正在关」，看错会答错听力阅读。",
+      "sich lassen 漏掉 sich（„Das lässt machen\"）：sich 是结构的一半，不能丢。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句表示「门关着（状态）」",
+        "explain": "ist + 分词 = 状态被动。",
+        "options": [
+          "Die Tür ist geschlossen.",
+          "Die Tür wird geschlossen.",
+          "Man schließt die Tür."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "分筐",
+        "explain": "看助动词：werden 系列是过程，sein 系列是状态。",
+        "groups": [
+          "过程被动",
+          "状态被动"
+        ],
+        "items": [
+          {
+            "text": "wird repariert",
+            "group": 0
+          },
+          {
+            "text": "ist repariert",
+            "group": 1
+          },
+          {
+            "text": "ist geöffnet",
+            "group": 1
+          },
+          {
+            "text": "wird geöffnet",
+            "group": 0
+          },
+          {
+            "text": "wurde geschlossen",
+            "group": 0
+          },
+          {
+            "text": "war geschlossen",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "同义改写",
+        "explain": "sich lassen = können 被动，「能被打开」。",
+        "display": "Die Tür lässt sich leicht öffnen.",
+        "options": [
+          "Die Tür kann leicht geöffnet werden.",
+          "Die Tür wurde leicht geöffnet.",
+          "Die Tür muss leicht geöffnet werden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "状态被动填空",
+        "explain": "状态被动 ist + 分词 geschlossen。",
+        "display": "Der Laden ist heute ＿＿.（schließen）",
+        "answer": "geschlossen"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "ist geschlossen 是状态：周日关门休息。",
+        "audio": "Das Geschäft ist sonntags geschlossen.",
+        "options": [
+          "周日不营业",
+          "周日有人关门",
+          "周日正在装修"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "-bar 的意思",
+        "explain": "-bar 表「能被……的」，对应 können 被动。",
+        "display": "Der Plan ist machbar.＝",
+        "options": [
+          "Der Plan kann gemacht werden.",
+          "Der Plan wurde gemacht.",
+          "Der Plan muss gemacht werden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "lassen 填空",
+        "explain": "单数主语 Fenster，lässt sich。",
+        "display": "Das Fenster ＿＿ sich schwer öffnen.",
+        "answer": "lässt"
+      },
+      {
+        "type": "choice",
+        "q": "哪句不接 von 施动者",
+        "explain": "状态被动只说状态，不带施动者。",
+        "options": [
+          "Die Tür ist geschlossen.",
+          "Die Tür wurde vom Lehrer geschlossen.",
+          "Die Tür wird vom Lehrer geschlossen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "状态被动：ist 第二位，分词句末。",
+        "tokens": [
+          "ist",
+          "Der Kuchen",
+          "gebacken",
+          "schon"
+        ],
+        "answer": [
+          "Der Kuchen",
+          "ist",
+          "schon",
+          "gebacken"
+        ],
+        "displayAnswer": "Der Kuchen ist schon gebacken."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "das lässt sich machen 是高频安抚句。",
+        "audio": "Keine Sorge, das lässt sich machen.",
+        "display": "Keine Sorge, das ＿＿ sich machen.",
+        "answer": "lässt"
+      },
+      {
+        "type": "choice",
+        "q": "man 句改被动",
+        "explain": "man 的主动句可改情态被动：darf … geparkt werden。",
+        "display": "Man darf hier nicht parken.",
+        "options": [
+          "Hier darf nicht geparkt werden.",
+          "Hier wird nicht parken gedurft.",
+          "Man wird hier nicht parken."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "lassen 复数",
+        "explain": "复数主语用 lassen sich。",
+        "display": "Die Türen ＿＿ sich nur von innen öffnen.",
+        "answer": "lassen"
+      },
+      {
+        "type": "classify",
+        "q": "替代形式分筐",
+        "explain": "三种形式都在替被动干活，看结构特征分。",
+        "groups": [
+          "sich lassen",
+          "-bar/-lich",
+          "man"
+        ],
+        "items": [
+          {
+            "text": "1. Das lässt sich ändern.",
+            "group": 0
+          },
+          {
+            "text": "2. Der Stoff ist waschbar.",
+            "group": 1
+          },
+          {
+            "text": "3. Man spricht hier Englisch.",
+            "group": 2
+          },
+          {
+            "text": "4. Das Problem lässt sich lösen.",
+            "group": 0
+          },
+          {
+            "text": "5. Der Text ist lesbar.",
+            "group": 1
+          },
+          {
+            "text": "6. Man hat ihn gesehen.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "认读状态过去",
+        "explain": "war geschlossen = 当时已处于关着的状态。",
+        "display": "Als wir kamen, war die Tür schon geschlossen. 的意思是",
+        "options": [
+          "我们到时，门已经关着了",
+          "我们到时，有人正在关门",
+          "我们把门关上了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "状态被动填空",
+        "explain": "信已写好（状态），ist + geschrieben。",
+        "display": "Der Brief ist schon ＿＿.（schreiben）",
+        "answer": "geschrieben"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "ist geschlossen 是状态，别写成 wird。",
+        "audio": "Der Laden ist heute schon geschlossen.",
+        "answer": "Der Laden ist heute schon geschlossen."
+      }
+    ],
+    "reading": {
+      "text": "— Ist der Supermarkt noch geöffnet?\n— Nein, er ist schon geschlossen. Das Fenster im Büro lässt sich nicht öffnen, es ist kaputt.\n— Und jetzt?\n— Keine Sorge: Das Problem lässt sich schnell lösen. Der Handwerker ist schon informiert. Man kann ihn morgen anrufen.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①超市还开着吗？（答：不开，已经关了。）②窗户的问题严重吗？（答：不严重，可以很快解决。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 3 句状态描述（可用对象：教室、商店、电脑、信、蛋糕），用 ist + 分词，其中 1 句带 sich lassen 或 -bar。",
+      "sample": "范文：Das Klassenzimmer ist schon geöffnet. Mein Computer ist noch nicht repariert. Der Text ist gut lesbar.",
+      "selfcheck": "自查：状态句都用 ist + 分词 □；状态句没加 von 施动者 □；sich lassen 句里的 sich 没漏 □。"
+    }
+  },
+  {
+    "id": "t-b1-06",
+    "level": "B1",
+    "order": 6,
+    "title": "报道体：新闻与报告",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（一篇报道的骨架）",
+      "headers": [
+        "部分",
+        "做什么",
+        "语言特征"
+      ],
+      "rows": [
+        [
+          "标题",
+          "一句话点题",
+          "名词化短语、现在时、无 ich"
+        ],
+        [
+          "导语",
+          "谁 + 发生了什么 + 何时 + 何地",
+          "被动过去时、Präteritum"
+        ],
+        [
+          "正文",
+          "细节、数字、原因",
+          "具体数字、时间，不抒情"
+        ],
+        [
+          "来源",
+          "信息从哪来",
+          "laut … / nach Angaben der …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（报道信号词与高频结构）",
+        "headers": [
+          "功能",
+          "说法"
+        ],
+        "rows": [
+          [
+            "引来源",
+            "laut Polizei / nach Angaben der Stadt / wie die Polizei berichtet"
+          ],
+          [
+            "受伤被抓类",
+            "verletzt werden, ins Krankenhaus gebracht werden, festgenommen werden"
+          ],
+          [
+            "保持状态",
+            "Die Straße blieb drei Stunden gesperrt."
+          ],
+          [
+            "大概数字",
+            "etwa 200 Besucher / rund 50 Autos"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "客观是报道的命：只写事实，不写 „ich finde schlimm\" 这类评论；态度留给论坛帖（B1-3 的 t-b1-05 专门练）。",
+      "时态主力：被动过去时 + Präteritum（war、blieb、fuhr、sagte），这是前面五个单元在这里的汇合点。",
+      "标题学德国报纸：短、名词化、现在时——„Feuer in Schule: 200 Schüler in Sicherheit\"。"
+    ],
+    "examples": [
+      {
+        "de": "Feuer in einem Hotel: Zwölf Gäste wurden in Sicherheit gebracht.",
+        "zh": ""
+      },
+      {
+        "de": "Nach Angaben der Polizei wurde der Fahrer leicht verletzt.",
+        "zh": ""
+      },
+      {
+        "de": "Die Straße blieb für zwei Stunden gesperrt.",
+        "zh": ""
+      },
+      {
+        "de": "Bei einem Unfall auf der Autobahn wurden drei Personen verletzt.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "报道里掺个人观点（„Ich glaube, der Fahrer war schuld.\"）：报道只交事实，责任由警方结论说。",
+      "全篇用 Perfekt 口语时态（„ist passiert, hat gemacht\" 是聊天，„wurde verletzt, blieb gesperrt\" 才是报道）。",
+      "数字含糊（„viele Leute\"）：报道要给数，给不准就用 etwa/rund。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪条像新闻标题",
+        "explain": "标题短、名词化、无 ich。",
+        "options": [
+          "Feuer in einer Schule in Berlin",
+          "Ich finde, das Feuer war schlimm",
+          "Gestern bin ich zur Schule gegangen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "报道部件分筐",
+        "explain": "有 laut/nach Angaben 的是来源句；极短无动词展开的是标题。",
+        "groups": [
+          "标题",
+          "导语/正文",
+          "来源句"
+        ],
+        "items": [
+          {
+            "text": "1. Brand in Fabrik: Niemand verletzt",
+            "group": 0
+          },
+          {
+            "text": "2. Nach Angaben der Feuerwehr entstand der Brand gegen 22 Uhr.",
+            "group": 2
+          },
+          {
+            "text": "3. Ein Mann wurde gestern bei einem Unfall verletzt.",
+            "group": 1
+          },
+          {
+            "text": "4. Laut Polizei war der Fahrer zu schnell.",
+            "group": 2
+          },
+          {
+            "text": "5. Neue Brücke eröffnet",
+            "group": 0
+          },
+          {
+            "text": "6. Die Stadt plant ein neues Schwimmbad.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "被动填空",
+        "explain": "报道主力：被动过去时，复数 wurden。",
+        "display": "Bei dem Unfall ＿＿ drei Personen verletzt.",
+        "answer": "wurden"
+      },
+      {
+        "type": "choice",
+        "q": "报道里不该出现的是",
+        "explain": "个人感受不是报道语言。",
+        "options": [
+          "Ich finde das schrecklich.",
+          "Drei Personen wurden verletzt.",
+          "Die Straße blieb gesperrt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听新闻答义",
+        "explain": "zwölf Gäste wurden gerettet。",
+        "audio": "Bei einem Brand in einem Hotel wurden zwölf Gäste gerettet.",
+        "options": [
+          "12 人获救",
+          "12 人受伤",
+          "酒店有 12 间房"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "来源短语填空",
+        "explain": "固定搭配 nach Angaben der + 二格。",
+        "display": "＿＿ Angaben der Polizei war der Fahrer allein im Auto.",
+        "answer": "Nach"
+      },
+      {
+        "type": "order",
+        "q": "导语组句",
+        "explain": "导语句 = 主语 + wurde + 时间 + 分词。",
+        "tokens": [
+          "wurde",
+          "Ein Radfahrer",
+          "gestern",
+          "schwer verletzt"
+        ],
+        "answer": [
+          "Ein Radfahrer",
+          "wurde",
+          "gestern",
+          "schwer verletzt"
+        ],
+        "displayAnswer": "Ein Radfahrer wurde gestern schwer verletzt."
+      },
+      {
+        "type": "choice",
+        "q": "哪句语气客观",
+        "explain": "只陈述原因，不带情绪和猜测。",
+        "options": [
+          "Der Unfall passierte wegen des schlechten Wetters.",
+          "Der schreckliche Unfall war total unfair!",
+          "Ich glaube, der Fahrer war schuld."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Präteritum 填空",
+        "explain": "报道叙述用 bleiben 的过去时 blieb。",
+        "display": "Die Straße ＿＿ für zwei Stunden gesperrt.（bleiben）",
+        "answer": "blieb"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补动词",
+        "explain": "festnehmen 的过去时分开写：nahm … fest。",
+        "audio": "Die Polizei nahm den Mann noch am Abend fest.",
+        "display": "Die Polizei ＿＿ den Mann noch am Abend ＿＿.",
+        "answer": "nahm fest",
+        "blankAnswers": [
+          "nahm",
+          "fest"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "标题补全",
+        "explain": "标题只要一个名词点题。",
+        "display": "＿＿ in Berlin: Tausende Besucher erwartet",
+        "options": [
+          "Stadtfest",
+          "Ich freue mich auf das Stadtfest",
+          "Wir gehen zum Stadtfest"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "来源短语填空",
+        "explain": "laut + 与格，引出来源。",
+        "display": "＿＿ dem Wetterbericht wird es morgen regnen.",
+        "answer": "Laut"
+      },
+      {
+        "type": "classify",
+        "q": "主被动分筐",
+        "explain": "报道两种都用，看动词结构分：wurde + 分词是被动。",
+        "groups": [
+          "主动报道",
+          "被动报道"
+        ],
+        "items": [
+          {
+            "text": "1. Die Feuerwehr löschte das Feuer.",
+            "group": 0
+          },
+          {
+            "text": "2. Das Feuer wurde schnell gelöscht.",
+            "group": 1
+          },
+          {
+            "text": "3. Ein Zeuge sah den Unfall.",
+            "group": 0
+          },
+          {
+            "text": "4. Der Fahrer wurde ins Krankenhaus gebracht.",
+            "group": 1
+          },
+          {
+            "text": "5. Die Polizei sucht Zeugen.",
+            "group": 0
+          },
+          {
+            "text": "6. Der Mann wurde festgenommen.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "etwa 的作用",
+        "explain": "etwa/rund 是报道给近似数字的标准做法。",
+        "display": "报道里写 „etwa 200 Besucher\"，etwa 表示",
+        "options": [
+          "大概，数字不精确",
+          "正好，数字精确",
+          "我认为"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "被动填空",
+        "explain": "单数主语 + 过去时被动。",
+        "display": "Der Dieb ＿＿ noch am selben Tag festgenommen.",
+        "answer": "wurde"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "Quelle 先行是报道的常见开局。",
+        "audio": "Nach Angaben der Stadt wird die Brücke im Mai eröffnet.",
+        "answer": "Nach Angaben der Stadt wird die Brücke im Mai eröffnet."
+      }
+    ],
+    "reading": {
+      "text": "**Schwerer Unfall auf der Autobahn**\nBei einem Unfall auf der Autobahn wurden gestern Abend drei Personen verletzt. Nach Angaben der Polizei fuhr ein Auto zu schnell und stieß mit einem Lkw zusammen. Die Verletzten wurden ins Krankenhaus gebracht. Die Autobahn blieb für drei Stunden gesperrt. Wie die Polizei berichtet, wird die Ursache noch untersucht.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①几个人受伤？（答：3 人。）②高速公路封了多久？（答：3 小时。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "根据事实写一则带标题的短报道（4–5 句）。事实：昨晚、市图书馆附近、自行车与汽车相撞、骑车人受轻伤送医、警方正在调查原因。",
+      "sample": "范文：**Unfall in der Nähe der Stadtbibliothek.** Gestern Abend stieß ein Fahrrad mit einem Auto zusammen. Der Radfahrer wurde leicht verletzt und ins Krankenhaus gebracht. Nach Angaben der Polizei wird die Ursache noch untersucht.",
+      "selfcheck": "自查：有标题 □；没有 ich 的观点句 □；至少 1 个来源短语（laut / nach Angaben）□；至少 1 个被动过去时 □。"
+    }
+  },
+  {
+    "id": "g-b1-04",
+    "level": "B1",
+    "order": 7,
+    "title": "Konjunktiv II 过去时",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（构成：hätte / wäre + 过去分词；情态动词用双不定式）",
+      "headers": [
+        "类型",
+        "构成",
+        "例"
+      ],
+      "rows": [
+        [
+          "一般动词",
+          "hätte + 分词",
+          "Ich **hätte** das nicht **gewusst**."
+        ],
+        [
+          "sein 类动词（移动/变化）",
+          "wäre + 分词",
+          "Wir **wären** gern **mitgekommen**."
+        ],
+        [
+          "情态动词",
+          "hätte + 不定式 + 情态不定式",
+          "Du **hättest** mich **anrufen sollen**."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "三大用途：①后悔与责备：Ich hätte früher lernen sollen. / Das hättest du mir sagen müssen! ②没有实现的过去条件：Wenn ich das gewusst hätte, wäre ich zu Hause geblieben. ③差一点发生：Ich wäre fast gefallen.（fast/beinahe 是信号词，结果是——没摔）",
+      "选择 hätte 还是 wäre，跟完成时选助动词的规则完全一致：gehen/kommen/fahren/werden 等用 wäre，其余用 hätte。",
+      "情态过去**不用分词**：是 hätte + 动词原形 + 情态原形（hätte anrufen sollen），不是 „hätte angerufen gesollt\"。",
+      "wenn 从句里 hätte/wäre 站在句末：…, wenn ich mehr Zeit **gehabt hätte**."
+    ],
+    "examples": [
+      {
+        "de": "Ich hätte gern mehr Zeit gehabt.",
+        "zh": ""
+      },
+      {
+        "de": "Du hättest früher losfahren sollen.",
+        "zh": ""
+      },
+      {
+        "de": "Er wäre fast zu spät gekommen.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn wir das gewusst hätten, hätten wir angerufen.",
+        "zh": ""
+      },
+      {
+        "de": "Sie hätte den Zug fast verpasst.",
+        "zh": ""
+      },
+      {
+        "de": "Ohne deine Hilfe wäre ich verloren gewesen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "sein 类动词用 hätte（„Ich hätte gegangen\"）：应为 wäre gegangen，与完成时选助动词同理。",
+      "情态过去造分词（„hätte gesollt / hätte gemusst\"）：德语这里用双不定式，没有分词。",
+      "把 „wäre fast gefallen\" 听成真摔了：fast + 虚拟过去 = 差一点，实际没发生。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "正确句",
+        "explain": "fallen 是 sein 类动词，用 wäre。",
+        "options": [
+          "Ich wäre fast gefallen.",
+          "Ich hätte fast gefallen.",
+          "Ich war fast gefallen gern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "mitkommen 用 sein，完成时逻辑：wären。",
+        "display": "Wir ＿＿ gern mitgekommen.",
+        "answer": "wären"
+      },
+      {
+        "type": "fill",
+        "q": "责备句填空",
+        "explain": "情态过去：hättest + anrufen + sollen。",
+        "display": "Du ＿＿ mich anrufen sollen!",
+        "answer": "hättest"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "hätte 第二位，分词 gewusst 句末。",
+        "tokens": [
+          "hätte",
+          "Ich",
+          "das",
+          "nicht gewusst"
+        ],
+        "answer": [
+          "Ich",
+          "hätte",
+          "das",
+          "nicht gewusst"
+        ],
+        "displayAnswer": "Ich hätte das nicht gewusst."
+      },
+      {
+        "type": "choice",
+        "q": "wenn 从句语序",
+        "explain": "从句里 hätte 守句末。",
+        "options": [
+          "…, wenn ich Zeit gehabt hätte.",
+          "…, wenn ich Zeit hätte gehabt.",
+          "…, wenn hätte ich Zeit gehabt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "hätte … fast verpasst = 虚拟的差一点，实际赶上了。",
+        "audio": "Er hätte den Bus fast verpasst.",
+        "options": [
+          "他差点没赶上（但赶上了）",
+          "他没赶上车",
+          "他提前到了车站"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "einschlafen 是状态变化动词，用 wäre。",
+        "display": "Sie ＿＿ fast eingeschlafen.",
+        "answer": "wäre"
+      },
+      {
+        "type": "choice",
+        "q": "后悔句哪句对",
+        "explain": "双不定式：动词原形 anrufen + sollen。",
+        "display": "「我本来应该打电话的。」",
+        "options": [
+          "Ich hätte anrufen sollen.",
+          "Ich hätte angerufen sollen.",
+          "Ich würde angerufen sollen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "条件句填空",
+        "explain": "gewesen 是 sein 的分词，前面的助动词用 wäre。",
+        "display": "Wenn ich reich gewesen ＿＿, hätte ich ein Haus gekauft.",
+        "answer": "wäre"
+      },
+      {
+        "type": "classify",
+        "q": "真实与虚拟分筐",
+        "explain": "有 hätte/wäre 或 fast、gern、sollen 的信号，就是虚拟世界。",
+        "groups": [
+          "真实过去（发生了）",
+          "虚拟过去（没发生/后悔）"
+        ],
+        "items": [
+          {
+            "text": "1. Ich habe den Zug verpasst.",
+            "group": 0
+          },
+          {
+            "text": "2. Ich hätte den Zug fast verpasst.",
+            "group": 1
+          },
+          {
+            "text": "3. Er ist gestern gekommen.",
+            "group": 0
+          },
+          {
+            "text": "4. Er wäre gern gekommen.",
+            "group": 1
+          },
+          {
+            "text": "5. Wir haben angerufen.",
+            "group": 0
+          },
+          {
+            "text": "6. Wir hätten anrufen sollen.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "责备句的标志 hättest + 双不定式。",
+        "audio": "Das hättest du mir sagen müssen!",
+        "display": "Das ＿＿ du mir sagen müssen!",
+        "answer": "hättest"
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "ihr 对应的 hätte 形式是 hättet。",
+        "display": "Ihr ＿＿ das Fenster schließen sollen.",
+        "answer": "hättet"
+      },
+      {
+        "type": "order",
+        "q": "条件句组句",
+        "explain": "主句 wäre 第二位，wenn 从句 hätte 压尾。",
+        "tokens": [
+          "nicht gekommen",
+          "Ich wäre",
+          "wenn ich das",
+          "gewusst hätte"
+        ],
+        "answer": [
+          "Ich wäre",
+          "nicht gekommen",
+          "wenn ich das",
+          "gewusst hätte"
+        ],
+        "displayAnswer": "Ich wäre nicht gekommen, wenn ich das gewusst hätte."
+      },
+      {
+        "type": "choice",
+        "q": "差一点摔倒",
+        "explain": "hingefallen 是 sein 类，wäre + beinahe 表「差一点」。",
+        "options": [
+          "Ich wäre beinahe hingefallen.",
+          "Ich hätte beinahe hingefallen.",
+          "Ich bin beinahe hingefallen gestern wirklich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "助动词填空",
+        "explain": "kommen 用 wäre。",
+        "display": "Er ＿＿ beinahe zu spät gekommen.",
+        "answer": "wäre"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "hättest + helfen + können，双不定式别写成分词。",
+        "audio": "Du hättest mir helfen können!",
+        "answer": "Du hättest mir helfen können!"
+      }
+    ],
+    "reading": {
+      "text": "Gestern wäre ich fast zu spät zur Prüfung gekommen. Mein Wecker hatte nicht geklingelt. Ich hätte früher ins Bett gehen sollen! Zum Glück hat mich meine Mitbewohnerin geweckt. Ohne sie hätte ich die Prüfung verpasst. Nächstes Mal stelle ich zwei Wecker.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①叙述者为什么差点迟到？（答：闹钟没响。）②谁帮了他？（答：室友把他叫醒了。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 句「本来可以……」的句子：至少 1 句 hätte … sollen（后悔）、1 句 wäre/hätte fast …（差一点）。",
+      "sample": "范文：Ich hätte gestern mehr lernen sollen. Ich wäre fast zu spät gekommen. Du hättest mich anrufen können. Zum Glück ist alles gut gegangen — das hätte schlimm enden können.",
+      "selfcheck": "自查：sein 类动词配 wäre □；情态过去用双不定式、没有造分词 □；wenn 从句里 hätte/wäre 在句末 □。"
+    }
+  },
+  {
+    "id": "g-b1-05",
+    "level": "B1",
+    "order": 8,
+    "title": "als ob 与 je … desto",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（als ob：看起来像，其实不是——后面永远虚拟式）",
+      "headers": [
+        "情形",
+        "结构",
+        "例"
+      ],
+      "rows": [
+        [
+          "现在的假象",
+          "als ob + 虚拟式现在（wäre/hätte）",
+          "Er tut so, **als ob** er krank **wäre**."
+        ],
+        [
+          "过去的假象",
+          "als ob + 虚拟式过去",
+          "Sie sah aus, **als ob** sie geweint **hätte**."
+        ],
+        [
+          "简略式（认读）",
+          "als + 虚拟式（动词提前）",
+          "Er tat so, **als wäre** er krank."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（je … desto：越……越……）",
+        "headers": [
+          "部件",
+          "位置",
+          "例"
+        ],
+        "rows": [
+          [
+            "je 从句",
+            "je + 比较级 … 动词在句末",
+            "**Je mehr** ich übe,"
+          ],
+          [
+            "desto 主句",
+            "desto + 比较级 + 动词（第二位）",
+            "**desto besser** spreche ich."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "als ob 的事都是假的或只是印象，所以用虚拟式：现在的事用 wäre/hätte/täte，过去的事用虚拟式过去（hätte geweint）。",
+      "je…desto 两个比较级都要变形：gut→besser、viel→mehr、gern→lieber、schnell→schneller、lang→länger。",
+      "desto 主句是正常主句语序：比较级短语占第一位，动词紧随其后（desto besser **spreche ich**，不能 desto besser ich spreche）。",
+      "desto 也可写 umso，意思相同（认读）。"
+    ],
+    "examples": [
+      {
+        "de": "Er spricht, als ob er alles wüsste.",
+        "zh": ""
+      },
+      {
+        "de": "Sie sieht aus, als ob sie krank wäre.",
+        "zh": ""
+      },
+      {
+        "de": "Je schneller du fährst, desto gefährlicher ist es.",
+        "zh": ""
+      },
+      {
+        "de": "Je länger ich warte, desto ungeduldiger werde ich.",
+        "zh": ""
+      },
+      {
+        "de": "Er läuft weg, als ob er Angst hätte.",
+        "zh": ""
+      },
+      {
+        "de": "Je öfter ich das mache, desto leichter wird es.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "als ob 后用陈述语气（„als ob er krank ist\"）：口语里有人这么说，但标准与考试口径用虚拟式，本课按虚拟式练。",
+      "desto 主句不倒装（„desto besser ich verstehe\"）：比较级占位后动词必须紧跟。",
+      "比较级忘变形（„je gut\" / „desto viel\"）：gut→besser、viel→mehr 是固定变形。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "als ob 填空",
+        "explain": "als ob 后用虚拟式现在 hätte。",
+        "display": "Er tut so, als ob er keine Zeit ＿＿.",
+        "options": [
+          "hätte",
+          "hat",
+          "haben wird"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "虚拟过去填空",
+        "explain": "过去的事用虚拟式过去 hätte + 分词。",
+        "display": "Sie sah aus, als ob sie geweint ＿＿.",
+        "answer": "hätte"
+      },
+      {
+        "type": "choice",
+        "q": "比较级填空",
+        "explain": "gut 的比较级是 besser。",
+        "display": "Je mehr ich lerne, desto ＿＿ verstehe ich.",
+        "options": [
+          "besser",
+          "gut",
+          "besten"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "je 从句动词 übe 在尾，desto 主句 verstehe 第二位。",
+        "tokens": [
+          "desto besser",
+          "Je mehr",
+          "verstehe ich",
+          "ich übe"
+        ],
+        "answer": [
+          "Je mehr",
+          "ich übe",
+          "desto besser",
+          "verstehe ich"
+        ],
+        "displayAnswer": "Je mehr ich übe, desto besser verstehe ich."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "als ob 表示「好像……（其实不是）」——只是他的表现像这么以为。",
+        "audio": "Er spricht so laut, als ob ich schwerhörig wäre.",
+        "options": [
+          "他以为我听力不好",
+          "我听力真的不好",
+          "他在夸我听力好"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "比较级填空",
+        "explain": "müde 的比较级 müder（变音 + -er）。",
+        "display": "Je länger der Weg, desto ＿＿ wird man.（müde）",
+        "answer": "müder"
+      },
+      {
+        "type": "choice",
+        "q": "简略式认读",
+        "explain": "als + 虚拟式是 als ob 的简略式，意思相同。",
+        "display": "„Er tat so, als wäre er reich.\" 与哪句同义",
+        "options": [
+          "Er tat so, als ob er reich wäre.",
+          "Er war wirklich reich.",
+          "Er tat so, als ob er reich ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "比较级填空",
+        "explain": "viel 的比较级是 mehr。",
+        "display": "Je ＿＿ Leute kommen, desto mehr Stühle brauchen wir.（viel）",
+        "answer": "mehr"
+      },
+      {
+        "type": "classify",
+        "q": "句型分筐",
+        "explain": "als ob/als + 虚拟是 A；je 与 desto 成对出现是 B。",
+        "groups": [
+          "als ob 句",
+          "je…desto 句"
+        ],
+        "items": [
+          {
+            "text": "1. Sie lächelt, als ob sie glücklich wäre.",
+            "group": 0
+          },
+          {
+            "text": "2. Je eher, desto besser.",
+            "group": 1
+          },
+          {
+            "text": "3. Er läuft, als ob er es eilig hätte.",
+            "group": 0
+          },
+          {
+            "text": "4. Er tat so, als wäre er müde.",
+            "group": 0
+          },
+          {
+            "text": "5. Je kälter es ist, desto mehr Tee trinke ich.",
+            "group": 1
+          },
+          {
+            "text": "6. Je länger ich warte, desto ungeduldiger werde ich.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主句 + so, als ob 从句（动词 wäre 在尾）。",
+        "tokens": [
+          "so",
+          "als ob er krank wäre",
+          "Er schläft"
+        ],
+        "answer": [
+          "Er schläft",
+          "so",
+          "als ob er krank wäre"
+        ],
+        "displayAnswer": "Er schläft so, als ob er krank wäre."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补比较级",
+        "explain": "oft 的比较级 öfter。",
+        "audio": "Je öfter ich das mache, desto leichter wird es.",
+        "display": "Je ＿＿ ich das mache, desto leichter wird es.",
+        "answer": "öfter"
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "虚拟式过去：hätte + 分词 gewusst。",
+        "display": "Er sah aus, als ob er nichts ＿＿ hätte.（wissen）",
+        "answer": "gewusst"
+      },
+      {
+        "type": "choice",
+        "q": "desto 主句语序",
+        "explain": "desto + 比较级在第一位，变位动词紧跟其后。",
+        "options": [
+          "…, desto müder werde ich.",
+          "…, desto müder ich werde.",
+          "…, desto ich werde müder."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "比较级填空",
+        "explain": "schnell 的比较级 schneller。",
+        "display": "Je weniger Zeit wir haben, desto ＿＿ müssen wir arbeiten.（schnell）",
+        "answer": "schneller"
+      },
+      {
+        "type": "choice",
+        "q": "辨义",
+        "explain": "这是 je…desto 的省略式，高频口头禅。",
+        "display": "„Je mehr, desto besser.\" 的意思是",
+        "options": [
+          "越多越好",
+          "越来越少",
+          "多了反而坏"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "als ob 从句里 hätte 在句末，是虚拟式。",
+        "audio": "Sie tut so, als ob sie keine Zeit hätte.",
+        "answer": "Sie tut so, als ob sie keine Zeit hätte."
+      }
+    ],
+    "reading": {
+      "text": "Mein Großvater erzählt gern von früher. Je älter er wird, desto mehr Geschichten kennt er. Manchmal lacht er, als ob er wieder jung wäre. „Je mehr man erlebt\", sagt er, „desto mehr kann man erzählen.\" Er tut so, als ob er alles noch genau wüsste — und meistens stimmt es auch.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①爷爷的故事为什么越来越多？（答：经历越多，能讲的就越多。）②„als ob er wieder jung wäre\" — 他真的变年轻了吗？（答：没有，只是笑得像年轻时一样。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 句：2 句 je…desto、2 句 als ob。",
+      "sample": "范文：Je mehr ich übe, desto sicherer spreche ich Deutsch. Je länger der Winter ist, desto mehr freue ich mich auf den Frühling. Er tut so, als ob er keine Angst hätte. Sie sieht aus, als ob sie schlecht geschlafen hätte.",
+      "selfcheck": "自查：je 从句的动词在句末 □；desto 主句动词紧跟比较级 □；als ob 后面用了虚拟式（wäre/hätte）□。"
+    }
+  }
+]

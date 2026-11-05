@@ -1,0 +1,2392 @@
+[
+  {
+    "id": "g-a1-p1",
+    "level": "A1",
+    "order": 1,
+    "title": "字母与拼读",
+    "titleDe": "Das Alphabet & Buchstabieren",
+    "table": {
+      "caption": "26 个字母的德语名——注意字母的「名字」和它在单词里的「声音」是两回事，本表先背名字",
+      "headers": [
+        "字母",
+        "字母名",
+        "字母",
+        "字母名",
+        "字母",
+        "字母名"
+      ],
+      "rows": [
+        [
+          "A",
+          "a [aː]",
+          "J",
+          "jot [jɔt]",
+          "S",
+          "es [ʔɛs]"
+        ],
+        [
+          "B",
+          "be [beː]",
+          "K",
+          "ka [kaː]",
+          "T",
+          "te [teː]"
+        ],
+        [
+          "C",
+          "ce [tseː]",
+          "L",
+          "el [ʔɛl]",
+          "U",
+          "u [uː]"
+        ],
+        [
+          "D",
+          "de [deː]",
+          "M",
+          "em [ʔɛm]",
+          "V",
+          "vau [faʊ̯]"
+        ],
+        [
+          "E",
+          "e [eː]",
+          "N",
+          "en [ʔɛn]",
+          "W",
+          "we [veː]"
+        ],
+        [
+          "F",
+          "ef [ʔɛf]",
+          "O",
+          "o [oː]",
+          "X",
+          "ix [ɪks]"
+        ],
+        [
+          "G",
+          "ge [ɡeː]",
+          "P",
+          "pe [peː]",
+          "Y",
+          "Ypsilon [ˈʏpsilɔn]"
+        ],
+        [
+          "H",
+          "ha [haː]",
+          "Q",
+          "qu [kuː]",
+          "Z",
+          "zett [tsɛt]"
+        ],
+        [
+          "I",
+          "i [iː]",
+          "R",
+          "er [ʔeːɐ̯]",
+          "",
+          ""
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "四个特殊字母，德语独有或读法特殊",
+        "headers": [
+          "字母",
+          "名称",
+          "说明"
+        ],
+        "rows": [
+          [
+            "Ä ä",
+            "ä [ɛː]",
+            "独立字母，字典里排在 A 后"
+          ],
+          [
+            "Ö ö",
+            "ö [øː]",
+            "独立字母，圆唇"
+          ],
+          [
+            "Ü ü",
+            "ü [yː]",
+            "独立字母，圆唇"
+          ],
+          [
+            "ß",
+            "Eszett（ess-zett）",
+            "只小写，等于 ss 的音；大写写 SS"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "拼读（buchstabieren）是生活技能：报名、打电话、填表都要拼名字。问法：Wie schreibt man das?（这个词怎么写？）/ Buchstabieren Sie bitte.（请拼一下。）",
+      "一组「同韵字母」先打包记：B、C、D、E、G、P、T、V、W 的名字都以 [eː] 收尾，拼名字时最容易互相听错，报电话/拼姓名时要放慢",
+      "C 在德语词里很少单独出现，主要活在 ch、sch、ck 里和外来词里（Café、Computer、City 读法各异，先认读，规则在 P4）",
+      "德语名词首字母大写、句子首词大写、Sie 大写——拼写时要报「groß」（大写）：groß A",
+      "邮箱与网址的拼读符号：@ 读 at，. 读 Punkt，- 读 Bindestrich，_ 读 Unterstrich"
+    ],
+    "examples": [
+      {
+        "de": "Guten Tag! Wie ist Ihr Name?",
+        "zh": "您好！您叫什么名字？"
+      },
+      {
+        "de": "Ich heiße Chen Wei.",
+        "zh": "我叫 Chen Wei。"
+      },
+      {
+        "de": "Buchstabieren Sie bitte. — C-H-E-N, W-E-I.",
+        "zh": "请拼一下。——C-H-E-N，W-E-I。"
+      },
+      {
+        "de": "Danke! Und woher kommen Sie?",
+        "zh": "谢谢！您从哪里来？"
+      }
+    ],
+    "pitfalls": [
+      "E 和 I 两个字母名在电话里最容易听混（e [eː] vs i [iː]），拼读时对它们要额外放慢",
+      "V 叫 vau、W 叫 we，正好和英语反着来；J 叫 jot 不叫「捷」",
+      "ß 不能出现在词首，也没有大写形态（词首大写时写 SS，如 Straße 的路牌 STRASSE）"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "J",
+        "q": "你听到的是哪个字母？",
+        "explain": "J 的德语名是 jot。",
+        "options": [
+          "I",
+          "J",
+          "G",
+          "Y"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "V",
+        "q": "你听到的是哪个字母？",
+        "explain": "V 的名字是 vau [faʊ̯]，别和 W 的 we 混。",
+        "options": [
+          "W",
+          "F",
+          "V",
+          "B"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Z",
+        "q": "你听到的是哪个字母？",
+        "explain": "Z 叫 zett [tsɛt]。",
+        "options": [
+          "S",
+          "Z",
+          "C",
+          "X"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "Y 的德语字母名是？",
+        "explain": "Y 叫 Ypsilon，它是外来字母，主要出现在外来词里。",
+        "options": [
+          "Yot",
+          "Ypsilon",
+          "Ix",
+          "We"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "把字母分进两栏（名字以 [eː] 收尾 / 其他）",
+        "groups": [
+          "e组",
+          "其他"
+        ],
+        "items": [
+          {
+            "text": "B",
+            "group": 0
+          },
+          {
+            "text": "C",
+            "group": 0
+          },
+          {
+            "text": "D",
+            "group": 0
+          },
+          {
+            "text": "A",
+            "group": 1
+          },
+          {
+            "text": "G",
+            "group": 0
+          },
+          {
+            "text": "H",
+            "group": 1
+          },
+          {
+            "text": "P",
+            "group": 0
+          },
+          {
+            "text": "K",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "拼写 Berlin 缺最后一音：B-E-R-L-I-___",
+        "explain": "Berlin 拼读 B-E-R-L-I-N。",
+        "answer": "N"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "A, N, N, A",
+        "explain": "把听到的字母名连成词：Anna。本题答题框按整词判分，大小写按三级宽容。",
+        "answer": "Anna"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "D, E, U, T, S, C, H",
+        "explain": "SCH 是三个字母 C 在 H 前的组合拼读里逐个报出。",
+        "answer": "Deutsch"
+      },
+      {
+        "type": "choice",
+        "q": "邮箱里的 @ 在德语拼读时说？",
+        "explain": "@ 读 at（借自英语），. 才读 Punkt。",
+        "options": [
+          "Klammer",
+          "at",
+          "Punkt"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "「groß B」是什么意思？",
+        "explain": "groß 在拼读里指大写字母。",
+        "options": [
+          "大声的 B",
+          "大写 B",
+          "第二个 B"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "询问「这个词怎么拼」的问句是？",
+        "explain": "schreiben 是「写」，问拼写用 Wie schreibt man das?",
+        "options": [
+          "Wie sagt man das?",
+          "Wie schreibt man das?",
+          "Wie heißt das?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "E",
+        "q": "你听到的是哪个字母？",
+        "explain": "E 读 [eː]，I 读 [iː]，拼名字时最要小心的一对。",
+        "options": [
+          "I",
+          "E",
+          "A",
+          "O"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "请补完拼读：Hamburg = H-A-M-B-U-R-___",
+        "explain": "G 的字母名是 ge。",
+        "answer": "G"
+      },
+      {
+        "type": "choice",
+        "q": "ß 的说法哪个对？",
+        "explain": "ß（Eszett）只小写、从不词首，读音同 ss。",
+        "options": [
+          "只出现在词首",
+          "只小写、等于 ss 的音",
+          "是 B 的变体"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "把拼读字母排成词",
+        "explain": "Schule 的拼读，注意 SCH 三个字母连排。",
+        "tokens": [
+          "S",
+          "C",
+          "H",
+          "U",
+          "L",
+          "E"
+        ],
+        "answer": "SCHULE"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich heiße Li Wei.",
+        "display": "Ich heiße ___ Wei.",
+        "explain": "听清 Li 的拼读 L-I。",
+        "answer": "Li"
+      }
+    ],
+    "reading": {
+      "text": "— Guten Tag! Ich heiße Sara Klein. — Buchstabieren Sie bitte Ihren Namen. — K-L-E-I-N. — Danke. Woher kommen Sie? — Ich komme aus Berlin.",
+      "questions": [
+        {
+          "q": "Wie heißt die Frau?",
+          "options": [
+            "Sara Klein",
+            "Anna Klein",
+            "Sara Berlin"
+          ],
+          "answer": 0,
+          "explain": "Ich heiße Sara Klein。"
+        },
+        {
+          "q": "Was buchstabiert sie?",
+          "options": [
+            "ihren Vornamen",
+            "ihren Familiennamen",
+            "ihre Stadt"
+          ],
+          "answer": 1,
+          "explain": "K-L-E-I-N 是姓 Klein。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "把三个词拼读出来写下（字母间用连字符），再拼你自己的名字。",
+      "sample": "范文：Deutsch = D-E-U-T-S-C-H；Schule = S-C-H-U-L-E；China = C-H-I-N-A。"
+    },
+    "audioChips": [
+      {
+        "group": "字母表",
+        "items": [
+          {
+            "label": "A",
+            "speak": "A"
+          },
+          {
+            "label": "B",
+            "speak": "B"
+          },
+          {
+            "label": "C",
+            "speak": "C"
+          },
+          {
+            "label": "D",
+            "speak": "D"
+          },
+          {
+            "label": "E",
+            "speak": "E"
+          },
+          {
+            "label": "F",
+            "speak": "F"
+          },
+          {
+            "label": "G",
+            "speak": "G"
+          },
+          {
+            "label": "H",
+            "speak": "H"
+          },
+          {
+            "label": "I",
+            "speak": "I"
+          },
+          {
+            "label": "J",
+            "speak": "J"
+          },
+          {
+            "label": "K",
+            "speak": "K"
+          },
+          {
+            "label": "L",
+            "speak": "L"
+          },
+          {
+            "label": "M",
+            "speak": "M"
+          },
+          {
+            "label": "N",
+            "speak": "N"
+          },
+          {
+            "label": "O",
+            "speak": "O"
+          },
+          {
+            "label": "P",
+            "speak": "P"
+          },
+          {
+            "label": "Q",
+            "speak": "Q"
+          },
+          {
+            "label": "R",
+            "speak": "R"
+          },
+          {
+            "label": "S",
+            "speak": "S"
+          },
+          {
+            "label": "T",
+            "speak": "T"
+          },
+          {
+            "label": "U",
+            "speak": "U"
+          },
+          {
+            "label": "V",
+            "speak": "V"
+          },
+          {
+            "label": "W",
+            "speak": "W"
+          },
+          {
+            "label": "X",
+            "speak": "X"
+          },
+          {
+            "label": "Y",
+            "speak": "Y"
+          },
+          {
+            "label": "Z",
+            "speak": "Z"
+          },
+          {
+            "label": "Ä",
+            "speak": "Ä"
+          },
+          {
+            "label": "Ö",
+            "speak": "Ö"
+          },
+          {
+            "label": "Ü",
+            "speak": "Ü"
+          },
+          {
+            "label": "ß",
+            "speak": "ß"
+          }
+        ]
+      },
+      {
+        "group": "拼读示范",
+        "items": [
+          {
+            "label": "Deutsch 拼读",
+            "speak": "D, E, U, T, S, C, H"
+          },
+          {
+            "label": "Berlin 拼读",
+            "speak": "B, E, R, L, I, N"
+          },
+          {
+            "label": "Anna 拼读",
+            "speak": "A, N, N, A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g-a1-p2",
+    "level": "A1",
+    "order": 2,
+    "title": "元音全量",
+    "titleDe": "Die Vokale: lang & kurz, Umlaute",
+    "table": {
+      "caption": "五个元音各有两副面孔——长音和短音，先看拼写信号",
+      "headers": [
+        "元音",
+        "长音（拼写信号 → 例词）",
+        "短音（拼写信号 → 例词）"
+      ],
+      "rows": [
+        [
+          "a",
+          "元音+单辅音：Vater, Tag；aa：Staat, Haar；ah：Bahn, Zahl",
+          "双辅音/辅音群：Stadt, Mann, Wasser"
+        ],
+        [
+          "e",
+          "元音+单辅音：Weg, gehen；ee：See, Tee；eh：zehn, sehr",
+          "双辅音/辅音群：Bett, Mensch, schnell；词尾弱读：bitte, lernen（弱化音）"
+        ],
+        [
+          "i",
+          "ie：Liebe, sieben；ih：ihm, ihn；i+单辅音（多外来词）：Maschine",
+          "双辅音/辅音群：Kind, Mitte, Fisch"
+        ],
+        [
+          "o",
+          "元音+单辅音：Brot, Sohn；oo：Boot；oh：Ohr, wohnen",
+          "双辅音/辅音群：offen, kommen, toll"
+        ],
+        [
+          "u",
+          "元音+单辅音：gut, Buch；uh：Uhr, Stuhl",
+          "双辅音/辅音群：und, Bus, Mutter"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "变元音 ä / ö / ü——嘴型先摆圆，音才对",
+        "headers": [
+          "音",
+          "长音例",
+          "短音例",
+          "备注"
+        ],
+        "rows": [
+          [
+            "ä",
+            "Mädchen, spät, Käse",
+            "Männer, Städte, Hände",
+            "ä 与 e 读音接近，靠拼写区分"
+          ],
+          [
+            "ö",
+            "schön, hören, Brot 的亲戚 Brötchen",
+            "können, Wörter, öffnen",
+            "发音时嘴唇撅圆说「e」"
+          ],
+          [
+            "ü",
+            "Tür, müde, grün",
+            "fünf, Glück, Stück",
+            "嘴唇撅圆说「i」"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "判断长短的流程（按顺序套）：①看到 ie → 长 i，与双写无关；②元音双写（aa/ee/oo）或元音后跟 h → 长；③元音后只有一个辅音 → 多半长；④元音后双辅音或两个以上辅音 → 短",
+      "高频例外先整记（不合流程但天天见）：in、mit、das、man、von、bis——这几个词元音都读短",
+      "长短是意义区别：同一个拼写骨架，长短不同是两个词（Weg [veːk] 路 / weg [vɛk] 离开）",
+      "词尾和非重读位置的 e 读弱化音 [ə]：bitte 的 te、lernen 的 en，别读成响亮的「额」全音",
+      "ö/ü 的发音动作：ö = 嘴型撅成 o、舌头说 e；ü = 嘴型撅成 u、舌头说 i。先摆嘴型再出声"
+    ],
+    "examples": [
+      {
+        "de": "Der Vater fährt in die Stadt.",
+        "zh": "爸爸开车进城。——Vater 长 a / Stadt 短 a"
+      },
+      {
+        "de": "Ich trinke Tee und lese im Bett.",
+        "zh": "我喝着茶在床上看书。——Tee 长 e / Bett 短 e"
+      },
+      {
+        "de": "Das Brot ist gut.",
+        "zh": "面包很好。——Brot 长 o / gut 长 u"
+      },
+      {
+        "de": "Die Tür ist offen.",
+        "zh": "门开着。——Tür 长 ü / offen 短 o"
+      }
+    ],
+    "pitfalls": [
+      "中国人最容易把长短读反的是 a：Staat（长）vs Stadt（短）只差拼写信号，别凭感觉",
+      "ü 不是「乌」也不是「玉」的近似含糊音：先把嘴撅圆，再想 i 的舌位",
+      "弱化 e 别读满：bitte 读「比-特（轻）」，第二个音节一带而过"
+    ],
+    "exercises": [
+      {
+        "type": "classify",
+        "q": "把词分进长音/短音两栏（看元音 a）",
+        "groups": [
+          "长",
+          "短"
+        ],
+        "items": [
+          {
+            "text": "Vater",
+            "group": 0
+          },
+          {
+            "text": "Stadt",
+            "group": 1
+          },
+          {
+            "text": "Staat",
+            "group": 0
+          },
+          {
+            "text": "Mann",
+            "group": 1
+          },
+          {
+            "text": "Bahn",
+            "group": 0
+          },
+          {
+            "text": "Wasser",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "e 的长短",
+        "groups": [
+          "长",
+          "短"
+        ],
+        "items": [
+          {
+            "text": "Weg",
+            "group": 0
+          },
+          {
+            "text": "Bett",
+            "group": 1
+          },
+          {
+            "text": "See",
+            "group": 0
+          },
+          {
+            "text": "schnell",
+            "group": 1
+          },
+          {
+            "text": "zehn",
+            "group": 0
+          },
+          {
+            "text": "Mensch",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Staat",
+        "q": "你听到的是？",
+        "explain": "aa 双写，长音。",
+        "options": [
+          "Staat（国家）",
+          "Stadt（城市）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "offen",
+        "q": "你听到的是？",
+        "explain": "ff 双辅音，短音。",
+        "options": [
+          "Ofen（炉子）",
+          "offen（开着的）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Mitte",
+        "q": "你听到的是？",
+        "explain": "tt 双辅音短音；ie 的 Miete 是长音。",
+        "options": [
+          "Miete（房租）",
+          "Mitte（中间）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "schön",
+        "q": "你听到的是？",
+        "explain": "ö 圆唇，别和 o 混。",
+        "options": [
+          "schon（已经）",
+          "schön（美好的）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "哪个词的 a 是短音？",
+        "explain": "Stadt 元音后是 dt 辅音群，短音；前三者都是单辅音，长音（Tag 的 g 词尾清化但仍是单辅音信号）。",
+        "options": [
+          "Vater",
+          "Tag",
+          "Glas",
+          "Stadt"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "choice",
+        "q": "哪个词不符合「长音」拼写信号却读短音，是例外？",
+        "explain": "mit 是高频例外，整词记。",
+        "options": [
+          "Staat",
+          "Bahn",
+          "mit",
+          "See"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "choice",
+        "q": "「城市」一词的正确拼写是？",
+        "explain": "城市是短音 Stadt；Staat 是长音，意思是「国家」。",
+        "options": [
+          "Stadt",
+          "Staat"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Die Tür ist offen.",
+        "display": "Die ___ ist offen.",
+        "explain": "ü 长音 Tür。",
+        "answer": "Tür"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Bett",
+        "explain": "短音 + 双写 tt。",
+        "answer": "Bett"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Liebe",
+        "explain": "ie 是长 i 的拼写。",
+        "answer": "Liebe"
+      },
+      {
+        "type": "choice",
+        "q": "bitte 的第二个音节应该怎么读？",
+        "explain": "词尾 -e 读弱化音 [ə]。",
+        "options": [
+          "响亮的「特」",
+          "弱化轻读",
+          "不发音"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "ö/ü 归类",
+        "groups": [
+          "ö",
+          "ü"
+        ],
+        "items": [
+          {
+            "text": "schön",
+            "group": 0
+          },
+          {
+            "text": "Tür",
+            "group": 1
+          },
+          {
+            "text": "können",
+            "group": 0
+          },
+          {
+            "text": "fünf",
+            "group": 1
+          },
+          {
+            "text": "hören",
+            "group": 0
+          },
+          {
+            "text": "Glück",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "fünf",
+        "q": "你听到的是？",
+        "explain": "ü 短音 + nf 组合，注意别和 fünfzehn 的尾巴混。",
+        "options": [
+          "fünf（五）",
+          "vier（四）",
+          "fünfzehn（十五）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "ü 的正确发音动作是？",
+        "explain": "圆唇 + i 的舌位。",
+        "options": [
+          "嘴型撅成 u、舌头摆 i 的位置",
+          "嘴巴张大说 a",
+          "直接读「乌」"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich wohne in Berlin.",
+        "display": "Ich ___ in Berlin.",
+        "explain": "oh 是长音信号：wohnen 的 o 读长。",
+        "answer": "wohne"
+      },
+      {
+        "type": "choice",
+        "q": "哪一组是「长音 + 短音」的排列？",
+        "explain": "Staat 长、Stadt 短；第三组 Mann 短、Vater 长，顺序反了。",
+        "options": [
+          "Staat–Stadt",
+          "Stadt–Staat",
+          "Mann–Vater"
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Mein Vater arbeitet in der Stadt. Er fährt mit dem Bus. Am Abend trinkt er Tee und liest ein Buch. Das Buch ist gut.",
+      "questions": [
+        {
+          "q": "Wo arbeitet der Vater?",
+          "options": [
+            "im Dorf",
+            "in der Stadt",
+            "zu Hause"
+          ],
+          "answer": 1,
+          "explain": "in der Stadt（短音 a）。"
+        },
+        {
+          "q": "Was trinkt er am Abend?",
+          "options": [
+            "Kaffee",
+            "Tee",
+            "Wasser"
+          ],
+          "answer": 1,
+          "explain": "trinkt Tee（长音 ee）。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "听/读下列词，抄写并在长音元音下标 L、短音下标 K。",
+      "sample": "范文：Staat(L)、Stadt(K)、Weg(L)、Bett(K)、Tür(L)、fünf(K)。"
+    }
+  },
+  {
+    "id": "g-a1-p3",
+    "level": "A1",
+    "order": 3,
+    "title": "双元音与元音组合",
+    "titleDe": "Diphthonge: ei, au, eu & ie",
+    "table": {
+      "caption": "四组组合，三组是真双元音、一组是长音——先分清谁是谁",
+      "headers": [
+        "组合",
+        "读音",
+        "例词",
+        "拼写变体/备注"
+      ],
+      "rows": [
+        [
+          "ei",
+          "[aɪ̯]「爱」",
+          "mein, klein, Freitag, eins",
+          "ai 同音：Mai, Kaiser（认读）"
+        ],
+        [
+          "au",
+          "[aʊ̯]「奥」",
+          "Haus, Frau, auch, Auto",
+          "无变体，最好认"
+        ],
+        [
+          "eu",
+          "[ɔʏ̯]「奥伊」",
+          "heute, neun, Deutsch, teuer",
+          "äu 同音：Häuser, Bäume"
+        ],
+        [
+          "ie",
+          "[iː] 长「衣」",
+          "Liebe, viel, sieben, wieder",
+          "不是双元音！是长 i 的拼写（P2 已学，此处专练与 ei 的对决）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "双元音是一个音滑过去，不读成两个分开的元音：mein 是一个音节，不是「麦-因」两个音节",
+      "两对同音异写：ei = ai（Mai 读「麦」）、eu = äu（Häuser 的 äu 和 heute 的 eu 一个音）——听写时靠词本身区分，没有读音线索",
+      "ei 与 ie 的对决是本课主战场：Wein（酒，ei「爱」）vs Wien（维也纳，ie「衣」），拼写镜像、读音镜像，写反听反都是另一个词",
+      "元音开头的词，前面要带一个轻微的喉塞停顿（像咳嗽前的一顿）：ein Apfel 读成 ein / Apfel，两个元音不连成一片；词内同理：Theater、beenden 的元音衔接处有顿挫（认读即可）",
+      "eu 别读成「优」或「欧」：起点在「奥」、滑向「伊」，heute 不是「霍伊特」两段式，是一个滑音"
+    ],
+    "examples": [
+      {
+        "de": "Mein Haus ist klein, aber neu.",
+        "zh": "我的房子小，但是新。——ei/au/eu 一句集齐"
+      },
+      {
+        "de": "Heute ist Freitag.",
+        "zh": "今天是星期五。"
+      },
+      {
+        "de": "Ich liebe Wien und Wein aus Wien.",
+        "zh": "我爱维也纳，也爱维也纳的酒。——ie 与 ei 对照句，慢速听两遍"
+      },
+      {
+        "de": "Die Frau kauft ein Auto.",
+        "zh": "这位女士买一辆车。"
+      }
+    ],
+    "pitfalls": [
+      "看到 ie 先想「长衣」而不是「爱」，顺序记反是全局性错误：sieben 是「衣」、seine 是「爱」",
+      "äu 别读成「奥」就收尾：Häuser 后半截要滑到「伊」",
+      "元音开头的词别和前词连读成一片：und Essen 中间的停顿要在"
+    ],
+    "exercises": [
+      {
+        "type": "classify",
+        "q": "按读音把词分进四栏（ei / au / eu / ie）",
+        "groups": [
+          "ei",
+          "au",
+          "eu",
+          "ie"
+        ],
+        "items": [
+          {
+            "text": "mein",
+            "group": 0
+          },
+          {
+            "text": "Haus",
+            "group": 1
+          },
+          {
+            "text": "heute",
+            "group": 2
+          },
+          {
+            "text": "Liebe",
+            "group": 3
+          },
+          {
+            "text": "klein",
+            "group": 0
+          },
+          {
+            "text": "Frau",
+            "group": 1
+          },
+          {
+            "text": "neun",
+            "group": 2
+          },
+          {
+            "text": "sieben",
+            "group": 3
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Wein",
+        "q": "你听到的是？",
+        "explain": "ei 读「爱」。",
+        "options": [
+          "Wein（酒）",
+          "Wien（维也纳）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Wien",
+        "q": "你听到的是？",
+        "explain": "ie 读长「衣」。",
+        "options": [
+          "Wein（酒）",
+          "Wien（维也纳）"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "L___be（爱）",
+        "explain": "ie 长音。",
+        "options": [
+          "Liebe",
+          "Leibe"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "m___n（我的）",
+        "explain": "ei 读「爱」。",
+        "options": [
+          "mein",
+          "mien"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Häuser",
+        "q": "这个词里 äu 的读音和哪组相同？",
+        "explain": "äu 与 eu 同音 [ɔʏ̯]。",
+        "options": [
+          "ei 组",
+          "eu 组",
+          "au 组"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "下列哪个拼写读作 [maɪ̯n]？",
+        "explain": "ei 读 [aɪ̯]，mein；ie 的 mien 会读成 [miːn]，main 是英语拼写。",
+        "options": [
+          "mein",
+          "mien",
+          "main"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "heute",
+        "explain": "eu 起笔。",
+        "answer": "heute"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "klein",
+        "explain": "ei + n 结尾。",
+        "answer": "klein"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Mein Haus ist neu.",
+        "display": "Mein ___ ist neu.",
+        "explain": "au 的 Haus。",
+        "answer": "Haus"
+      },
+      {
+        "type": "choice",
+        "q": "Auto 里的 au 读什么？",
+        "explain": "au 是双元音，一个音节滑完。",
+        "options": [
+          "读「奥」一个滑音",
+          "读成 a-u 两个音",
+          "读「欧」"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "同音异写配对——把词分进 [aɪ̯] 声音栏与 [ɔʏ̯] 声音栏",
+        "groups": [
+          "[aɪ̯]",
+          "[ɔʏ̯]"
+        ],
+        "items": [
+          {
+            "text": "Mai",
+            "group": 0
+          },
+          {
+            "text": "Häuser",
+            "group": 1
+          },
+          {
+            "text": "eins",
+            "group": 0
+          },
+          {
+            "text": "Bäume",
+            "group": 1
+          },
+          {
+            "text": "zwei",
+            "group": 0
+          },
+          {
+            "text": "Leute",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Deutsch",
+        "q": "你听到 eu 在哪个词里？",
+        "explain": "Deutsch 的 eu 标准读法。",
+        "options": [
+          "Deutsch",
+          "Dutch（英语词干扰）",
+          "Detsch"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "Fr___tag",
+        "explain": "Freitag 用 ei。",
+        "options": [
+          "Freitag",
+          "Fritag"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich liebe dich.",
+        "display": "Ich ___ dich.",
+        "explain": "ie 长音 liebe，别写成 leibe。",
+        "answer": "liebe"
+      },
+      {
+        "type": "classify",
+        "q": "按读音再分一轮四栏（ei / au / eu / ie）",
+        "groups": [
+          "ie",
+          "ei",
+          "au",
+          "eu"
+        ],
+        "items": [
+          {
+            "text": "viel",
+            "group": 0
+          },
+          {
+            "text": "zwei",
+            "group": 1
+          },
+          {
+            "text": "Frau",
+            "group": 2
+          },
+          {
+            "text": "neu",
+            "group": 3
+          },
+          {
+            "text": "wieder",
+            "group": 0
+          },
+          {
+            "text": "auch",
+            "group": 2
+          }
+        ]
+      }
+    ],
+    "reading": {
+      "text": "Heute ist Freitag. Meine Frau und ich bleiben zu Hause. Wir trinken Wein und essen Käse. Das Haus ist klein, aber wir lieben es.",
+      "questions": [
+        {
+          "q": "Welcher Tag ist heute?",
+          "options": [
+            "Montag",
+            "Freitag",
+            "Sonntag"
+          ],
+          "answer": 1,
+          "explain": "Heute ist Freitag。"
+        },
+        {
+          "q": "Was trinken sie?",
+          "options": [
+            "Bier",
+            "Wein",
+            "Wasser"
+          ],
+          "answer": 1,
+          "explain": "trinken Wein（ei 音）。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "把下列词按读音抄进四栏（ei / au / eu / ie），每栏至少两词（词表：mein, Haus, heute, Liebe, klein, Frau, neun, viel）。",
+      "sample": "范文：ei：mein, klein；au：Haus, Frau；eu：heute, neun；ie：Liebe, viel。"
+    }
+  },
+  {
+    "id": "g-a1-p4",
+    "level": "A1",
+    "order": 4,
+    "title": "辅音全量",
+    "titleDe": "Die Konsonanten von A bis Z",
+    "table": {
+      "caption": "辅音总表——按发音部位与拼写分工排，每个音都要过",
+      "headers": [
+        "拼写",
+        "读音与规则",
+        "例词"
+      ],
+      "rows": [
+        [
+          "p / b",
+          "词首按拼写读；**词尾 b 读 [p]**",
+          "Park, Brot；halb [halp]"
+        ],
+        [
+          "t / d",
+          "同理；**词尾 d 读 [t]**",
+          "Tag, du；Hund [hʊnt], Kind"
+        ],
+        [
+          "k / g",
+          "同理；**词尾 g 读 [k]**",
+          "Kind, gut；Tag [taːk], Weg"
+        ],
+        [
+          "-ig",
+          "词尾读 [ɪç]（轻 ch）",
+          "König, wichtig, zwanzig"
+        ],
+        [
+          "f",
+          "[f]",
+          "Fisch, Frau, fünf"
+        ],
+        [
+          "v",
+          "多数读 [f]；少数外来词读 [v]",
+          "Vater, vier [f]；Vase, November（认读）[v]"
+        ],
+        [
+          "w",
+          "读 [v]",
+          "Wasser, wohnen, zwei"
+        ],
+        [
+          "s",
+          "词首/元音前/元音间读 [z]；词尾读 [s]",
+          "Sohn, lesen [z]；Haus, Glas [s]"
+        ],
+        [
+          "ß / ss",
+          "都读 [s]：长音与双元音后用 ß，短音后用 ss",
+          "Straße, heiß；Wasser, müssen"
+        ],
+        [
+          "z / tz",
+          "读 [ts]",
+          "Zeit, zehn, Herz；Katze, Platz"
+        ],
+        [
+          "sch",
+          "[ʃ] 一个音",
+          "Schule, Fisch, Tisch"
+        ],
+        [
+          "j",
+          "读 [j]；外来词读 [ʒ] 认读",
+          "ja, jung, Job；Journalist"
+        ],
+        [
+          "l / m / n",
+          "与中文近似，注意 l 要清晰",
+          "Liebe, Mann, Name"
+        ],
+        [
+          "ng",
+          "[ŋ]，后面不带 g 音",
+          "lang, singen, Hunger"
+        ],
+        [
+          "pf",
+          "[pf] 唇齿连发",
+          "Pferd, Apfel, Pfanne（认读）"
+        ],
+        [
+          "qu",
+          "[kv]",
+          "Quelle, Quark（认读）"
+        ],
+        [
+          "x",
+          "[ks]",
+          "Taxi, Text, sechs 的 chs 也是这个音"
+        ],
+        [
+          "y",
+          "外来词：[y]（Typ）或 [i]（Handy）认读",
+          "Typ, Handy"
+        ],
+        [
+          "h",
+          "词首读 [h]；元音后是长音标记、不发音",
+          "Haus [h]；gehen, zehn, Bahn（h 不响）"
+        ],
+        [
+          "r",
+          "词首/音节首读辅音 r（喉部轻颤或摩擦）；词尾 -er 与长元音后元音化读 [ɐ]",
+          "rot, Brot；Lehrer, vier, Mutter"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "ch 专表——德语辅音里规则最细的一个，必须单独过",
+        "headers": [
+          "出现位置",
+          "读音",
+          "例词"
+        ],
+        "rows": [
+          [
+            "在 a / o / u / au 之后",
+            "ach-Laut [x]（喉咙深处）",
+            "Buch, noch, auch, Dach"
+          ],
+          [
+            "在 e / i / ei / eu / äu 之后",
+            "ich-Laut [ç]（舌尖抵下齿、气流细）",
+            "ich, Milch, reich"
+          ],
+          [
+            "在 l / n / r 之后",
+            "ich-Laut [ç]",
+            "durch, Milch, manch-"
+          ],
+          [
+            "-chen 后缀里",
+            "永远 ich-Laut",
+            "Mädchen, Brötchen"
+          ],
+          [
+            "词首（外来词）",
+            "随来源：China 标准读 [ç]、Chor [k]、Chance [ʃ] 认读",
+            "China, Chor"
+          ],
+          [
+            "chs 连写",
+            "读 [ks]，不是 ch",
+            "sechs, wachsen, Fuchs"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "词尾清化（Auslautverhärtung）全规则：词尾的 b/d/g 一律读成 p/t/k，拼写不变——这是 P2 就提过的规则，这里覆盖全部三类并加 -ig 的特殊读法 [ɪç]",
+      "s 的三张脸按位置判：[z] 只在词首（Sohn）和元音之间（lesen）；其他位置 [s]；ß 和 ss 永远 [s]",
+      "ch 的判定只看它前面的音：a/o/u/au 后面是喉音 [x]，其余是轻音 [ç]；chs 是例外，读 [ks]",
+      "h 的分工：站词首它是辅音 [h]，跟在元音后面它只是「拉长前面元音」的标记，不出声（gehen 的 h 不读，Bahn 的 h 不读）",
+      "r 不用怕：词尾和 -er 结尾读成一个轻「啊」音（Lehrer ≈ 雷-啊），比读成卷舌更接近标准；词首轻读即可，不必大舌颤音"
+    ],
+    "examples": [
+      {
+        "de": "Der König trinkt Wasser und isst Fisch.",
+        "zh": "国王喝水吃鱼。——-ig、ss、sch"
+      },
+      {
+        "de": "Ich wohne in China und lerne Deutsch.",
+        "zh": "我住在中国，学德语。——China 的 ch、tsch"
+      },
+      {
+        "de": "Das Kind hat ein Buch und sechs Bücher.",
+        "zh": "孩子有一本书和六本书。——词尾 d、ach 音、chs"
+      },
+      {
+        "de": "Mein Vater fährt am Morgen zur Arbeit.",
+        "zh": "爸爸早上开车去上班。——v/f、词尾 r 弱化"
+      }
+    ],
+    "pitfalls": [
+      "sechs 不是「泽克斯」：chs 整体读 [ks]，全词一个音节 [zɛks]",
+      "wichtig / König 的尾巴是轻 ch 音 [ɪç]，不是「希」也不是「克」",
+      "lesen 中间的 s 读 [z]（嗡嗡的浊音），Haus 结尾的 s 读 [s]，位置决定，别一刀切"
+    ],
+    "exercises": [
+      {
+        "type": "classify",
+        "q": "把 ch 词分进 ach-Laut / ich-Laut 两栏",
+        "groups": [
+          "ach",
+          "ich"
+        ],
+        "items": [
+          {
+            "text": "Buch",
+            "group": 0
+          },
+          {
+            "text": "ich",
+            "group": 1
+          },
+          {
+            "text": "noch",
+            "group": 0
+          },
+          {
+            "text": "Milch",
+            "group": 1
+          },
+          {
+            "text": "auch",
+            "group": 0
+          },
+          {
+            "text": "Mädchen",
+            "group": 1
+          },
+          {
+            "text": "Dach",
+            "group": 0
+          },
+          {
+            "text": "reich",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "audio": "sechs",
+        "q": "chs 在 sechs 里读什么音？",
+        "explain": "chs 读 [ks]，sechs 整个词读 [zɛks]。",
+        "options": [
+          "[ks]",
+          "[ç]",
+          "[ʃ]"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "König",
+        "q": "词尾 -ig 读什么？",
+        "explain": "-ig 词尾读 ich-Laut。",
+        "options": [
+          "[ɪk]",
+          "[ɪç]",
+          "[ɪg]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "Hund 的正确读音是？",
+        "explain": "词尾 d 读 t。",
+        "options": [
+          "[hʊnd]（d 照读）",
+          "[hʊnt]（词尾清化）",
+          "[hʊŋt]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "classify",
+        "q": "把词分进 [z] 的 s / [s] 的 s 两栏",
+        "groups": [
+          "[z]",
+          "[s]"
+        ],
+        "items": [
+          {
+            "text": "Sohn",
+            "group": 0
+          },
+          {
+            "text": "lesen",
+            "group": 0
+          },
+          {
+            "text": "Haus",
+            "group": 1
+          },
+          {
+            "text": "Glas",
+            "group": 1
+          },
+          {
+            "text": "reisen",
+            "group": 0
+          },
+          {
+            "text": "Wasser（ss）",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "Str___e（街道，长音后）",
+        "explain": "长音后用 ß。",
+        "options": [
+          "Straße",
+          "Strasse"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "Wa___er（水，短音后）",
+        "explain": "短音后用 ss。",
+        "options": [
+          "Wasser",
+          "Waßer"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Zeit",
+        "explain": "z 读 [ts]。",
+        "answer": "Zeit"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Milch",
+        "explain": "l 后的 ch 是 ich-Laut，拼写仍是 ch。",
+        "answer": "Milch"
+      },
+      {
+        "type": "choice",
+        "q": "gehen 里的 h 怎么处理？",
+        "explain": "元音后的 h 只标记长音。",
+        "options": [
+          "读 [h]",
+          "不发音，是长音标记",
+          "读 [ç]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Wasser",
+        "q": "开头的 W 读什么？",
+        "explain": "德语 W = [v]。",
+        "options": [
+          "[w] 英语式",
+          "[v]",
+          "[f]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Vater",
+        "q": "开头的 V 读什么？",
+        "explain": "本土词 V 多读 [f]。",
+        "options": [
+          "[v]",
+          "[f]",
+          "[w]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "lang 的 ng 正确读法是？",
+        "explain": "ng 只发鼻音 [ŋ]。",
+        "options": [
+          "[ŋ] 不带 g 尾",
+          "[ŋg] 带清楚的 g",
+          "[n]"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "___ferd（马）",
+        "explain": "pf 是德语特色组合，Pferd 的 pf 要带出来。",
+        "options": [
+          "Pferd",
+          "Ferd"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Fenster",
+        "q": "这个词中间的 st 读什么？",
+        "explain": "词中 st 读 [st]；只有词首才读 [ʃt]（Stadt）。",
+        "options": [
+          "[ʃt]",
+          "[st]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Sport",
+        "q": "词首 Sp 读什么？",
+        "explain": "词首 sp 读 [ʃp]。",
+        "options": [
+          "[sp]",
+          "[ʃp]"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "Lehrer 结尾 -er 的读法是？",
+        "explain": "词尾 -er 元音化。",
+        "options": [
+          "卷舌大 R",
+          "轻「啊」音 [ɐ]",
+          "不发音"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Schule",
+        "explain": "sch 一个音 [ʃ]。",
+        "answer": "Schule"
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich habe sechs Bücher.",
+        "display": "Ich habe ___ Bücher.",
+        "explain": "chs 读 [ks]，拼写 sechs。",
+        "answer": "sechs"
+      },
+      {
+        "type": "classify",
+        "q": "词尾清化归类——把词分进「词尾读 p / 读 t / 读 k」三栏",
+        "groups": [
+          "p",
+          "t",
+          "k"
+        ],
+        "items": [
+          {
+            "text": "halb",
+            "group": 0
+          },
+          {
+            "text": "Hund",
+            "group": 1
+          },
+          {
+            "text": "Tag",
+            "group": 2
+          },
+          {
+            "text": "ab",
+            "group": 0
+          },
+          {
+            "text": "Kind",
+            "group": 1
+          },
+          {
+            "text": "Weg",
+            "group": 2
+          }
+        ]
+      }
+    ],
+    "reading": {
+      "text": "Ich heiße Jonas. Ich wohne in München. Am Morgen trinke ich Wasser und esse ein Brötchen. Dann fahre ich mit dem Zug in die Stadt. Der Zug ist schnell.",
+      "questions": [
+        {
+          "q": "Was trinkt Jonas?",
+          "options": [
+            "Kaffee",
+            "Wasser",
+            "Milch"
+          ],
+          "answer": 1,
+          "explain": "trinkt Wasser。"
+        },
+        {
+          "q": "Wie fährt er in die Stadt?",
+          "options": [
+            "mit dem Bus",
+            "mit dem Zug",
+            "mit dem Auto"
+          ],
+          "answer": 1,
+          "explain": "mit dem Zug。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "给六个词标出关键辅音的读法（从表中选注）：sechs、König、Milch、Hund、Vater、lang。",
+      "sample": "范文：sechs — chs=[ks]；König — -ig=[ɪç]；Milch — ch=[ç]；Hund — d 词尾读 [t]；Vater — V=[f]；lang — ng=[ŋ]。"
+    }
+  },
+  {
+    "id": "g-a1-p5",
+    "level": "A1",
+    "order": 5,
+    "title": "词的形状：音节、重音与拼写",
+    "titleDe": "Silben, Betonung & Schreibung",
+    "table": {
+      "caption": "重音规则全表——拿到生词先套这张表猜重音，八成准",
+      "headers": [
+        "情形",
+        "重音位置",
+        "例（大写 = 重读音节）"
+      ],
+      "rows": [
+        [
+          "普通德语词",
+          "第一个音节",
+          "AR-bei-ten, KIN-der, WA-sser"
+        ],
+        [
+          "可分动词",
+          "在前缀上",
+          "AUF-ste-hen, EIN-kau-fen, MIT-kom-men"
+        ],
+        [
+          "不可分前缀 be-/emp-/ent-/er-/ge-/miss-/ver-/zer-",
+          "不在前缀，在词干",
+          "be-ZAH-len, ver-STE-hen, be-KOM-men"
+        ],
+        [
+          "后缀 -ei / -ie / -ieren / -tion / -ik",
+          "在后缀上",
+          "Bä-cke-REI, fa-MI-li-e, stu-DIE-ren, In-for-ma-TION, Mu-SIK"
+        ],
+        [
+          "复合名词",
+          "第一个成分",
+          "HAUS-tür, BAHN-hof, KIN-der-gar-ten"
+        ],
+        [
+          "外来词（如 Computer、Hotel）",
+          "多在最后一个音节，认读为主",
+          "Com-PU-ter, Ho-TEL"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "拼写规则四条，写对的前提是读对",
+        "headers": [
+          "规则",
+          "内容",
+          "例"
+        ],
+        "rows": [
+          [
+            "ß / ss",
+            "长元音或双元音后用 ß；短元音后用 ss",
+            "Straße, heiß / Wasser, müssen"
+          ],
+          [
+            "ie",
+            "ie 永远读长 i，不拆开；反过来长 i 多数也拼 ie",
+            "Liebe, sieben"
+          ],
+          [
+            "双辅音",
+            "元音后的双辅音 = 前面元音读短（P2 流程的反面）",
+            "Bett, kommen, Wasser"
+          ],
+          [
+            "大写",
+            "名词、句首、Sie 大写；动词名词化也算名词（das Lesen）",
+            "der Tisch, das Lesen, Sie"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "猜重音四步：①先看是不是可分/不可分前缀词；②再看有没有 -ei/-ie/-ieren/-tion 这类后缀；③复合词看第一个成分；④都不沾边 → 第一个音节",
+      "音节切分帮两件事：判定长短（开音节的元音偏长：Va-ter；闭音节偏短：Was-ser）和朗读断句；德语一个元音 = 一个音节核心，数元音就数得出音节数（Dop-pel-kon-so-nant 处正是音节界）",
+      "可分与不可分的重音对立是听辨线索：AUFstehen（可分，起床）vs verSTEhen（不可分，理解）——重音位置本身就携带语法信息，后面学动词时回头用",
+      "拼写和读音互相锁死：听到短元音就写双辅音，听到长元音就查双写/h/单辅音——听写题全靠这条"
+    ],
+    "examples": [
+      {
+        "de": "Ich ARbeite in einem KINdergarten.",
+        "zh": "我在一家幼儿园工作。"
+      },
+      {
+        "de": "Er verSTEHt kein Deutsch? Doch, er verSTEHt alles!",
+        "zh": "他听不懂德语吗？不，他都懂！——不可分前缀不重读"
+      },
+      {
+        "de": "Wir STEIgen am BAHNhof UM.",
+        "zh": "我们在火车站换乘。——可分前缀 umsteigen 的前缀在句尾仍然重读感最强"
+      },
+      {
+        "de": "Sie stuDIERt InforMAtik in München.",
+        "zh": "她在慕尼黑学信息学。——-ieren 与外来词重音"
+      }
+    ],
+    "pitfalls": [
+      "中国人习惯把重音放词尾或平均用力：德语重音错了，听者是按另一个词在解码，优先改重音再改单音",
+      "verstehen 的 ver- 千万别重读：VERstehen 是把不可分读成可分的典型错误",
+      "Straße 写成 Strasse 在德国境内算拼写错（瑞士德语才不用 ß）"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "arbeiten",
+        "q": "重音在第几个音节？",
+        "explain": "普通词重音在首音节 AR-。",
+        "options": [
+          "第 1 个",
+          "第 2 个",
+          "第 3 个"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "verstehen",
+        "q": "重音在哪里？",
+        "explain": "不可分前缀不重读。",
+        "options": [
+          "ver- 前缀",
+          "-STE- 词干",
+          "最后一个音节"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "aufstehen",
+        "q": "重音在哪里？",
+        "explain": "可分前缀重读。",
+        "options": [
+          "AUF- 前缀",
+          "-STE- 词干"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "按重音规律把词分栏（首音节重音 / 前缀重音 / 后缀重音）",
+        "groups": [
+          "首音节",
+          "前缀",
+          "后缀"
+        ],
+        "items": [
+          {
+            "text": "Kindergarten",
+            "group": 0
+          },
+          {
+            "text": "einkaufen",
+            "group": 1
+          },
+          {
+            "text": "studieren",
+            "group": 2
+          },
+          {
+            "text": "Bahnhof",
+            "group": 0
+          },
+          {
+            "text": "Bäckerei",
+            "group": 2
+          },
+          {
+            "text": "mitkommen",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "Familie 的重音在？",
+        "explain": "-ie 后缀重读：fa-MI-li-e。",
+        "options": [
+          "FA-",
+          "-MI-",
+          "-E"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "hei___（热的）",
+        "explain": "双元音 ei 后用 ß（德国拼写）。",
+        "options": [
+          "heiß",
+          "heiss"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "mü___en（必须，短音）",
+        "explain": "短音后用 ss。",
+        "options": [
+          "müssen",
+          "müßen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "choice",
+        "q": "哪句大写全对？",
+        "explain": "句首、语言名作名词、Schule 都大写。",
+        "options": [
+          "ich lerne deutsch in der schule.",
+          "Ich lerne Deutsch in der Schule.",
+          "ich Lerne Deutsch in der Schule."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Bahnhof",
+        "explain": "复合词，两个成分 Bahn + Hof。",
+        "answer": "Bahnhof"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Kindergarten",
+        "explain": "Kinder + Garten，重音在 KIN-。",
+        "answer": "Kindergarten"
+      },
+      {
+        "type": "choice",
+        "q": "拿到生词 bezahlen，第一步看什么定重音？",
+        "explain": "be- 是不可分前缀，重音在词干 ZAHL。",
+        "options": [
+          "看词尾字母",
+          "看有没有不可分前缀 be-",
+          "数一数几个字母"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Information",
+        "q": "重音在哪个音节？",
+        "explain": "-tion 后缀重读。",
+        "options": [
+          "第 1 个",
+          "倒数第 1 个 (-TION)",
+          "第 2 个"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "给词标重音——本题按 choice 录入：Wasser 的重读音节是？",
+        "explain": "首音节。",
+        "options": [
+          "WA-",
+          "-sser"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Sie studiert in München.",
+        "display": "Sie ___ in München.",
+        "explain": "-ieren 动词，重音在 DIE。",
+        "answer": "studiert"
+      },
+      {
+        "type": "choice",
+        "q": "das Lesen 为什么 L 大写？",
+        "explain": "动词变名词（das Lesen 阅读这件事）要大写。",
+        "options": [
+          "因为在句首",
+          "因为是名词化的动词，算名词",
+          "因为读长音"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "把「猜重音四步」排成正确顺序",
+        "explain": "先前缀、再后缀、再复合，最后才默认首音节。",
+        "tokens": [
+          "都不沾边→首音节",
+          "看后缀（-ei/-ie/-ieren/-tion）",
+          "看前缀（可分/不可分）",
+          "看是否复合词"
+        ],
+        "answer": [
+          "看前缀（可分/不可分）",
+          "看后缀（-ei/-ie/-ieren/-tion）",
+          "看是否复合词",
+          "都不沾边→首音节"
+        ]
+      }
+    ],
+    "reading": {
+      "text": "Anna arbeitet in einer Bäckerei. Die Bäckerei ist am Bahnhof. Sie steht um fünf Uhr auf und fährt mit dem Bus zur Arbeit. Die Arbeit macht Spaß.",
+      "questions": [
+        {
+          "q": "Wo ist die Bäckerei?",
+          "options": [
+            "am Bahnhof",
+            "in München",
+            "zu Hause"
+          ],
+          "answer": 0,
+          "explain": "ist am Bahnhof。"
+        },
+        {
+          "q": "Wann steht Anna auf?",
+          "options": [
+            "um fünf Uhr",
+            "um acht Uhr",
+            "am Abend"
+          ],
+          "answer": 0,
+          "explain": "steht um fünf Uhr auf。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "给六个词把重读音节改写成大写（例：arbeiten → ARbeiten）。",
+      "sample": "范文：verstehen → verSTEhen；einkaufen → EINkaufen；Familie → faMIlie；Wasser → WAsser；Hotel → hoTEL；Bahnhof → BAHNhof。"
+    }
+  },
+  {
+    "id": "g-a1-p6",
+    "level": "A1",
+    "order": 6,
+    "title": "句子韵律：语调、意群与连读",
+    "titleDe": "Satzmelodie & Rhythm",
+    "table": {
+      "caption": "五种句调——同一串词，调子不同就是不同的句子",
+      "headers": [
+        "句型",
+        "语调走向",
+        "例"
+      ],
+      "rows": [
+        [
+          "陈述句",
+          "句尾下沉 ↘",
+          "Ich wohne in Shanghai.↘"
+        ],
+        [
+          "W 问句",
+          "句尾下沉 ↘",
+          "Wo wohnst du?↘"
+        ],
+        [
+          "是非问句",
+          "句尾上扬 ↗",
+          "Wohnst du in Shanghai?↗"
+        ],
+        [
+          "命令句",
+          "下沉、短促 ↘",
+          "Komm bitte her!↘"
+        ],
+        [
+          "列举",
+          "前几项上扬、最后一项下沉 ↗↗↘",
+          "Ich kaufe Brot,↗ Milch↗ und Eier.↘"
+        ],
+        [
+          "礼貌请求",
+          "先扬后沉、尾巴放软",
+          "Können Sie mir helfen?↘（缓降）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "缩合与口语连读——听力里听到的多半是这一版",
+        "headers": [
+          "书面",
+          "口语里听到",
+          "例"
+        ],
+        "rows": [
+          [
+            "in dem",
+            "im",
+            "im Büro"
+          ],
+          [
+            "in das",
+            "ins",
+            "ins Kino"
+          ],
+          [
+            "an dem",
+            "am",
+            "am Montag"
+          ],
+          [
+            "an das",
+            "ans",
+            "ans Meer"
+          ],
+          [
+            "zu dem",
+            "zum",
+            "zum Arzt"
+          ],
+          [
+            "zu der",
+            "zur",
+            "zur Schule"
+          ],
+          [
+            "Wie geht es dir?",
+            "Wie geht's?",
+            "口语问候的常态"
+          ],
+          [
+            "Ich habe …",
+            "Ich hab' …（认读）",
+            "口语省音，写作不许"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "意群（Sprechtakt）：长句按成分切块读，块与块之间微停——切分点一般在逗号、连词、介词短语边界；照标好的 / 练，先求断对，再求流利",
+      "句子重音落在实词（名词、动词、形容词、疑问词）上，冠词、代词、介词轻读带过：一句话的节奏是「重-轻-重-轻」的鼓点，不是每个词一样响",
+      "是非问句的上扬要从最后一个重读音节开始抬：WOHNST du in SHANGhai?↗ 尾音上挑才是「在问」",
+      "跟读法（本课的练习方式）：听一句 → 暂停 → 原样模仿（连语调一起抄）→ 对照原文自查漏词；不做机器评分，标准是「断句对、调子对、重音对」三项自查"
+    ],
+    "examples": [
+      {
+        "de": "Am MORgen / trinke ich einen KAFfee / und LEse die ZEItung.",
+        "zh": "早上我喝杯咖啡看看报。"
+      },
+      {
+        "de": "WOHNST du / in SHANGhai?↗",
+        "zh": "你住在上海吗？"
+      },
+      {
+        "de": "Ich KAUfe Brot, / MILCH / und EIer.↘",
+        "zh": "我买面包、牛奶和鸡蛋。"
+      },
+      {
+        "de": "KOMM bitte / um ACHT Uhr!",
+        "zh": "请八点来！"
+      }
+    ],
+    "pitfalls": [
+      "中国人读德语最容易平调一条线：陈述和疑问听起来没区别——先把是非问句的尾巴挑起来，区别立刻出来",
+      "别一个词一个词蹦：冠词代词要弱读连过去，im Büro 是一个块，不是三个词",
+      "W 问句别上扬：Wo wohnst du? 是下沉调，上扬反而像没听清在反问"
+    ],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Kommst du morgen?",
+        "q": "你听到的是？",
+        "explain": "动词开头 + 尾音上扬。",
+        "options": [
+          "陈述句",
+          "是非问句",
+          "W 问句"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Du kommst morgen.",
+        "q": "你听到的是？",
+        "explain": "尾音下沉，是陈述。",
+        "options": [
+          "陈述句",
+          "是非问句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Wo wohnst du?",
+        "q": "句尾语调是？",
+        "explain": "W 问句下沉。",
+        "options": [
+          "上扬",
+          "下沉"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "哪种断句最自然？",
+        "explain": "按成分切块，介词短语不拆。",
+        "options": [
+          "Ich / kaufe heute / im Supermarkt / Brot und Milch.",
+          "Ich kaufe / heute im / Supermarkt Brot / und Milch."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Ich kaufe Brot, Milch und Eier.",
+        "q": "列举的语调是？",
+        "explain": "列举的固定调子。",
+        "options": [
+          "全程下沉",
+          "前两项扬、最后一项沉",
+          "全程上扬"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "把缩合还原：ins = in ___",
+        "explain": "ins = in das（宾格缩合）。",
+        "answer": "das"
+      },
+      {
+        "type": "fill",
+        "q": "zum = zu ___",
+        "explain": "zum = zu dem（与格缩合）。",
+        "answer": "dem"
+      },
+      {
+        "type": "choice",
+        "q": "「Wie geht's?」是哪个句子的口语版？",
+        "explain": "口语里 es 缩成 's。",
+        "options": [
+          "Wie geht es dir?",
+          "Wie heißt du?",
+          "Wo gehst du hin?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Wir gehen ins Kino.",
+        "display": "Wir gehen ___ Kino.",
+        "explain": "听到的就是缩合形 ins。",
+        "answer": "ins"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Hast du Zeit?",
+        "explain": "是非问句，句末用问号——标点靠语调判。",
+        "answer": "Hast du Zeit?"
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Er hat Zeit.",
+        "explain": "同一批词，陈述用句号。",
+        "answer": "Er hat Zeit."
+      },
+      {
+        "type": "choice",
+        "q": "句子重音一般落在哪些词上？",
+        "explain": "实词重、功能词轻。",
+        "options": [
+          "冠词和代词",
+          "名词、动词、形容词等实词",
+          "每个词一样重"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_choice",
+        "audio": "Können Sie mir bitte helfen?",
+        "q": "这句的语气是？",
+        "explain": "语调放软 + bitte + 情态动词 = 礼貌请求。",
+        "options": [
+          "命令",
+          "礼貌请求",
+          "陈述"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "把跟读四步排对",
+        "explain": "跟读的标准流程。",
+        "tokens": [
+          "原样模仿（含语调）",
+          "听一句",
+          "对照原文自查",
+          "暂停"
+        ],
+        "answer": [
+          "听一句",
+          "暂停",
+          "原样模仿（含语调）",
+          "对照原文自查"
+        ]
+      }
+    ],
+    "reading": {
+      "text": "— Guten Morgen! Wie geht's? — Gut, danke. Und dir? — Auch gut. Fahren wir heute in die Stadt? — Ja, gern. Der Bus kommt um neun Uhr.",
+      "questions": [
+        {
+          "q": "Wie geht es den beiden?",
+          "options": [
+            "schlecht",
+            "gut",
+            "müde"
+          ],
+          "answer": 1,
+          "explain": "Gut, danke. / Auch gut."
+        },
+        {
+          "q": "Wann kommt der Bus?",
+          "options": [
+            "um acht Uhr",
+            "um neun Uhr",
+            "um zehn Uhr"
+          ],
+          "answer": 1,
+          "explain": "um neun Uhr。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "给三句话标上语调箭头（↗/↘）和意群斜线 /。",
+      "sample": "范文：Kommst du heute Abend?↗；Ich kaufe im Supermarkt / Brot, / Milch / und Käse.（列举前扬后沉）；Wo ist der Bahnhof?↘"
+    }
+  }
+]

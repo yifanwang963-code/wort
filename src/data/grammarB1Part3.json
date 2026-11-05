@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "t-b1-04",
+    "level": "B1",
+    "order": 17,
+    "title": "正式书信全量",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（一封正式信的骨架，投诉与咨询共用）",
+      "headers": [
+        "部分",
+        "投诉信",
+        "申请/咨询信"
+      ],
+      "rows": [
+        [
+          "主题行 Betreff",
+          "Betreff: Reklamation: Defekte Waschmaschine (Bestellnr. 1234)",
+          "Betreff: Anfrage: Deutschkurs B1 ab September"
+        ],
+        [
+          "称呼",
+          "Sehr geehrte Damen und Herren, / Sehr geehrte Frau Müller,",
+          "同左"
+        ],
+        [
+          "开头",
+          "Am 3. Mai habe ich bei Ihnen … gekauft. Leider …",
+          "Ich interessiere mich für … und hätte eine Frage."
+        ],
+        [
+          "主体",
+          "事实 → 问题 → 要求（礼貌式）",
+          "问题逐条、具体"
+        ],
+        [
+          "结尾",
+          "Ich erwarte Ihre Antwort bis … / Für Rückfragen stehe ich gern zur Verfügung.",
+          "Ich freue mich auf Ihre Antwort."
+        ],
+        [
+          "落款",
+          "Mit freundlichen Grüßen（**无逗号**）换行写姓名",
+          "同左"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "提要求用礼貌公式，不用命令：Ich bitte Sie, das Gerät zu prüfen. / Ich wäre Ihnen dankbar, wenn Sie mir die Unterlagen schicken könnten.（Konjunktiv II 是正式信的润滑剂）",
+      "正式信三件套禁区：不用口语缩略（hab ich）、不用感叹号堆情绪、不用 „Hallo / Tschüss\"。",
+      "右上角地点日期行（认读）：Shanghai, den 4. November 2026——den 不能漏。",
+      "称呼后用逗号、下一段首字母小写（德语书信惯例）：Sehr geehrte Frau Müller, am 3. Mai habe ich …"
+    ],
+    "examples": [
+      {
+        "de": "Betreff: Reklamation: Kaputtes Handy (Bestellnr. 4581)",
+        "zh": ""
+      },
+      {
+        "de": "Sehr geehrte Damen und Herren, am 12. Oktober habe ich in Ihrem Online-Shop Kopfhörer bestellt.",
+        "zh": ""
+      },
+      {
+        "de": "Leider funktioniert das Gerät seit einer Woche nicht mehr.",
+        "zh": ""
+      },
+      {
+        "de": "Ich bitte Sie, das Gerät zu reparieren oder mir ein neues zu schicken.",
+        "zh": ""
+      },
+      {
+        "de": "Könnten Sie mir bitte mitteilen, ob der Kurs auch online stattfindet?",
+        "zh": ""
+      },
+      {
+        "de": "Für Rückfragen stehe ich Ihnen gern zur Verfügung.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "落款加逗号（„Mit freundlichen Grüßen, Lan Wang\"）：这是英文习惯，德语标准是无逗号、姓名另起一行（已裁决口径）。",
+      "要求写成命令（„Schicken Sie mir sofort ein neues!\"）：正式信要用 bitten / KII 句式缓冲。",
+      "称呼后下一句首字母大写：德语信件称呼以逗号结束，下一段小写开头。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "落款格式哪个对",
+        "explain": "无逗号、姓名另行。",
+        "options": [
+          "Mit freundlichen Grüßen（换行）Lan Wang",
+          "Mit freundlichen Grüßen, Lan Wang",
+          "Mit freundlichen Grüßen Lan Wang（一行）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "主题行填空",
+        "explain": "投诉信主题行以 Reklamation 点明性质。",
+        "display": "＿＿: Kaputtes Handy (Bestellnr. 4581)（投诉信的主题行开头词）",
+        "answer": "Reklamation"
+      },
+      {
+        "type": "classify",
+        "q": "信件部件分筐",
+        "explain": "按信件从上到下的骨架对号入座。",
+        "groups": [
+          "主题行",
+          "称呼",
+          "主体",
+          "结尾/落款"
+        ],
+        "items": [
+          {
+            "text": "1. Betreff: Anfrage Zimmer frei?",
+            "group": 0
+          },
+          {
+            "text": "2. Sehr geehrte Damen und Herren,",
+            "group": 1
+          },
+          {
+            "text": "3. Ich bitte Sie, das Gerät zu prüfen.",
+            "group": 2
+          },
+          {
+            "text": "4. Mit freundlichen Grüßen",
+            "group": 3
+          },
+          {
+            "text": "5. Sehr geehrter Herr Klein,",
+            "group": 1
+          },
+          {
+            "text": "6. Ich freue mich auf Ihre Antwort.",
+            "group": 3
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "正式开头句",
+        "explain": "正式信不用口语缩略和命令口吻。",
+        "options": [
+          "Ich schreibe Ihnen, weil ich eine Frage zu Ihrer Anzeige habe.",
+          "Hallo, ich hab da mal ne Frage.",
+          "Schreiben Sie mir schnell zurück!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨类型",
+        "explain": "称呼 + 购买事实是正式信的开场。",
+        "audio": "Sehr geehrte Damen und Herren, am 3. Mai habe ich bei Ihnen einen Laptop gekauft.",
+        "options": [
+          "这是正式信（投诉/咨询）的开头",
+          "这是给朋友的邮件",
+          "这是广告"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "KII 礼貌句",
+        "explain": "wäre + dankbar 是提要求的标准缓冲句。",
+        "display": "Ich ＿＿ Ihnen dankbar, wenn Sie mir die Unterlagen schicken könnten.",
+        "answer": "wäre"
+      },
+      {
+        "type": "order",
+        "q": "信件行排序",
+        "explain": "顺序是主题行 → 称呼 → … → 落款。",
+        "tokens": [
+          "Sehr geehrte Damen und Herren",
+          "Mit freundlichen Grüßen",
+          "Betreff: Reklamation: Defekter Drucker"
+        ],
+        "answer": [
+          "Betreff: Reklamation: Defekter Drucker",
+          "Sehr geehrte Damen und Herren",
+          "Mit freundlichen Grüßen"
+        ],
+        "displayAnswer": "Betreff: Reklamation: Defekter Drucker Sehr geehrte Damen und Herren, Mit freundlichen Grüßen"
+      },
+      {
+        "type": "fill",
+        "q": "结尾套句",
+        "explain": "固定搭配 zur Verfügung stehen。",
+        "display": "Für Rückfragen stehe ich Ihnen gern zur ＿＿.",
+        "answer": "Verfügung"
+      },
+      {
+        "type": "choice",
+        "q": "提要求哪句礼貌",
+        "explain": "bitten + 不定式是正式信的提要求方式。",
+        "options": [
+          "Ich bitte Sie, den Betrag zurückzuzahlen.",
+          "Zahlen Sie den Betrag sofort zurück!",
+          "Ich will mein Geld wieder, schnell!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "erwarten + 宾格，正式信催复的标准句。",
+        "audio": "Ich erwarte Ihre Antwort bis zum 15. November.",
+        "display": "Ich erwarte Ihre ＿＿ bis zum 15. November.",
+        "answer": "Antwort"
+      },
+      {
+        "type": "fill",
+        "q": "称呼填空",
+        "explain": "女性称呼 geehrte，男性 geehrter。",
+        "display": "写信给 Müller 女士：Sehr ＿＿ Frau Müller,",
+        "answer": "geehrte"
+      },
+      {
+        "type": "choice",
+        "q": "咨询信问题句",
+        "explain": "Könnten Sie … mitteilen, ob … 是咨询信的标准问法。",
+        "options": [
+          "Könnten Sie mir bitte mitteilen, ob der Kurs auch online stattfindet?",
+          "Findet der Kurs online statt? Antwort schnell!",
+          "Ich will wissen, ob der Kurs online ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "内容归属分筐",
+        "explain": "报问题、要赔偿是投诉；打听信息是咨询；称呼落款共用。",
+        "groups": [
+          "投诉信特有",
+          "咨询信特有",
+          "两者通用"
+        ],
+        "items": [
+          {
+            "text": "1. Der Artikel ist leider defekt.",
+            "group": 0
+          },
+          {
+            "text": "2. Könnten Sie mir den Preis nennen?",
+            "group": 1
+          },
+          {
+            "text": "3. Mit freundlichen Grüßen",
+            "group": 2
+          },
+          {
+            "text": "4. Ich bitte Sie um einen Ersatz.",
+            "group": 0
+          },
+          {
+            "text": "5. Ich interessiere mich für Ihr Angebot.",
+            "group": 1
+          },
+          {
+            "text": "6. Sehr geehrte Damen und Herren,",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "日期行填空",
+        "explain": "地点日期行固定用 den。",
+        "display": "正式信右上角：Shanghai, ＿＿ 4. November 2026",
+        "answer": "den"
+      },
+      {
+        "type": "choice",
+        "q": "正式结尾句",
+        "explain": "entgegensehen 是正式信的期待回复句式。",
+        "options": [
+          "Ich sehe Ihrer Antwort mit Interesse entgegen.",
+          "Bis bald, schreib schnell!",
+          "Tschüss und danke!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "称呼后逗号，正文小写 ich 开头。",
+        "audio": "Sehr geehrte Frau Müller, ich schreibe Ihnen wegen meiner Bestellung.",
+        "answer": "Sehr geehrte Frau Müller, ich schreibe Ihnen wegen meiner Bestellung."
+      }
+    ],
+    "reading": {
+      "text": "Betreff: Reklamation: Defekte Kopfhörer (Bestellnr. 4581)\nSehr geehrte Damen und Herren,\nam 12. Oktober habe ich in Ihrem Online-Shop Kopfhörer gekauft. Leider funktioniert der linke Hörer seit einer Woche nicht mehr. Ich habe das Gerät nur normal benutzt.\nIch bitte Sie, die Kopfhörer zu reparieren oder mir ein neues Paar zu schicken. Ich wäre Ihnen dankbar, wenn das schnell möglich wäre. Für Rückfragen stehe ich Ihnen gern zur Verfügung.\nMit freundlichen Grüßen\nLan Wang",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这封信投诉的是什么问题？（答：左耳机坏了，用了一周就不工作了。）②写信人提出哪两个解决办法？（答：维修，或者换一副新的。）",
+      "preserveLines": true
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写一封投诉信（约 90 词）：你在网上买的手机壳尺寸不对（订单号自拟），要求换货，并请对方告知退货方式。必须包含：主题行、称呼、事实、问题、礼貌要求、结尾、规范落款。",
+      "sample": "范文：Betreff: Reklamation: Falsche Handyhülle (Bestellnr. 7823)\nSehr geehrte Damen und Herren,\nam 20. Oktober habe ich in Ihrem Online-Shop eine Handyhülle für mein Handy bestellt. Leider ist die Hülle zu klein und passt nicht. Ich bitte Sie, mir die richtige Größe zu schicken. Könnten Sie mir bitte mitteilen, wie ich die falsche Hülle zurücksenden kann? Ich wäre Ihnen für eine schnelle Antwort dankbar.\nMit freundlichen Grüßen\nLan Wang",
+      "selfcheck": "自查：落款 Grüßen 后没有逗号、姓名另起一行 □；要求用 bitten 或 KII、没有命令句 □；主题行带 Reklamation 和订单号 □；没有口语缩略 □。"
+    }
+  },
+  {
+    "id": "g-b1-13",
+    "level": "B1",
+    "order": 18,
+    "title": "分词作定语",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（分词夹在冠词和名词之间，当形容词用）",
+      "headers": [
+        "分词",
+        "含义方向",
+        "例"
+      ],
+      "rows": [
+        [
+          "Partizip I（warten → wartend）",
+          "主动、正在进行",
+          "der **wartende** Mann / die **spielenden** Kinder"
+        ],
+        [
+          "Partizip II 及物（schließen → geschlossen）",
+          "被动、已完成",
+          "die **geschlossene** Tür / der **reparierte** Wagen"
+        ],
+        [
+          "Partizip II 不及物 sein 类（ankommen → angekommen）",
+          "已完成的状态",
+          "der **angekommene** Zug"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "分词作定语要带形容词词尾，词尾规则与 A2 形容词词尾完全一致（der wartende / ein wartender / die wartenden）。",
+      "产出线：Partizip II 全产出（geschlossene Tür 是日常高频）；Partizip I 以认读为主、轻产出（spielende Kinder 级别即可）。",
+      "**扩展定语**（分词前再挂状语：der **gestern reparierte** Wagen / die **von allen Gästen gelobte** Suppe）只要求**认读**：阅读时把它还原成关系从句理解（der Wagen, der gestern repariert wurde）。",
+      "选 I 还是 II 看逻辑：名词自己在做动作用 I（das lesende Mädchen），名词被做或已完成用 II（der gelesene Brief）。"
+    ],
+    "examples": [
+      {
+        "de": "Die wartenden Gäste wurden unruhig.",
+        "zh": ""
+      },
+      {
+        "de": "Das gekochte Ei ist fertig.",
+        "zh": ""
+      },
+      {
+        "de": "Der angekommene Zug war voll.",
+        "zh": ""
+      },
+      {
+        "de": "Die von Gästen gelobte Suppe war schnell weg.",
+        "zh": ""
+      },
+      {
+        "de": "Ein schlafendes Kind darf man nicht wecken.",
+        "zh": ""
+      },
+      {
+        "de": "Der gestern reparierte Wagen fährt wieder.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "分词不带词尾（„der wartend Mann\"）：作定语必须按形容词变格。",
+      "I/II 用反（„der gewartete Mann\" 表示在等的人）：等的人是主动，用 wartende。",
+      "扩展定语读不懂就跳过整句：先抓最后的名词，再把分词块还原成从句。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "正在等的人",
+        "explain": "主动进行中用 Partizip I + 词尾。",
+        "options": [
+          "der wartende Mann",
+          "der gewartete Mann",
+          "der wartend Mann"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分词定语填空",
+        "explain": "sein 类动词的 P II 表已完成，词尾 -e 随 der。",
+        "display": "Der ＿＿ Zug kam zu spät.（ankommen）",
+        "answer": "angekommene"
+      },
+      {
+        "type": "classify",
+        "q": "分词方向分筐",
+        "explain": "名词自己在动的用 I，被动或已完成的用 II。",
+        "groups": [
+          "正在进行（Partizip I）",
+          "已完成/被动（Partizip II）"
+        ],
+        "items": [
+          {
+            "text": "1. das schlafende Kind",
+            "group": 0
+          },
+          {
+            "text": "2. das gekaufte Brot",
+            "group": 1
+          },
+          {
+            "text": "3. die lachende Frau",
+            "group": 0
+          },
+          {
+            "text": "4. der geöffnete Brief",
+            "group": 1
+          },
+          {
+            "text": "5. der angekommene Zug",
+            "group": 1
+          },
+          {
+            "text": "6. die wartenden Gäste",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "关系从句改分词",
+        "explain": "spielen 的 P I 是 spielend + 词尾 e。",
+        "display": "das Kind, das spielt →",
+        "options": [
+          "das spielende Kind",
+          "das gespielte Kind",
+          "das spieltende Kind"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "扩展定语认读",
+        "explain": "von Gästen gelobte = 被客人称赞的，还原成被动从句理解。",
+        "audio": "Die von Gästen gelobte Suppe war schnell weg.",
+        "options": [
+          "汤被客人称赞，很快卖完",
+          "汤是客人做的",
+          "客人把汤打包了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分词定语填空",
+        "explain": "账单是被付的，用 P II bezahlt + 词尾 e。",
+        "display": "Die ＿＿ Rechnung liegt auf dem Tisch.（bezahlen）",
+        "answer": "bezahlte"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "分词定语站在冠词和名词之间。",
+        "tokens": [
+          "Tür",
+          "Die",
+          "geschlossene"
+        ],
+        "answer": [
+          "Die",
+          "geschlossene",
+          "Tür"
+        ],
+        "displayAnswer": "Die geschlossene Tür."
+      },
+      {
+        "type": "choice",
+        "q": "词尾找错",
+        "explain": "Auto 是中性，冠词 das 决定词尾 -e 且冠词本身要对。",
+        "options": [
+          "das reparierte Auto",
+          "der reparierte Auto",
+          "die reparierte Auto"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "ein 后的词尾",
+        "explain": "ein + 阳性主格，形容词词尾是 -er：geschriebener。",
+        "display": "Ein ＿＿ Brief liegt auf dem Tisch.（schreiben 的 P II 作定语）",
+        "answer": "geschriebener"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补分词定语",
+        "explain": "复数定冠词后词尾 -en。",
+        "audio": "Die gekochten Eier sind fertig.",
+        "display": "Die ＿＿ Eier sind fertig.",
+        "answer": "gekochten"
+      },
+      {
+        "type": "choice",
+        "q": "Partizip I 含义",
+        "explain": "P I 是主动同时：能说服人的论点。",
+        "display": "ein überzeugendes Argument ＝",
+        "options": [
+          "ein Argument, das überzeugt",
+          "ein Argument, das überzeugt wurde",
+          "ein Argument, das überzeugt wird morgen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分词定语填空",
+        "explain": "窗户是被打破的，P II zerbrochen + -e。",
+        "display": "Das ＿＿ Fenster muss repariert werden.（zerbrechen）",
+        "answer": "zerbrochene"
+      },
+      {
+        "type": "choice",
+        "q": "扩展定语认读",
+        "explain": "gestern 挂在分词前，构成扩展定语块。",
+        "display": "哪句含有扩展定语",
+        "options": [
+          "Der gestern reparierte Wagen fährt wieder.",
+          "Der Wagen ist rot.",
+          "Der Wagen fährt schnell."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Partizip I 填空",
+        "explain": "复数 + 定冠词，wartend 加词尾 -en。",
+        "display": "Die ＿＿ Gäste warten noch am Eingang.（warten）",
+        "answer": "wartenden"
+      },
+      {
+        "type": "choice",
+        "q": "sein 类 P II 认读",
+        "explain": "angekommen 对应完成时 ist angekommen。",
+        "display": "der angekommene Zug ＝",
+        "options": [
+          "der Zug, der angekommen ist",
+          "der Zug, der gerade ankommt (Zukunft)",
+          "der Zug, der ankommen wird"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "geschlossene 是分词定语，不是谓语。",
+        "audio": "Der geschlossene Laden öffnet morgen wieder.",
+        "answer": "Der geschlossene Laden öffnet morgen wieder."
+      }
+    ],
+    "reading": {
+      "text": "Der ankommende Zug aus Hamburg hatte Verspätung. Die wartenden Fahrgäste wurden unruhig. Eine Frau las die mitgebrachte Zeitung, ein Mann trank den gekauften Kaffee. Endlich kam der Zug, und die wartenden Menschen stiegen schnell ein.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①乘客为什么不耐烦？（答：火车晚点了。）②男人喝的咖啡有什么特点？（答：是买来的——文中用分词定语 gekauften 交代了来源。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 句带分词定语的句子：2 句 Partizip II、1 句 Partizip I、1 句自选。",
+      "sample": "范文：Die gekochte Suppe steht auf dem Tisch. Der reparierte Computer läuft wieder. Die spielenden Kinder sind laut. Das geschlossene Fenster bleibt heute zu.",
+      "selfcheck": "自查：分词都站在冠词和名词之间 □；词尾随冠词和单复数变了 □；正在进行的动作没用错 P II □。"
+    }
+  },
+  {
+    "id": "g-b1-14",
+    "level": "B1",
+    "order": 19,
+    "title": "名词化与动词名词搭配",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（固定动词搭配 Funktionsverbgefüge——动词变轻，意义在名词上）",
+      "headers": [
+        "搭配",
+        "意思",
+        "例"
+      ],
+      "rows": [
+        [
+          "eine Entscheidung treffen",
+          "做决定",
+          "Wir müssen eine Entscheidung **treffen**."
+        ],
+        [
+          "eine Frage stellen / eine Antwort geben",
+          "提问 / 回答",
+          "Darf ich eine Frage **stellen**?"
+        ],
+        [
+          "Abschied nehmen (von)",
+          "告别",
+          "Er **nahm** von allen **Abschied**."
+        ],
+        [
+          "in Kontakt bleiben / Kontakt aufnehmen",
+          "保持 / 取得联系",
+          "**Bleiben** wir in **Kontakt**!"
+        ],
+        [
+          "in Frage kommen",
+          "可被考虑",
+          "Das kommt nicht in **Frage**."
+        ],
+        [
+          "zur Verfügung stehen / stellen",
+          "可供使用 / 提供",
+          "Ich **stehe** Ihnen zur **Verfügung**."
+        ],
+        [
+          "eine Rolle spielen",
+          "起作用",
+          "Geld spielt keine **Rolle**."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（名词化三条路）",
+        "headers": [
+          "路",
+          "构成",
+          "例"
+        ],
+        "rows": [
+          [
+            "-ung 名词",
+            "动词词干 + -ung（阴性）",
+            "entscheiden → die Entscheidung, entwickeln → die Entwicklung"
+          ],
+          [
+            "不定式名词化",
+            "das + 不定式（中性，首字母大写）",
+            "das Lesen, das Kochen, beim Kochen"
+          ],
+          [
+            "形容词名词化（认读为主）",
+            "das + 形容词大写",
+            "das Gute, das Neue, das Schöne"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "FVG 的动词只负责变位（treffen / nehmen / geben / bleiben），真正的意义在名词上；正式文章和通知里密度极高，是 B1 阅读的隐形门槛。",
+      "treffen 的过去式 traf、分词 getroffen；nehmen 的变位同 A1（nimmt, nahm）；这些轻动词形式要跟搭配一起记。",
+      "名词化是德语「书面感」的来源：口语说 „Ich entscheide morgen\"，书面写 „Die Entscheidung fällt morgen\"。"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen bis Freitag eine Entscheidung treffen.",
+        "zh": ""
+      },
+      {
+        "de": "Darf ich eine Frage stellen?",
+        "zh": ""
+      },
+      {
+        "de": "Bleiben wir in Kontakt!",
+        "zh": ""
+      },
+      {
+        "de": "Das kommt für mich nicht in Frage.",
+        "zh": ""
+      },
+      {
+        "de": "Der Raum steht Ihnen zur Verfügung.",
+        "zh": ""
+      },
+      {
+        "de": "Beim Kochen höre ich Musik.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "搭配动词用错（„eine Entscheidung machen\"）：固定搭配是 treffen，中式直译最容易翻车在这里。",
+      "FVG 名词漏冠词或用错格：eine Entscheidung（宾格）、in Kontakt（介词短语无冠词是固定形式，别加 den）。",
+      "不定式名词化不大写（„das lesen\"）：名词化后首字母必须大写。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "搭配动词",
+        "explain": "固定搭配 treffen。",
+        "display": "Wir müssen eine Entscheidung ＿＿.",
+        "options": [
+          "treffen",
+          "machen",
+          "tun"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "搭配动词填空",
+        "explain": "Fragen stellt man——提问用 stellen。",
+        "display": "Darf ich eine Frage ＿＿?",
+        "answer": "stellen"
+      },
+      {
+        "type": "classify",
+        "q": "短语分筐",
+        "explain": "A 组的动词换成 machen 就不成立，是固定搭配。",
+        "groups": [
+          "固定动词搭配",
+          "普通动词短语"
+        ],
+        "items": [
+          {
+            "text": "1. eine Entscheidung treffen",
+            "group": 0
+          },
+          {
+            "text": "2. ein Brot kaufen",
+            "group": 1
+          },
+          {
+            "text": "3. Kontakt aufnehmen",
+            "group": 0
+          },
+          {
+            "text": "4. Wasser trinken",
+            "group": 1
+          },
+          {
+            "text": "5. eine Rolle spielen",
+            "group": 0
+          },
+          {
+            "text": "6. eine Tür öffnen",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "辨义",
+        "explain": "in Frage kommen = 可被考虑，否定即排除。",
+        "display": "„Das kommt nicht in Frage.\" 的意思是",
+        "options": [
+          "这不可能/不在考虑范围",
+          "这是个问题",
+          "有人提出了问题"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "bis morgen 是期限，Entscheidung treffen 是做决定。",
+        "audio": "Wir müssen bis morgen eine Entscheidung treffen.",
+        "options": [
+          "明天之前必须做决定",
+          "明天见面开会",
+          "决定已经做好了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "名词化填空",
+        "explain": "-ung 名词化，阴性。",
+        "display": "entwickeln → die ＿＿",
+        "answer": "Entwicklung"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "müssen 第二位，FVG 名词在中段，treffen 守尾。",
+        "tokens": [
+          "Entscheidung",
+          "Wir",
+          "eine",
+          "treffen",
+          "müssen"
+        ],
+        "answer": [
+          "Wir",
+          "müssen",
+          "eine",
+          "Entscheidung",
+          "treffen"
+        ],
+        "displayAnswer": "Wir müssen eine Entscheidung treffen."
+      },
+      {
+        "type": "choice",
+        "q": "固定短语填空",
+        "explain": "zur Verfügung stehen = 可供您使用。",
+        "display": "Der Raum steht Ihnen zur ＿＿.",
+        "options": [
+          "Verfügung",
+          "Wahl",
+          "Zeit"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "不定式名词化",
+        "explain": "das/beim + 不定式名词化，首字母大写。",
+        "display": "Beim ＿＿ höre ich Musik.（kochen）",
+        "answer": "Kochen"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补名词",
+        "explain": "in Kontakt bleiben 是告别时的固定说法。",
+        "audio": "Bleiben wir in Kontakt!",
+        "display": "Bleiben wir in ＿＿!",
+        "answer": "Kontakt"
+      },
+      {
+        "type": "choice",
+        "q": "告别搭配",
+        "explain": "Abschied nehmen von = 向……告别。",
+        "display": "Am Bahnhof nahm er von seinen Freunden ＿＿.",
+        "options": [
+          "Abschied",
+          "Kontakt",
+          "Frage"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "动词变位填空",
+        "explain": "eine Antwort geben，Sie 形式与原形同形。",
+        "display": "Bitte ＿＿ Sie mir eine Antwort.（geben 的 Sie 形式）",
+        "answer": "geben"
+      },
+      {
+        "type": "classify",
+        "q": "名词化来源分筐",
+        "explain": "-ung 和不定式名词化来自动词；Freiheit 来自形容词 frei。",
+        "groups": [
+          "来自动词",
+          "来自形容词"
+        ],
+        "items": [
+          {
+            "text": "1. die Entscheidung",
+            "group": 0
+          },
+          {
+            "text": "2. das Gute",
+            "group": 1
+          },
+          {
+            "text": "3. die Entwicklung",
+            "group": 0
+          },
+          {
+            "text": "4. das Neue",
+            "group": 1
+          },
+          {
+            "text": "5. das Lesen",
+            "group": 0
+          },
+          {
+            "text": "6. die Freiheit",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "搭配填空",
+        "explain": "eine Rolle spielen = 起作用。",
+        "display": "Geld spielt bei dieser Entscheidung keine ＿＿.",
+        "options": [
+          "Rolle",
+          "Frage",
+          "Kontakt"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "搭配填空",
+        "explain": "Kontakt aufnehmen mit = 与……取得联系。",
+        "display": "Sie nahm mit der Firma ＿＿ auf.",
+        "answer": "Kontakt"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "Frage stellen 是提问的固定搭配。",
+        "audio": "Darf ich eine Frage stellen?",
+        "answer": "Darf ich eine Frage stellen?"
+      }
+    ],
+    "reading": {
+      "text": "Für junge Leute spielt Geld eine große Rolle. Viele müssen früh eine Entscheidung treffen: Studium oder Ausbildung? Wer Kontakt zu Firmen aufnimmt, hat später bessere Chancen. „Bleiben Sie mit uns in Kontakt\", sagen viele Firmen. Die Entwicklung auf dem Arbeitsmarkt ist schnell, und gute Fragen zu stellen ist überall wichtig.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①年轻人要做的决定是什么？（答：读大学还是做职业培训。）②文中公司对年轻人说什么？（答：与他们保持联系。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 句，各用一个固定搭配（treffen / stellen / in Kontakt bleiben / eine Rolle spielen）。",
+      "sample": "范文：Ich muss bald eine Entscheidung treffen. Darf ich eine Frage stellen? Wir bleiben in Kontakt. Erfahrung spielt eine große Rolle.",
+      "selfcheck": "自查：搭配里的名词冠词用对了 □；treffen / stellen 没换成 machen □；有一句用了名词化（-ung 或 das + 不定式）□。"
+    }
+  },
+  {
+    "id": "g-b1-15",
+    "level": "B1",
+    "order": 20,
+    "title": "构词系统",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（B1 阅读的拆词工具箱）",
+      "headers": [
+        "手段",
+        "规则",
+        "例"
+      ],
+      "rows": [
+        [
+          "复合词",
+          "最后一个词决定性与数；中间可有连接音 -s- / -n- / -en-",
+          "der Beruf + die Schule → die **Berufsschule**；die Arbeit + s + die Zeit → die **Arbeitszeit**"
+        ],
+        [
+          "-bar",
+          "能被…的",
+          "les**bar**、zahl**bar**、mach**bar**"
+        ],
+        [
+          "-los",
+          "没有…的",
+          "arbeits**los**、kosten**los**、hilf**los**"
+        ],
+        [
+          "-heit / -keit",
+          "形容词 → 名词（阴性）",
+          "frei → die **Freiheit**；möglich → die **Möglichkeit**；krank → die **Krankheit**"
+        ],
+        [
+          "前缀 be- / ver- / er-（认读）",
+          "be- 使动词直接带宾格；ver- 常表变化/错失；er- 常表达成",
+          "antworten → **be**antworten（带宾格）；sich **ver**laufen（走错）；**er**reichen（达成）"
+        ],
+        [
+          "形容词后缀 -ig / -lich / -isch",
+          "构成形容词",
+          "ruh**ig**、freund**lich**、kind**isch**"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "拆复合词三步：①从**最后一个名词**定性、定基本义；②往左逐个拆；③连接音（-s- 最常见）不是词义部分。Kindergarten = Kinder（复数连接）+ Garten。",
+      "复合词重音在**第一部分**：**Ar**beitszeit、**Be**rufsschule。",
+      "-keit 跟在 -ig / -lich / -bar 形容词后面（Möglichkeit、Höflichkeit），其他形容词多用 -heit（Freiheit、Krankheit、Sicherheit）。",
+      "词书里的 14 个构词碎片（Bio-、Doppel-、un-、-weise 等）在本单元正式亮相：它们不能单独用，是造词的零件。"
+    ],
+    "examples": [
+      {
+        "de": "Die Berufsschule ist in der Nachbarstadt.",
+        "zh": ""
+      },
+      {
+        "de": "Er ist seit Monaten arbeitslos.",
+        "zh": ""
+      },
+      {
+        "de": "Das Formular ist nicht lesbar.",
+        "zh": ""
+      },
+      {
+        "de": "Die Möglichkeit gibt es leider nicht.",
+        "zh": ""
+      },
+      {
+        "de": "Kinder brauchen Freiheit und Sicherheit.",
+        "zh": ""
+      },
+      {
+        "de": "Der Kindergarten ist neben der Schule.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "复合词的性看第一个词（错）：永远看**最后一个词**——die Tür + der Schlüssel = **der** Türschlüssel。",
+      "连接音当实词翻译（Arbeitszeit 里的 s 没有意思）。",
+      "-los 读成「丢了」：arbeitslos 是「没有工作的」，不是「丢了工作」的动作。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "复合词的性",
+        "explain": "性随最后一个词 Schlüssel（阳性）。",
+        "display": "die Tür + der Schlüssel ＝",
+        "options": [
+          "der Türschlüssel",
+          "die Türschlüssel",
+          "das Türschlüssel"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "造复合词",
+        "explain": "中间加连接音 -s-。",
+        "display": "die Arbeit + die Zeit → die ＿＿（注意连接音）",
+        "answer": "Arbeitszeit"
+      },
+      {
+        "type": "classify",
+        "q": "后缀分筐",
+        "explain": "看后缀定功能：能被、没有、名词化。",
+        "groups": [
+          "-bar（能被…）",
+          "-los（没有…）",
+          "-heit/-keit（名词）"
+        ],
+        "items": [
+          {
+            "text": "1. lesbar",
+            "group": 0
+          },
+          {
+            "text": "2. arbeitslos",
+            "group": 1
+          },
+          {
+            "text": "3. Freiheit",
+            "group": 2
+          },
+          {
+            "text": "4. hilflos",
+            "group": 1
+          },
+          {
+            "text": "5. Möglichkeit",
+            "group": 2
+          },
+          {
+            "text": "6. zahlbar",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "辨义",
+        "explain": "-los = 没有（费用），即免费。",
+        "display": "kostenlos 的意思是",
+        "options": [
+          "免费的",
+          "非常贵的",
+          "没有价格的（不存在）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "arbeitslos 是持续状态，seit Monaten 强调已持续数月。",
+        "audio": "Er ist seit Monaten arbeitslos.",
+        "options": [
+          "他几个月没有工作了",
+          "他刚丢了工作（今天）",
+          "他工作很忙"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "名词化填空",
+        "explain": "-ig 结尾的形容词接 -keit。",
+        "display": "möglich → die ＿＿",
+        "answer": "Möglichkeit"
+      },
+      {
+        "type": "fill",
+        "q": "造复合词",
+        "explain": "Kinder 本身是复数形式作连接成分。",
+        "display": "die Kinder + der Garten → der ＿＿",
+        "answer": "Kindergarten"
+      },
+      {
+        "type": "choice",
+        "q": "be- 前缀认读",
+        "explain": "be- 把动词变成直接及物：die Frage beantworten、dem Mann antworten。",
+        "display": "beantworten 与 antworten 的区别是",
+        "options": [
+          "beantworten 直接带宾格（回答问题本身）",
+          "beantworten 用于口头，antworten 用于书面",
+          "两者没有区别"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "-los 填空",
+        "explain": "arbeitslos = 没有工作的。",
+        "display": "ohne Arbeit sein → ＿＿ sein（形容词）",
+        "answer": "arbeitslos"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "lesbar = 能读的、字迹清楚的。",
+        "audio": "Das Formular ist nicht lesbar.",
+        "display": "Das Formular ist nicht ＿＿.",
+        "answer": "lesbar"
+      },
+      {
+        "type": "choice",
+        "q": "ver- 前缀认读",
+        "explain": "ver- 在此表「错失方向」。",
+        "display": "sich verlaufen 的意思是",
+        "options": [
+          "迷路、走错路",
+          "跑得很快",
+          "一起散步"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "名词化填空",
+        "explain": "frei 不是 -ig 结尾，用 -heit。",
+        "display": "frei → die ＿＿",
+        "answer": "Freiheit"
+      },
+      {
+        "type": "classify",
+        "q": "复合词的性分筐",
+        "explain": "只看最后一个词：Ende 中性、Tür 阴性、Buchstabe 阳性、Zeit 阴性、Wasser 中性、Abend 阳性。",
+        "groups": [
+          "der",
+          "die",
+          "das"
+        ],
+        "items": [
+          {
+            "text": "1. das Wochenende",
+            "group": 2
+          },
+          {
+            "text": "2. die Haustür",
+            "group": 1
+          },
+          {
+            "text": "3. der Buchstabe",
+            "group": 0
+          },
+          {
+            "text": "4. die Arbeitszeit",
+            "group": 1
+          },
+          {
+            "text": "5. das Trinkwasser",
+            "group": 2
+          },
+          {
+            "text": "6. der Feierabend",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "复合词重音",
+        "explain": "复合词重音永远在第一部分。",
+        "display": "Arbeitszeit 的重音在",
+        "options": [
+          "第一部分 Ar-",
+          "最后部分 -zeit",
+          "中间部分 -beits-"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "名词化填空",
+        "explain": "krank + -heit。",
+        "display": "krank → die ＿＿",
+        "answer": "Krankheit"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "Möglichkeit 来自 möglich + -keit。",
+        "audio": "Die Möglichkeit gibt es leider nicht.",
+        "answer": "Die Möglichkeit gibt es leider nicht."
+      }
+    ],
+    "reading": {
+      "text": "Viele junge Leute sind nach der Schule arbeitslos. Die Berufsschule bietet neue Möglichkeiten: In der Ausbildungszeit lernt man einen Beruf und verdient Geld. Wer sich hilflos fühlt, bekommt im Arbeitsamt Unterstützung. Auch die Freizeit kommt nicht zu kurz: Am Wochenende bleibt Zeit für Freunde und Familie.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①文中带 -los 的词有哪两个？（答：arbeitslos 与 hilflos。）② Berufsschule 能提供什么？（答：新的可能性/机会。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用给定的零件各造 1 个词并造句：Arbeit + -los；frei + -heit；lesen + -bar；Kinder + Garten。",
+      "sample": "范文：Mein Onkel ist seit einem Monat arbeitslos. Freiheit ist mir wichtig. Die Schrift auf dem Formular ist gut lesbar. Der Kindergarten ist neben der Schule.",
+      "selfcheck": "自查：复合词的性随最后一个词 □；-bar（能被）和 -los（没有）方向没用反 □；造出的名词首字母大写 □。"
+    }
+  },
+  {
+    "id": "t-b1-01",
+    "level": "B1",
+    "order": 21,
+    "title": "展示与汇报",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（Präsentation 五段结构——歌德 B1 口语考试的展示环节就按这五段给分）",
+      "headers": [
+        "段",
+        "功能",
+        "标准句"
+      ],
+      "rows": [
+        [
+          "1 开场",
+          "问候 + 报题",
+          "Ich möchte heute über … sprechen. / Mein Thema ist …"
+        ],
+        [
+          "2 结构",
+          "预告路线",
+          "Ich habe drei Punkte. Zuerst …, dann …, zum Schluss …"
+        ],
+        [
+          "3 主体",
+          "经历 + 利弊",
+          "In meinem Land ist das anders. / Ich selbst habe erlebt, dass … / Ein Vorteil ist …, ein Nachteil ist …"
+        ],
+        [
+          "4 观点",
+          "表态",
+          "Meiner Meinung nach … / Ich persönlich finde, dass …"
+        ],
+        [
+          "5 结尾",
+          "总结 + 致谢 + 邀问",
+          "Zusammenfassend … / Vielen Dank für Ihre Aufmerksamkeit. Haben Sie Fragen?"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "展示不是朗读：按要点讲，眼睛看听众。结构信号词（zuerst / dann / zum Schluss / ein Vorteil ist）是考官耳朵在等的路标，一个都不能省。",
+      "主体段的黄金组合：**先讲自己国家的做法或亲身经历，再讲利弊**——只有观点没有经历，内容分上不去。",
+      "结尾三件套缺一不可：总结一句、致谢、邀请提问。说完 „Das war's.\" 就下台是未完成。"
+    ],
+    "examples": [
+      {
+        "de": "Guten Tag, mein Thema ist „Sport in der Schule\".",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe drei Punkte: Zuerst spreche ich über die Vorteile, dann über die Nachteile, zum Schluss über meine Meinung.",
+        "zh": ""
+      },
+      {
+        "de": "In meinem Land machen alle Kinder Sport in der Schule.",
+        "zh": ""
+      },
+      {
+        "de": "Ein Vorteil ist, dass Sport gesund ist. Ein Nachteil ist, dass manche Kinder keine Lust haben.",
+        "zh": ""
+      },
+      {
+        "de": "Vielen Dank für Ihre Aufmerksamkeit. Haben Sie Fragen?",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "开场直接念内容，没有报题和结构预告：听众不知道你要讲几个部分。",
+      "利弊只讲一边：Vorteil 和 Nachteil 必须成对出现，这是题卡要求。",
+      "结尾忘记邀请提问：Haben Sie Fragen? 是规定动作。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是开场报题",
+        "explain": "报题句在开场段。",
+        "options": [
+          "Ich möchte heute über das Thema Umwelt sprechen.",
+          "Vielen Dank für Ihre Aufmerksamkeit.",
+          "Ein Nachteil ist der Preis."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "部件分筐",
+        "explain": "按五段结构对号入座。",
+        "groups": [
+          "开场",
+          "结构预告",
+          "主体",
+          "结尾"
+        ],
+        "items": [
+          {
+            "text": "1. Mein Thema ist „Gesunde Ernährung\".",
+            "group": 0
+          },
+          {
+            "text": "2. Zuerst spreche ich über die Vorteile.",
+            "group": 1
+          },
+          {
+            "text": "3. Ein Vorteil ist, dass Obst Vitamine hat.",
+            "group": 2
+          },
+          {
+            "text": "4. Vielen Dank für Ihre Aufmerksamkeit.",
+            "group": 3
+          },
+          {
+            "text": "5. Haben Sie Fragen?",
+            "group": 3
+          },
+          {
+            "text": "6. In meinem Land isst man viel Reis.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "结构词填空",
+        "explain": "三段路标：zuerst / dann / zum Schluss。",
+        "display": "Zuerst …, dann …, zum ＿＿ …",
+        "answer": "Schluss"
+      },
+      {
+        "type": "order",
+        "q": "展示顺序排序",
+        "explain": "报题在前、主体居中、致谢在尾。",
+        "tokens": [
+          "Vielen Dank für Ihre Aufmerksamkeit",
+          "Mein Thema ist Sport in der Schule",
+          "Ein Vorteil ist die Gesundheit"
+        ],
+        "answer": [
+          "Mein Thema ist Sport in der Schule",
+          "Ein Vorteil ist die Gesundheit",
+          "Vielen Dank für Ihre Aufmerksamkeit"
+        ],
+        "displayAnswer": "Mein Thema ist Sport in der Schule Ein Vorteil ist die Gesundheit Vielen Dank für Ihre Aufmerksamkeit"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句定位",
+        "explain": "邀问是展示结尾的规定动作。",
+        "audio": "Haben Sie noch Fragen?",
+        "options": [
+          "这是展示的结尾邀问",
+          "这是展示的开场",
+          "这是考试提问环节与展示无关"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "观点句填空",
+        "explain": "Meiner Meinung nach 与 t-b1-02 的讨论表态共用。",
+        "display": "Meiner ＿＿ nach ist das eine gute Idee.",
+        "answer": "Meinung"
+      },
+      {
+        "type": "choice",
+        "q": "缺点句",
+        "explain": "贵是缺点，信号词要用 Nachteil。",
+        "options": [
+          "Ein Nachteil ist, dass es teuer ist.",
+          "Ein Vorteil ist, dass es teuer ist.",
+          "Zum Schluss ist es teuer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "经历句填空",
+        "explain": "habe erlebt 是展示主体段的经历句式。",
+        "display": "Ich selbst habe ＿＿, dass Zugfahren billiger ist.（erleben）",
+        "answer": "erlebt"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补主题词",
+        "explain": "报题句的主题词在 über 后。",
+        "audio": "Ich möchte heute über gesunde Ernährung sprechen.",
+        "display": "Ich möchte heute über gesunde ＿＿ sprechen.",
+        "answer": "Ernährung"
+      },
+      {
+        "type": "choice",
+        "q": "结构预告句",
+        "explain": "Ich habe drei Punkte 是预告路线的话术。",
+        "options": [
+          "Ich habe drei Punkte.",
+          "Ich habe keine Ahnung.",
+          "Das war alles."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "致谢填空",
+        "explain": "固定搭配 Vielen Dank für …。",
+        "display": "Vielen ＿＿ für Ihre Aufmerksamkeit.",
+        "answer": "Dank"
+      },
+      {
+        "type": "order",
+        "q": "邀问组句",
+        "explain": "疑问句动词 Haben 在第一位。",
+        "tokens": [
+          "noch",
+          "Haben Sie",
+          "Fragen"
+        ],
+        "answer": [
+          "Haben Sie",
+          "noch",
+          "Fragen"
+        ],
+        "displayAnswer": "Haben Sie noch Fragen?"
+      },
+      {
+        "type": "choice",
+        "q": "展示禁忌",
+        "explain": "展示按要点讲，念稿在内容与互动上都失分。",
+        "display": "展示时最不该做的是",
+        "options": [
+          "全程低头念稿",
+          "用结构信号词",
+          "看听众"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "优点句填空",
+        "explain": "信号词 Vorteil 引出好处。",
+        "display": "Ein ＿＿ ist, dass man Geld spart.",
+        "answer": "Vorteil"
+      },
+      {
+        "type": "choice",
+        "q": "结尾段的内容",
+        "explain": "结尾三件套：总结、致谢、邀问。",
+        "options": [
+          "总结 + 致谢 + 邀请提问",
+          "只说一句 „Fertig.\"",
+          "再讲一个新论点"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "报题句的标准形。",
+        "audio": "Mein Thema ist heute: Lernen mit dem Handy.",
+        "answer": "Mein Thema ist heute: Lernen mit dem Handy."
+      }
+    ],
+    "reading": {
+      "text": "Guten Tag, mein Thema ist „Handy in der Schule\". Ich habe drei Punkte. Zuerst spreche ich über die Vorteile, dann über die Nachteile, zum Schluss über meine Meinung.\nIn meinem Land benutzen viele Schüler das Handy im Unterricht. Ein Vorteil ist, dass man Wörter schnell nachschlagen kann. Ein Nachteil ist, dass viele Schüler spielen und nicht zuhören.\nMeiner Meinung nach ist das Handy ein gutes Werkzeug, aber es braucht Regeln. Vielen Dank für Ihre Aufmerksamkeit. Haben Sie Fragen?",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①讲者列了哪一个优点和哪一个缺点？（答：优点是查词快；缺点是学生玩手机不听课。）②讲者的个人观点是什么？（答：手机是好工具，但需要规则。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "按五段结构准备一份 8–10 句的展示稿（主题三选一：我的家乡 / 运动 / 用手机学习），对着提纲讲一遍，不许照稿念。",
+      "sample": "范文：Guten Tag, mein Thema ist meine Heimatstadt. Zuerst spreche ich über die Stadt, dann über das Essen, zum Schluss über meine Meinung. Meine Stadt ist klein, aber schön. In meiner Stadt gibt es einen alten Markt. Ein Vorteil ist, dass alles nah ist. Ein Nachteil ist, dass es wenige Jobs gibt. Meiner Meinung nach ist es ein guter Ort zum Leben. Vielen Dank für Ihre Aufmerksamkeit. Haben Sie Fragen?",
+      "selfcheck": "自查：五段齐全 □；有利弊成对 □；有个人经历或家乡情况 □；结尾有邀问句 □。"
+    },
+    "writingLabel": "口头任务"
+  },
+  {
+    "id": "t-b1-03",
+    "level": "B1",
+    "order": 22,
+    "title": "共同计划对话",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（计划对话的话术库——歌德 B1 口语第三部分就是两人共同计划一件事）",
+      "headers": [
+        "功能",
+        "说法"
+      ],
+      "rows": [
+        [
+          "提议",
+          "Wie wäre es mit …? / Sollen wir …? / Ich schlage vor, dass … / Hast du Lust auf …?"
+        ],
+        [
+          "赞成",
+          "Gute Idee! / Einverstanden. / Das passt mir gut."
+        ],
+        [
+          "有顾虑/给替代",
+          "Da habe ich leider keine Zeit. / Mir wäre … lieber. / Geht es auch am …?"
+        ],
+        [
+          "定细节",
+          "Dann machen wir es so: … / Treffen wir uns um … vor … / Ich kümmere mich um …"
+        ],
+        [
+          "定案收尾",
+          "Also abgemacht! / Wir sehen uns dann am Samstag."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "一次计划对话必须谈妥四件事：**做什么、何时、何地、谁负责什么**。缺一件，考试任务算没完成。",
+      "对方提议不合意时，不能只说 „Nein\"：要给理由 + 替代方案（„Samstag geht nicht bei mir. Geht es auch am Sonntag?\"）——这是本单元的核心得分点。",
+      "分工句用 sich kümmern um / mitbringen / reservieren，把任务落到人头上。"
+    ],
+    "examples": [
+      {
+        "de": "Wie wäre es mit einem Ausflug am Sonntag?",
+        "zh": ""
+      },
+      {
+        "de": "Ich schlage vor, dass wir früh losfahren.",
+        "zh": ""
+      },
+      {
+        "de": "Mir wäre Samstag lieber, am Sonntag habe ich keine Zeit.",
+        "zh": ""
+      },
+      {
+        "de": "Ich kümmere mich um die Getränke, und du bringst den Kuchen mit, einverstanden?",
+        "zh": ""
+      },
+      {
+        "de": "Treffen wir uns um 9 Uhr vor dem Bahnhof.",
+        "zh": ""
+      },
+      {
+        "de": "Also abgemacht: Samstag, 9 Uhr, Bahnhof!",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "拒绝不给替代（„Nein, keine Zeit.\" 就结束）：计划对话里这是死胡同，必须接 Gegenvorschlag。",
+      "四要素缺项：聊了半天没定时间或没定地点。",
+      "分工含糊（„Jemand sollte einen Kuchen bringen.\"）：要用 Ich kümmere mich um … 把事领走。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是提议",
+        "explain": "Wie wäre es mit … 是提议的标准句式。",
+        "options": [
+          "Wie wäre es mit einem Ausflug am Sonntag?",
+          "Der Ausflug ist am Sonntag.",
+          "Ich bin am Sonntag weg."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "功能分筐",
+        "explain": "先定功能，再对号入座。",
+        "groups": [
+          "提议",
+          "赞成",
+          "顾虑/替代",
+          "定案"
+        ],
+        "items": [
+          {
+            "text": "1. Sollen wir ins Kino gehen?",
+            "group": 0
+          },
+          {
+            "text": "2. Gute Idee!",
+            "group": 1
+          },
+          {
+            "text": "3. Mir wäre Samstag lieber.",
+            "group": 2
+          },
+          {
+            "text": "4. Also abgemacht!",
+            "group": 3
+          },
+          {
+            "text": "5. Ich schlage vor, dass wir früh fahren.",
+            "group": 0
+          },
+          {
+            "text": "6. Da habe ich leider keine Zeit.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "提议句填空",
+        "explain": "固定句式 Wie wäre es mit …。",
+        "display": "Wie ＿＿ es mit Pizza heute Abend?",
+        "answer": "wäre"
+      },
+      {
+        "type": "choice",
+        "q": "最佳替代回应",
+        "explain": "拒绝 + 理由 + 替代方案，三件齐全。",
+        "display": "对方提议周六去爬山，你周六没空：",
+        "options": [
+          "Samstag geht bei mir leider nicht. Geht es auch am Sonntag?",
+          "Nein.",
+          "Ich weiß nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "sich kümmern um = 负责处理。",
+        "audio": "Ich kümmere mich um die Getränke.",
+        "options": [
+          "说话人负责买饮料",
+          "说话人想喝饮料",
+          "饮料已经买好了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "定案句填空",
+        "explain": "Dann machen wir es so 是拍板句式。",
+        "display": "Dann ＿＿ wir es so: Treffen um 9 Uhr.",
+        "answer": "machen"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "时间在地点前（TeKaMoLo 的日常版）。",
+        "tokens": [
+          "uns",
+          "Treffen wir",
+          "am Bahnhof",
+          "um 9 Uhr"
+        ],
+        "answer": [
+          "Treffen wir",
+          "uns",
+          "um 9 Uhr",
+          "am Bahnhof"
+        ],
+        "displayAnswer": "Treffen wir uns um 9 Uhr am Bahnhof."
+      },
+      {
+        "type": "choice",
+        "q": "分工句定位",
+        "explain": "把两件事分到两个人头上，并用 einverstanden 求确认。",
+        "display": "„Ich bringe den Kuchen mit, und du die Musik, einverstanden?\" 这句在做什么",
+        "options": [
+          "分配任务并确认",
+          "提出第一个提议",
+          "结束对话"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "方便句填空",
+        "explain": "Das passt mir = 时间正合我意。",
+        "display": "Samstag um 10? Das ＿＿ mir gut.",
+        "answer": "passt"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补时间",
+        "explain": "定案复述里时间和地点都要听清。",
+        "audio": "Wir sehen uns dann am Samstag vor dem Kino.",
+        "display": "Wir sehen uns dann am ＿＿ vor dem Kino.",
+        "answer": "Samstag"
+      },
+      {
+        "type": "choice",
+        "q": "没空时的回应",
+        "explain": "给替代时间是计划对话的礼貌底线。",
+        "options": [
+          "Da habe ich leider keine Zeit, aber am Abend geht es.",
+          "Keine Zeit. Tschüss.",
+          "Zeit ist mir egal."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "提议动词填空",
+        "explain": "vorschlagen 的分开形式：schlage … vor。",
+        "display": "Ich ＿＿ vor, dass wir einen Tisch reservieren.",
+        "answer": "schlage"
+      },
+      {
+        "type": "classify",
+        "q": "对话进度分筐",
+        "explain": "带问号探意向的是提议；落到时间、分工、复述的是确认。",
+        "groups": [
+          "还在提议",
+          "已在确认细节"
+        ],
+        "items": [
+          {
+            "text": "1. Hast du Lust auf einen Ausflug?",
+            "group": 0
+          },
+          {
+            "text": "2. Treffen wir uns um acht?",
+            "group": 1
+          },
+          {
+            "text": "3. Sollen wir ein Picknick machen?",
+            "group": 0
+          },
+          {
+            "text": "4. Ich kümmere mich ums Essen.",
+            "group": 1
+          },
+          {
+            "text": "5. Wie wäre es mit dem Zug?",
+            "group": 0
+          },
+          {
+            "text": "6. Also: Samstag, 9 Uhr, Bahnhof.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "定案填空",
+        "explain": "Also abgemacht 是拍板收尾词。",
+        "display": "Also ＿＿: Wir fahren am Sonntag!",
+        "answer": "abgemacht"
+      },
+      {
+        "type": "choice",
+        "q": "Lust 句的赞成回应",
+        "explain": "赞成要热情接住并推进计划。",
+        "display": "— Hast du Lust auf einen Ausflug? —",
+        "options": [
+          "Ja, gern! Gute Idee.",
+          "Nein, ich habe Lust.",
+          "Lust ist ein Nomen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "Sollen wir …? 是最常用的提议问句。",
+        "audio": "Sollen wir am Freitag zusammen kochen?",
+        "answer": "Sollen wir am Freitag zusammen kochen?"
+      }
+    ],
+    "reading": {
+      "text": "— Wir wollen am Wochenende ein Picknick machen. Wie wäre es mit Samstag?\n— Samstag geht bei mir leider nicht. Geht es auch am Sonntag?\n— Sonntag passt mir gut. Treffen wir uns um 11 Uhr im Park?\n— Einverstanden. Ich kümmere mich um die Getränke, und du bringst das Brot mit.\n— Gute Idee. Also abgemacht: Sonntag, 11 Uhr, Park!",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①活动最终定在哪天几点、什么地点？（答：周日 11 点，公园。）②分工是怎样的？（答：一人负责饮料，一人带面包。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "和伙伴（或自演两角）完成一次共同计划对话（计划一次郊游或生日派对），8 句以上，必须谈妥四要素并有至少一次「拒绝 + 替代」。",
+      "sample": "范文：— Sollen wir am Samstag einen Ausflug machen? — Samstag habe ich leider keine Zeit. Geht es auch am Sonntag? — Gern. Wie wäre es mit dem See? — Gute Idee. Treffen wir uns um 9 Uhr am Bahnhof. — Ich kümmere mich um die Tickets, und du bringst das Essen mit. — Einverstanden. Also abgemacht!",
+      "selfcheck": "自查：做什么/何时/何地/谁负责都谈妥了 □；有一次拒绝 + 替代方案 □；有定案复述句 □。"
+    },
+    "writingLabel": "口头任务"
+  },
+  {
+    "id": "t-b1-05",
+    "level": "B1",
+    "order": 23,
+    "title": "半正式邮件与论坛帖",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（两种文体对照——歌德 B1 写作的两个任务原型）",
+      "headers": [
+        "",
+        "半正式邮件（给老师、房东、培训机构）",
+        "论坛帖 Forumsbeitrag"
+      ],
+      "rows": [
+        [
+          "开头",
+          "Liebe Frau Klein, / Guten Tag, Herr Sommer,",
+          "无称呼，直接入题：Zum Thema … möchte ich sagen: / Ich finde, dass …"
+        ],
+        [
+          "主体",
+          "事由 → 细节 → 请求或感谢",
+          "观点 → 理由 → 例子"
+        ],
+        [
+          "结尾",
+          "Viele Grüße / Mit freundlichen Grüßen + 名字",
+          "结论 + 抛问题：Wie seht ihr das? / Ich freue mich auf eure Antworten."
+        ],
+        [
+          "语气",
+          "礼貌但不僵硬，可以用 ich",
+          "表态鲜明，面向公众读者"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "半正式的「半」在于：称呼可以用 Liebe/r（对认识的人），落款用 Viele Grüße；但请求句仍要用 Könnten Sie / Ich wäre dankbar 的正式缓冲（与 t-b1-04 共用）。",
+      "论坛帖的命是**观点密度**：第一句就表态，理由和例子跟上，最后抛问题拉互动——没有互动收尾的论坛帖是不完整的。",
+      "考试写作的第一得分项是**要点覆盖**：任务单给的每个要点（通常 3–4 个）都要写到，漏一个扣一档，比用生僻词重要得多。"
+    ],
+    "examples": [
+      {
+        "de": "Liebe Frau Sommer, vielen Dank für Ihre E-Mail.",
+        "zh": ""
+      },
+      {
+        "de": "Ich schreibe Ihnen, weil ich mich für den Kurs anmelden möchte.",
+        "zh": ""
+      },
+      {
+        "de": "Zum Thema Handyverbot möchte ich sagen: Ich bin dagegen.",
+        "zh": ""
+      },
+      {
+        "de": "Meiner Meinung nach lernen Schüler mit dem Handy besser.",
+        "zh": ""
+      },
+      {
+        "de": "Ein Beispiel: Mit einer App kann man Wörter üben.",
+        "zh": ""
+      },
+      {
+        "de": "Wie seht ihr das? Ich freue mich auf eure Antworten.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "论坛帖写上 „Sehr geehrte Damen und Herren\"：论坛没有收信人，开头即观点。",
+      "邮件落款用 „Tschüssi\" 或论坛帖落款写 „Mit freundlichen Grüßen\"：两种文体的礼仪件不能串。",
+      "只表态不举例：论坛帖的理由段要有至少一个 konkretes Beispiel。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "论坛帖开头",
+        "explain": "论坛帖无称呼、直接表态。",
+        "options": [
+          "Zum Thema Schuluniformen möchte ich sagen: Ich bin dafür.",
+          "Sehr geehrte Damen und Herren, ich schreibe Ihnen …",
+          "Hallo Mama, stell dir vor …"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "文体分筐",
+        "explain": "有称呼落款的是邮件；面向公众抛问题的是论坛帖。",
+        "groups": [
+          "论坛帖",
+          "半正式邮件"
+        ],
+        "items": [
+          {
+            "text": "1. Liebe Frau Klein, vielen Dank für Ihre Hilfe.",
+            "group": 1
+          },
+          {
+            "text": "2. Wie seht ihr das?",
+            "group": 0
+          },
+          {
+            "text": "3. Viele Grüße, Ihr Tom",
+            "group": 1
+          },
+          {
+            "text": "4. Meiner Meinung nach sind Handys im Unterricht ein Problem.",
+            "group": 0
+          },
+          {
+            "text": "5. Könnten Sie mir bitte die Liste schicken?",
+            "group": 1
+          },
+          {
+            "text": "6. Ich bin total dagegen, weil es zu teuer ist.",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "观点句填空",
+        "explain": "论坛帖的表态句与讨论单元共用。",
+        "display": "Ich bin der ＿＿, dass man mehr Rad fahren sollte.",
+        "answer": "Meinung"
+      },
+      {
+        "type": "choice",
+        "q": "半正式落款",
+        "explain": "半正式用 Viele Grüße；Hochachtungsvoll 已过时，Tschüssi 太随便。",
+        "options": [
+          "Viele Grüße",
+          "Hochachtungsvoll",
+          "Tschüssi"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨文体",
+        "explain": "向读者抛问题是论坛帖的标志收尾。",
+        "audio": "Wie ist das bei euch? Schreibt mir eure Meinung!",
+        "options": [
+          "这是论坛帖的互动收尾",
+          "这是正式信的结尾",
+          "这是新闻播报"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "事由句填空",
+        "explain": "weil 从句交代写信事由，动词 möchte 在尾。",
+        "display": "Ich schreibe Ihnen, ＿＿ ich mich für den Kurs anmelden möchte.",
+        "answer": "weil"
+      },
+      {
+        "type": "order",
+        "q": "论坛帖骨架排序",
+        "explain": "观点 → 例子 → 互动收尾。",
+        "tokens": [
+          "Wie seht ihr das?",
+          "Meiner Meinung nach ist das Handy im Unterricht wichtig",
+          "Zum Beispiel lerne ich damit Wörter"
+        ],
+        "answer": [
+          "Meiner Meinung nach ist das Handy im Unterricht wichtig",
+          "Zum Beispiel lerne ich damit Wörter",
+          "Wie seht ihr das?"
+        ],
+        "displayAnswer": "Meiner Meinung nach ist das Handy im Unterricht wichtig Zum Beispiel lerne ich damit Wörter Wie seht ihr das?"
+      },
+      {
+        "type": "choice",
+        "q": "论坛帖最佳结尾",
+        "explain": "抛问题 + 期待回复是论坛帖的加分收尾。",
+        "options": [
+          "Wie seht ihr das? Ich freue mich auf eure Antworten.",
+          "Mit freundlichen Grüßen, Tom",
+          "Das ist alles. Ende."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "半正式称呼",
+        "explain": "对认识的人用 Liebe + 姓，仍保留 Sie。",
+        "display": "写给认识的女老师：＿＿ Frau Sommer, vielen Dank für Ihre Hilfe.",
+        "answer": "Liebe"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "邮件致谢的固定搭配。",
+        "audio": "Vielen Dank für Ihre schnelle Antwort.",
+        "display": "Vielen ＿＿ für Ihre schnelle Antwort.",
+        "answer": "Dank"
+      },
+      {
+        "type": "choice",
+        "q": "考试写作第一原则",
+        "explain": "要点覆盖是 B1 写作的首要评分项。",
+        "options": [
+          "任务单的每个要点都要写到",
+          "用最难的词 impress 考官",
+          "写得越长越好"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "结论句填空",
+        "explain": "ich bin dafür 是表态结论句。",
+        "display": "Aus diesen Gründen ＿＿ ich dafür, dass die Stadt mehr Radwege baut.",
+        "answer": "bin"
+      },
+      {
+        "type": "classify",
+        "q": "论坛帖部件分筐",
+        "explain": "论坛帖四段：表态、给理由、举例子、抛问题。",
+        "groups": [
+          "观点",
+          "理由",
+          "例子",
+          "互动收尾"
+        ],
+        "items": [
+          {
+            "text": "1. Ich bin gegen ein Handyverbot.",
+            "group": 0
+          },
+          {
+            "text": "2. …, weil Schüler das Handy zum Lernen brauchen.",
+            "group": 1
+          },
+          {
+            "text": "3. Zum Beispiel kann man mit einer App Vokabeln üben.",
+            "group": 2
+          },
+          {
+            "text": "4. Wie seht ihr das?",
+            "group": 3
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "半正式邮件的语气错误",
+        "explain": "命令 + 双感叹在半正式邮件里是失礼项。",
+        "options": [
+          "Schick mir sofort die Liste!!",
+          "Könnten Sie mir bitte die Liste schicken?",
+          "Ich wäre Ihnen für die Liste dankbar."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "入题句填空",
+        "explain": "Zum Thema … 是论坛帖的标准入题。",
+        "display": "Zum ＿＿ Handyverbot möchte ich sagen: Ich bin dagegen.",
+        "answer": "Thema"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "eure 表明面向公众读者的论坛语气。",
+        "audio": "Ich freue mich auf eure Antworten.",
+        "answer": "Ich freue mich auf eure Antworten."
+      }
+    ],
+    "reading": {
+      "text": "Zum Thema Radfahren in der Stadt möchte ich sagen: Ich bin dafür, dass die Stadt mehr Radwege baut. Autos machen Lärm und die Luft schlecht. Zum Beispiel fahre ich jeden Tag mit dem Rad zur Arbeit und bin schneller als mit dem Bus. Wie seht ihr das?\nLiebe Frau Klein, ich schreibe Ihnen, weil in meiner Wohnung die Heizung nicht funktioniert. Es ist seit zwei Tagen sehr kalt. Könnten Sie bitte einen Handwerker schicken? Ich wäre Ihnen sehr dankbar. Viele Grüße, Tom Berger",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①论坛帖作者的观点是什么？（答：支持多修自行车道。）②邮件里报告的问题是什么？（答：暖气坏了，两天了，屋里很冷。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "双任务。①论坛帖（约 80 词）：话题「学生该不该用手机学习」，须含表态、两个理由、一个例子、互动收尾。②半正式邮件（约 60 词）：给房东写信，报告水管漏水，请对方派人维修并致谢。",
+      "sample": "范文①：Zum Thema Handylernen möchte ich sagen: Ich bin dafür. Mit dem Handy kann man überall lernen, zum Beispiel Wörter im Bus. Außerdem sind gute Apps billiger als Bücher. Natürlich muss man aufpassen, dass man nicht nur spielt. Aber mit Regeln ist das Handy ein gutes Werkzeug. Wie seht ihr das?\n范文②：Liebe Frau Klein, in meiner Wohnung gibt es ein Problem: Die Wasserleitung in der Küche ist kaputt, und es tropft seit gestern. Könnten Sie bitte einen Handwerker schicken? Ich bin jeden Abend zu Hause. Ich wäre Ihnen sehr dankbar. Viele Grüße, Tom Berger",
+      "selfcheck": "自查：论坛帖第一句就表态 □；论坛帖结尾抛了问题 □；邮件称呼与落款是半正式规格 □；两篇的任务要点都覆盖了 □。"
+    }
+  },
+  {
+    "id": "g-b1-16",
+    "level": "B1",
+    "order": 24,
+    "title": "语序收官",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（B1 语序总回收——四条压舱规则）",
+      "headers": [
+        "规则",
+        "例"
+      ],
+      "rows": [
+        [
+          "动词框架：变位动词第二位，其余动词成分（分词/不定式/可分前缀）守句末",
+          "Er **ist** gestern mit dem Bus **gefahren**."
+        ],
+        [
+          "中段顺序 TeKaMoLo：时间 → 原因 → 方式 → 地点",
+          "Er fährt **morgen**（时间）**wegen des Regens**（原因）**mit dem Bus**（方式）**zur Arbeit**（地点）."
+        ],
+        [
+          "否定 nicht 的位置：全句否定位于句末动词成分前；局部否定紧贴被否定成分",
+          "Er hat das Buch **nicht gelesen**. / Er fährt **nicht mit dem Bus**, sondern mit dem Auto."
+        ],
+        [
+          "从句与倒装：从句动词在尾；从句占第一位时主句动词紧随（倒装）",
+          "**Wenn ich Zeit habe**, rufe ich dich an."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "代词宾语在中段永远靠前（A2 已学）：Ich gebe **es ihm** morgen.——名词状语排在代词之后。",
+      "TeKaMoLo 是默认顺序不是铁律：任何一块提到句首强调都可以，但动词必须随之倒装到第二位（Das Auto **haben** sie zu Hause gelassen.）。",
+      "nicht 站错位置会改意思：„Er hat nicht das Buch gelesen\"（否定的只是书——局部）vs „Er hat das Buch nicht gelesen\"（没读这回事——全句）。位置即意义。"
+    ],
+    "examples": [
+      {
+        "de": "Morgen fahre ich wegen eines Termins mit dem Zug nach Köln.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn der Zug Verspätung hat, rufe ich dich an.",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe die Tickets noch nicht gekauft.",
+        "zh": ""
+      },
+      {
+        "de": "Er bleibt heute wegen der Krankheit zu Hause.",
+        "zh": ""
+      },
+      {
+        "de": "Das Fahrrad hat er gestern seinem Bruder gegeben.",
+        "zh": ""
+      },
+      {
+        "de": "Sie ist am Montag mit dem Zug nach Berlin gefahren.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "从句前置后主句不倒装（„Wenn es regnet, wir bleiben zu Hause\"）：从句占了第一位，主句动词必须紧跟。",
+      "状语插进动词框架中间（„Er ist gefahren gestern\"）：框架内的东西不能拆。",
+      "TeKaMoLo 乱序（„Er fährt mit dem Bus morgen zur Arbeit\"）：方式跑到时间前面是典型中式语序。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "中段顺序正确句",
+        "explain": "时间 → 方式 → 地点。",
+        "options": [
+          "Er fährt morgen mit dem Bus zur Arbeit.",
+          "Er fährt mit dem Bus morgen zur Arbeit.",
+          "Er fährt zur Arbeit mit dem Bus morgen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "fährt 第二位，中段按 TeKaMoLo。",
+        "tokens": [
+          "zur Arbeit",
+          "Er",
+          "mit dem Bus",
+          "fährt",
+          "morgen"
+        ],
+        "answer": [
+          "Er",
+          "fährt",
+          "morgen",
+          "mit dem Bus",
+          "zur Arbeit"
+        ],
+        "displayAnswer": "Er fährt morgen mit dem Bus zur Arbeit."
+      },
+      {
+        "type": "choice",
+        "q": "全句否定位置",
+        "explain": "nicht 站在分词前，否定整件事。",
+        "options": [
+          "Er hat den Film nicht gesehen.",
+          "Nicht er hat den Film gesehen wirklich.",
+          "Er nicht hat den Film gesehen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分词填空",
+        "explain": "nicht + 分词收尾，全句否定。",
+        "display": "Er ist gestern nicht ＿＿.（kommen）",
+        "answer": "gekommen"
+      },
+      {
+        "type": "classify",
+        "q": "语序判断分筐",
+        "explain": "错的三句分别死在：句首状语后没倒装、从句前置后没倒装、时间状语坠到句尾。",
+        "groups": [
+          "对",
+          "错"
+        ],
+        "items": [
+          {
+            "text": "1. Ich rufe dich morgen an.",
+            "group": 0
+          },
+          {
+            "text": "2. Morgen ich rufe dich an.",
+            "group": 1
+          },
+          {
+            "text": "3. Wenn ich Zeit habe, ich rufe an.",
+            "group": 1
+          },
+          {
+            "text": "4. Er hat es mir gegeben.",
+            "group": 0
+          },
+          {
+            "text": "5. Sie fährt mit dem Bus zur Arbeit jeden Tag.",
+            "group": 1
+          },
+          {
+            "text": "6. Das Buch habe ich schon gelesen.",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "wegen 短语在句首，动词 bleiben 倒装在第二位。",
+        "audio": "Wegen des Wetters bleiben wir heute zu Hause.",
+        "options": [
+          "他们因为天气待在家里",
+          "他们今天要出门",
+          "天气让他们迟到了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代词宾语填空",
+        "explain": "代词宾语在中段最靠前，顺序宾格先于与格（A2 规则回收）。",
+        "display": "Ich gebe ＿＿ ＿＿ morgen.（它 + 给他）",
+        "answer": "es ihm",
+        "blankAnswers": [
+          "es",
+          "ihm"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "从句前置倒装",
+        "explain": "从句占位后主句动词必须紧跟。",
+        "options": [
+          "Wenn es regnet, bleiben wir zu Hause.",
+          "Wenn es regnet, wir bleiben zu Hause.",
+          "Wenn es regnet, zu Hause bleiben wir."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "助动词第二位，双代词在中段最前，分词守尾。",
+        "tokens": [
+          "hat",
+          "Er",
+          "mir",
+          "es",
+          "gestern",
+          "gegeben"
+        ],
+        "answer": [
+          "Er",
+          "hat",
+          "es",
+          "mir",
+          "gestern",
+          "gegeben"
+        ],
+        "displayAnswer": "Er hat es mir gestern gegeben."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补地点",
+        "explain": "地点在中段最后，框架分词 gefahren 收尾。",
+        "audio": "Sie ist am Montag mit dem Zug nach Berlin gefahren.",
+        "display": "Sie ist am Montag mit dem Zug nach ＿＿ gefahren.",
+        "answer": "Berlin"
+      },
+      {
+        "type": "choice",
+        "q": "带原因的中段",
+        "explain": "wegen 短语进中段，动词 bleibt 守第二位。",
+        "options": [
+          "Er bleibt heute wegen der Krankheit zu Hause.",
+          "Er wegen der Krankheit bleibt heute zu Hause.",
+          "Er bleibt wegen der Krankheit heute Haus zu."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "倒装填空",
+        "explain": "宾语提前后主语 ich 跟在动词 habe 之后。",
+        "display": "Das habe ＿＿ schon gelesen.（主语「我」）",
+        "answer": "ich"
+      },
+      {
+        "type": "classify",
+        "q": "否定范围分筐",
+        "explain": "有 sondern 接纠正项的是局部否定；nicht 紧贴句末动词成分的是全句否定。",
+        "groups": [
+          "全句否定",
+          "局部否定"
+        ],
+        "items": [
+          {
+            "text": "1. Er fährt nicht mit dem Bus, sondern mit dem Auto.",
+            "group": 1
+          },
+          {
+            "text": "2. Er ist heute nicht gekommen.",
+            "group": 0
+          },
+          {
+            "text": "3. Sie hat das Buch nicht gelesen.",
+            "group": 0
+          },
+          {
+            "text": "4. Ich trinke nicht Kaffee, sondern Tee.",
+            "group": 1
+          },
+          {
+            "text": "5. Er arbeitet heute nicht.",
+            "group": 0
+          },
+          {
+            "text": "6. Nicht heute, morgen!",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句语序错",
+        "explain": "gestern 占中段时动词 habe 仍须第二位，第一句动词被推到第三位。",
+        "options": [
+          "Ich gestern habe ein Brot gekauft.",
+          "Gestern habe ich ein Brot gekauft.",
+          "Ich habe gestern ein Brot gekauft."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "从句尾填空",
+        "explain": "weil 从句动词在最末尾。",
+        "display": "Ich bleibe zu Hause, weil ich krank ＿＿.",
+        "answer": "bin"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "时间占第一位，fahren 第二位、主语 wir 随后。",
+        "audio": "Am Wochenende fahren wir mit dem Zug ans Meer.",
+        "answer": "Am Wochenende fahren wir mit dem Zug ans Meer."
+      }
+    ],
+    "reading": {
+      "text": "Am Samstag ist Familie Lan früh aufgestanden. Sie sind wegen des schönen Wetters mit dem Zug ans Meer gefahren. Das Auto haben sie zu Hause gelassen, weil die Straßen voll waren. Unterwegs hat der Sohn seinen Eltern Fotos gezeigt. Am Abend sind sie müde, aber glücklich nach Hause gekommen.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①他们为什么坐火车去海边？（答：因为天气好。）②„Das Auto haben sie zu Hause gelassen.\" 中 Auto 为什么站在句首？（答：宾语被提到句首作话题，动词 haben 仍守第二位，主语 sie 随后。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 5 句小段落（说一次出行），必须包含：TeKaMoLo 句 1 句、从句前置句 1 句、nicht 全句否定 1 句、双代词宾语句 1 句。",
+      "sample": "范文：Morgen fahre ich wegen eines Termins mit dem Zug nach Köln. Wenn der Zug Verspätung hat, rufe ich dich an. Ich habe die Tickets noch nicht gekauft. Kannst du sie mir bitte mitbringen? Dann sind wir sicher pünktlich.",
+      "selfcheck": "自查：每句的变位动词都在第二位（或从句尾）□；中段状语顺序是时间→原因→方式→地点 □；nicht 的位置与否定范围对得上 □。"
+    }
+  }
+]

@@ -1,0 +1,2251 @@
+[
+  {
+    "id": "s-a1-01",
+    "level": "A1",
+    "order": 1,
+    "title": "个人与家庭",
+    "titleDe": "",
+    "recommended": "g-a1-21",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich komme aus … / Ich wohne mit … zusammen. / Ich habe einen Bruder / eine Schwester. / Er/Sie ist … Jahre alt. / Ich bin … von Beruf."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Hallo, ich bin Tom. Und du?",
+        "zh": "你好，我是 Tom。你呢？"
+      },
+      {
+        "de": "Ich heiße Li Na. Woher kommst du, Tom?",
+        "zh": "我叫 Li Na。Tom，你从哪来？"
+      },
+      {
+        "de": "Ich komme aus München. Ich wohne hier mit meiner Familie.",
+        "zh": "我来自慕尼黑，我和家人住在这里。"
+      },
+      {
+        "de": "Hast du Geschwister?",
+        "zh": "你有兄弟姐妹吗？"
+      },
+      {
+        "de": "Ja, ich habe eine Schwester. Sie ist 20 Jahre alt und studiert.",
+        "zh": "有，我有个妹妹，她 20 岁，在上大学。"
+      },
+      {
+        "de": "Und was machst du beruflich?",
+        "zh": "你是做什么工作的？"
+      },
+      {
+        "de": "Ich bin Ingenieur. Und du?",
+        "zh": "我是工程师。你呢？"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Ich habe eine Schwester. Sie ist 20 Jahre alt.",
+        "q": "妹妹多大？",
+        "explain": "20 Jahre alt。",
+        "options": [
+          "18",
+          "20",
+          "22"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Ich wohne ___ meiner Familie.",
+        "explain": "mit + 与格表「和…一起住」。",
+        "answer": "mit"
+      },
+      {
+        "type": "choice",
+        "q": "问对方职业？",
+        "explain": "固定问法。",
+        "options": [
+          "Was bist du von Beruf?",
+          "Wo bist du von Beruf?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "haben + 宾格。",
+        "tokens": [
+          "habe",
+          "Ich",
+          "Bruder",
+          "einen"
+        ],
+        "answer": [
+          "Ich",
+          "habe",
+          "einen",
+          "Bruder"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Sie ist Lehrerin von Beruf.",
+        "display": "Sie ist ___ von Beruf.",
+        "explain": "职业不加冠词。",
+        "answer": "Lehrerin"
+      },
+      {
+        "type": "fill",
+        "q": "Er kommt aus China und ___ in Shanghai.",
+        "explain": "wohnen in + 城市。",
+        "answer": "wohnt"
+      },
+      {
+        "type": "choice",
+        "q": "「verheiratet」的意思？",
+        "explain": "家庭状况词。",
+        "options": [
+          "单身",
+          "已婚"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich wohne mit meiner Schwester zusammen.",
+        "explain": "zusammen 在句尾。",
+        "answer": "Ich wohne mit meiner Schwester zusammen."
+      }
+    ],
+    "reading": {
+      "text": "Name: Sara Yilmaz / Alter: 31 / Wohnort: Hamburg / Beruf: Ärztin / Familie: verheiratet, ein Kind / Sprachen: Türkisch, Deutsch, Englisch。",
+      "questions": [
+        {
+          "q": "Was ist Sara von Beruf?",
+          "options": [
+            "Lehrerin",
+            "Ärztin"
+          ],
+          "answer": 1,
+          "explain": "Ärztin 医生。"
+        },
+        {
+          "q": "Wie viele Kinder hat sie?",
+          "options": [
+            "eins",
+            "zwei"
+          ],
+          "answer": 0,
+          "explain": "ein Kind。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "照阅读的格式写你自己的小档案，再补 3 句介绍家人的话。",
+      "sample": "范文：Name: Chen Wei / Alter: 27 / Wohnort: Shanghai / Beruf: Ingenieur / Familie: ein Bruder / Sprachen: Chinesisch, Deutsch。补充句：Mein Bruder ist 30 Jahre alt. Er arbeitet in Shanghai. Wir wohnen nicht zusammen."
+    },
+    "speaking": "任务：用 6–8 句介绍你自己和你的家庭（姓名、来自、住址、职业、家人、年龄）。自查清单：①sein/haben 用对 ②职业没加冠词 ③年龄用 alt。范文口播：Ich heiße … Ich komme aus … Ich wohne in … Ich bin … von Beruf. Ich habe einen Bruder. Er ist … Jahre alt. Wir wohnen zusammen.",
+    "sceneWords": [
+      "die Familie",
+      "der Vater",
+      "die Mutter",
+      "der Bruder",
+      "die Schwester",
+      "das Kind",
+      "der Freund",
+      "der Beruf",
+      "wohnen",
+      "arbeiten",
+      "zusammen",
+      "verheiratet（认读）"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "die Familie",
+            "speak": "die Familie"
+          },
+          {
+            "label": "der Vater",
+            "speak": "der Vater"
+          },
+          {
+            "label": "die Mutter",
+            "speak": "die Mutter"
+          },
+          {
+            "label": "der Bruder",
+            "speak": "der Bruder"
+          },
+          {
+            "label": "die Schwester",
+            "speak": "die Schwester"
+          },
+          {
+            "label": "das Kind",
+            "speak": "das Kind"
+          },
+          {
+            "label": "der Freund",
+            "speak": "der Freund"
+          },
+          {
+            "label": "der Beruf",
+            "speak": "der Beruf"
+          },
+          {
+            "label": "wohnen",
+            "speak": "wohnen"
+          },
+          {
+            "label": "arbeiten",
+            "speak": "arbeiten"
+          },
+          {
+            "label": "zusammen",
+            "speak": "zusammen"
+          },
+          {
+            "label": "verheiratet（认读）",
+            "speak": "verheiratet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-02",
+    "level": "A1",
+    "order": 2,
+    "title": "吃喝",
+    "titleDe": "",
+    "recommended": "g-a1-19、g-a1-08",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich hätte gern … / Ich nehme … / Was kostet …? / Das macht … Euro. / Es schmeckt (mir) gut. / Die Rechnung, bitte.（买单，认读产出两可，列产出）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Guten Tag! Was möchten Sie trinken?",
+        "zh": "您好！您想喝点什么？"
+      },
+      {
+        "de": "Ich hätte gern ein Wasser, bitte.",
+        "zh": "请给我一杯水。"
+      },
+      {
+        "de": "Und zu essen?",
+        "zh": "吃的呢？"
+      },
+      {
+        "de": "Ich nehme die Suppe und einen Salat.",
+        "zh": "我要汤和一份沙拉。"
+      },
+      {
+        "de": "Gern. Noch etwas?",
+        "zh": "好的。还要别的吗？"
+      },
+      {
+        "de": "Nein, danke. Das ist alles.",
+        "zh": "不用了，就这些。"
+      },
+      {
+        "de": "（餐后）Schmeckt es Ihnen? — Ja, sehr gut, danke!",
+        "zh": "好吃吗？——很好，谢谢！"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Ich hätte gern einen Salat.",
+        "q": "他想要什么？",
+        "explain": "einen Salat。",
+        "options": [
+          "汤",
+          "沙拉"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "___ Rechnung, bitte!",
+        "explain": "买单固定句。",
+        "answer": "Die"
+      },
+      {
+        "type": "choice",
+        "q": "总价 12 欧的说法？",
+        "explain": "macht 表总价。",
+        "options": [
+          "Das macht zwölf Euro.",
+          "Das ist zwölf Euro gut."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "hätte gern + 宾格。",
+        "tokens": [
+          "gern",
+          "Ich",
+          "hätte",
+          "Tee",
+          "einen"
+        ],
+        "answer": [
+          "Ich",
+          "hätte",
+          "gern",
+          "einen",
+          "Tee"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Die Suppe schmeckt mir sehr gut.",
+        "display": "Die Suppe ___ mir sehr gut.",
+        "explain": "schmecken + 与格。",
+        "answer": "schmeckt"
+      },
+      {
+        "type": "fill",
+        "q": "Zum Frühstück esse ich Brot ___ Käse.",
+        "explain": "mit 在这里是「配着」，mit Käse。",
+        "answer": "mit"
+      },
+      {
+        "type": "choice",
+        "q": "服务员问「还要别的吗」是？",
+        "explain": "Noch etwas?",
+        "options": [
+          "Noch etwas?",
+          "Alles gut?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich nehme das Wasser.",
+        "explain": "nehmen 的点单用法。",
+        "answer": "Ich nehme das Wasser."
+      }
+    ],
+    "reading": {
+      "text": "Speisekarte：Tomatensuppe 4,50 € / Salat 5,00 € / Schnitzel mit Pommes 12,90 € / Apfelkuchen 3,80 € / Wasser 2,00 € / Kaffee 2,50 €。",
+      "questions": [
+        {
+          "q": "Was ist am teuersten?",
+          "options": [
+            "Salat",
+            "Schnitzel",
+            "Kuchen"
+          ],
+          "answer": 1,
+          "explain": "12,90 € 最高。"
+        },
+        {
+          "q": "Suppe und Kaffee zusammen?",
+          "options": [
+            "6,50 €",
+            "7,00 €",
+            "7,50 €"
+          ],
+          "answer": 1,
+          "explain": "4,50 + 2,50 = 7,00 €。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写你一天三餐吃什么喝什么，至少 4 句。",
+      "sample": "范文：Zum Frühstück trinke ich Kaffee und esse ein Ei. Zum Mittagessen esse ich Reis mit Gemüse. Am Abend esse ich nur einen Salat. Ich trinke gern Tee."
+    },
+    "speaking": "双人角色卡——客人：点一杯饮料 + 一份主食 + 问总价；服务员：问喝什么、问还要什么、报总价。自查：hätte gern 用上、总价用 macht。范文即模范对话，互换角色再来一遍。",
+    "sceneWords": [
+      "der Hunger",
+      "der Durst（认读）",
+      "das Frühstück",
+      "das Mittagessen",
+      "das Abendessen",
+      "der Kaffee",
+      "der Tee",
+      "das Brot",
+      "der Käse",
+      "das Ei",
+      "das Obst",
+      "schmecken"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "der Hunger",
+            "speak": "der Hunger"
+          },
+          {
+            "label": "der Durst（认读）",
+            "speak": "der Durst"
+          },
+          {
+            "label": "das Frühstück",
+            "speak": "das Frühstück"
+          },
+          {
+            "label": "das Mittagessen",
+            "speak": "das Mittagessen"
+          },
+          {
+            "label": "das Abendessen",
+            "speak": "das Abendessen"
+          },
+          {
+            "label": "der Kaffee",
+            "speak": "der Kaffee"
+          },
+          {
+            "label": "der Tee",
+            "speak": "der Tee"
+          },
+          {
+            "label": "das Brot",
+            "speak": "das Brot"
+          },
+          {
+            "label": "der Käse",
+            "speak": "der Käse"
+          },
+          {
+            "label": "das Ei",
+            "speak": "das Ei"
+          },
+          {
+            "label": "das Obst",
+            "speak": "das Obst"
+          },
+          {
+            "label": "schmecken",
+            "speak": "schmecken"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-03",
+    "level": "A1",
+    "order": 3,
+    "title": "购物",
+    "titleDe": "",
+    "recommended": "g-a1-24、g-a1-19",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich suche … / Welche Größe/Farbe? / Kann ich … anprobieren? / Er passt mir (nicht). / Das ist zu teuer/groß/klein. / Ich nehme ihn/sie/es.（代词宾格回指，本课高频）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Guten Tag, kann ich Ihnen helfen?",
+        "zh": "您好，需要帮忙吗？"
+      },
+      {
+        "de": "Ja, ich suche einen Pullover.",
+        "zh": "是的，我找一件毛衣。"
+      },
+      {
+        "de": "Welche Größe?",
+        "zh": "什么尺码？"
+      },
+      {
+        "de": "Größe M. Und in Blau, bitte.",
+        "zh": "M 码，要蓝色的。"
+      },
+      {
+        "de": "Hier ist ein blauer Pullover.",
+        "zh": "这有一件蓝毛衣。"
+      },
+      {
+        "de": "Kann ich ihn anprobieren?",
+        "zh": "我能试穿吗？"
+      },
+      {
+        "de": "Natürlich. — Er passt mir gut. Was kostet er?",
+        "zh": "当然。——很合身。多少钱？"
+      },
+      {
+        "de": "Er kostet 39 Euro.",
+        "zh": "39 欧。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Ich suche eine Hose in Größe 40.",
+        "q": "她找什么？",
+        "explain": "eine Hose。",
+        "options": [
+          "毛衣",
+          "裤子"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Kann ich die Jacke ___?（试穿）",
+        "explain": "anprobieren 是可分动词，不定式在句尾整块。",
+        "answer": "anprobieren"
+      },
+      {
+        "type": "choice",
+        "q": "„Der Pullover ist zu groß.\" 的意思是？",
+        "explain": "zu groß 太大；太贵是 zu teuer。",
+        "options": [
+          "太贵了",
+          "太大了"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "阳性宾格代词 ihn 回指 Pullover。",
+        "tokens": [
+          "nehme",
+          "Ich",
+          "ihn"
+        ],
+        "answer": [
+          "Ich",
+          "nehme",
+          "ihn"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Das Kleid kostet 59 Euro.",
+        "display": "Das Kleid ___ 59 Euro.",
+        "explain": "kosten 问价答价。",
+        "answer": "kostet"
+      },
+      {
+        "type": "fill",
+        "q": "Die Schuhe sind mir zu ___. Ich brauche Größe 43.",
+        "explain": "鞋码小了。",
+        "answer": "klein"
+      },
+      {
+        "type": "choice",
+        "q": "„im Angebot\"（广告语）的意思？",
+        "explain": "购物场景高频词。",
+        "options": [
+          "特价中",
+          "已售完"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Welche Farbe möchten Sie?",
+        "explain": "Farbe 颜色。",
+        "answer": "Welche Farbe möchten Sie?"
+      }
+    ],
+    "reading": {
+      "text": "告示牌：„Sommer-Schlussverkauf! Alle Kleider -30%. Geöffnet: Mo–Sa 9–20 Uhr. Sonntags geschlossen.\"（夏季清仓，所有连衣裙七折；周一至周六 9–20 点；周日关门）",
+      "questions": [
+        {
+          "q": "Wann ist das Geschäft sonntags geöffnet?",
+          "options": [
+            "9–20 Uhr",
+            "gar nicht（不开）"
+          ],
+          "answer": 1,
+          "explain": "geschlossen 关门。"
+        },
+        {
+          "q": "Was ist billiger?",
+          "options": [
+            "alle Kleider",
+            "alle Pullover"
+          ],
+          "answer": 0,
+          "explain": "Kleider 打折。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句描述你想买的一件衣服（什么、颜色、尺码、大概价格）。",
+      "sample": "范文：Ich suche ein T-Shirt. Es soll schwarz sein, Größe L. Es darf nicht zu teuer sein. 40 Euro ist okay."
+    },
+    "speaking": "角色卡——顾客：找一件衣服、说尺码和颜色、试穿、问价、决定买或不买（贵）；店员：按对话回应。自查：ihn/sie/es 回指用对、zu teuer 用上。",
+    "sceneWords": [
+      "das Geschäft",
+      "der Preis",
+      "die Größe",
+      "die Farbe",
+      "der Pullover",
+      "die Hose",
+      "das Kleid",
+      "teuer",
+      "billig",
+      "kaufen",
+      "kosten",
+      "anprobieren（认读）"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "das Geschäft",
+            "speak": "das Geschäft"
+          },
+          {
+            "label": "der Preis",
+            "speak": "der Preis"
+          },
+          {
+            "label": "die Größe",
+            "speak": "die Größe"
+          },
+          {
+            "label": "die Farbe",
+            "speak": "die Farbe"
+          },
+          {
+            "label": "der Pullover",
+            "speak": "der Pullover"
+          },
+          {
+            "label": "die Hose",
+            "speak": "die Hose"
+          },
+          {
+            "label": "das Kleid",
+            "speak": "das Kleid"
+          },
+          {
+            "label": "teuer",
+            "speak": "teuer"
+          },
+          {
+            "label": "billig",
+            "speak": "billig"
+          },
+          {
+            "label": "kaufen",
+            "speak": "kaufen"
+          },
+          {
+            "label": "kosten",
+            "speak": "kosten"
+          },
+          {
+            "label": "anprobieren（认读）",
+            "speak": "anprobieren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-04",
+    "level": "A1",
+    "order": 4,
+    "title": "居住",
+    "titleDe": "",
+    "recommended": "g-a1-17",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Die Wohnung hat … Zimmer. / Das Bad ist neben/gegenüber … / Die Miete kostet … im Monat. / Mein Zimmer ist groß/klein, hell/dunkel, ruhig/laut. / Auf dem Tisch steht/liegt …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Das ist meine Wohnung. Komm rein!",
+        "zh": "这是我家，进来吧！"
+      },
+      {
+        "de": "Sie ist schön und hell. Wie viele Zimmer hat sie?",
+        "zh": "很漂亮很亮堂。几个房间？"
+      },
+      {
+        "de": "Drei Zimmer: ein Wohnzimmer, ein Schlafzimmer und ein Arbeitszimmer.",
+        "zh": "三个房间：客厅、卧室和书房。"
+      },
+      {
+        "de": "Und wo ist das Bad?",
+        "zh": "浴室在哪？"
+      },
+      {
+        "de": "Das Bad ist neben der Küche.",
+        "zh": "浴室在厨房旁边。"
+      },
+      {
+        "de": "Was kostet die Miete?",
+        "zh": "房租多少？"
+      },
+      {
+        "de": "700 Euro im Monat.",
+        "zh": "一个月 700 欧。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Die Wohnung hat drei Zimmer.",
+        "q": "几个房间？",
+        "explain": "drei Zimmer。",
+        "options": [
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Das Bad ist ___ der Küche.（旁边）",
+        "explain": "neben + 与格位置。",
+        "answer": "neben"
+      },
+      {
+        "type": "choice",
+        "q": "房租的问法？",
+        "explain": "问价用 kosten。",
+        "options": [
+          "Was kostet die Miete?",
+          "Wie groß ist die Miete?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "位置 stehen + 与格。",
+        "tokens": [
+          "steht",
+          "Tisch",
+          "dem",
+          "Auf",
+          "Lampe",
+          "die"
+        ],
+        "answer": [
+          "Auf",
+          "dem",
+          "Tisch",
+          "steht",
+          "die",
+          "Lampe"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Mein Zimmer ist klein, aber ruhig.",
+        "display": "Mein Zimmer ist klein, aber ___.",
+        "explain": "ruhig 安静。",
+        "answer": "ruhig"
+      },
+      {
+        "type": "fill",
+        "q": "Ich schlafe im ___.（卧室）",
+        "explain": "场景词。",
+        "answer": "Schlafzimmer"
+      },
+      {
+        "type": "choice",
+        "q": "„ab sofort frei\"（租房广告）意思？",
+        "explain": "frei 在这里是「空着」。",
+        "options": [
+          "立即可入住",
+          "免费"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Die Küche ist neben dem Bad.",
+        "explain": "neben + 与格。",
+        "answer": "Die Küche ist neben dem Bad."
+      }
+    ],
+    "reading": {
+      "text": "„2-Zimmer-Wohnung in Berlin, 55 m², 650 Euro Miete, hell und ruhig, Balkon, ab 1. Oktober frei. Kontakt: 0176 …\"",
+      "questions": [
+        {
+          "q": "Wie groß ist die Wohnung?",
+          "options": [
+            "45 m²",
+            "55 m²",
+            "65 m²"
+          ],
+          "answer": 1,
+          "explain": "55 m²。"
+        },
+        {
+          "q": "Ab wann ist sie frei?",
+          "options": [
+            "sofort",
+            "ab 1. Oktober"
+          ],
+          "answer": 1,
+          "explain": "广告写明 10 月 1 日起。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 5 句描述你的房间（有什么家具、各在哪里）。",
+      "sample": "范文：Mein Zimmer ist nicht groß. Das Bett steht an der Wand. Auf dem Tisch liegt mein Buch. Der Stuhl steht vor dem Tisch. Das Zimmer ist ruhig und hell."
+    },
+    "speaking": "任务：介绍你的住处（几间房、每间在哪、房租或和谁住、你最喜欢哪个房间，为什么）。自查：方位句至少 2 句（neben/auf/unter）、形容词至少 3 个。范文节选：Meine Wohnung hat zwei Zimmer. Das Bad ist neben der Küche. Mein Lieblingszimmer ist das Wohnzimmer, es ist groß und hell.",
+    "sceneWords": [
+      "die Wohnung",
+      "das Zimmer",
+      "die Küche",
+      "das Bad",
+      "der Balkon（认读）",
+      "die Miete",
+      "das Bett",
+      "der Tisch",
+      "der Stuhl",
+      "der Schrank",
+      "hell",
+      "ruhig"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "die Wohnung",
+            "speak": "die Wohnung"
+          },
+          {
+            "label": "das Zimmer",
+            "speak": "das Zimmer"
+          },
+          {
+            "label": "die Küche",
+            "speak": "die Küche"
+          },
+          {
+            "label": "das Bad",
+            "speak": "das Bad"
+          },
+          {
+            "label": "der Balkon（认读）",
+            "speak": "der Balkon"
+          },
+          {
+            "label": "die Miete",
+            "speak": "die Miete"
+          },
+          {
+            "label": "das Bett",
+            "speak": "das Bett"
+          },
+          {
+            "label": "der Tisch",
+            "speak": "der Tisch"
+          },
+          {
+            "label": "der Stuhl",
+            "speak": "der Stuhl"
+          },
+          {
+            "label": "der Schrank",
+            "speak": "der Schrank"
+          },
+          {
+            "label": "hell",
+            "speak": "hell"
+          },
+          {
+            "label": "ruhig",
+            "speak": "ruhig"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-05",
+    "level": "A1",
+    "order": 5,
+    "title": "服务",
+    "titleDe": "",
+    "recommended": "g-a1-13",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich habe einen Termin um … / Mir tut der … weh. / Ich habe Fieber/Husten/Schmerzen. / Seit wann? — Seit … / Ich brauche ein Medikament gegen … / Kann ich den Termin verschieben?（改期，认读）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Guten Tag, ich habe einen Termin um zehn Uhr.",
+        "zh": "您好，我约了十点。"
+      },
+      {
+        "de": "Ihr Name, bitte? — Chen Wei.",
+        "zh": "请问姓名？——Chen Wei。"
+      },
+      {
+        "de": "Herr Chen, der Arzt hat gleich Zeit für Sie. Was fehlt Ihnen denn?",
+        "zh": "陈先生，医生马上有空。您哪里不舒服？"
+      },
+      {
+        "de": "Mir tut der Kopf weh und ich habe Fieber.",
+        "zh": "我头疼，还发烧。"
+      },
+      {
+        "de": "Seit wann?",
+        "zh": "从什么时候开始？"
+      },
+      {
+        "de": "Seit gestern.",
+        "zh": "从昨天开始。"
+      },
+      {
+        "de": "Der Arzt schaut Sie gleich an.",
+        "zh": "医生马上给您看。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Mir tut der Bauch weh.",
+        "q": "哪里疼？",
+        "explain": "der Bauch。",
+        "options": [
+          "头",
+          "肚子"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Ich habe ___ um elf Uhr.（一个预约）",
+        "explain": "Termin 阳性宾格。",
+        "answer": "einen Termin"
+      },
+      {
+        "type": "choice",
+        "q": "发烧怎么说？",
+        "explain": "haben Fieber。",
+        "options": [
+          "Ich habe Fieber.",
+          "Ich bin Fieber."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wehtun 的框架。",
+        "tokens": [
+          "tut",
+          "Mir",
+          "weh",
+          "Rücken",
+          "der"
+        ],
+        "answer": [
+          "Mir",
+          "tut",
+          "der",
+          "Rücken",
+          "weh"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Ich brauche einen Termin beim Arzt.",
+        "display": "Ich brauche einen ___ beim Arzt.",
+        "explain": "beim = bei dem。",
+        "answer": "Termin"
+      },
+      {
+        "type": "fill",
+        "q": "— Seit wann sind Sie krank? — ___ Montag.",
+        "explain": "seit 起点（认读产出两可，此处产出）。",
+        "answer": "Seit"
+      },
+      {
+        "type": "choice",
+        "q": "药房是？",
+        "explain": "Apotheke 药房，Post 邮局。",
+        "options": [
+          "die Post",
+          "die Apotheke"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Der Arzt hat heute keine Zeit.",
+        "explain": "改期场景的常见句。",
+        "answer": "Der Arzt hat heute keine Zeit."
+      }
+    ],
+    "reading": {
+      "text": "„Praxis Dr. Sommer — Sprechzeiten: Mo–Fr 8–12 Uhr, Mo und Do auch 15–18 Uhr. Termine nur nach Anmeldung. Im Notfall: 112.\"（门诊时间周一至五 8–12 点，周一四下午另加；预约需登记；急诊 112）",
+      "questions": [
+        {
+          "q": "Wann kann man am Donnerstag kommen?",
+          "options": [
+            "nur morgens",
+            "morgens und nachmittags"
+          ],
+          "answer": 1,
+          "explain": "Do 下午有诊。"
+        },
+        {
+          "q": "Was macht man im Notfall?",
+          "options": [
+            "Man ruft 112 an.",
+            "Man wartet bis Montag."
+          ],
+          "answer": 0,
+          "explain": "急诊电话 112。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写一条短信改期：说明原因 + 提一个新时间。",
+      "sample": "范文：Guten Tag, ich muss meinen Termin am Dienstag leider verschieben. Ich bin krank. Geht es am Donnerstag um 10 Uhr? Vielen Dank, Chen Wei."
+    },
+    "speaking": "双人角色卡——病人：说清哪里疼、从什么时候开始；前台：问姓名、确认预约时间、安排。自查：wehtun 句型、seit 回答、时间表达各用对一次。",
+    "sceneWords": [
+      "der Termin",
+      "der Arzt",
+      "die Apotheke（认读）",
+      "das Medikament（认读）",
+      "der Kopf",
+      "der Bauch",
+      "wehtun",
+      "die Post",
+      "der Brief",
+      "die Bank",
+      "anrufen",
+      "die Sprechstunde（认读）"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "der Termin",
+            "speak": "der Termin"
+          },
+          {
+            "label": "der Arzt",
+            "speak": "der Arzt"
+          },
+          {
+            "label": "die Apotheke（认读）",
+            "speak": "die Apotheke"
+          },
+          {
+            "label": "das Medikament（认读）",
+            "speak": "das Medikament"
+          },
+          {
+            "label": "der Kopf",
+            "speak": "der Kopf"
+          },
+          {
+            "label": "der Bauch",
+            "speak": "der Bauch"
+          },
+          {
+            "label": "wehtun",
+            "speak": "wehtun"
+          },
+          {
+            "label": "die Post",
+            "speak": "die Post"
+          },
+          {
+            "label": "der Brief",
+            "speak": "der Brief"
+          },
+          {
+            "label": "die Bank",
+            "speak": "die Bank"
+          },
+          {
+            "label": "anrufen",
+            "speak": "anrufen"
+          },
+          {
+            "label": "die Sprechstunde（认读）",
+            "speak": "die Sprechstunde"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-06",
+    "level": "A1",
+    "order": 6,
+    "title": "工作与职业",
+    "titleDe": "",
+    "recommended": "g-a1-03",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich bin … von Beruf. / Ich arbeite bei … / in einem … / Von … bis … Uhr arbeite ich. / Ich habe heute viele Termine. / Ich mache Urlaub im …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Was machst du beruflich, Marco?",
+        "zh": "Marco，你是做什么的？"
+      },
+      {
+        "de": "Ich bin Verkäufer. Ich arbeite in einem Geschäft.",
+        "zh": "我是售货员，在一家商店工作。"
+      },
+      {
+        "de": "Von wann bis wann arbeitest du?",
+        "zh": "你几点到几点上班？"
+      },
+      {
+        "de": "Von acht bis siebzehn Uhr. Und du?",
+        "zh": "八点到十七点。你呢？"
+      },
+      {
+        "de": "Ich arbeite im Büro. Ich habe viele Termine.",
+        "zh": "我在办公室工作，预约很多。"
+      },
+      {
+        "de": "Wann machst du Urlaub?",
+        "zh": "你什么时候休假？"
+      },
+      {
+        "de": "Im August, zwei Wochen.",
+        "zh": "八月，两周。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Ich arbeite von acht bis siebzehn Uhr.",
+        "q": "工作到几点？",
+        "explain": "bis siebzehn Uhr。",
+        "options": [
+          "16 点",
+          "17 点"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Sie arbeitet ___ Büro.",
+        "explain": "im Büro 在办公室。",
+        "answer": "im"
+      },
+      {
+        "type": "choice",
+        "q": "职业问答哪组对？",
+        "explain": "问职业用第一组。",
+        "options": [
+          "Was bist du von Beruf? — Ich bin Lehrer.",
+          "Wo bist du von Beruf? — Im Büro."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "Urlaub machen 固定搭配。",
+        "tokens": [
+          "mache",
+          "Ich",
+          "August",
+          "im",
+          "Urlaub"
+        ],
+        "answer": [
+          "Ich",
+          "mache",
+          "Urlaub",
+          "im",
+          "August"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Meine Kollegin ist Ärztin.",
+        "display": "Meine Kollegin ist ___.",
+        "explain": "女性职业加 -in。",
+        "answer": "Ärztin"
+      },
+      {
+        "type": "fill",
+        "q": "Er arbeitet ___ einer Bank.（在银行工作，bei 的职场用法——本题答案 bei 放在名词前：Er arbeitet ___ einer Bank.）",
+        "explain": "bei + 公司/机构。",
+        "answer": "bei"
+      },
+      {
+        "type": "choice",
+        "q": "„die Pause\" 是？",
+        "explain": "Pause 是中途休息。",
+        "options": [
+          "休息时间",
+          "会议"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich habe heute keine Pause.",
+        "explain": "工作场景高频句。",
+        "answer": "Ich habe heute keine Pause."
+      }
+    ],
+    "reading": {
+      "text": "„Wir suchen: Verkäufer/in für unser Geschäft in Köln. Arbeitszeit: Mo–Fr, 9–18 Uhr. Wir bieten: 4 Wochen Urlaub. Kontakt: jobs@beispiel.de\"",
+      "questions": [
+        {
+          "q": "Für welche Stadt ist die Stelle?",
+          "options": [
+            "Berlin",
+            "Köln"
+          ],
+          "answer": 1,
+          "explain": "in Köln。"
+        },
+        {
+          "q": "Wie viel Urlaub gibt es?",
+          "options": [
+            "2 Wochen",
+            "4 Wochen"
+          ],
+          "answer": 1,
+          "explain": "4 Wochen Urlaub。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 5 句你的工作日（几点起床、几点上班、做什么、几点下班、晚上做什么）。",
+      "sample": "范文：Ich stehe um halb acht auf. Ich arbeite von neun bis achtzehn Uhr im Büro. Ich habe viele Termine. Um zwölf Uhr mache ich Pause. Am Abend lerne ich Deutsch."
+    },
+    "speaking": "任务：介绍你的工作（职业、在哪工作、几点到几点、和谁一起、有没有假期）。自查：von…bis… 用上、职业不带冠词、至少一个时间表达。范文节选：Ich bin Ingenieur. Ich arbeite in einem Büro in Shanghai. Ich arbeite von halb neun bis halb sechs.",
+    "sceneWords": [
+      "der Beruf",
+      "der Lehrer",
+      "der Arzt",
+      "der Ingenieur",
+      "der Kollege",
+      "die Arbeit",
+      "das Büro",
+      "der Chef（认读）",
+      "die Pause",
+      "der Urlaub",
+      "die Firma（认读）"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "der Beruf",
+            "speak": "der Beruf"
+          },
+          {
+            "label": "der Lehrer",
+            "speak": "der Lehrer"
+          },
+          {
+            "label": "der Arzt",
+            "speak": "der Arzt"
+          },
+          {
+            "label": "der Ingenieur",
+            "speak": "der Ingenieur"
+          },
+          {
+            "label": "der Kollege",
+            "speak": "der Kollege"
+          },
+          {
+            "label": "die Arbeit",
+            "speak": "die Arbeit"
+          },
+          {
+            "label": "das Büro",
+            "speak": "das Büro"
+          },
+          {
+            "label": "der Chef（认读）",
+            "speak": "der Chef"
+          },
+          {
+            "label": "die Pause",
+            "speak": "die Pause"
+          },
+          {
+            "label": "der Urlaub",
+            "speak": "der Urlaub"
+          },
+          {
+            "label": "die Firma（认读）",
+            "speak": "die Firma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-07",
+    "level": "A1",
+    "order": 7,
+    "title": "教育与培训",
+    "titleDe": "",
+    "recommended": "g-a1-20",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich möchte … lernen. / Der Kurs ist montags und … / Eine Stunde dauert … Minuten. / Ich lerne seit … Deutsch.（认读） / Haben wir Hausaufgaben?"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Guten Tag! Ich möchte Deutsch lernen.",
+        "zh": "您好！我想学德语。"
+      },
+      {
+        "de": "Gern. Wir haben Kurse am Morgen und am Abend.",
+        "zh": "好的，我们有上午和晚上的课。"
+      },
+      {
+        "de": "Wann beginnt der Abendkurs?",
+        "zh": "晚课什么时候开始？"
+      },
+      {
+        "de": "Um 18:30 Uhr. Der Kurs ist montags und mittwochs.",
+        "zh": "18:30。课在周一和周三。"
+      },
+      {
+        "de": "Wie lange dauert eine Stunde?",
+        "zh": "一节课多长？"
+      },
+      {
+        "de": "90 Minuten. Hier ist der Kursplan.",
+        "zh": "90 分钟。这是课程表。"
+      },
+      {
+        "de": "Danke, ich nehme den Abendkurs.",
+        "zh": "谢谢，我报晚课。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Der Kurs ist montags und mittwochs.",
+        "q": "哪两天上课？",
+        "explain": "montags, mittwochs（星期小写加 s 是「每周…」）。",
+        "options": [
+          "周一和周三",
+          "周二和周四"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Eine Stunde ___ 90 Minuten.（持续）",
+        "explain": "dauern 持续。",
+        "answer": "dauert"
+      },
+      {
+        "type": "choice",
+        "q": "报课怎么说？",
+        "explain": "nehmen 在这里是「选、报」。",
+        "options": [
+          "Ich nehme den Kurs.",
+          "Ich esse den Kurs."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "jeden Abend 宾格时间状语。",
+        "tokens": [
+          "lerne",
+          "Ich",
+          "Deutsch",
+          "Abend",
+          "jeden"
+        ],
+        "answer": [
+          "Ich",
+          "lerne",
+          "jeden",
+          "Abend",
+          "Deutsch"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Wir haben heute keine Hausaufgaben.",
+        "display": "Wir haben heute keine ___.",
+        "explain": "Hausaufgabe 作业，常用复数。",
+        "answer": "Hausaufgaben"
+      },
+      {
+        "type": "fill",
+        "q": "Der Test ist ___ Freitag.",
+        "explain": "星期用 am。",
+        "answer": "am"
+      },
+      {
+        "type": "choice",
+        "q": "„der Kursplan\" 是？",
+        "explain": "Plan 是计划表。",
+        "options": [
+          "课程表",
+          "教室"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich lerne gern Deutsch.",
+        "explain": "gern 的位置。",
+        "answer": "Ich lerne gern Deutsch."
+      }
+    ],
+    "reading": {
+      "text": "Kursplan Deutsch A1：Montag 18:30–20:00 / Mittwoch 18:30–20:00 / Freitag 17:00–18:30（Test）。Lehrerin: Frau Berger。",
+      "questions": [
+        {
+          "q": "Wann ist der Test?",
+          "options": [
+            "Mittwoch",
+            "Freitag"
+          ],
+          "answer": 1,
+          "explain": "Freitag 标注 Test。"
+        },
+        {
+          "q": "Wie oft ist Kurs in der Woche?",
+          "options": [
+            "zweimal",
+            "dreimal"
+          ],
+          "answer": 1,
+          "explain": "一周三次。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写你的下周学习计划 4 句（星期 + 时间 + 内容）。",
+      "sample": "范文：Am Montag lerne ich um 20 Uhr Wörter. Am Mittwoch höre ich Dialoge. Am Freitag mache ich einen Test. Am Sonntag lerne ich nicht."
+    },
+    "speaking": "任务：说你的德语学习（学多久了——用 seit 的认读句、每周几次、每次多久、喜欢什么学法）。自查：频率表达、时长表达各一个。范文节选：Ich lerne seit drei Monaten Deutsch. Ich lerne dreimal in der Woche, immer eine Stunde. Ich höre gern Dialoge.",
+    "sceneWords": [
+      "die Schule",
+      "der Kurs",
+      "die Stunde",
+      "die Pause",
+      "das Buch",
+      "die Hausaufgabe",
+      "die Sprache",
+      "der Test（认读）",
+      "der Lehrer",
+      "lernen"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "die Schule",
+            "speak": "die Schule"
+          },
+          {
+            "label": "der Kurs",
+            "speak": "der Kurs"
+          },
+          {
+            "label": "die Stunde",
+            "speak": "die Stunde"
+          },
+          {
+            "label": "die Pause",
+            "speak": "die Pause"
+          },
+          {
+            "label": "das Buch",
+            "speak": "das Buch"
+          },
+          {
+            "label": "die Hausaufgabe",
+            "speak": "die Hausaufgabe"
+          },
+          {
+            "label": "die Sprache",
+            "speak": "die Sprache"
+          },
+          {
+            "label": "der Test（认读）",
+            "speak": "der Test"
+          },
+          {
+            "label": "der Lehrer",
+            "speak": "der Lehrer"
+          },
+          {
+            "label": "lernen",
+            "speak": "lernen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-08",
+    "level": "A1",
+    "order": 8,
+    "title": "休闲娱乐",
+    "titleDe": "",
+    "recommended": "g-a1-22",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Ich … gern / lieber / am liebsten. / Was machst du in deiner Freizeit? / Wollen wir …? / Der Film beginnt um … / Mein Hobby ist …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Was machst du gern in deiner Freizeit?",
+        "zh": "你空闲时喜欢做什么？"
+      },
+      {
+        "de": "Ich spiele gern Fußball und höre Musik. Und du?",
+        "zh": "我喜欢踢足球、听音乐。你呢？"
+      },
+      {
+        "de": "Ich lese gern. Aber am Wochenende gehe ich gern ins Kino.",
+        "zh": "我喜欢看书。不过周末我喜欢去看电影。"
+      },
+      {
+        "de": "Wollen wir am Samstag zusammen einen Film sehen?",
+        "zh": "周六一起看电影吗？"
+      },
+      {
+        "de": "Gute Idee! Welcher Film läuft?",
+        "zh": "好主意！在放什么电影？"
+      },
+      {
+        "de": "Ein neuer Actionfilm. Er beginnt um 20 Uhr.",
+        "zh": "一部新动作片，20 点开始。"
+      },
+      {
+        "de": "Super, bis Samstag!",
+        "zh": "太好了，周六见！"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Am liebsten schwimme ich.",
+        "q": "他最喜欢？",
+        "explain": "am liebsten schwimmen。",
+        "options": [
+          "跑步",
+          "游泳"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Mein ___ ist Lesen.",
+        "explain": "Hobby 中性名词。",
+        "answer": "Hobby"
+      },
+      {
+        "type": "choice",
+        "q": "邀请句是？",
+        "explain": "问句语序才是邀请。",
+        "options": [
+          "Wollen wir spazieren gehen?",
+          "Wir wollen spazieren."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "gern 在动词后。",
+        "tokens": [
+          "gern",
+          "Ich",
+          "Musik",
+          "höre"
+        ],
+        "answer": [
+          "Ich",
+          "höre",
+          "gern",
+          "Musik"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Der Film beginnt um zwanzig Uhr.",
+        "display": "Der Film beginnt um ___ Uhr.",
+        "explain": "时间数字。",
+        "answer": "zwanzig"
+      },
+      {
+        "type": "fill",
+        "q": "In meiner ___ habe ich viel Zeit.",
+        "explain": "Freizeit 空闲时间。",
+        "answer": "Freizeit"
+      },
+      {
+        "type": "choice",
+        "q": "„spazieren gehen\" 是？",
+        "explain": "散步是慢走。",
+        "options": [
+          "跑步",
+          "散步"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Ich spiele jeden Samstag Fußball.",
+        "explain": "jeden Samstag 每周六。",
+        "answer": "Ich spiele jeden Samstag Fußball."
+      }
+    ],
+    "reading": {
+      "text": "„KINO CITY: Neuer Film ‚Sommer in Berlin'. Freitag und Samstag 20:00 Uhr, Sonntag 17:00 Uhr. Tickets: 9 Euro, Studenten 7 Euro.\"",
+      "questions": [
+        {
+          "q": "Wann läuft der Film am Sonntag?",
+          "options": [
+            "20:00",
+            "17:00"
+          ],
+          "answer": 1,
+          "explain": "Sonntag 17 点。"
+        },
+        {
+          "q": "Studenten zahlen …?",
+          "options": [
+            "9 Euro",
+            "7 Euro"
+          ],
+          "answer": 1,
+          "explain": "学生价 7 欧。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写一条邀请消息（给时间、活动、地点，问句收尾）。",
+      "sample": "范文：Hallo Ben! Am Sonntag habe ich Zeit. Wollen wir im Park spazieren gehen? Um 15 Uhr am Tor? Antworte bitte! Liebe Grüße, Tom."
+    },
+    "speaking": "任务：先说你的三个爱好（用 gern/lieber/am liebsten 排序），再邀请对方周末做其中一件（给时间和地点）。自查：喜好梯度完整、邀请句是问句。范文节选：Ich lese gern, ich höre lieber Musik, am liebsten spiele ich Fußball. Wollen wir am Samstag Fußball spielen?",
+    "sceneWords": [
+      "die Freizeit",
+      "das Hobby",
+      "der Sport",
+      "der Fußball",
+      "schwimmen",
+      "das Kino",
+      "der Film",
+      "die Musik",
+      "lesen",
+      "spazieren gehen"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "die Freizeit",
+            "speak": "die Freizeit"
+          },
+          {
+            "label": "das Hobby",
+            "speak": "das Hobby"
+          },
+          {
+            "label": "der Sport",
+            "speak": "der Sport"
+          },
+          {
+            "label": "der Fußball",
+            "speak": "der Fußball"
+          },
+          {
+            "label": "schwimmen",
+            "speak": "schwimmen"
+          },
+          {
+            "label": "das Kino",
+            "speak": "das Kino"
+          },
+          {
+            "label": "der Film",
+            "speak": "der Film"
+          },
+          {
+            "label": "die Musik",
+            "speak": "die Musik"
+          },
+          {
+            "label": "lesen",
+            "speak": "lesen"
+          },
+          {
+            "label": "spazieren gehen",
+            "speak": "spazieren gehen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-09",
+    "level": "A1",
+    "order": 9,
+    "title": "旅行与交通",
+    "titleDe": "",
+    "recommended": "g-a1-06、g-a1-16",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Wann fährt … ab? / Wann kommt … an? / Von welchem Gleis? / Eine Fahrkarte nach …, bitte. / Einfach oder hin und zurück? / Wie komme ich zum/zur …?（问路）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Entschuldigung, wann fährt der Zug nach Hamburg ab?",
+        "zh": "打扰一下，去汉堡的火车几点开？"
+      },
+      {
+        "de": "Um 14:05 Uhr, von Gleis 3.",
+        "zh": "14:05，从 3 号站台。"
+      },
+      {
+        "de": "Und wann kommt er in Hamburg an?",
+        "zh": "几点到汉堡？"
+      },
+      {
+        "de": "Um 16:40 Uhr.",
+        "zh": "16:40。"
+      },
+      {
+        "de": "Ich brauche eine Fahrkarte, bitte.",
+        "zh": "请给我一张票。"
+      },
+      {
+        "de": "Einfach oder hin und zurück?",
+        "zh": "单程还是往返？"
+      },
+      {
+        "de": "Hin und zurück, bitte.",
+        "zh": "往返。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Der Zug fährt um vierzehn Uhr fünf ab.",
+        "q": "几点开？",
+        "explain": "官方时间读法 vierzehn Uhr fünf。",
+        "options": [
+          "14:05",
+          "14:50"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "Wir kommen um 18 Uhr in Berlin ___.",
+        "explain": "ankommen 的前缀。",
+        "answer": "an"
+      },
+      {
+        "type": "choice",
+        "q": "往返票是？",
+        "explain": "hin und zurück 往返。",
+        "options": [
+          "einfach",
+          "hin und zurück"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "问路句型，zum = zu dem。",
+        "tokens": [
+          "komme",
+          "Wie",
+          "ich",
+          "Bahnhof",
+          "zum"
+        ],
+        "answer": [
+          "Wie",
+          "komme",
+          "ich",
+          "zum",
+          "Bahnhof"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Der Zug fährt von Gleis zwei ab.",
+        "display": "Der Zug fährt von Gleis ___ ab.",
+        "explain": "站台号。",
+        "answer": "zwei"
+      },
+      {
+        "type": "fill",
+        "q": "Ich brauche eine Fahrkarte ___ München.",
+        "explain": "目的地用 nach。",
+        "answer": "nach"
+      },
+      {
+        "type": "choice",
+        "q": "„die Verspätung\"（广播高频词）意思？",
+        "explain": "Verspätung 是晚点、延误。",
+        "options": [
+          "准点",
+          "晚点"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Der Zug hat zehn Minuten Verspätung.",
+        "explain": "广播原句。",
+        "answer": "Der Zug hat zehn Minuten Verspätung."
+      }
+    ],
+    "reading": {
+      "text": "Abfahrt: 13:20 Zug nach Köln, Gleis 1 / 14:05 Zug nach Hamburg, Gleis 3 / 14:30 Bus zum Flughafen, Haltestelle B（机场巴士在 B 站）。",
+      "questions": [
+        {
+          "q": "Der Zug nach Köln fährt von Gleis …?",
+          "options": [
+            "1",
+            "3"
+          ],
+          "answer": 0,
+          "explain": "Gleis 1。"
+        },
+        {
+          "q": "Zum Flughafen fährt man mit …?",
+          "options": [
+            "dem Zug",
+            "dem Bus"
+          ],
+          "answer": 1,
+          "explain": "机场是巴士。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写一张简短旅行明信片（在哪、天气、做什么、什么时候回）。",
+      "sample": "范文：Liebe Anna, ich bin in Hamburg. Das Wetter ist gut. Heute sehe ich die Stadt und morgen fahre ich ans Meer. Am Sonntag komme ich zurück. Viele Grüße, Tom."
+    },
+    "speaking": "双人角色卡——旅客：问一趟车的出发时间、站台、到达时间并买往返票；工作人员：按阅读牌回答。自查：abfahren/ankommen 前缀归位、官方时间读法。",
+    "sceneWords": [
+      "der Zug",
+      "der Bus",
+      "der Bahnhof",
+      "die Fahrkarte",
+      "die Abfahrt（认读）",
+      "die Ankunft（认读）",
+      "abfahren",
+      "ankommen",
+      "das Hotel",
+      "die Reise",
+      "der Weg"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "der Zug",
+            "speak": "der Zug"
+          },
+          {
+            "label": "der Bus",
+            "speak": "der Bus"
+          },
+          {
+            "label": "der Bahnhof",
+            "speak": "der Bahnhof"
+          },
+          {
+            "label": "die Fahrkarte",
+            "speak": "die Fahrkarte"
+          },
+          {
+            "label": "die Abfahrt（认读）",
+            "speak": "die Abfahrt"
+          },
+          {
+            "label": "die Ankunft（认读）",
+            "speak": "die Ankunft"
+          },
+          {
+            "label": "abfahren",
+            "speak": "abfahren"
+          },
+          {
+            "label": "ankommen",
+            "speak": "ankommen"
+          },
+          {
+            "label": "das Hotel",
+            "speak": "das Hotel"
+          },
+          {
+            "label": "die Reise",
+            "speak": "die Reise"
+          },
+          {
+            "label": "der Weg",
+            "speak": "der Weg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s-a1-10",
+    "level": "A1",
+    "order": 10,
+    "title": "环境与天气",
+    "titleDe": "",
+    "recommended": "g-a1-24",
+    "table": {
+      "caption": "关键句型",
+      "headers": [
+        "关键句型"
+      ],
+      "rows": [
+        [
+          "Wie ist das Wetter? / Es ist sonnig/warm/kalt. / Es regnet/schneit. / Es sind 25 Grad.（气温读法） / Im Sommer ist es heiß, im Winter ist es kalt."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [],
+    "examples": [
+      {
+        "de": "Wie ist das Wetter heute?",
+        "zh": "今天天气怎么样？"
+      },
+      {
+        "de": "Es ist kalt und es regnet.",
+        "zh": "很冷，还在下雨。"
+      },
+      {
+        "de": "Schade. Gestern war es warm und sonnig.",
+        "zh": "真可惜。昨天又暖和又有太阳。"
+      },
+      {
+        "de": "Morgen soll es besser werden. Die Sonne scheint dann.",
+        "zh": "明天应该会好些，到时候有太阳。"
+      },
+      {
+        "de": "Dann gehen wir spazieren?",
+        "zh": "那我们去散步吧？"
+      },
+      {
+        "de": "Gern! Aber nimm eine Jacke mit.",
+        "zh": "好啊！不过带件外套。"
+      }
+    ],
+    "pitfalls": [],
+    "exercises": [
+      {
+        "type": "listen_choice",
+        "audio": "Es sind heute dreißig Grad.",
+        "q": "今天多少度？",
+        "explain": "Grad 度。",
+        "options": [
+          "13",
+          "30"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "Es ___ heute.（下雨）",
+        "explain": "天气动词 regnen。",
+        "answer": "regnet"
+      },
+      {
+        "type": "choice",
+        "q": "„sonnig\" 的意思？",
+        "explain": "sonnig 晴。",
+        "options": [
+          "晴朗的",
+          "下雪的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "季节 + 天气。",
+        "tokens": [
+          "ist",
+          "Im",
+          "heiß",
+          "es",
+          "Sommer"
+        ],
+        "answer": [
+          "Im",
+          "Sommer",
+          "ist",
+          "es",
+          "heiß"
+        ]
+      },
+      {
+        "type": "listen_fill",
+        "audio": "Gestern war es windig und kühl.",
+        "display": "Gestern war es windig und ___.",
+        "explain": "kühl 凉爽。",
+        "answer": "kühl"
+      },
+      {
+        "type": "fill",
+        "q": "Im Winter brauche ich eine warme ___.",
+        "explain": "场景词外套。",
+        "answer": "Jacke"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是「在下雪」？",
+        "explain": "schneien 下雪，scheinen 是（太阳）照耀，别混。",
+        "options": [
+          "Es schneit.",
+          "Es scheint."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "audio": "Das Wetter ist heute schlecht.",
+        "explain": "天气评价。",
+        "answer": "Das Wetter ist heute schlecht."
+      }
+    ],
+    "reading": {
+      "text": "Wetter morgen: Berlin: sonnig, 24 Grad / Hamburg: Regen, 18 Grad / München: warm, 27 Grad / Köln: bewölkt（多云，认读）, 20 Grad。",
+      "questions": [
+        {
+          "q": "Wo ist es am wärmsten?",
+          "options": [
+            "Hamburg",
+            "München"
+          ],
+          "answer": 1,
+          "explain": "27 Grad 最高。"
+        },
+        {
+          "q": "Wo regnet es?",
+          "options": [
+            "Berlin",
+            "Hamburg"
+          ],
+          "answer": 1,
+          "explain": "Hamburg 是 Regen。"
+        }
+      ]
+    },
+    "writing": {
+      "task": "写 4 句：一句今天的天气、三句你最喜欢的季节和原因（用 weil 更好，学过 g-a1-18 后）。",
+      "sample": "范文：Heute ist es sonnig und warm. Ich mag den Sommer am liebsten, weil es lange hell ist. Im Sommer gehe ich oft spazieren. Der Winter ist mir zu kalt."
+    },
+    "speaking": "任务：说你所在城市四个季节的天气（每季一句），加上今天的天气和你穿什么。自查：季节用 im、气温用 Grad、雨雪词别混。范文节选：Im Frühling ist es warm. Im Sommer ist es heiß, oft 30 Grad. Heute ist es kühl, ich trage eine Jacke.",
+    "sceneWords": [
+      "das Wetter",
+      "die Sonne",
+      "der Regen",
+      "der Schnee（认读）",
+      "der Wind（认读）",
+      "die Wolke（认读）",
+      "heiß",
+      "kalt",
+      "warm",
+      "kühl",
+      "die Jacke",
+      "scheinen（认读，die Sonne scheint）"
+    ],
+    "readingLabel": "阅读",
+    "audioChips": [
+      {
+        "group": "场景词串",
+        "items": [
+          {
+            "label": "das Wetter",
+            "speak": "das Wetter"
+          },
+          {
+            "label": "die Sonne",
+            "speak": "die Sonne"
+          },
+          {
+            "label": "der Regen",
+            "speak": "der Regen"
+          },
+          {
+            "label": "der Schnee（认读）",
+            "speak": "der Schnee"
+          },
+          {
+            "label": "der Wind（认读）",
+            "speak": "der Wind"
+          },
+          {
+            "label": "die Wolke（认读）",
+            "speak": "die Wolke"
+          },
+          {
+            "label": "heiß",
+            "speak": "heiß"
+          },
+          {
+            "label": "kalt",
+            "speak": "kalt"
+          },
+          {
+            "label": "warm",
+            "speak": "warm"
+          },
+          {
+            "label": "kühl",
+            "speak": "kühl"
+          },
+          {
+            "label": "die Jacke",
+            "speak": "die Jacke"
+          },
+          {
+            "label": "scheinen（认读，die Sonne scheint）",
+            "speak": "scheinen"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2421 @@
+[
+  {
+    "id": "g-b1-06",
+    "level": "B1",
+    "order": 9,
+    "title": "Konjunktiv I 间接引语",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（同一句话的三种说法）",
+      "headers": [
+        "直接引语",
+        "dass 从句转述（日常）",
+        "Konjunktiv I 转述（新闻/正式）"
+      ],
+      "rows": [
+        [
+          "Er sagt: „Ich bin krank.\"",
+          "Er sagt, dass er krank **ist**.",
+          "Er sagt, er **sei** krank."
+        ],
+        [
+          "Sie sagt: „Ich habe keine Zeit.\"",
+          "Sie sagt, dass sie keine Zeit **hat**.",
+          "Sie sagt, sie **habe** keine Zeit."
+        ],
+        [
+          "Er sagt: „Ich komme morgen.\"",
+          "Er sagt, dass er morgen **kommt**.",
+          "Er sagt, er **komme** morgen."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（KI 的识别标志——变得最明显的是 er/sie/es 单数）",
+        "headers": [
+          "原形",
+          "陈述式（er）",
+          "Konjunktiv I（er）"
+        ],
+        "rows": [
+          [
+            "sein",
+            "ist",
+            "**sei**"
+          ],
+          [
+            "haben",
+            "hat",
+            "**habe**"
+          ],
+          [
+            "werden",
+            "wird",
+            "**werde**"
+          ],
+          [
+            "kommen / sagen / müssen / können",
+            "kommt / sagt / muss / kann",
+            "**komme / sage / müsse / könne**"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "KI 是**新闻和正式报道的转述工具**：记者用它表明「这是他说的，我不担保」。本单元定位是**认读**：见到 sei / habe / komme 就知道在转述，不要求日常口语产出。",
+      "两种转述结构：带 dass 的从句（口语常用，陈述式）与不带 dass 的主句式转述（KI 的主场，动词站第二位：Er sagt, er sei krank.）。",
+      "已发生的事用 KI 完成式：er **sei gekommen** / sie **habe** das **gemacht**（认读即可）。",
+      "KI 与陈述式同形时（如复数 kommen、haben），正式文本改用 Konjunktiv II 代替：„Sie kommen morgen.\" → Es heißt, sie **kämen** morgen."
+    ],
+    "examples": [
+      {
+        "de": "Der Minister sagt, er sei mit dem Ergebnis zufrieden.",
+        "zh": ""
+      },
+      {
+        "de": "Die Zeugin sagt, sie habe den Unfall gesehen.",
+        "zh": ""
+      },
+      {
+        "de": "Er behauptet, er könne nichts dafür.",
+        "zh": ""
+      },
+      {
+        "de": "Die Zeitung schreibt, der Zug sei zu spät gekommen.",
+        "zh": ""
+      },
+      {
+        "de": "Man sagt, sie kämen morgen zurück.",
+        "zh": ""
+      },
+      {
+        "de": "Die Firma teilt mit, die Preise würden nächstes Jahr steigen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把 sei 读成命令或愿望：报道里的 sei 只是「据他说他是……」，没有命令意味。",
+      "把转述当事实：KI 本身就在提示「未经我核实」，阅读时要分清谁在负责这句话。",
+      "以为每个动词都大变样：实际只有 er/sie/es 单数信号最强（ist→sei、hat→habe 最常见）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是 Konjunktiv I 间接引语",
+        "explain": "sei 是 KI 的标志。",
+        "options": [
+          "Er sagt, er sei krank.",
+          "Er sagt: „Ich bin krank.\"",
+          "Er ist krank, das weiß ich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "转成日常说法",
+        "explain": "KI 的 habe 还原为陈述式 hat。",
+        "display": "把转述句还原成她本人的话：Sie ＿＿ keine Zeit.（原转述：Sie sagt, sie habe keine Zeit.)",
+        "answer": "hat"
+      },
+      {
+        "type": "classify",
+        "q": "说法分筐",
+        "explain": "有引号是 A；sei/habe/komme 无 dass 是 B；dass + 陈述式是 C。",
+        "groups": [
+          "直接引语",
+          "KI 转述",
+          "dass 陈述转述"
+        ],
+        "items": [
+          {
+            "text": "1. „Ich komme morgen.\"",
+            "group": 0
+          },
+          {
+            "text": "2. Er sagt, er komme morgen.",
+            "group": 1
+          },
+          {
+            "text": "3. Er sagt, dass er morgen kommt.",
+            "group": 2
+          },
+          {
+            "text": "4. Sie behauptet, sie habe nichts gesehen.",
+            "group": 1
+          },
+          {
+            "text": "5. „Wir sind bereit\", sagt er.",
+            "group": 0
+          },
+          {
+            "text": "6. Die Zeitung schreibt, der Preis sei gestiegen.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "sein 的 KI（er 形式）",
+        "explain": "wäre 是 Konjunktiv II，ist 是陈述式，sei 才是 KI。",
+        "options": [
+          "sei",
+          "ist",
+          "wäre"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨立场",
+        "explain": "sei 表明转述并保持距离。",
+        "audio": "Die Sprecherin sagt, die Lage sei unter Kontrolle.",
+        "options": [
+          "这是发言人的转述，她不担保",
+          "这是发言人亲口保证的事实",
+          "这是发言人在提问"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "KI 填空",
+        "explain": "转述已发生的事：habe + 分词。",
+        "display": "Sie sagt, sie ＿＿ den Brief schon gelesen.（haben 的 KI）",
+        "answer": "habe"
+      },
+      {
+        "type": "choice",
+        "q": "新闻为什么用 KI",
+        "explain": "KI 的核心功能是「归属给消息源」。",
+        "options": [
+          "表明是转述、与内容保持距离",
+          "表达愿望",
+          "表达命令"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "无 dass 的转述按主句语序排：sei 站在被转述句的第二位。",
+        "tokens": [
+          "sei",
+          "Der Arzt sagt",
+          "gesund",
+          "der Patient"
+        ],
+        "answer": [
+          "Der Arzt sagt",
+          "der Patient",
+          "sei",
+          "gesund"
+        ],
+        "displayAnswer": "Der Arzt sagt, der Patient sei gesund."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补 KI",
+        "explain": "können 的 KI 是 könne。",
+        "audio": "Er behauptet, er könne nicht kommen.",
+        "display": "Er behauptet, er ＿＿ nicht kommen.",
+        "answer": "könne"
+      },
+      {
+        "type": "choice",
+        "q": "同形替换认读",
+        "explain": "复数 KI 与陈述式长得一样时，用 KII 保持「转述」信号。",
+        "display": "转述 „Sie kommen morgen.\" 时正式文本写 kämen，是因为",
+        "options": [
+          "kommen 的 KI 与陈述式同形，改用 KII 代替",
+          "kämen 是过去时",
+          "随便选的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "KI 填空",
+        "explain": "werden → werde。",
+        "display": "Es heißt, das Wetter ＿＿ morgen besser.（werden 的 KI）",
+        "answer": "werde"
+      },
+      {
+        "type": "choice",
+        "q": "哪句不是间接引语",
+        "explain": "带引号的是直接引语。",
+        "options": [
+          "„Ich bin müde\", sagt sie.",
+          "Sie sagt, sie sei müde.",
+          "Sie sagt, dass sie müde ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "KI 时态分筐",
+        "explain": "带分词的是完成式，表已发生。",
+        "groups": [
+          "现在/将来（一般式）",
+          "已发生（完成式/KII 过去）"
+        ],
+        "items": [
+          {
+            "text": "1. er sei krank",
+            "group": 0
+          },
+          {
+            "text": "2. er sei gekommen",
+            "group": 1
+          },
+          {
+            "text": "3. sie habe es gemacht",
+            "group": 1
+          },
+          {
+            "text": "4. sie habe Zeit",
+            "group": 0
+          },
+          {
+            "text": "5. er werde kommen",
+            "group": 0
+          },
+          {
+            "text": "6. sie wären gefahren",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "suche 是 suchen 的 KI，转述公司通知。",
+        "audio": "Die Firma teilt mit, man suche neue Mitarbeiter.",
+        "options": [
+          "公司在招人（转述）",
+          "公司在找走失的员工",
+          "有人在找工作"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "KI 填空",
+        "explain": "wollen → wolle（er 形式）。",
+        "display": "Er sagt, er ＿＿ das nicht.（wollen 的 KI）",
+        "answer": "wolle"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "sei angekommen 是 KI 完成式：转述一件已发生的事。",
+        "audio": "Sie sagt, sie sei gestern schon angekommen.",
+        "answer": "Sie sagt, sie sei gestern schon angekommen."
+      }
+    ],
+    "reading": {
+      "text": "Der Bürgermeister teilte am Montag mit, die Stadt plane ein neues Schwimmbad. Er sagte, das alte Bad sei zu klein geworden. Viele Bürger sind mit dem Plan zufrieden. Ein Sprecher der Opposition meinte dagegen, das Projekt sei zu teuer. Ob es gebaut wird, ist noch offen.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①建新泳池的消息是谁在报道里转述的？（答：市长的表态，由报道转述。）②反对党发言人转述的意见是什么？（答：项目太贵。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "把 3 句直接引语改成 KI 转述：„Ich bin bereit.\"（er）/ „Wir haben keine Zeit.\"（sie 复数，注意同形替换）/ „Er kommt morgen.\"（man sagt）。",
+      "sample": "范文：Er sagt, er sei bereit. Sie sagen, sie hätten keine Zeit. Man sagt, er komme morgen.",
+      "selfcheck": "自查：er 单数用了 sei / habe / komme □；复数 haben 与陈述式同形，换成了 hätten □；转述句没有引号 □。"
+    }
+  },
+  {
+    "id": "g-b1-07",
+    "level": "B1",
+    "order": 10,
+    "title": "双分连接词",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（五个成对出现的连接装置）",
+      "headers": [
+        "双分",
+        "逻辑",
+        "例"
+      ],
+      "rows": [
+        [
+          "sowohl … als auch",
+          "既…也…（两者都要）",
+          "Er spricht **sowohl** Deutsch **als auch** Englisch."
+        ],
+        [
+          "entweder … oder",
+          "要么…要么…（二选一）",
+          "**Entweder** bleibst du hier, **oder** du kommst mit."
+        ],
+        [
+          "weder … noch",
+          "既不…也不…（两者都不要）",
+          "Er trinkt **weder** Kaffee **noch** Tee."
+        ],
+        [
+          "nicht nur … sondern auch",
+          "不仅…而且…（递进）",
+          "Sie ist **nicht nur** klug, **sondern auch** freundlich."
+        ],
+        [
+          "zwar … aber",
+          "虽然…但是…（口头让步）",
+          "Das ist **zwar** teuer, **aber** gut."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "sowohl / weder / nicht nur 紧贴被并列的成分（词或短语），管的是成分不是整句：sowohl am Morgen als auch am Abend。",
+      "entweder 可以站到句首带起整句，此时后面动词第二位倒装：Entweder **kommst** du mit, oder du bleibst.",
+      "weder…noch 自带否定：句中不要再加 nicht（„Er trinkt weder Kaffee noch Tee\" 已是否定）。",
+      "zwar 站主句中段不占第一位，aber 句的动词照常第二位：Das ist zwar klein, aber es ist praktisch."
+    ],
+    "examples": [
+      {
+        "de": "Wir bieten Kurse sowohl am Morgen als auch am Abend an.",
+        "zh": ""
+      },
+      {
+        "de": "Entweder wir fahren mit dem Zug, oder wir bleiben zu Hause.",
+        "zh": ""
+      },
+      {
+        "de": "Ich trinke weder Kaffee noch Tee.",
+        "zh": ""
+      },
+      {
+        "de": "Sie ist nicht nur Ärztin, sondern auch Lehrerin.",
+        "zh": ""
+      },
+      {
+        "de": "Das Wetter ist zwar kalt, aber sonnig.",
+        "zh": ""
+      },
+      {
+        "de": "Er hat weder angerufen noch geschrieben.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "sowohl 后面接 und（„sowohl Deutsch und Englisch\"）：固定搭配是 als auch。",
+      "weder 句里再加 nicht（双重否定）：weder…noch 已经否定了两边。",
+      "entweder 带句时忘倒装：句首 Entweder 后动词必须紧跟（Entweder kommst du …, 不是 Entweder du kommst … 作为标准书面形式）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "搭配填空",
+        "explain": "两者都会，用 sowohl…als auch。",
+        "display": "Er spricht ＿＿ Deutsch ＿＿ Englisch.",
+        "options": [
+          "sowohl … als auch",
+          "entweder … als auch",
+          "weder … als auch"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "weder 的搭档是 noch。",
+        "display": "Weder Kaffee ＿＿ Tee, bitte — ich trinke nur Wasser.",
+        "answer": "noch"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "sowohl 贴第一个成分，als auch 贴第二个。",
+        "tokens": [
+          "als auch",
+          "Sie kann",
+          "sowohl singen",
+          "tanzen"
+        ],
+        "answer": [
+          "Sie kann",
+          "sowohl singen",
+          "als auch",
+          "tanzen"
+        ],
+        "displayAnswer": "Sie kann sowohl singen als auch tanzen."
+      },
+      {
+        "type": "choice",
+        "q": "weder 正确句",
+        "explain": "weder…noch 自带否定，不加 nicht、不用 und。",
+        "options": [
+          "Er trinkt weder Kaffee noch Tee.",
+          "Er trinkt weder Kaffee nicht noch Tee.",
+          "Er trinkt weder Kaffee und Tee."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "nicht nur…sondern auch 是递进，两个身份都有。",
+        "audio": "Sie ist nicht nur Ärztin, sondern auch Lehrerin.",
+        "options": [
+          "她既是医生也是老师",
+          "她只是医生",
+          "她想当老师"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "zwar…aber 是口头让步的固定对子。",
+        "display": "Das ist ＿＿ teuer, aber schön.",
+        "answer": "zwar"
+      },
+      {
+        "type": "classify",
+        "q": "逻辑分筐",
+        "explain": "先认逻辑再认词：都要是 A，只能选一是 B，都不要是 C，先认后转是 D。",
+        "groups": [
+          "加法/递进",
+          "二选一",
+          "双否定",
+          "让步"
+        ],
+        "items": [
+          {
+            "text": "1. sowohl … als auch",
+            "group": 0
+          },
+          {
+            "text": "2. entweder … oder",
+            "group": 1
+          },
+          {
+            "text": "3. weder … noch",
+            "group": 2
+          },
+          {
+            "text": "4. zwar … aber",
+            "group": 3
+          },
+          {
+            "text": "5. nicht nur … sondern auch",
+            "group": 0
+          },
+          {
+            "text": "6. entweder … oder",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "weder 在第一个成分前，noch 在第二个前。",
+        "tokens": [
+          "noch",
+          "Er",
+          "weder",
+          "trinkt",
+          "Kaffee",
+          "Tee"
+        ],
+        "answer": [
+          "Er",
+          "trinkt",
+          "weder",
+          "Kaffee",
+          "noch",
+          "Tee"
+        ],
+        "displayAnswer": "Er trinkt weder Kaffee noch Tee."
+      },
+      {
+        "type": "choice",
+        "q": "辨义",
+        "explain": "weder…noch 是双重否定。",
+        "display": "„Weder … noch\" 表示",
+        "options": [
+          "两个都不要",
+          "两个都要",
+          "随便哪一个"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "entweder…oder 二选一。",
+        "audio": "Wir fahren entweder mit dem Zug oder mit dem Auto.",
+        "display": "Wir fahren ＿＿ mit dem Zug oder mit dem Auto.",
+        "answer": "entweder"
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "nicht nur 的搭档是 sondern auch，sondern 不能漏。",
+        "display": "Sie hat nicht nur ein Auto, ＿＿ auch ein Fahrrad.",
+        "answer": "sondern"
+      },
+      {
+        "type": "choice",
+        "q": "zwar 语序",
+        "explain": "zwar 在主句中段，aber 引出转折。",
+        "options": [
+          "Das ist zwar klein, aber praktisch.",
+          "Das ist aber klein, zwar praktisch.",
+          "Zwar das ist klein, aber praktisch."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "nicht nur 贴第一个形容词，sondern auch 引出第二个。",
+        "tokens": [
+          "sondern auch",
+          "Er ist",
+          "nicht nur",
+          "fleißig",
+          "klug"
+        ],
+        "answer": [
+          "Er ist",
+          "nicht nur",
+          "fleißig",
+          "sondern auch",
+          "klug"
+        ],
+        "displayAnswer": "Er ist nicht nur fleißig, sondern auch klug."
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "entweder 的搭档 oder，分句之间有逗号。",
+        "display": "Entweder du hilfst mir, ＿＿ ich mache es allein.",
+        "answer": "oder"
+      },
+      {
+        "type": "choice",
+        "q": "sowohl 位置正确句",
+        "explain": "sowohl 与 als auch 分别贴住两个并列成分。",
+        "options": [
+          "Er hat sowohl das Buch gelesen als auch den Film gesehen.",
+          "Er hat sowohl das Buch gelesen und den Film gesehen.",
+          "Er hat das Buch sowohl gelesen als auch den Film gesehen gut."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "weder…noch 之间不要加 nicht。",
+        "audio": "Ich trinke weder Kaffee noch Tee.",
+        "answer": "Ich trinke weder Kaffee noch Tee."
+      }
+    ],
+    "reading": {
+      "text": "Unsere Sprachschule bietet sowohl Kurse am Morgen als auch am Abend an. Man kann entweder in der Schule lernen oder online teilnehmen. Die Lehrer sind nicht nur erfahren, sondern auch geduldig. Der Kurs ist zwar nicht billig, aber die Qualität ist gut. Weder Langeweile noch Stress gibt es bei uns — so sagt die Werbung.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①课程时间有哪两种？（答：早上和晚上。）②广告说在这里没有什么？（答：既没有无聊，也没有压力。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 sowohl…als auch、entweder…oder、weder…noch、nicht nur…sondern auch 各写 1 句。",
+      "sample": "范文：Ich mag sowohl Tee als auch Kaffee. Entweder wir kochen heute, oder wir gehen ins Restaurant. Er spricht weder Französisch noch Spanisch. Sie ist nicht nur meine Kollegin, sondern auch meine Freundin.",
+      "selfcheck": "自查：weder 句里没有多余的 nicht □；sowohl 后是 als auch 不是 und □；nicht nur 后跟了 sondern auch □。"
+    }
+  },
+  {
+    "id": "g-b1-08",
+    "level": "B1",
+    "order": 11,
+    "title": "逻辑从句全量",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（四个逻辑连接词，全部带从句、动词在尾）",
+      "headers": [
+        "连接词",
+        "逻辑",
+        "例"
+      ],
+      "rows": [
+        [
+          "obwohl",
+          "让步：尽管",
+          "**Obwohl** es regnete, gingen wir spazieren."
+        ],
+        [
+          "während（时间）",
+          "同时：当…时",
+          "**Während** ich kochte, hörte er Musik."
+        ],
+        [
+          "während（对比）",
+          "而：两边对照",
+          "**Während** Anna gern kocht, bestellt Ben lieber Pizza."
+        ],
+        [
+          "sodass",
+          "结果：以至于",
+          "Es regnete stark, **sodass** die Straße nass wurde."
+        ],
+        [
+          "indem",
+          "方式：通过",
+          "Er lernt Deutsch, **indem** er jeden Tag liest."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "obwohl 与 trotz（B1-3 对比专练）的分工预告：obwohl 带从句，trotz 带名词——本单元先把从句版练熟。",
+      "während 有两副面孔：时间同时（两件事一起发生）与对比（两件事对照着看）。看两边是不是平行对照的人和事，是对比义。",
+      "sodass 只能跟在主句后面报告结果，**不能把 sodass 从句提到句首**（这点与 obwohl/während 不同）。",
+      "indem 回答「通过什么方式」：Er spart Geld, indem er jeden Monat etwas zur Seite legt. ≈ 通过省钱这个动作达到目的。"
+    ],
+    "examples": [
+      {
+        "de": "Obwohl er müde war, half er mir noch.",
+        "zh": ""
+      },
+      {
+        "de": "Während die Kinder spielten, arbeiteten die Eltern.",
+        "zh": ""
+      },
+      {
+        "de": "Während ich Tee trinke, trinkt er Kaffee.",
+        "zh": ""
+      },
+      {
+        "de": "Die Musik war so laut, sodass niemand schlafen konnte.",
+        "zh": ""
+      },
+      {
+        "de": "Man bleibt gesund, indem man Sport treibt.",
+        "zh": ""
+      },
+      {
+        "de": "Sie bestand die Prüfung, indem sie jeden Tag übte.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "把 sodass 从句放句首（„Sodass es regnete, …\"）：结果从句只能跟在后面。",
+      "während 只认时间义：对比句被误读成同时发生，丢掉对照意味。",
+      "indem 与 um…zu 混用：主语不同不能用 indem 硬套（indem 从句的主语要与主句一致或独立成立时才自然）；方式不明确时 indem 是「通过做某事」。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "让步填空",
+        "explain": "「尽管很晚还工作」是让步，用 obwohl。",
+        "display": "＿＿ es spät war, arbeitete er weiter.",
+        "options": [
+          "Obwohl",
+          "Sodass",
+          "Indem"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "方式填空",
+        "explain": "通过「每月存一点」这个方式省钱，indem。",
+        "display": "Er spart Geld, ＿＿ er jeden Monat etwas zur Seite legt.",
+        "answer": "indem"
+      },
+      {
+        "type": "choice",
+        "q": "结果填空",
+        "explain": "太吵是因，睡不着是果，sodass。",
+        "display": "Es war sehr laut, ＿＿ ich nicht schlafen konnte.",
+        "options": [
+          "sodass",
+          "obwohl",
+          "während"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "逻辑分筐",
+        "explain": "按逻辑分：硬着头皮做是让步，引发后果是结果，靠某动作达成是方式。",
+        "groups": [
+          "让步",
+          "结果",
+          "方式",
+          "同时/对比"
+        ],
+        "items": [
+          {
+            "text": "1. Obwohl er müde war, half er mir.",
+            "group": 0
+          },
+          {
+            "text": "2. Sie bestand die Prüfung, indem sie viel übte.",
+            "group": 2
+          },
+          {
+            "text": "3. Es schneite, sodass der Zug ausfiel.",
+            "group": 1
+          },
+          {
+            "text": "4. Während ich las, schlief er.",
+            "group": 3
+          },
+          {
+            "text": "5. Er lachte, obwohl er Schmerzen hatte.",
+            "group": 0
+          },
+          {
+            "text": "6. Man spart Zeit, indem man den Zug nimmt.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "obwohl 从句在前，主句动词 blieben 第二位倒装。",
+        "tokens": [
+          "wir",
+          "Obwohl es regnete",
+          "blieben",
+          "zu Hause"
+        ],
+        "answer": [
+          "Obwohl es regnete",
+          "blieben",
+          "wir",
+          "zu Hause"
+        ],
+        "displayAnswer": "Obwohl es regnete, blieben wir zu Hause."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "während 时间义：在办公室期间外面下雨。",
+        "audio": "Während ich im Büro war, hat es geregnet.",
+        "options": [
+          "下雨时他在办公室",
+          "下雨时他在路上",
+          "他冒雨回了家"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "两件事同时进行，während。",
+        "display": "＿＿ die Kinder draußen spielten, kochte die Mutter.",
+        "answer": "Während"
+      },
+      {
+        "type": "choice",
+        "q": "indem 改写认读",
+        "explain": "indem 说方式，用 mit 短语可近义改写。",
+        "display": "Er öffnete die Tür, indem er den Schlüssel drehte. 与哪句最近",
+        "options": [
+          "Er öffnete die Tür mit dem Schlüssel.",
+          "Er öffnete die Tür nicht.",
+          "Der Schlüssel öffnete die Tür allein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "双空填空",
+        "explain": "sodass 引结果，konnte 在从句末尾。",
+        "display": "Die Musik war so laut, ＿＿ niemand schlafen ＿＿.",
+        "answer": "sodass konnte",
+        "blankAnswers": [
+          "sodass",
+          "konnte"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "während 对比义",
+        "explain": "前句是两地对照（对比义），后句是时间同时。",
+        "options": [
+          "Während Berlin groß ist, ist mein Dorf klein.",
+          "Während ich schlief, klingelte das Telefon."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补连接词",
+        "explain": "冷还去游泳 = 让步。",
+        "audio": "Obwohl es kalt war, gingen wir schwimmen.",
+        "display": "＿＿ es kalt war, gingen wir schwimmen.",
+        "answer": "Obwohl"
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "有钱却不快乐，让步关系。",
+        "display": "＿＿ er viel Geld hat, ist er nicht glücklich.",
+        "answer": "Obwohl"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "indem 从句动词 übt 在尾。",
+        "tokens": [
+          "indem er",
+          "Er lernt",
+          "täglich",
+          "Deutsch",
+          "übt"
+        ],
+        "answer": [
+          "Er lernt",
+          "Deutsch",
+          "indem er",
+          "täglich",
+          "übt"
+        ],
+        "displayAnswer": "Er lernt Deutsch, indem er täglich übt."
+      },
+      {
+        "type": "choice",
+        "q": "位置规则",
+        "explain": "sodass 只能跟在主句之后。",
+        "display": "哪个从句不能提到句首",
+        "options": [
+          "sodass 结果从句",
+          "obwohl 让步从句",
+          "während 时间从句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "通过运动保持健康，方式用 indem。",
+        "display": "Man bleibt gesund, ＿＿ man Sport treibt.",
+        "answer": "indem"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "sodass 从句 konnten 在末尾。",
+        "audio": "Es war dunkel, sodass wir nichts sehen konnten.",
+        "answer": "Es war dunkel, sodass wir nichts sehen konnten."
+      }
+    ],
+    "reading": {
+      "text": "Obwohl das Wetter schlecht war, fuhren wir ans Meer. Während die Kinder am Strand spielten, lasen die Eltern ein Buch. Am Nachmittag wurde der Wind so stark, sodass wir früher nach Hause mussten. Man lernt die Natur kennen, indem man draußen ist — auch bei schlechtem Wetter.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①为什么提前回家？（答：风太大了。）②父母在海边做什么？（答：读书。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 obwohl、während、sodass、indem 各写 1 句。",
+      "sample": "范文：Obwohl ich müde war, bin ich noch spazieren gegangen. Während ich koche, hört mein Mann Musik. Es hat stark geregnet, sodass die Straßen nass waren. Man spart Zeit, indem man mit dem Zug fährt.",
+      "selfcheck": "自查：四个从句的动词都在句末 □；sodass 从句没有放到句首 □；während 的意思（时间或对比）用对了 □。"
+    }
+  },
+  {
+    "id": "t-b1-02",
+    "level": "B1",
+    "order": 12,
+    "title": "讨论与辩论：坚持与让步的话术",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（讨论六大功能与标准说法）",
+      "headers": [
+        "功能",
+        "说法"
+      ],
+      "rows": [
+        [
+          "表态",
+          "Ich bin der Meinung, dass … / Meiner Ansicht nach … / Ich finde, dass …"
+        ],
+        [
+          "同意",
+          "Da hast du recht. / Das sehe ich auch so. / Genau, und außerdem …"
+        ],
+        [
+          "部分同意（先认后转）",
+          "Das stimmt zwar, aber … / Einerseits …, andererseits …"
+        ],
+        [
+          "礼貌反对",
+          "Das sehe ich anders. / Da bin ich anderer Meinung. / Ich bin dagegen, weil …"
+        ],
+        [
+          "举例与补充",
+          "Zum Beispiel … / Außerdem … / Ein weiterer Punkt ist …"
+        ],
+        [
+          "总结",
+          "Zusammenfassend lässt sich sagen, dass … / Am wichtigsten ist …"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "B1 讨论的得分结构是四段：**观点 → 理由（weil/dass）→ 承认对方一点 → 转折给自己的结论**。只喊观点不给理由，最多算 A2。",
+      "礼貌反对三件套：先承认（Da hast du zum Teil recht）、再转折（aber）、再给理由。直接 „Das ist falsch!\" 在讨论里是失分项。",
+      "激动时最容易丢的还是从句语序：dass / weil 从句动词必须在尾——讨论越热烈越要守住。",
+      "einerseits…andererseits 是「两面都说」的标准框架，说完两面再表态，显得有分寸。"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin der Meinung, dass Kinder weniger fernsehen sollten.",
+        "zh": ""
+      },
+      {
+        "de": "Da hast du recht, aber für Familien auf dem Land ist ein Auto wichtig.",
+        "zh": ""
+      },
+      {
+        "de": "Einerseits ist Zugfahren bequem, andererseits ist es oft teuer.",
+        "zh": ""
+      },
+      {
+        "de": "Das sehe ich anders: Hausaufgaben helfen beim Lernen.",
+        "zh": ""
+      },
+      {
+        "de": "Zum Beispiel könnte man mit dem Rad zur Arbeit fahren.",
+        "zh": ""
+      },
+      {
+        "de": "Zusammenfassend lässt sich sagen: Es gibt keine einfache Lösung.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "用 „Du hast keine Ahnung\" 式硬顶：讨论课练的是有分寸地反对，不是吵架赢。",
+      "表态句后不给理由：„Ich bin dagegen.\" 光秃秃一句，要接 weil 从句。",
+      "andererseits 前面漏了 einerseits：这对框架要成对出现。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "哪句是礼貌反对",
+        "explain": "有转折有理由，才是讨论式反对。",
+        "options": [
+          "Das sehe ich anders, weil der Preis zu hoch ist.",
+          "Du hast keine Ahnung!",
+          "Das ist falsch, Punkt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "功能分筐",
+        "explain": "先判断这句话在讨论里干什么，再对号入座。",
+        "groups": [
+          "表态",
+          "同意",
+          "反对",
+          "总结"
+        ],
+        "items": [
+          {
+            "text": "1. Meiner Meinung nach ist das zu teuer.",
+            "group": 0
+          },
+          {
+            "text": "2. Da hast du recht.",
+            "group": 1
+          },
+          {
+            "text": "3. Das sehe ich anders.",
+            "group": 2
+          },
+          {
+            "text": "4. Zusammenfassend: Wir brauchen mehr Zeit.",
+            "group": 3
+          },
+          {
+            "text": "5. Ich bin der Meinung, dass man das ändern muss.",
+            "group": 0
+          },
+          {
+            "text": "6. Genau, und außerdem ist es billiger.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "表态句填空",
+        "explain": "固定搭配 der Meinung sein。",
+        "display": "Ich bin ＿＿ Meinung, dass Autos in der Stadt verboten sein sollten.",
+        "answer": "der"
+      },
+      {
+        "type": "choice",
+        "q": "部分同意的标志",
+        "explain": "stimmt zwar, aber… = 先认一点再转折。",
+        "options": [
+          "Das stimmt zwar, aber der Preis ist zu hoch.",
+          "Das stimmt total, fertig.",
+          "Das stimmt überhaupt nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨态度",
+        "explain": "einerseits…andererseits 是两面框架。",
+        "audio": "Einerseits ist das praktisch, andererseits ist es teuer.",
+        "options": [
+          "说话人觉得有利有弊，还没定论",
+          "说话人坚决反对",
+          "说话人完全同意"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "举例填空",
+        "explain": "固定搭配 Zum Beispiel。",
+        "display": "＿＿ Beispiel könnte man mit dem Rad fahren.",
+        "answer": "Zum"
+      },
+      {
+        "type": "order",
+        "q": "让步句组句",
+        "explain": "先承认、再转折，是礼貌反对的顺序。",
+        "tokens": [
+          "aber es ist",
+          "Da hast du recht",
+          "mir zu teuer"
+        ],
+        "answer": [
+          "Da hast du recht",
+          "aber es ist",
+          "mir zu teuer"
+        ],
+        "displayAnswer": "Da hast du recht, aber es ist mir zu teuer."
+      },
+      {
+        "type": "choice",
+        "q": "补充新论点用哪个",
+        "explain": "Außerdem 是追加论点的信号词。",
+        "options": [
+          "Außerdem ist es gut für die Umwelt.",
+          "Zum Schluss ist es gut für die Umwelt.",
+          "Weil ist es gut für die Umwelt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "反对句填空",
+        "explain": "anderer Meinung sein = 持不同意见。",
+        "display": "Da bin ich anderer ＿＿.",
+        "answer": "Meinung"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "Meiner Ansicht nach 是表态的标准开头。",
+        "audio": "Meiner Ansicht nach sollten Kinder weniger fernsehen.",
+        "display": "＿＿ Ansicht nach sollten Kinder weniger fernsehen.",
+        "answer": "Meiner"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是总结",
+        "explain": "Am wichtigsten ist… 是收束讨论的总结句式。",
+        "options": [
+          "Am wichtigsten ist die Gesundheit.",
+          "Ich bin der Meinung, dass Sport wichtig ist.",
+          "Da hast du recht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "两面框架填空",
+        "explain": "einerseits 的搭档是 andererseits。",
+        "display": "Einerseits ist Zugfahren bequem, ＿＿ ist es oft teuer.",
+        "answer": "andererseits"
+      },
+      {
+        "type": "classify",
+        "q": "语气分筐",
+        "explain": "B 组都有承认、转折或理由；A 组只有情绪。",
+        "groups": [
+          "强硬/不礼貌",
+          "礼貌讨论"
+        ],
+        "items": [
+          {
+            "text": "1. Du liegst total falsch!",
+            "group": 0
+          },
+          {
+            "text": "2. Da bin ich anderer Meinung.",
+            "group": 1
+          },
+          {
+            "text": "3. Das ist doch Quatsch!",
+            "group": 0
+          },
+          {
+            "text": "4. Das stimmt zwar, aber ich sehe ein Problem.",
+            "group": 1
+          },
+          {
+            "text": "5. Das sehe ich anders, weil die Kosten zu hoch sind.",
+            "group": 1
+          },
+          {
+            "text": "6. Keine Ahnung, mir doch egal.",
+            "group": 0
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "给理由的结构",
+        "explain": "weil 从句动词 sind 在尾。",
+        "display": "表态之后给理由，标准接法是",
+        "options": [
+          "…, weil die Kosten zu hoch sind.",
+          "…, weil sind die Kosten zu hoch.",
+          "…, weil die Kosten sind zu hoch."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "同意句填空",
+        "explain": "Das sehe ich auch so = 我也这么看。",
+        "display": "Das sehe ich auch ＿＿.",
+        "answer": "so"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "dass 从句 sollte 在末尾。",
+        "audio": "Ich bin der Meinung, dass man mehr Sport treiben sollte.",
+        "answer": "Ich bin der Meinung, dass man mehr Sport treiben sollte."
+      }
+    ],
+    "reading": {
+      "text": "— Ich bin der Meinung, dass man in der Stadt kein Auto braucht.\n— Da hast du zum Teil recht. Aber für Familien auf dem Land ist ein Auto wichtig.\n— Das stimmt zwar, aber Züge könnten besser sein.\n— Da bin ich anderer Meinung: Züge sind oft zu spät.\n— Zusammenfassend lässt sich sagen: Es gibt keine einfache Lösung.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①甲方的核心观点是什么？（答：城里不需要汽车。）②乙方对火车的批评是什么？（答：火车经常晚点。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "围绕「学生应该穿校服吗」（或自选话题）写 5–6 句讨论稿，必须包含：表态、理由、先认后转、总结。",
+      "sample": "范文：Ich bin der Meinung, dass Schuluniformen eine gute Idee sind. Sie sind praktisch, und alle Schüler sehen gleich aus. Das stimmt zwar, sie können teuer sein, aber sie sparen am Morgen Zeit. Zusammenfassend finde ich sie sinnvoll.",
+      "selfcheck": "自查：有明确表态句 □；有 zwar…aber 或 einerseits…andererseits □；有总结句 □；dass / weil 从句动词都在末尾 □。"
+    }
+  },
+  {
+    "id": "g-b1-09",
+    "level": "B1",
+    "order": 13,
+    "title": "不定式 zu 全量",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（A2 学过 um…zu 表目的；本单元补齐其余四个主力结构）",
+      "headers": [
+        "结构",
+        "意思",
+        "例"
+      ],
+      "rows": [
+        [
+          "ohne … zu",
+          "没做某事（就……）",
+          "Er ging, **ohne** sich **zu verabschieden**."
+        ],
+        [
+          "statt … zu（= anstatt）",
+          "本该做 A 却做了 B",
+          "**Statt zu lernen**, spielte er am Handy."
+        ],
+        [
+          "scheinen … zu",
+          "似乎",
+          "Sie **scheint** krank **zu sein**."
+        ],
+        [
+          "brauchen nicht … zu",
+          "不必（= nicht müssen）",
+          "Du **brauchst** nicht **zu kommen**."
+        ],
+        [
+          "其他高频",
+          "vergessen / versuchen / aufhören + zu",
+          "Ich habe **vergessen**, ihn **anzurufen**."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "ohne / statt 要求**主从主语相同**：Er ging, ohne sich zu verabschieden.（走的人和告别的人是同一个）主语不同必须改用 dass 从句或状语从句。",
+      "statt…zu 可以搬到句首，逗号后主句倒装：Statt zu Hause zu bleiben, **ging** er aus.",
+      "scheinen 的重心在「印象」：Das Wetter scheint besser zu werden.（看起来要好了，不担保）",
+      "brauchen + 否定是 B1 口头高频：Du brauchst nicht zu warten. 等于 Du musst nicht warten.——肯定式 brauchen…zu 偏书面，日常肯定多用 müssen。"
+    ],
+    "examples": [
+      {
+        "de": "Sie verließ den Raum, ohne ein Wort zu sagen.",
+        "zh": ""
+      },
+      {
+        "de": "Statt zu kochen, bestellte er Pizza.",
+        "zh": ""
+      },
+      {
+        "de": "Er scheint alles zu wissen.",
+        "zh": ""
+      },
+      {
+        "de": "Du brauchst mir nicht zu helfen.",
+        "zh": ""
+      },
+      {
+        "de": "Hör auf, so laut zu sein!",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe versucht, ihn zu erreichen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "ohne / statt 后面漏 zu 或把 zu 放错位置：反身代词在 zu 前（ohne **sich zu** verabschieden，不是 ohne zu sich verabschieden）。",
+      "主语不同还用 ohne…zu：„Ich ging, ohne er zu zahlen\" 不成立，主语不同要改从句。",
+      "把 brauchen nicht 理解成「不准」：它只是「不必」，不准是 darf nicht（g-b1-02 已钉过）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "ohne 句填空",
+        "explain": "反身代词 sich 站在 zu 前面。",
+        "display": "Er ging weg, ohne ＿＿.",
+        "options": [
+          "sich zu verabschieden",
+          "verabschieden sich",
+          "zu sich verabschieden"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "statt…zu 的 zu 紧贴不定式。",
+        "display": "Statt ＿＿ lernen, spielte er am Handy.",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "scheinen 填空",
+        "explain": "scheinen 本身变位，zu 跟后面的不定式。",
+        "display": "Sie ＿＿ müde zu sein.",
+        "options": [
+          "scheint",
+          "scheinen zu",
+          "ist scheinen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "brauchen…zu 结构，否定不影响 zu 的位置。",
+        "display": "Du brauchst nicht ＿＿ warten.",
+        "answer": "zu"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "ohne zu + 不定式在尾。",
+        "tokens": [
+          "weg",
+          "Er fuhr",
+          "ohne zu",
+          "bezahlen"
+        ],
+        "answer": [
+          "Er fuhr",
+          "weg",
+          "ohne zu",
+          "bezahlen"
+        ],
+        "displayAnswer": "Er fuhr weg, ohne zu bezahlen."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "statt…zu = 本该做 A，结果做了 B。",
+        "audio": "Statt zu kochen, bestellte sie Pizza.",
+        "options": [
+          "她点了披萨而不是做饭",
+          "她做完饭又点了披萨",
+          "她不会做饭"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "classify",
+        "q": "结构分筐",
+        "explain": "看句首信号词和动词搭配对号入座。",
+        "groups": [
+          "ohne…zu",
+          "statt…zu",
+          "scheinen",
+          "brauchen"
+        ],
+        "items": [
+          {
+            "text": "1. Er arbeitet, ohne Pause zu machen.",
+            "group": 0
+          },
+          {
+            "text": "2. Sie scheint glücklich zu sein.",
+            "group": 2
+          },
+          {
+            "text": "3. Statt zu meckern, hilf lieber mit!",
+            "group": 1
+          },
+          {
+            "text": "4. Du brauchst nicht zu zahlen.",
+            "group": 3
+          },
+          {
+            "text": "5. Sie ging, ohne etwas zu sagen.",
+            "group": 0
+          },
+          {
+            "text": "6. Er scheint das zu wissen.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "scheinen 填空",
+        "explain": "scheinen…zu 之间只放宾语，zu 贴不定式。",
+        "display": "Sie scheint alles ＿＿ wissen.",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "辨义",
+        "explain": "brauchen nicht = 没必要。",
+        "display": "Du brauchst nicht zu kommen.＝",
+        "options": [
+          "Du musst nicht kommen.（不必）",
+          "Du darfst nicht kommen.（不准）",
+          "Du kannst nicht kommen.（不能）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "ohne…zu：一句话没说就走了。",
+        "audio": "Er verließ den Raum, ohne ein Wort zu sagen.",
+        "display": "Er verließ den Raum, ＿＿ ein Wort zu sagen.",
+        "answer": "ohne"
+      },
+      {
+        "type": "fill",
+        "q": "句首 statt 倒装",
+        "explain": "statt 从句块在前，主句动词 ging 占第二位。",
+        "display": "Statt zu Hause zu bleiben, ＿＿ er aus.（gehen 过去时）",
+        "answer": "ging"
+      },
+      {
+        "type": "choice",
+        "q": "主语规则",
+        "explain": "主语不同就不能用 ohne/statt 的不定式结构。",
+        "display": "ohne…zu 能用的条件是",
+        "options": [
+          "主句和从句主语相同",
+          "主语必须是 er",
+          "从句要有 dass"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "scheint 第二位，besser zu sein 在尾。",
+        "tokens": [
+          "zu sein",
+          "Das Wetter",
+          "scheint",
+          "besser"
+        ],
+        "answer": [
+          "Das Wetter",
+          "scheint",
+          "besser",
+          "zu sein"
+        ],
+        "displayAnswer": "Das Wetter scheint besser zu sein."
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "aufhören + zu + 不定式。",
+        "display": "Hör auf, so laut ＿＿ sein!",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "正确句",
+        "explain": "sich 在 zu 前，分词结构 umzudrehen 完整。",
+        "options": [
+          "Er ist gegangen, ohne sich umzudrehen.",
+          "Er ist gegangen, ohne umzudrehen sich.",
+          "Er ist gegangen, ohne zu sich umdrehen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "brauchen nicht…zu = 不必帮忙。",
+        "audio": "Du brauchst mir nicht zu helfen.",
+        "answer": "Du brauchst mir nicht zu helfen."
+      }
+    ],
+    "reading": {
+      "text": "Tom wollte am Wochenende lernen. Statt zu lernen, traf er seine Freunde. Sie gingen ins Kino, ohne die Hausaufgaben zu machen. Am Sonntag schien Tom müde zu sein. „Du brauchst nicht alles heute zu machen\", sagte seine Schwester. Aber die Prüfung war am Montag.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①Tom 周末本来要做什么？（答：学习。）②他实际做了什么？（答：和朋友见面、去看电影，没做作业。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 句，ohne…zu、statt…zu、scheinen…zu、brauchen nicht…zu 各 1 句。",
+      "sample": "范文：Er ist gegangen, ohne sich zu verabschieden. Statt zu Hause zu bleiben, sind wir ausgegangen. Sie scheint krank zu sein. Du brauchst nicht zu kochen, wir bestellen etwas.",
+      "selfcheck": "自查：ohne / statt 句的主语与主句一致 □；scheinen 句的 zu 没丢 □；反身动词的 sich 站在 zu 前面 □。"
+    }
+  },
+  {
+    "id": "g-b1-10",
+    "level": "B1",
+    "order": 14,
+    "title": "关系从句收官：dessen / deren 与 was / wo",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（二格关系代词——表示「……的」，认读为主、轻产出）",
+      "headers": [
+        "先行词",
+        "二格关系代词",
+        "例"
+      ],
+      "rows": [
+        [
+          "阳性 / 中性单数",
+          "**dessen**",
+          "Der Mann, **dessen** Auto kaputt ist, wartet."
+        ],
+        [
+          "阴性单数 / 复数",
+          "**deren**",
+          "Die Frau, **deren** Hund laut ist, wohnt hier. / Die Kinder, **deren** Eltern arbeiten, sind allein."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（was 与 wo——本单元要全产出）",
+        "headers": [
+          "词",
+          "用法",
+          "例"
+        ],
+        "rows": [
+          [
+            "was",
+            "先行词是 alles / etwas / nichts / das / vieles 时",
+            "**Alles, was** er sagt, stimmt. / Das, **was** du gesagt hast, ist wichtig."
+          ],
+          [
+            "wo",
+            "指地点（口语常用；正式可换 in + 关系代词）",
+            "Die Stadt, **wo** ich wohne, ist klein."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "dessen / deren 只看**先行词**的性与数，不随后面名词变：der Mann → dessen；die Frau / die Kinder → deren。",
+      "deren / dessen 后面的名词**不带冠词**：deren Hund（不是 deren der Hund）——关系代词本身已经顶替了冠词的位置。",
+      "was 的先行词是「事物整体」类词（alles、etwas、nichts、das Beste），不用 das 作为关系代词：„Alles, was …\"，不说 „Alles, das …\"。",
+      "A2 的介词关系从句（der Tisch, auf dem …）不变；wo 是地点的口语捷径，写作正式场合优先 in dem / in der。"
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer, dessen Bücher bekannt sind, unterrichtet hier.",
+        "zh": ""
+      },
+      {
+        "de": "Die Nachbarin, deren Katze weg ist, sucht überall.",
+        "zh": ""
+      },
+      {
+        "de": "Die Studenten, deren Prüfung morgen ist, sind nervös.",
+        "zh": ""
+      },
+      {
+        "de": "Alles, was ich habe, ist in dieser Tasche.",
+        "zh": ""
+      },
+      {
+        "de": "Nichts, was er sagt, hilft uns.",
+        "zh": ""
+      },
+      {
+        "de": "Das Dorf, wo meine Großeltern leben, ist sehr klein.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "deren 后再加冠词（„deren der Hund\"）：关系代词已经占了冠词位。",
+      "dessen / deren 选错：只认先行词——die Firma（阴性）用 deren，哪怕后面跟的是 der Chef。",
+      "alles 后用 das 作关系代词（„Alles, das er sagt\"）：事物整体先行词固定用 was。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "二格填空",
+        "explain": "先行词 der Mann 是阳性，用 dessen。",
+        "display": "Der Mann, ＿＿ Auto gestohlen wurde, rief die Polizei.",
+        "options": [
+          "dessen",
+          "deren",
+          "dem"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "二格填空",
+        "explain": "die Lehrerin 是阴性，用 deren。",
+        "display": "Die Lehrerin, ＿＿ Klasse zu laut ist, bittet um Ruhe.",
+        "answer": "deren"
+      },
+      {
+        "type": "choice",
+        "q": "was 填空",
+        "explain": "alles 后面固定用 was。",
+        "display": "Alles, ＿＿ du sagst, ist falsch.",
+        "options": [
+          "was",
+          "das",
+          "wo"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "wo 填空",
+        "explain": "指地点用 wo（口语式关系代词）。",
+        "display": "Die Stadt, ＿＿ ich geboren bin, ist klein.",
+        "answer": "wo"
+      },
+      {
+        "type": "classify",
+        "q": "关系词分筐",
+        "explain": "先看先行词：阳/中→dessen，阴/复→deren，事物整体→was，地点→wo。",
+        "groups": [
+          "dessen",
+          "deren",
+          "was",
+          "wo"
+        ],
+        "items": [
+          {
+            "text": "1. der Autor, dessen Buch bekannt ist",
+            "group": 0
+          },
+          {
+            "text": "2. die Firma, deren Chef nett ist",
+            "group": 1
+          },
+          {
+            "text": "3. das, was du meinst",
+            "group": 2
+          },
+          {
+            "text": "4. das Dorf, wo er lebt",
+            "group": 3
+          },
+          {
+            "text": "5. die Studenten, deren Prüfung schwer ist",
+            "group": 1
+          },
+          {
+            "text": "6. etwas, was ich brauche",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "deren Tasche = 女士的包。",
+        "audio": "Die Frau, deren Tasche gestohlen wurde, war sehr traurig.",
+        "options": [
+          "这位女士的包被偷了",
+          "这位女士偷了包",
+          "包是别人送给女士的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "复数二格",
+        "explain": "复数先行词用 deren。",
+        "display": "Die Kinder, ＿＿ Eltern viel arbeiten, sind oft allein.",
+        "answer": "deren"
+      },
+      {
+        "type": "choice",
+        "q": "找对句",
+        "explain": "deren 后面的名词不带冠词。",
+        "options": [
+          "Die Frau, deren Mann Arzt ist, wohnt hier.",
+          "Die Frau, deren der Mann Arzt ist, wohnt hier.",
+          "Die Frau, die Mann Arzt ist, wohnt hier."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "deren Eltern 是完整名词块，动词 arbeiten 在从句尾。",
+        "tokens": [
+          "Die Kinder",
+          "deren Eltern",
+          "im Ausland arbeiten"
+        ],
+        "answer": [
+          "Die Kinder",
+          "deren Eltern",
+          "im Ausland arbeiten"
+        ],
+        "displayAnswer": "Die Kinder, deren Eltern im Ausland arbeiten."
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补关系词",
+        "explain": "alles 后用 was。",
+        "audio": "Alles, was ich habe, ist in dieser Tasche.",
+        "display": "Alles, ＿＿ ich habe, ist in dieser Tasche.",
+        "answer": "was"
+      },
+      {
+        "type": "fill",
+        "q": "was 填空",
+        "explain": "etwas 作先行词用 was。",
+        "display": "Das ist etwas, ＿＿ ich nicht verstehe.",
+        "answer": "was"
+      },
+      {
+        "type": "choice",
+        "q": "wo 与正式说法",
+        "explain": "两句都对；wo 是口语捷径，in der 是正式写法。",
+        "display": "「我住的城市」，口语更常用哪句",
+        "options": [
+          "Die Stadt, wo ich wohne, ist klein.",
+          "Die Stadt, in der ich wohne, ist klein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "二格填空",
+        "explain": "der Lehrer 阳性 → dessen。",
+        "display": "Der Lehrer, ＿＿ Bücher bekannt sind, kommt aus Köln.",
+        "answer": "dessen"
+      },
+      {
+        "type": "choice",
+        "q": "dessen 指代",
+        "explain": "dessen 回指先行词 der Mann。",
+        "display": "Der Mann, dessen Sohn hier arbeitet. „dessen\" 指谁的",
+        "options": [
+          "这位男士的",
+          "儿子的",
+          "这里的"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "was 填空",
+        "explain": "nichts 后用 was。",
+        "display": "Nichts, ＿＿ er sagt, hilft uns.",
+        "answer": "was"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "deren Kind 中间没有冠词。",
+        "audio": "Die Frau, deren Kind krank ist, bleibt zu Hause.",
+        "answer": "Die Frau, deren Kind krank ist, bleibt zu Hause."
+      }
+    ],
+    "reading": {
+      "text": "In unserer Straße wohnt eine Familie, deren Haus sehr alt ist. Der Vater, dessen Arbeit weit weg ist, fährt jeden Tag mit dem Zug. Die Kinder besuchen eine Schule, wo es viele AGs gibt. Alles, was die Familie am Wochenende macht, machen sie zusammen.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①这家的房子怎么样？（答：很老。）②父亲为什么每天坐火车？（答：他的工作地点很远。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 4 句关系从句：dessen、deren、was、wo 各 1 句。",
+      "sample": "范文：Mein Freund, dessen Bruder in Berlin lebt, besucht ihn oft. Die Nachbarin, deren Katze weg ist, sucht überall. Das, was du gesagt hast, stimmt. Die Stadt, wo ich studiere, ist schön.",
+      "selfcheck": "自查：dessen 配阳性/中性、deren 配阴性/复数 □；deren / dessen 后面的名词没多加冠词 □；was 的先行词是 alles / etwas / das 类词 □。"
+    }
+  },
+  {
+    "id": "g-b1-11",
+    "level": "B1",
+    "order": 15,
+    "title": "二格介词产出",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（四个二格介词，本单元从 A2 的认读升为产出）",
+      "headers": [
+        "介词",
+        "意思",
+        "例"
+      ],
+      "rows": [
+        [
+          "wegen",
+          "因为",
+          "**Wegen des** schlechten **Wetters** blieben wir zu Hause."
+        ],
+        [
+          "trotz",
+          "尽管",
+          "**Trotz des Regens** gingen wir spazieren."
+        ],
+        [
+          "während",
+          "在…期间",
+          "**Während des Essens** spricht man nicht."
+        ],
+        [
+          "statt（= anstatt）",
+          "代替",
+          "**Statt des Autos** nahm er das Fahrrad."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（二格的构成——名词这边要做的事）",
+        "headers": [
+          "名词",
+          "二格形式",
+          "例"
+        ],
+        "rows": [
+          [
+            "阳性 / 中性",
+            "des + 名词加 -(e)s",
+            "des Wetters, des Kindes, eines Mannes"
+          ],
+          [
+            "阴性",
+            "der + 名词不变",
+            "wegen **der** Krankheit"
+          ],
+          [
+            "复数",
+            "der + 名词不变",
+            "trotz **der** Kinder"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "本课口径：**写作和考试用二格**。口语里 „wegen dem Wetter\" 广泛存在，能听懂即可，听力阅读不作错误处理——但产出按二格练。",
+      "阳性/中性的名词词尾 -(e)s 是最容易漏的一笔：des Regen✗ → des Regens✓；单音节词多用 -es（des Tages），多音节多用 -s（des Wetters 例外按习惯 -s 即可：des Wetters 本身带 s 结尾形式）。",
+      "专有名词的人名所有格认读即可（Peters Auto），本单元不产出。"
+    ],
+    "examples": [
+      {
+        "de": "Wegen der Verspätung verpasste er den Zug.",
+        "zh": ""
+      },
+      {
+        "de": "Trotz allem ist sie zufrieden.",
+        "zh": ""
+      },
+      {
+        "de": "Während der Nacht hat es geschneit.",
+        "zh": ""
+      },
+      {
+        "de": "Statt des Zuges nahm sie den Bus.",
+        "zh": ""
+      },
+      {
+        "de": "Wegen des Unfalls kam der Zug zu spät.",
+        "zh": ""
+      },
+      {
+        "de": "Während des Unterrichts darf man nicht telefonieren.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "名词漏词尾（„wegen des Wetter\"）：阳/中性名词必须带 -(e)s。",
+      "阴性名词也乱加 s（„der Krankheits\"）：阴性和复数只换冠词 der，名词不动。",
+      "写作里用口语与格（wegen dem）：口头可以，落笔要改回二格。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "二格填空",
+        "explain": "中性名词 Wetter 用 des + 词尾 s。",
+        "display": "Wegen ＿＿ Wetters fiel das Spiel aus.",
+        "options": [
+          "des",
+          "dem",
+          "der"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "der Regen 阳性，二格冠词 des（Regens 的词尾已给出）。",
+        "display": "Trotz ＿＿ Regens gingen wir raus.",
+        "answer": "des"
+      },
+      {
+        "type": "fill",
+        "q": "阴性填空",
+        "explain": "阴性名词二格冠词是 der。",
+        "display": "Wegen ＿＿ Krankheit blieb sie zu Hause.",
+        "answer": "der"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "wegen 短语在第一位，主句动词 mussten 第二位。",
+        "tokens": [
+          "des Kindes",
+          "Wegen",
+          "mussten wir",
+          "nach Hause"
+        ],
+        "answer": [
+          "Wegen",
+          "des Kindes",
+          "mussten wir",
+          "nach Hause"
+        ],
+        "displayAnswer": "Wegen des Kindes mussten wir nach Hause."
+      },
+      {
+        "type": "choice",
+        "q": "名词词尾",
+        "explain": "das Auto 的二格是 des Autos。",
+        "display": "Statt des ＿＿ nahm er den Bus.",
+        "options": [
+          "Autos",
+          "Auto",
+          "Autoses"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "während des Films = 期间。",
+        "audio": "Während des Films hat mein Handy geklingelt.",
+        "options": [
+          "手机在电影期间响了",
+          "手机在电影前响了",
+          "手机在电影院丢了"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "der Unterricht 阳性，des + 词尾 s。",
+        "display": "Während ＿＿ Unterrichts darf man nicht telefonieren.",
+        "answer": "des"
+      },
+      {
+        "type": "classify",
+        "q": "介词分筐",
+        "explain": "因果用 wegen，逆着来用 trotz，期间用 während，替换用 statt。",
+        "groups": [
+          "wegen",
+          "trotz",
+          "während",
+          "statt"
+        ],
+        "items": [
+          {
+            "text": "1. Wegen des Sturms …",
+            "group": 0
+          },
+          {
+            "text": "2. Trotz der Kälte …",
+            "group": 1
+          },
+          {
+            "text": "3. Während des Spiels …",
+            "group": 2
+          },
+          {
+            "text": "4. Statt des Zuges …",
+            "group": 3
+          },
+          {
+            "text": "5. Wegen der Kinder …",
+            "group": 0
+          },
+          {
+            "text": "6. Trotz allem …",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "口语转正式",
+        "explain": "写作口径用二格。",
+        "display": "口语 „wegen dem Wetter\" 在正式写作中应改为",
+        "options": [
+          "wegen des Wetters",
+          "wegen den Wetter",
+          "wegen der Wetter"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补介词",
+        "explain": "吵还睡得着 = trotz。",
+        "audio": "Trotz des Lärms konnte ich schlafen.",
+        "display": "＿＿ des Lärms konnte ich schlafen.",
+        "answer": "Trotz"
+      },
+      {
+        "type": "fill",
+        "q": "复数填空",
+        "explain": "复数二格冠词 der，名词 Kinder 不变。",
+        "display": "Wegen ＿＿ Kinder war es laut.",
+        "answer": "der"
+      },
+      {
+        "type": "fill",
+        "q": "填空",
+        "explain": "der Vater 阳性二格 des（Vaters 词尾已给出）。",
+        "display": "Statt ＿＿ Vaters kam die Mutter.",
+        "answer": "des"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "trotz 短语在前，被动句 wurde 第二位。",
+        "tokens": [
+          "des Regens",
+          "Trotz",
+          "wurde das Spiel",
+          "gespielt"
+        ],
+        "answer": [
+          "Trotz",
+          "des Regens",
+          "wurde das Spiel",
+          "gespielt"
+        ],
+        "displayAnswer": "Trotz des Regens wurde das Spiel gespielt."
+      },
+      {
+        "type": "choice",
+        "q": "识别二格介词",
+        "explain": "für 带宾格、seit 带与格，只有 wegen 是本单元的二格介词。",
+        "options": [
+          "wegen",
+          "für",
+          "seit"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "阴性填空",
+        "explain": "die Nacht 阴性，二格冠词 der。",
+        "display": "Während ＿＿ Nacht hat es geschneit.",
+        "answer": "der"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "des Unfalls 名词带词尾 s。",
+        "audio": "Wegen des Unfalls kam der Zug zu spät.",
+        "answer": "Wegen des Unfalls kam der Zug zu spät."
+      }
+    ],
+    "reading": {
+      "text": "Wegen des starken Schnees fielen viele Züge aus. Trotz der Kälte warteten die Menschen am Bahnhof. Während der Wartezeit tranken sie Kaffee. Statt des Zuges nahmen einige später den Bus. Wegen der Verspätung kamen viele zu spät zur Arbeit.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①火车为什么取消？（答：因为雪太大。）②有些人后来改乘什么？（答：公交车。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "用 wegen、trotz、während、statt 各写 1 句。",
+      "sample": "范文：Wegen des Regens blieben wir zu Hause. Trotz der Müdigkeit habe ich weitergearbeitet. Während des Essens sprechen wir über den Tag. Statt des Autos nehme ich heute das Rad.",
+      "selfcheck": "自查：阳性/中性名词加了 -(e)s □；阴性和复数只用 der、名词没乱加词尾 □；四个介词各用了一次 □。"
+    }
+  },
+  {
+    "id": "g-b1-12",
+    "level": "B1",
+    "order": 16,
+    "title": "代副词全量与人/物分工收官",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（形式：da(r)- 与 wo(r)-）",
+      "headers": [
+        "搭配",
+        "指物（陈述）",
+        "指物（提问）"
+      ],
+      "rows": [
+        [
+          "warten auf",
+          "Ich warte **darauf**.",
+          "**Worauf** wartest du?"
+        ],
+        [
+          "sich freuen über",
+          "Wir freuen uns **darüber**.",
+          "**Worüber** freut ihr euch?"
+        ],
+        [
+          "denken an",
+          "Er denkt oft **daran**.",
+          "**Woran** denkst du?"
+        ],
+        [
+          "träumen von",
+          "Sie träumt **davon**.",
+          "**Wovon** träumst du?"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（人 vs 物——本单元的收官分工）",
+        "headers": [
+          "",
+          "指物/事",
+          "指人"
+        ],
+        "rows": [
+          [
+            "陈述",
+            "Ich warte **darauf**.（等车/等消息）",
+            "Ich warte **auf ihn**.（等他）"
+          ],
+          [
+            "提问",
+            "**Worauf** wartest du?",
+            "**Auf wen** wartest du?"
+          ],
+          [
+            "谈论",
+            "Wir sprechen **darüber**.",
+            "Wir sprechen **über sie**."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "代副词替代的是「介词 + es/das（指物）」：Wartest du auf den Bus? — Ja, ich warte **darauf**.（回指名词时用它）名词本身出现时照常用介词 + 名词（auf den Bus）。",
+      "**指人永远不用代副词**：auf ihn / von ihr / über wen——人必须用介词 + 人称代词，这是与指物的分水岭。",
+      "提问分工：问事 Worauf/Woran/Wovon，问人 Auf wen/An wen/Von wem——介词选错，问的就是另一个对象。"
+    ],
+    "examples": [
+      {
+        "de": "Ich freue mich auf den Urlaub — ich freue mich wirklich darauf.",
+        "zh": ""
+      },
+      {
+        "de": "Er wartet auf seine Schwester, nicht auf den Bus.",
+        "zh": ""
+      },
+      {
+        "de": "Worüber sprecht ihr? — Über die Prüfung. Und über wen? — Über den Lehrer.",
+        "zh": ""
+      },
+      {
+        "de": "Sie bewirbt sich um die Stelle und hofft auf eine Antwort.",
+        "zh": ""
+      },
+      {
+        "de": "Der Lehrer warnt die Schüler vor dem Hund.",
+        "zh": ""
+      },
+      {
+        "de": "Ich kann mich nicht mehr daran erinnern.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "指人也用 darauf（„Ich warte darauf\" — 等人时错）：等的是人就 auf ihn。",
+      "元音介词忘加 r（„daauf / woan\"）：auf、über、an、aus 前面必须 r 桥。",
+      "提问用错形式：问事说 „Auf wen wartest du?\" 会被理解成在等人。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "指物回指",
+        "explain": "指物用代副词 darauf，不能说 auf es。",
+        "display": "— Wartest du auf den Zug? — Ja, ich warte ＿＿.",
+        "options": [
+          "darauf",
+          "auf ihm",
+          "auf es"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "指人填空",
+        "explain": "指人用介词 + 人称代词。",
+        "display": "Sie wartet nicht auf den Bus, sie wartet ＿＿ ＿＿.（等「他」）",
+        "answer": "auf ihn",
+        "blankAnswers": [
+          "auf",
+          "ihn"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "提问形式",
+        "explain": "问事用 wo(r)- 形式，an 以元音开头要加 r：Woran。",
+        "display": "你想问对方在想哪件事（想着旅行）：＿＿ denkst du gerade?",
+        "options": [
+          "Woran",
+          "An wen",
+          "An was ist"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "sich freuen über 的指物回指是 darüber。",
+        "tokens": [
+          "darüber",
+          "Wir",
+          "uns",
+          "freuen"
+        ],
+        "answer": [
+          "Wir",
+          "freuen",
+          "uns",
+          "darüber"
+        ],
+        "displayAnswer": "Wir freuen uns darüber."
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句答义",
+        "explain": "darauf 指事，不指人。",
+        "audio": "Ich habe lange darauf gewartet.",
+        "options": [
+          "他一直在等这件事",
+          "他一直在等一个人",
+          "他在等一句道歉的话（某人）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代副词填空",
+        "explain": "leiden unter 的指物形式是 darunter。",
+        "display": "Sie leidet unter dem Lärm. Sie leidet wirklich ＿＿.",
+        "answer": "darunter"
+      },
+      {
+        "type": "classify",
+        "q": "人/物分筐",
+        "explain": "da- 开头的是指物；介词后面跟人称代词或人的名词是指人。",
+        "groups": [
+          "代副词（指物）",
+          "介词 + 人"
+        ],
+        "items": [
+          {
+            "text": "1. Ich denke daran.",
+            "group": 0
+          },
+          {
+            "text": "2. Ich denke an sie.",
+            "group": 1
+          },
+          {
+            "text": "3. Er wartet darauf.",
+            "group": 0
+          },
+          {
+            "text": "4. Er wartet auf den Chef.",
+            "group": 1
+          },
+          {
+            "text": "5. Wir sprechen darüber.",
+            "group": 0
+          },
+          {
+            "text": "6. Wir sprechen über ihn.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "问人填空",
+        "explain": "问人用介词 + wen，auf 不变。",
+        "display": "＿＿ ＿＿ wartest du?（问：你在等谁？）",
+        "answer": "Auf wen",
+        "blankAnswers": [
+          "Auf",
+          "wen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "搭配介词",
+        "explain": "sich bewerben um + 宾格。",
+        "display": "Er bewirbt sich ＿＿ die Stelle.",
+        "options": [
+          "um",
+          "für",
+          "auf"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补代副词",
+        "explain": "aufpassen auf 的指物回指 darauf，auf 在句末。",
+        "audio": "Keine Sorge, ich passe darauf auf.",
+        "display": "Keine Sorge, ich passe ＿＿ auf.",
+        "answer": "darauf"
+      },
+      {
+        "type": "fill",
+        "q": "代副词填空",
+        "explain": "Angst haben vor，指物回指 davor。",
+        "display": "— Wovor hast du Angst? — Ich habe Angst ＿＿.（怕狗这件事）",
+        "answer": "davor"
+      },
+      {
+        "type": "choice",
+        "q": "warnen 搭配",
+        "explain": "warnen vor + 与格。",
+        "display": "Der Lehrer warnt die Schüler ＿＿ dem Hund.",
+        "options": [
+          "vor",
+          "von",
+          "über"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "提问组句",
+        "explain": "wo- 提问词在第一位，动词第二位。",
+        "tokens": [
+          "du",
+          "Wofür",
+          "dich",
+          "interessierst"
+        ],
+        "answer": [
+          "Wofür",
+          "interessierst",
+          "du",
+          "dich"
+        ],
+        "displayAnswer": "Wofür interessierst du dich?"
+      },
+      {
+        "type": "fill",
+        "q": "代副词填空",
+        "explain": "von 的代副词是 davon（辅音开头不加 r）。",
+        "display": "Es hängt ＿＿ ab, ob er Zeit hat.（abhängen von 的指物形式）",
+        "answer": "davon"
+      },
+      {
+        "type": "choice",
+        "q": "问人辨义",
+        "explain": "wen 只能指人。",
+        "display": "„Über wen sprecht ihr?\" 问的是",
+        "options": [
+          "关于哪个人",
+          "关于哪件事",
+          "关于哪个地方"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "sich erinnern an 的指物形式 daran（an 前加 r）。",
+        "audio": "Ich kann mich nicht mehr daran erinnern.",
+        "answer": "Ich kann mich nicht mehr daran erinnern."
+      }
+    ],
+    "reading": {
+      "text": "Lisa wartet auf ihre Prüfungsergebnisse. Sie denkt oft daran und spricht mit ihrer Freundin darüber. „Worauf freust du dich am meisten?\", fragt die Freundin. „Darauf, endlich frei zu sein!\" Lisa bewirbt sich jetzt um eine Stelle und hofft darauf, dass es klappt.",
+      "parts": [],
+      "questions": [],
+      "tasks": "任务：①Lisa 在等什么？（答：考试成绩。）②对话里的 „darüber\" 指什么？（答：等成绩这件事。）"
+    },
+    "readingLabel": "阅读",
+    "writing": {
+      "task": "写 5 句：3 句用代副词指物、1 句用介词 + 人称代词指人、1 句用 wo- 形式提问。",
+      "sample": "范文：Ich freue mich auf den Urlaub und denke oft daran. Worauf wartest du? Er wartet nicht auf den Bus, er wartet auf seinen Bruder. Sie spricht gern darüber.",
+      "selfcheck": "自查：指物的回指都用了 da- 形式 □；指人用的是介词 + 人称代词 □；元音开头的介词加了 r（daran / darauf / darüber）□。"
+    }
+  }
+]

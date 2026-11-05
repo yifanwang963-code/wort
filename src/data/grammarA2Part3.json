@@ -1,0 +1,4227 @@
+[
+  {
+    "id": "g-a2-14",
+    "level": "A2",
+    "order": 18,
+    "title": "关系从句（一）：主格与宾格",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（关系代词 = 定冠词的脸，格由从句内部决定）",
+      "headers": [
+        "先行词",
+        "主格（从句主语）",
+        "宾格（从句宾语）"
+      ],
+      "rows": [
+        [
+          "阳性 der Mann",
+          "…, der in Berlin wohnt",
+          "…, den ich gut kenne"
+        ],
+        [
+          "阴性 die Frau",
+          "…, die nebenan wohnt",
+          "…, die ich gestern gesehen habe"
+        ],
+        [
+          "中性 das Kind",
+          "…, das im Garten spielt",
+          "…, das alle mögen"
+        ],
+        [
+          "复数 die Leute",
+          "…, die hier arbeiten",
+          "…, die ich kenne"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "extraTables": [],
+    "rules": [
+      "关系代词的性、数看先行词（前面的名词），格看它在从句里干什么：从句里缺主语用主格，缺宾语用宾格。两步判断，顺序不能反。",
+      "关系从句是动词压尾从句，紧贴先行词，用逗号隔开：Der Mann, der dort steht, ist mein Lehrer.——主句被从句「抱住」时，主句后半截在第二个逗号后继续，别丢。",
+      "主格关系代词和动词之间可以隔着其他成分：der Mann, der heute mit dem Bus kommt。",
+      "口语里关系从句是把两个短句升级为一个长句的工具：Ich kenne einen Mann. Er wohnt in Berlin. → Ich kenne einen Mann, der in Berlin wohnt. 写作测里这是加分结构。"
+    ],
+    "examples": [
+      {
+        "de": "Der Mann, der dort steht, ist mein Lehrer.",
+        "zh": ""
+      },
+      {
+        "de": "Die Frau, die nebenan wohnt, ist sehr nett.",
+        "zh": ""
+      },
+      {
+        "de": "Das Buch, das auf dem Tisch liegt, ist neu.",
+        "zh": ""
+      },
+      {
+        "de": "Ich kenne einen Mann, den du auch kennst.",
+        "zh": ""
+      },
+      {
+        "de": "Die Leute, die hier wohnen, sind freundlich.",
+        "zh": ""
+      },
+      {
+        "de": "Zeig mir das Foto, das du gemacht hast!",
+        "zh": ""
+      },
+      {
+        "de": "Der Zug, der aus Hamburg kommt, hat Verspätung.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist die Kollegin, die ich dir vorgestellt habe.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "用主句的格代替从句的格：„der Mann, der ich kenne\"——从句里 kennen 缺宾语，必须 den。",
+      "漏逗号：关系从句前后逗号是标配（主句被抱住时两个逗号）。",
+      "从句动词不压尾：„…, der wohnt in Berlin\" 错，压尾 wohnt 在句末位置是 …in Berlin wohnt。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Der Mann, ＿＿ dort steht, ist mein Lehrer.\"",
+        "explain": "从句缺主语，主格 der。",
+        "options": [
+          "der",
+          "den",
+          "dem"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "从句缺宾语（kennst wen），宾格 den。",
+        "display": "Ich kenne einen Mann, ＿＿ du auch kennst.",
+        "answer": "den"
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "阴性主格 die。",
+        "display": "Die Frau, ＿＿ nebenan wohnt, ist nett.",
+        "answer": "die"
+      },
+      {
+        "type": "choice",
+        "q": "„Das Buch, ＿＿ ich gelesen habe, war spannend.\"",
+        "explain": "中性宾格 das（gelesen habe 缺宾语）。",
+        "options": [
+          "das",
+          "dem",
+          "der"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句（合并）",
+        "explain": "关系从句紧贴先行词，动词 wohnt 压尾。",
+        "tokens": [
+          "Mann",
+          "Der",
+          "wohnt",
+          "der",
+          "in Berlin",
+          "ist mein Lehrer"
+        ],
+        "answer": [
+          "Der",
+          "Mann",
+          "der",
+          "in Berlin",
+          "wohnt",
+          "ist mein Lehrer"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选先行词角色",
+        "explain": "wohnen 缺主语，die 是主格。",
+        "audio": "Die Leute, die hier wohnen, sind freundlich.",
+        "options": [
+          "die 在从句里是主语",
+          "die 在从句里是宾语"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "阳性主格。",
+        "display": "Der Zug, ＿＿ aus Hamburg kommt, hat Verspätung.",
+        "answer": "der"
+      },
+      {
+        "type": "classify",
+        "q": "按关系代词的格分筐",
+        "explain": "看从句缺主语还是缺宾语。",
+        "groups": [
+          "主格",
+          "宾格"
+        ],
+        "items": [
+          {
+            "text": "der dort steht",
+            "group": 0
+          },
+          {
+            "text": "die nebenan wohnt",
+            "group": 0
+          },
+          {
+            "text": "das im Garten spielt",
+            "group": 0
+          },
+          {
+            "text": "die hier arbeiten",
+            "group": 0
+          },
+          {
+            "text": "den ich kenne",
+            "group": 1
+          },
+          {
+            "text": "die ich gesehen habe",
+            "group": 1
+          },
+          {
+            "text": "das du gemacht hast",
+            "group": 1
+          },
+          {
+            "text": "die alle mögen（das Kind, das alle mögen）",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主句被从句抱住，ist 在第二个逗号后。",
+        "tokens": [
+          "ist",
+          "Das",
+          "das",
+          "Buch",
+          "auf dem Tisch liegt",
+          "neu"
+        ],
+        "answer": [
+          "Das",
+          "Buch",
+          "das",
+          "auf dem Tisch liegt",
+          "ist",
+          "neu"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "Job 在从句里是主语，用 der。",
+        "options": [
+          "Ich suche einen Job, der gut bezahlt ist.",
+          "Ich suche einen Job, den gut bezahlt ist.",
+          "Ich suche einen Job, der gut bezahlt ist, den ich mag.（从句缺主语且句子拼接混乱）"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补关系代词",
+        "explain": "中性宾格。",
+        "audio": "Zeig mir das Foto, das du gemacht hast!",
+        "display": "Zeig mir das Foto, ＿＿ du gemacht hast!",
+        "answer": "das"
+      },
+      {
+        "type": "fill",
+        "q": "合并改写填空",
+        "explain": "阴性主格 die。",
+        "display": "Sie hat eine Freundin. Die Freundin wohnt in Köln. → Sie hat eine Freundin, ＿＿ in Köln wohnt.",
+        "answer": "die"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "die（宾格关系代词）在从句首，habe 压尾。",
+        "tokens": [
+          "Das",
+          "ist",
+          "Kollegin",
+          "die",
+          "ich",
+          "dir",
+          "vorgestellt habe",
+          "die"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "die",
+          "Kollegin",
+          "die",
+          "ich",
+          "dir",
+          "vorgestellt habe"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "复数关系代词主格",
+        "explain": "复数主格 die。",
+        "options": [
+          "die",
+          "den",
+          "denen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "阴性主格（angerufen hat 缺主语）。",
+        "display": "Kennst du die Frau, ＿＿ gestern angerufen hat?",
+        "answer": "die"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "两个逗号别漏。",
+        "audio": "Der Mann, der dort steht, ist mein Lehrer.",
+        "answer": "Der Mann, der dort steht, ist mein Lehrer."
+      }
+    ],
+    "reading": {
+      "text": "Gesucht wird ein Mann, der am Montag im Park war. Der Mann, der einen roten Mantel trug, hat eine Tasche verloren. In der Tasche war ein Buch, das sehr alt ist. Auch ein Hund, der auf den Namen „Bello\" hört, wird gesucht. Der Hund, den eine Frau im Park gesehen hat, ist klein und braun. Wer den Mann oder den Hund kennt, meldet sich bitte bei der Polizei.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Gesucht wird ein Mann, der am Montag im Park war. Der Mann, der einen roten Mantel trug, hat eine Tasche verloren. In der Tasche war ein Buch, das sehr alt ist. Auch ein Hund, der auf den Namen „Bello\" hört, wird gesucht. Der Hund, den eine Frau im Park gesehen hat, ist klein und braun. Wer den Mann oder den Hund kennt, meldet sich bitte bei der Polizei."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①被找的男人有什么特征、丢了什么？（答：穿红色大衣，丢了一只包，包里有一本很旧的书。）②小狗 Bello 是谁看见的？（答：一位女士在公园里看见的——关系从句 den eine Frau gesehen hat。）"
+    },
+    "writing": {
+      "task": "用关系从句写 4 句介绍你熟悉的人和物（各至少 1 个主格、1 个宾格关系从句）。",
+      "sample": "范文：Ich habe einen Freund, der in Hamburg wohnt. Er hat ein Auto, das schon sehr alt ist. Meine Schwester, die Ärztin ist, arbeitet in einem Krankenhaus. Das Krankenhaus, das sie mir gezeigt hat, ist groß und modern.",
+      "selfcheck": "自查：关系代词性数随先行词 □；格随从句角色 □；从句动词压尾、逗号齐全 □。"
+    }
+  },
+  {
+    "id": "g-a2-15",
+    "level": "A2",
+    "order": 19,
+    "title": "关系从句（二）：与格、介词与 was / wo",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（与格关系代词 + 介词关系从句）",
+      "headers": [
+        "形式",
+        "例"
+      ],
+      "rows": [
+        [
+          "与格阳/中 dem",
+          "der Mann, dem ich geholfen habe"
+        ],
+        [
+          "与格阴 der",
+          "die Frau, der wir gedankt haben"
+        ],
+        [
+          "与格复数 denen",
+          "die Kinder, denen er ein Buch gibt"
+        ],
+        [
+          "介词 + 关系代词",
+          "der Stuhl, auf dem ich sitze / die Kollegin, mit der ich arbeite / das Thema, über das wir sprechen"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（was 与 wo 的专区）",
+        "headers": [
+          "用法",
+          "例"
+        ],
+        "rows": [
+          [
+            "先行词是 alles / etwas / nichts / das（指物代词）→ 关系代词用 was",
+            "Alles, was er sagt, ist wahr. / Das, was du sagst, stimmt."
+          ],
+          [
+            "先行词是地点名词，口语常用 wo（正式用 in + 关系代词）",
+            "die Stadt, wo ich wohne（= in der ich wohne，正式）"
+          ],
+          [
+            "介词 + was → wo(r)+介词（认读）",
+            "das, worüber wir sprechen（= über das）"
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "与格关系代词只有三个新脸：dem（阳/中）、der（阴）、denen（复数）。其中 der 在这里是与格阴性，和主格阳性同形，靠语境和动词的格支配判断（helfen/danken 带与格 → dem/der/denen）。",
+      "介词关系从句 = 介词原样搬家 + 关系代词按介词的格变：mit → 与格（mit dem/mit der），für → 宾格（für den/für die/für das），über → 宾格（über das）。",
+      "先行词是物（das Thema、das Buch）且带介词时，口语里常用 wo(r)+介词整体替代（das Thema, worüber wir sprechen），本级认读，产出仍用介词 + 关系代词的稳妥版。",
+      "指代整件事时先行词用 das + was：Das, was mich ärgert, ist der Lärm.（让我烦的是噪音）"
+    ],
+    "examples": [
+      {
+        "de": "Der Mann, dem ich geholfen habe, heißt Herr Klein.",
+        "zh": ""
+      },
+      {
+        "de": "Die Frau, der wir gedankt haben, ist unsere Lehrerin.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist der Stuhl, auf dem die Katze schläft.",
+        "zh": ""
+      },
+      {
+        "de": "Die Kollegin, mit der ich arbeite, kommt aus Polen.",
+        "zh": ""
+      },
+      {
+        "de": "Alles, was er sagt, ist interessant.",
+        "zh": ""
+      },
+      {
+        "de": "Das ist das Beste, was ich je gegessen habe.",
+        "zh": ""
+      },
+      {
+        "de": "Die Stadt, in der ich wohne, ist nicht groß.",
+        "zh": ""
+      },
+      {
+        "de": "Das, was du brauchst, ist Zeit.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "与格复数漏了 denen 用 den：„die Kinder, den ich helfe\" 错——复数与格关系代词是 denen。",
+      "was 前面放了具体名词：„das Buch, was ich lese\" 错——具体名词用 das，was 只跟 alles/etwas/nichts/das 这类。",
+      "介词的格没跟上：mit der（与格）不能写 mit die。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Der Mann, ＿＿ ich geholfen habe, heißt Klein.\"",
+        "explain": "helfen 带与格，阳性与格关系代词 dem。",
+        "options": [
+          "dem",
+          "den",
+          "der"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "复数与格 denen。",
+        "display": "Die Kinder, ＿＿ er ein Buch gibt, freuen sich.",
+        "answer": "denen"
+      },
+      {
+        "type": "fill",
+        "q": "介词关系从句填空",
+        "explain": "auf 表位置用与格，阳性 dem。",
+        "display": "Das ist der Stuhl, auf ＿＿ die Katze schläft.",
+        "answer": "dem"
+      },
+      {
+        "type": "choice",
+        "q": "„Alles, ＿＿ er sagt, ist wahr.\"",
+        "explain": "alles 后用 was。",
+        "options": [
+          "was",
+          "das",
+          "dem"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "der 是与格阴性（danken 带与格）。",
+        "tokens": [
+          "Frau",
+          "Die",
+          "gedankt haben",
+          "der",
+          "wir",
+          "ist unsere Lehrerin"
+        ],
+        "answer": [
+          "Die",
+          "Frau",
+          "der",
+          "wir",
+          "gedankt haben",
+          "ist unsere Lehrerin"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "mit der = 与之一起。",
+        "audio": "Die Kollegin, mit der ich arbeite, kommt aus Polen.",
+        "options": [
+          "和我一起工作的同事来自波兰",
+          "我去波兰和同事工作",
+          "同事在波兰工作"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "先行词 das（指事）用 was。",
+        "display": "Das, ＿＿ du sagst, stimmt nicht.",
+        "answer": "was"
+      },
+      {
+        "type": "classify",
+        "q": "按关系代词类型分筐",
+        "explain": "先看有没有介词，再看格与先行词。",
+        "groups": [
+          "与格",
+          "介词式",
+          "was 式"
+        ],
+        "items": [
+          {
+            "text": "dem ich geholfen habe",
+            "group": 0
+          },
+          {
+            "text": "der wir gedankt haben",
+            "group": 0
+          },
+          {
+            "text": "denen er hilft",
+            "group": 0
+          },
+          {
+            "text": "auf dem ich sitze",
+            "group": 1
+          },
+          {
+            "text": "mit der ich arbeite",
+            "group": 1
+          },
+          {
+            "text": "über das wir sprechen",
+            "group": 1
+          },
+          {
+            "text": "was er sagt",
+            "group": 2
+          },
+          {
+            "text": "was du brauchst",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "最高级名词化 das Beste 后用 was。",
+        "tokens": [
+          "ist",
+          "Das",
+          "was",
+          "Beste",
+          "das",
+          "ich je gegessen habe"
+        ],
+        "answer": [
+          "Das",
+          "ist",
+          "das",
+          "Beste",
+          "was",
+          "ich je gegessen habe"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "wohnen 是位置，in + 与格，阴性 der。",
+        "options": [
+          "Die Stadt, in der ich wohne, ist klein.",
+          "Die Stadt, in die ich wohne, ist klein.",
+          "Die Stadt, in dem ich wohne, ist klein."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补关系代词",
+        "explain": "helfen 的与格。",
+        "audio": "Der Mann, dem ich geholfen habe, heißt Herr Klein.",
+        "display": "Der Mann, ＿＿ ich geholfen habe, heißt Herr Klein.",
+        "answer": "dem"
+      },
+      {
+        "type": "fill",
+        "q": "介词关系从句填空",
+        "explain": "über + 宾格，中性 das。",
+        "display": "Das Thema, über ＿＿ wir sprechen, ist wichtig.",
+        "answer": "das"
+      },
+      {
+        "type": "fill",
+        "q": "关系代词填空",
+        "explain": "geben 的与格人，阴性 der。",
+        "display": "Die Frau, ＿＿ ich das Buch gegeben habe, ist meine Tante.（给她）",
+        "answer": "der"
+      },
+      {
+        "type": "choice",
+        "q": "认读——„das, worüber wir sprechen\" 等于哪句",
+        "explain": "worüber = über das 的口语缩合式。",
+        "options": [
+          "das, über das wir sprechen",
+          "das, mit dem wir sprechen",
+          "das, was wir sprechen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "alles + was。",
+        "tokens": [
+          "was",
+          "Alles",
+          "ist wahr",
+          "er sagt"
+        ],
+        "answer": [
+          "Alles",
+          "was",
+          "er sagt",
+          "ist wahr"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "denen 复数与格别写成 den。",
+        "audio": "Die Kinder, denen er ein Buch gibt, freuen sich.",
+        "answer": "Die Kinder, denen er ein Buch gibt, freuen sich."
+      }
+    ],
+    "reading": {
+      "text": "Die Stadt, in der ich lebe, ist nicht groß, aber ich mag sie. Der Fluss, an dem viele Cafés stehen, ist im Sommer mein Lieblingsplatz. Es gibt einen Markt, auf dem man alles kaufen kann. Die Leute, mit denen ich hier spreche, sind freundlich. Das, was mir am besten gefällt, ist die Ruhe. Alles, was ich brauche, ist in der Nähe: der Bahnhof, dem gegenüber ein Park liegt, und die Bibliothek, in der ich oft lerne.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Die Stadt, in der ich lebe, ist nicht groß, aber ich mag sie. Der Fluss, an dem viele Cafés stehen, ist im Sommer mein Lieblingsplatz. Es gibt einen Markt, auf dem man alles kaufen kann. Die Leute, mit denen ich hier spreche, sind freundlich. Das, was mir am besten gefällt, ist die Ruhe. Alles, was ich brauche, ist in der Nähe: der Bahnhof, dem gegenüber ein Park liegt, und die Bibliothek, in der ich oft lerne."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①作者最喜欢这座城市的什么？（答：安静——Das, was mir am besten gefällt, ist die Ruhe.）②火车站对面是什么？（答：一个公园——dem gegenüber ein Park liegt，gegenüber 带与格 dem 指火车站。）"
+    },
+    "writing": {
+      "task": "用关系从句写 4 句介绍你的城市或家，至少 1 个与格关系从句、1 个介词关系从句、1 个 was 从句。",
+      "sample": "范文：Die Stadt, in der ich wohne, liegt in China. Der Park, in dem ich oft spazieren gehe, ist sehr groß. Die Nachbarn, denen ich manchmal helfe, sind alt und freundlich. Das, was mir hier am besten gefällt, ist das Essen.",
+      "selfcheck": "自查：与格关系代词 dem/der/denen 选对 □；介词的格跟对 □；was 只跟在 alles/das 类之后 □。"
+    }
+  },
+  {
+    "id": "g-a2-16",
+    "level": "A2",
+    "order": 20,
+    "title": "Konjunktiv II（一）：愿望与礼貌 hätte gern / würde",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（愿望与点单——hätte gern 家族）",
+      "headers": [
+        "结构",
+        "例",
+        "用途"
+      ],
+      "rows": [
+        [
+          "hätte gern + 名词",
+          "Ich hätte gern einen Kaffee.",
+          "想要某物（点单、购物）"
+        ],
+        [
+          "möchte + 名词/动词",
+          "Ich möchte ein Bier. / Ich möchte jetzt gehen.",
+          "愿望（A1 已学，与 hätte gern 名词版互换）"
+        ],
+        [
+          "würde gern + 动词原形",
+          "Ich würde gern mehr reisen.",
+          "想做某事（愿望）"
+        ],
+        [
+          "wäre gern + 地点/身份",
+          "Ich wäre jetzt gern am Meer.",
+          "想处在某状态（wäre = sein 的 KII）"
+        ],
+        [
+          "hätte gern + 更多",
+          "Ich hätte gern mehr Zeit.",
+          "想要更多某物"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（würde 礼貌请求——服务场景的万能软化剂）",
+        "headers": [
+          "句型",
+          "例"
+        ],
+        "rows": [
+          [
+            "Würden Sie bitte …?",
+            "Würden Sie bitte das Fenster öffnen?"
+          ],
+          [
+            "Würden Sie mir bitte … geben/sagen?",
+            "Würden Sie mir bitte die Speisekarte geben?"
+          ],
+          [
+            "Ich würde Sie bitten, …（认读）",
+            "—"
+          ],
+          [
+            "Könnten Sie …?（同级礼貌，已在 t-a2-03 用）",
+            "Könnten Sie mir helfen?"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "Konjunktiv II 的本质是「把话说软、把事实说虚」：hätte/wäre/würde 都是过去式词干 + 虚拟变音（ä）。本级产出锁定最常用的三个：hätte gern、möchte、würde gern，外加 wäre gern。",
+      "hätte gern 后面只能跟名词；跟动词愿望用 würde gern / möchte + 动词：Ich würde gern schlafen.（不能说 hätte gern schlafen）",
+      "würde 的变位就是 werden 的 KII：ich würde、du würdest、er würde、wir würden、ihr würdet、sie würden。句中 würde 占第二位，实义动词原形回句尾。",
+      "礼貌请求三件套：Würden/Könnten Sie + bitte + 动词原形句尾。语气排序：Öffnen Sie das Fenster!（命令）< Können Sie das Fenster öffnen?（一般）< Würden/Könnten Sie bitte …?（最礼貌）。",
+      "mochte 警告复盘：mochte 是过去式「当时喜欢」，不是愿望，别和 möchte 混（g-a2-02 已立）。"
+    ],
+    "examples": [
+      {
+        "de": "Ich hätte gern ein Wasser, bitte.",
+        "zh": ""
+      },
+      {
+        "de": "Wir würden gern im Sommer nach Italien fahren.",
+        "zh": ""
+      },
+      {
+        "de": "Würden Sie bitte langsamer sprechen?",
+        "zh": ""
+      },
+      {
+        "de": "Ich wäre jetzt gern zu Hause.",
+        "zh": ""
+      },
+      {
+        "de": "Er hätte gern mehr Freizeit.",
+        "zh": ""
+      },
+      {
+        "de": "Würden Sie mir bitte helfen?",
+        "zh": ""
+      },
+      {
+        "de": "Die Kinder möchten gern ein Eis.",
+        "zh": ""
+      },
+      {
+        "de": "Ich würde gern besser Deutsch sprechen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "„Ich hätte gern schlafen.\"：动词愿望不能进 hätte gern，改 würde gern schlafen。",
+      "würde 后动词不变位回原形：„Würden Sie bitte öffnen das Fenster?\" 语序错——öffnen 在句尾：Würden Sie bitte das Fenster öffnen?",
+      "在商店里用 wollen 点单：„Ich will einen Kaffee.\" 很生硬，点单默认 hätte gern / möchte。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "点单的礼貌说法",
+        "explain": "hätte gern 是点单标准形。",
+        "options": [
+          "Ich will einen Kaffee.",
+          "Ich hätte gern einen Kaffee.",
+          "Ich habe gern einen Kaffee."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "愿望填空",
+        "explain": "动词愿望用 würde gern + 原形。",
+        "display": "Ich ＿＿ gern mehr reisen.（würde 家族）",
+        "answer": "würde"
+      },
+      {
+        "type": "fill",
+        "q": "句尾动词填空",
+        "explain": "würde 句实义动词原形压尾。",
+        "display": "Würden Sie bitte das Fenster ＿＿?",
+        "answer": "öffnen"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "动词愿望用 würde gern。",
+        "options": [
+          "Ich hätte gern schlafen.",
+          "Ich würde gern schlafen.",
+          "Ich möchte gern schlafe."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "hätte gern + 名词。",
+        "tokens": [
+          "gern",
+          "Ich",
+          "hätte",
+          "einen Kaffee"
+        ],
+        "answer": [
+          "Ich",
+          "hätte",
+          "gern",
+          "einen Kaffee"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选场景",
+        "explain": "Würden Sie bitte …? 是最礼貌的请求形。",
+        "audio": "Würden Sie bitte langsamer sprechen?",
+        "options": [
+          "这是在命令对方",
+          "这是在礼貌请求对方慢点说",
+          "这是在道歉"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "变位填空",
+        "explain": "Würden Sie …? 与 Könnten Sie …? 都是标准礼貌请求形，两答任一即对，句首大写。",
+        "display": "＿＿ Sie mir bitte helfen?（礼貌请求）",
+        "answer": "Würden",
+        "acceptedAnswers": [
+          "Würden",
+          "Könnten"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "按愿望类型分筐",
+        "explain": "物→hätte gern/möchte+名词；事→würde gern/möchte+动词；状态→wäre gern。",
+        "groups": [
+          "想要物",
+          "想做事",
+          "想处在某状态"
+        ],
+        "items": [
+          {
+            "text": "Ich hätte gern ein Eis.",
+            "group": 0
+          },
+          {
+            "text": "Er möchte einen Tee.",
+            "group": 0
+          },
+          {
+            "text": "Ich würde gern reisen.",
+            "group": 1
+          },
+          {
+            "text": "Wir möchten jetzt gehen.",
+            "group": 1
+          },
+          {
+            "text": "Ich wäre gern am Meer.",
+            "group": 2
+          },
+          {
+            "text": "Sie wäre gern zu Hause.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "sprechen 原形压尾。",
+        "tokens": [
+          "würde",
+          "Ich",
+          "gern",
+          "Deutsch",
+          "besser",
+          "sprechen"
+        ],
+        "answer": [
+          "Ich",
+          "würde",
+          "gern",
+          "besser",
+          "Deutsch",
+          "sprechen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "„Ich ＿＿ jetzt gern am Meer.\"",
+        "explain": "状态愿望用 wäre gern。",
+        "options": [
+          "wäre",
+          "hätte",
+          "würde sein"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "hätte gern + 名词。",
+        "audio": "Er hätte gern mehr Freizeit.",
+        "display": "Er ＿＿ gern mehr Freizeit.",
+        "answer": "hätte"
+      },
+      {
+        "type": "fill",
+        "q": "变位填空（wir）",
+        "explain": "wir würden。",
+        "display": "Wir ＿＿ gern nach Italien fahren.",
+        "answer": "würden"
+      },
+      {
+        "type": "order",
+        "q": "组句（礼貌请求）",
+        "explain": "疑问句 Würden 提前，öffnen 压尾。",
+        "tokens": [
+          "Sie",
+          "bitte",
+          "Würden",
+          "das Fenster",
+          "öffnen"
+        ],
+        "answer": [
+          "Würden",
+          "Sie",
+          "bitte",
+          "das Fenster",
+          "öffnen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句最礼貌",
+        "explain": "Würden + bitte 最软。",
+        "options": [
+          "Öffnen Sie das Fenster!",
+          "Können Sie das Fenster öffnen?",
+          "Würden Sie bitte das Fenster öffnen?"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "fill",
+        "q": "愿望填空",
+        "explain": "sie hätten gern + 名词。",
+        "display": "Die Kinder ＿＿ gern ein Eis.（hätte 家族，复数）",
+        "answer": "hätten"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "würde gern + 原形压尾。",
+        "audio": "Ich würde gern besser Deutsch sprechen.",
+        "answer": "Ich würde gern besser Deutsch sprechen."
+      }
+    ],
+    "reading": {
+      "text": "„Guten Tag! Was hätten Sie gern?\" fragt die Kellnerin. „Ich hätte gern einen Kaffee und ein Stück Kuchen\", sagt Frau Lan. „Und du, Sara?\" — „Ich würde gern einen Tee trinken. Hätten Sie auch Eistee?\" Die Kellnerin lacht: „Natürlich. Würden Sie gern draußen oder drinnen sitzen?\" „Wir wären gern draußen im Garten\", antwortet Frau Lan. „Das Wetter ist heute so schön.\"",
+      "parts": [
+        {
+          "label": "",
+          "text": "„Guten Tag! Was hätten Sie gern?\" fragt die Kellnerin. „Ich hätte gern einen Kaffee und ein Stück Kuchen\", sagt Frau Lan. „Und du, Sara?\" — „Ich würde gern einen Tee trinken. Hätten Sie auch Eistee?\" Die Kellnerin lacht: „Natürlich. Würden Sie gern draußen oder drinnen sitzen?\" „Wir wären gern draußen im Garten\", antwortet Frau Lan. „Das Wetter ist heute so schön.\""
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①两位客人分别点了什么？（答：Frau Lan 点了咖啡和一块蛋糕，Sara 想喝茶并问了冰茶。）②她们想坐哪里、为什么？（答：想坐外面的花园里，因为天气好——wären gern 表状态愿望。）"
+    },
+    "writing": {
+      "task": "写 5 句愿望句：点单 1 句、想做的事 2 句、想处的状态 1 句、礼貌请求 1 句。",
+      "sample": "范文：Ich hätte gern einen Salat und ein Wasser. Ich würde gern einmal nach Japan reisen und besser Deutsch sprechen. Jetzt wäre ich gern am Meer. Würden Sie bitte das Fenster zumachen? Es ist kalt hier.",
+      "selfcheck": "自查：hätte gern 后只跟名词 □；würde 句动词原形压尾 □；请求句有 bitte □。"
+    }
+  },
+  {
+    "id": "g-a2-17",
+    "level": "A2",
+    "order": 21,
+    "title": "Konjunktiv II（二）：建议、虚拟与愿望句",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（情态动词的 KII——建议与委婉的主力）",
+      "headers": [
+        "KII 形",
+        "用法",
+        "例"
+      ],
+      "rows": [
+        [
+          "könnte（können）",
+          "提议、可能性、礼貌请求",
+          "Wir könnten ins Kino gehen. / Könntest du mir helfen?"
+        ],
+        [
+          "sollte（sollen）",
+          "建议（给忠告）",
+          "Du solltest mehr schlafen. / Ihr solltet den Bus nehmen."
+        ],
+        [
+          "müsste（müssen）",
+          "委婉的「得…」（软化命令）",
+          "Du müsstest eigentlich mehr üben."
+        ],
+        [
+          "dürfte（dürfen）",
+          "认读：推测礼貌（Das dürfte stimmen.）",
+          "认读"
+        ],
+        [
+          "wäre / hätte",
+          "虚拟状态、愿望",
+          "Ich wäre gern reich. / Ich hätte gern mehr Zeit."
+        ]
+      ],
+      "hl": [
+        [
+          1,
+          1
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（wenn 愿望句——和现实相反的愿望）",
+        "headers": [
+          "结构",
+          "例"
+        ],
+        "rows": [
+          [
+            "Wenn ich nur/doch + KII …, （dann）…!",
+            "Wenn ich nur mehr Zeit hätte!"
+          ],
+          [
+            "完整形：主句也用 KII",
+            "Wenn ich reich wäre, würde ich ein Haus kaufen."
+          ],
+          [
+            "现在时事实提醒",
+            "现实：Ich habe keine Zeit. → 愿望：Wenn ich nur Zeit hätte!"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "sollte 是 A2 最实用的 KII：给建议时不用命令式（„Schlaf mehr!\" 太硬），用 Du solltest … 既明确又留面子。否定建议：Du solltest nicht so viel arbeiten.",
+      "könnte 提议句是社交万能句：Wir könnten … / Man könnte …（认读偏多），比 „Gehen wir!\" 更柔和地发起提议。",
+      "wäre/hätte 从上一单元的 gern 句里走出来单用：谈「要是有…就好了」的虚拟：Ich hätte jetzt gern ein Auto.（现实：没有车）——KII 的句子默认与现实相反或尚未实现，听者能自动读出这层意思。",
+      "wenn 愿望句的结构：从句动词压尾且用 KII（hätte/wäre/würde），常带 nur 或 doch 加强语气，句尾用感叹号；主句（说出来时）同样用 würde。",
+      "别把 sollte 和过去式 sollte 混淆：„Du solltest zum Arzt gehen.\" 是现在建议；过去式「当时应该」口语里罕见，本级不区分，见到按建议读。"
+    ],
+    "examples": [
+      {
+        "de": "Du solltest früher ins Bett gehen.",
+        "zh": ""
+      },
+      {
+        "de": "Wir könnten am Sonntag wandern gehen.",
+        "zh": ""
+      },
+      {
+        "de": "Könntest du bitte leiser sein?",
+        "zh": ""
+      },
+      {
+        "de": "Wenn ich nur mehr Geld hätte!",
+        "zh": ""
+      },
+      {
+        "de": "Ich wäre jetzt gern schon zu Hause.",
+        "zh": ""
+      },
+      {
+        "de": "Man müsste mehr Sport machen.（认读偏多）",
+        "zh": ""
+      },
+      {
+        "de": "Wenn sie Zeit hätte, würde sie uns besuchen.",
+        "zh": ""
+      },
+      {
+        "de": "Du solltest nicht so schnell fahren.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "给建议用命令式或 müssen：„Du musst mehr schlafen!\" 是命令口吻；建议用 solltest。",
+      "愿望句用现在时：„Wenn ich Zeit habe!\" 只是条件开头，不是愿望——愿望必须 KII：Wenn ich Zeit hätte!",
+      "könnte 的人称漏变音：konnte 是过去式，könnte 才是 KII，ö 不能丢。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "给朋友的建议（他很累）",
+        "explain": "建议用 solltest。",
+        "options": [
+          "Du musst mehr schlafen!",
+          "Schlaf mehr!",
+          "Du solltest mehr schlafen."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "fill",
+        "q": "KII 填空",
+        "explain": "könnte 家族表提议。",
+        "display": "Wir ＿＿ am Sonntag wandern gehen.（提议）",
+        "answer": "könnten"
+      },
+      {
+        "type": "fill",
+        "q": "愿望句填空",
+        "explain": "愿望句用 hätte。",
+        "display": "Wenn ich nur mehr Zeit ＿＿!",
+        "answer": "hätte"
+      },
+      {
+        "type": "choice",
+        "q": "„Wenn ich reich ＿＿, würde ich reisen.\"",
+        "explain": "虚拟条件用 wäre。",
+        "options": [
+          "wäre",
+          "bin",
+          "war"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "solltest 第二位，schlafen 压尾。",
+        "tokens": [
+          "solltest",
+          "Du",
+          "mehr",
+          "schlafen"
+        ],
+        "answer": [
+          "Du",
+          "solltest",
+          "mehr",
+          "schlafen"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选语气",
+        "explain": "Könntest du bitte …? 是请求。",
+        "audio": "Könntest du bitte leiser sein?",
+        "options": [
+          "命令",
+          "礼貌请求",
+          "建议"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "KII 填空（können 的 KII，du）",
+        "explain": "könntest，句首大写。",
+        "display": "＿＿ du mir morgen helfen?",
+        "answer": "Könntest"
+      },
+      {
+        "type": "classify",
+        "q": "按功能分筐",
+        "explain": "sollte→建议，könnten（wir）→提议，hätte/wäre+gern 或 wenn 句→愿望。",
+        "groups": [
+          "建议",
+          "提议",
+          "愿望"
+        ],
+        "items": [
+          {
+            "text": "Du solltest zum Arzt gehen.",
+            "group": 0
+          },
+          {
+            "text": "Ihr solltet den Zug nehmen.",
+            "group": 0
+          },
+          {
+            "text": "Wir könnten ins Kino gehen.",
+            "group": 1
+          },
+          {
+            "text": "Wir könnten zusammen kochen.",
+            "group": 1
+          },
+          {
+            "text": "Wenn ich nur Urlaub hätte!",
+            "group": 2
+          },
+          {
+            "text": "Ich wäre gern am Meer.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句（愿望）",
+        "explain": "hätte 压尾（注：词卡顺序按 answer 拼读，mehr Zeit 连读）。",
+        "tokens": [
+          "hätte",
+          "Wenn",
+          "ich",
+          "nur",
+          "Zeit",
+          "mehr"
+        ],
+        "answer": [
+          "Wenn",
+          "ich",
+          "nur",
+          "mehr",
+          "Zeit",
+          "hätte"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "否定建议",
+        "explain": "solltest + nicht。",
+        "options": [
+          "Du solltest nicht so viel arbeiten.",
+          "Du sollst nicht so viel arbeiten.",
+          "Du musst nicht so viel arbeiten müssen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "条件从句 hätte 压尾。",
+        "audio": "Wenn sie Zeit hätte, würde sie uns besuchen.",
+        "display": "Wenn sie Zeit ＿＿, würde sie uns besuchen.",
+        "answer": "hätte"
+      },
+      {
+        "type": "fill",
+        "q": "虚拟状态填空",
+        "explain": "wäre gern + 地点。",
+        "display": "Ich ＿＿ jetzt gern schon zu Hause.",
+        "answer": "wäre"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "主句 würde + kaufen 压尾（注：词卡中 „Wenn ich reich wäre\" 为整体意群）。",
+        "tokens": [
+          "würde",
+          "Wenn ich reich wäre",
+          "ein Haus",
+          "ich",
+          "kaufen"
+        ],
+        "answer": [
+          "Wenn ich reich wäre",
+          "würde",
+          "ich",
+          "ein Haus",
+          "kaufen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句是愿望句",
+        "explain": "nur + hätte 是愿望标志。",
+        "options": [
+          "Wenn ich Zeit habe, helfe ich dir.",
+          "Wenn ich nur Zeit hätte!",
+          "Als ich Zeit hatte, half ich dir."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "委婉填空",
+        "explain": "müsste 家族软化命令。",
+        "display": "Du ＿＿ eigentlich mehr üben.（委婉的「得练」）",
+        "answer": "müsstest"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "solltest 建议 + 否定。",
+        "audio": "Du solltest nicht so schnell fahren.",
+        "answer": "Du solltest nicht so schnell fahren."
+      }
+    ],
+    "reading": {
+      "text": "Liebe Sara, du schreibst, du bist immer müde. Ich mache mir Sorgen. Du solltest früher ins Bett gehen und nicht bis Mitternacht arbeiten. Wir könnten am Wochenende zusammen an den See fahren — ein bisschen Natur würde dir guttun. Wenn ich mehr Zeit hätte, würde ich dich öfter besuchen. Aber im Moment habe ich selbst viel zu tun. Du müsstest auch mehr Wasser trinken, nicht nur Kaffee! Schreib mir bald zurück. Deine Lan",
+      "parts": [
+        {
+          "label": "",
+          "text": "Liebe Sara, du schreibst, du bist immer müde. Ich mache mir Sorgen. Du solltest früher ins Bett gehen und nicht bis Mitternacht arbeiten. Wir könnten am Wochenende zusammen an den See fahren — ein bisschen Natur würde dir guttun. Wenn ich mehr Zeit hätte, würde ich dich öfter besuchen. Aber im Moment habe ich selbst viel zu tun. Du müsstest auch mehr Wasser trinken, nicht nur Kaffee! Schreib mir bald zurück. Deine Lan"
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①信里给了哪三条健康建议？（答：早点睡、周末去湖边放松、多喝水少喝咖啡。）②„Wenn ich mehr Zeit hätte\" 表达的是事实还是愿望？（答：愿望——现实是她时间不够。）"
+    },
+    "writing": {
+      "task": "写 5 句：给朋友 2 条建议（solltest）、提 1 个周末提议（könnten）、许 2 个愿望（wenn…hätte/wäre 或 hätte/wäre gern）。",
+      "sample": "范文：Du solltest mehr schlafen und weniger Kaffee trinken. Wir könnten am Samstag zusammen kochen. Wenn ich nur mehr Freizeit hätte! Ich wäre jetzt gern bei meiner Familie. Und ich hätte gern ein kleines Haus am See.",
+      "selfcheck": "自查：建议句用 solltest 不用 musst □；愿望句动词是 KII（hätte/wäre）□；könnten 提议句动词原形压尾 □。"
+    }
+  },
+  {
+    "id": "t-a2-01",
+    "level": "A2",
+    "order": 22,
+    "title": "正式邮件与信函",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（一封正式邮件的骨架——每格都是固定件）",
+      "headers": [
+        "部分",
+        "固定形",
+        "注意"
+      ],
+      "rows": [
+        [
+          "Betreff（主题行）",
+          "Anfrage wegen … / Bewerbung als … / Terminbestätigung",
+          "写名词短语，不写整句"
+        ],
+        [
+          "Anrede",
+          "Sehr geehrte Frau Sommer, / Sehr geehrter Herr Klein,",
+          "女 geehrte、男 geehrter；不知姓名：Sehr geehrte Damen und Herren,"
+        ],
+        [
+          "正文首字母",
+          "称呼后逗号，正文小写开头（除非名词）",
+          "„…, ich schreibe Ihnen, weil …\""
+        ],
+        [
+          "Anlass（来意）",
+          "Ich schreibe Ihnen, weil … / Ich wende mich an Sie, weil …（认读）",
+          "第一句交代来意"
+        ],
+        [
+          "Bitte（请求）",
+          "Könnten Sie mir bitte …? / Ich hätte gern … / Würden Sie mir bitte … senden?",
+          "KII 礼貌形（g-a2-16/17）"
+        ],
+        [
+          "Dank",
+          "Vielen Dank im Voraus. / Ich danke Ihnen für Ihre Hilfe.",
+          "im Voraus = 提前"
+        ],
+        [
+          "Schluss",
+          "Mit freundlichen Grüßen",
+          "后面不加逗号，下一行直接姓名"
+        ]
+      ],
+      "hl": [
+        [
+          2,
+          1
+        ],
+        [
+          6,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（公文高频短语）",
+        "headers": [
+          "短语",
+          "义"
+        ],
+        "rows": [
+          [
+            "Im Anhang finden Sie …",
+            "附件里有…"
+          ],
+          [
+            "… steht Ihnen gern zur Verfügung（认读）",
+            "随时可联系（客服套话）"
+          ],
+          [
+            "bei weiteren Fragen",
+            "如有其他问题（Bei weiteren Fragen schreiben Sie mir gern.）"
+          ],
+          [
+            "so bald wie möglich",
+            "尽快"
+          ],
+          [
+            "Bezug nehmend auf …（认读）",
+            "就…事宜（正式开头套话）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "Anrede 的性别词尾：对女士 Sehr geehrte Frau…，对男士 Sehr geehrter Herr…——这是形容词词尾在真实文书里的高频落点，写错最扎眼。",
+      "逗号规则和中文/英文都不同：称呼后有逗号，但正文第一个词小写（因为它和称呼是同一句的延续）；结尾 Mit freundlichen Grüßen 后没有逗号。",
+      "正式邮件禁用口语件：kein „Hallo\"、kein „Tschüss\"、kein 缩合口语形；动词用 Sie 形，请求用 KII。",
+      "一封邮件一个主题：Betreff 说清事由，正文顺序 = 来意 → 细节 → 请求 → 致谢，四段走完就收，不绕圈。"
+    ],
+    "examples": [
+      {
+        "de": "Betreff: Anfrage wegen eines Deutschkurses",
+        "zh": ""
+      },
+      {
+        "de": "Sehr geehrte Damen und Herren,",
+        "zh": ""
+      },
+      {
+        "de": "ich interessiere mich für Ihren Deutschkurs A2. Könnten Sie mir bitte sagen, wann der nächste Kurs anfängt? Und ich hätte gern Informationen über den Preis. Im Anhang finden Sie meine Anmeldung. Vielen Dank im Voraus.\nMit freundlichen Grüßen\nLan Wang",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "„Sehr geehrte Herr Klein\"：男士要用 geehrter。",
+      "Mit freundlichen Grüßen 后加逗号（英语习惯）：德语不加。",
+      "正文开头大写：„Sehr geehrte Frau Sommer, Ich schreibe …\" 的 Ich 要小写 ich（句中延续）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "给男士的称呼",
+        "explain": "男士 geehrter。",
+        "options": [
+          "Sehr geehrte Herr Klein,",
+          "Sehr geehrter Herr Klein,",
+          "Sehr geehrten Herr Klein,"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "称呼填空",
+        "explain": "女士 geehrte。",
+        "display": "Sehr ＿＿ Frau Sommer,（女士）",
+        "answer": "geehrte"
+      },
+      {
+        "type": "fill",
+        "q": "结尾填空",
+        "explain": "固定结尾 Mit freundlichen Grüßen。",
+        "display": "Mit ＿＿ Grüßen",
+        "answer": "freundlichen"
+      },
+      {
+        "type": "choice",
+        "q": "结尾后标点",
+        "explain": "后不加任何标点，直接换行写姓名。",
+        "options": [
+          "Mit freundlichen Grüßen,",
+          "Mit freundlichen Grüßen",
+          "Mit freundlichen Grüßen!"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句（邮件句）",
+        "explain": "来意句的固定形（注：正文行首时 Ich 大写，紧接称呼行时小写）。",
+        "tokens": [
+          "Ihnen",
+          "Ich",
+          "weil",
+          "schreibe",
+          "ich einen Termin brauche"
+        ],
+        "answer": [
+          "Ich",
+          "schreibe",
+          "Ihnen",
+          "weil",
+          "ich einen Termin brauche"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听开头选类型",
+        "explain": "Damen und Herren + schreibe Ihnen 是公文标记。",
+        "audio": "Sehr geehrte Damen und Herren, ich schreibe Ihnen wegen einer Anfrage.",
+        "options": [
+          "这是私人短信",
+          "这是正式邮件",
+          "这是电话留言"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "附件句填空",
+        "explain": "Im Anhang finden Sie … 固定句。",
+        "display": "Im ＿＿ finden Sie meine Anmeldung.",
+        "answer": "Anhang"
+      },
+      {
+        "type": "classify",
+        "q": "部件归位分筐",
+        "explain": "按骨架四段的位置分。",
+        "groups": [
+          "开头件",
+          "正文件",
+          "收尾件"
+        ],
+        "items": [
+          {
+            "text": "Betreff: Anfrage wegen eines Kurses",
+            "group": 0
+          },
+          {
+            "text": "Sehr geehrte Frau Sommer,",
+            "group": 0
+          },
+          {
+            "text": "Ich schreibe Ihnen, weil …",
+            "group": 1
+          },
+          {
+            "text": "Könnten Sie mir bitte sagen, …?",
+            "group": 1
+          },
+          {
+            "text": "Vielen Dank im Voraus.",
+            "group": 2
+          },
+          {
+            "text": "Mit freundlichen Grüßen",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "排邮件部件顺序",
+        "explain": "四个部件按主题 → 称呼 → 正文 → 结尾的顺序排列（answer 中的逗号为部件分隔）。",
+        "tokens": [
+          "Mit freundlichen Grüßen",
+          "Sehr geehrte Frau Sommer",
+          "Ich schreibe Ihnen wegen des Termins",
+          "Betreff: Terminanfrage"
+        ],
+        "answer": [
+          "Betreff: Terminanfrage",
+          "Sehr geehrte Frau Sommer",
+          "Ich schreibe Ihnen wegen des Termins",
+          "Mit freundlichen Grüßen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句适合正式邮件",
+        "explain": "KII + bitte 是公文请求标准形。",
+        "options": [
+          "Hey, gib mir bitte die Infos!",
+          "Könnten Sie mir bitte die Informationen senden?",
+          "Schick mir die Infos, ja?"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "正文衔接填空",
+        "explain": "称呼后正文小写开头。",
+        "display": "Sehr geehrter Herr Klein, ＿＿ schreibe Ihnen wegen der Rechnung.",
+        "answer": "ich"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补词",
+        "explain": "公文高频短语。",
+        "audio": "Bei weiteren Fragen schreiben Sie mir gern.",
+        "display": "Bei weiteren ＿＿ schreiben Sie mir gern.",
+        "answer": "Fragen"
+      },
+      {
+        "type": "fill",
+        "q": "礼貌请求填空",
+        "explain": "Könnten Sie …? 礼貌请求。",
+        "display": "＿＿ Sie mir bitte den Preis sagen?",
+        "answer": "Könnten"
+      },
+      {
+        "type": "choice",
+        "q": "Betreff 的正确写法",
+        "explain": "主题行用名词短语。",
+        "options": [
+          "Betreff: Ich möchte fragen, wann der Kurs anfängt und was er kostet.",
+          "Betreff: Anfrage: Kursbeginn und Preis",
+          "Betreff: Hallo! Eine Frage"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "„Ich hätte noch eine Frage.\" 是开会、咨询时礼貌插话提问的固定句。",
+        "tokens": [
+          "noch",
+          "Ich",
+          "hätte",
+          "eine Frage"
+        ],
+        "answer": [
+          "Ich",
+          "hätte",
+          "noch",
+          "eine Frage"
+        ]
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写邮件句",
+        "explain": "im Voraus 与 sich freuen auf Ihre Antwort 都是公文高频件。",
+        "audio": "Vielen Dank im Voraus. Ich freue mich auf Ihre Antwort.",
+        "answer": "Vielen Dank im Voraus. Ich freue mich auf Ihre Antwort."
+      }
+    ],
+    "reading": {
+      "text": "Betreff: Frage zum Kursbeginn\nSehr geehrte Damen und Herren, ich interessiere mich für Ihren Sprachkurs. Könnten Sie mir bitte sagen, wann der nächste A2-Kurs anfängt? Ich hätte auch gern Informationen über die Kurszeiten am Abend. Im Anhang finden Sie mein Anmeldeformular. Eine Frage habe ich noch: Gibt es eine Ermäßigung für Studenten? Vielen Dank im Voraus für Ihre Antwort. Mit freundlichen Grüßen\nLan Wang",
+      "parts": [
+        {
+          "label": "",
+          "text": "Betreff: Frage zum Kursbeginn"
+        },
+        {
+          "label": "",
+          "text": "Sehr geehrte Damen und Herren, ich interessiere mich für Ihren Sprachkurs. Könnten Sie mir bitte sagen, wann der nächste A2-Kurs anfängt? Ich hätte auch gern Informationen über die Kurszeiten am Abend. Im Anhang finden Sie mein Anmeldeformular. Eine Frage habe ich noch: Gibt es eine Ermäßigung für Studenten? Vielen Dank im Voraus für Ihre Antwort. Mit freundlichen Grüßen"
+        },
+        {
+          "label": "",
+          "text": "Lan Wang"
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①这封信问了哪两件事？（答：下期 A2 课程何时开始、学生有没有折扣。）②找出公文骨架的四段并指出各自的句子。（答：称呼 Sehr geehrte Damen und Herren；来意 ich interessiere mich für Ihren Sprachkurs；请求 Könnten Sie mir bitte sagen… 与折扣问题；致谢+结尾 Vielen Dank im Voraus / Mit freundlichen Grüßen。）"
+    },
+    "writing": {
+      "task": "写一封正式咨询邮件（Betreff + 称呼 + 正文 4–5 句 + 结尾 + 姓名）：向语言学校咨询课程。",
+      "sample": "范文：Betreff: Anfrage wegen eines Abendkurses\nSehr geehrte Damen und Herren,\nich interessiere mich für einen Deutschkurs am Abend. Könnten Sie mir bitte sagen, wann der nächste Kurs anfängt und wie viel er kostet? Ich hätte gern auch Informationen über die Gruppengröße. Vielen Dank im Voraus.\nMit freundlichen Grüßen\nLan Wang",
+      "selfcheck": "自查：称呼词尾 geehrte/geehrter 对 □；正文紧接称呼时小写开头 □；Grüßen 后没加逗号 □；请求用了 KII 礼貌形 □。"
+    }
+  },
+  {
+    "id": "g-a2-18",
+    "level": "A2",
+    "order": 23,
+    "title": "目的、结果与逻辑连接",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（目的：um … zu vs damit——看主语同不同）",
+      "headers": [
+        "条件",
+        "结构",
+        "例"
+      ],
+      "rows": [
+        [
+          "主句与从句同一主语",
+          "um + … + zu + Infinitiv",
+          "Ich lerne Deutsch, um in Berlin zu arbeiten."
+        ],
+        [
+          "不同主语",
+          "damit + 从句（动词压尾）",
+          "Ich erkläre es langsam, damit alle es verstehen."
+        ],
+        [
+          "否定目的（以免）",
+          "um … nicht zu / damit … nicht",
+          "Er spricht leise, um das Kind nicht zu wecken."
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（主句逻辑连接副词——占第一位，主句倒装）",
+        "headers": [
+          "连接词",
+          "逻辑",
+          "例"
+        ],
+        "rows": [
+          [
+            "deshalb",
+            "因此（结果）",
+            "Es regnet, deshalb bleiben wir zu Hause."
+          ],
+          [
+            "trotzdem",
+            "尽管如此（让步）",
+            "Es regnet, trotzdem gehen wir spazieren."
+          ],
+          [
+            "sonst",
+            "否则",
+            "Beeil dich, sonst verpasst du den Bus."
+          ],
+          [
+            "dann / danach",
+            "然后（顺序，与 A1 叙事链合流）",
+            "Zuerst essen wir, dann gehen wir."
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "um…zu 的 zu 位置：简单动词 zu + 原形放句尾（…zu arbeiten）；可分动词 zu 插进中间（…einzukaufen）；情态不能进 um…zu（要表「为了能…」用 um … zu können 是错的——改 damit 或口语 um zu können 认读即可，正规：Ich spare, um mir ein Auto kaufen zu können. 实际可接受，本级按 damit 改写练）。",
+      "damit 从句动词压尾、带逗号；deshalb/trotzdem/sonst 是主句词：它们自己占第一位，后面主语动词倒装（deshalb bleiben wir），不带从句语序。",
+      "deshalb 与 weil 方向相反：weil 回答「为什么」（原因在从句），deshalb 引出「所以怎样」（结果在主句）。同一事实两种说法：Weil es regnet, bleiben wir. / Es regnet, deshalb bleiben wir.",
+      "trotzdem 与 obwohl 分工预告：obwohl 从句留 B1，A2 先用 trotzdem 主句式表达让步。"
+    ],
+    "examples": [
+      {
+        "de": "Ich spare Geld, um ein Auto zu kaufen.",
+        "zh": ""
+      },
+      {
+        "de": "Sie lernt Deutsch, um in Deutschland zu arbeiten.",
+        "zh": ""
+      },
+      {
+        "de": "Ich schreibe dir die Adresse auf, damit du sie nicht vergisst.",
+        "zh": ""
+      },
+      {
+        "de": "Er spricht laut, damit alle ihn hören.",
+        "zh": ""
+      },
+      {
+        "de": "Es ist kalt, deshalb ziehe ich eine Jacke an.",
+        "zh": ""
+      },
+      {
+        "de": "Ich bin müde, trotzdem arbeite ich weiter.",
+        "zh": ""
+      },
+      {
+        "de": "Komm jetzt, sonst wird es zu spät!",
+        "zh": ""
+      },
+      {
+        "de": "Wir fahren früh los, um nicht zu spät zu kommen.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "主语不同还用 um…zu：„Ich erkläre es, um du es verstehst.\" 错——主语一变，必须 damit 从句。",
+      "deshalb 后面不倒装：„deshalb wir bleiben\" 错，deshalb 占位后动词第二（deshalb bleiben wir）。",
+      "zu 的位置：„um zu einkaufen\" 错，可分动词 einzukaufen 一词（zu 在中间）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich lerne Deutsch, ＿＿ in Berlin zu arbeiten.\"",
+        "explain": "同一主语，um…zu。",
+        "options": [
+          "um",
+          "damit",
+          "deshalb"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "结构填空",
+        "explain": "主语不同（ich vs alle），damit 从句。",
+        "display": "Ich erkläre es langsam, ＿＿ alle es verstehen.",
+        "answer": "damit"
+      },
+      {
+        "type": "fill",
+        "q": "zu 位置填空",
+        "explain": "可分动词 zu 插中间：einzukaufen。",
+        "display": "Sie geht in den Supermarkt, um Milch ein＿＿kaufen.",
+        "answer": "zu"
+      },
+      {
+        "type": "choice",
+        "q": "哪句对",
+        "explain": "deshalb 占第一位，主句倒装。",
+        "options": [
+          "Es regnet, deshalb bleiben wir zu Hause.",
+          "Es regnet, deshalb wir bleiben zu Hause.",
+          "Es regnet, deshalb wir zu Hause bleiben."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "zu kaufen 压尾。",
+        "tokens": [
+          "spare",
+          "Ich",
+          "um",
+          "Geld",
+          "ein Auto",
+          "zu kaufen"
+        ],
+        "answer": [
+          "Ich",
+          "spare",
+          "Geld",
+          "um",
+          "ein Auto",
+          "zu kaufen"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选逻辑",
+        "explain": "trotzdem = 尽管如此。",
+        "audio": "Ich bin müde, trotzdem arbeite ich weiter.",
+        "options": [
+          "因为累所以休息",
+          "虽然累但继续工作",
+          "累了就回家"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "连接词填空",
+        "explain": "sonst = 否则。",
+        "display": "Beeil dich, ＿＿ verpasst du den Zug!",
+        "answer": "sonst"
+      },
+      {
+        "type": "classify",
+        "q": "逻辑分筐",
+        "explain": "先看主语同异分目的，再看逻辑方向。",
+        "groups": [
+          "目的",
+          "结果",
+          "让步"
+        ],
+        "items": [
+          {
+            "text": "um zu arbeiten",
+            "group": 0
+          },
+          {
+            "text": "damit alle verstehen",
+            "group": 0
+          },
+          {
+            "text": "deshalb bleiben wir",
+            "group": 1
+          },
+          {
+            "text": "deshalb ist er krank",
+            "group": 1
+          },
+          {
+            "text": "trotzdem gehen wir",
+            "group": 2
+          },
+          {
+            "text": "trotzdem hilft sie",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句（damit）",
+        "explain": "damit 从句 vergisst 压尾（注：词卡 „dir die Adresse\"、„damit du\"、„sie nicht vergisst\" 为意群块）。",
+        "tokens": [
+          "schreibe",
+          "Ich",
+          "auf",
+          "dir die Adresse",
+          "sie nicht vergisst",
+          "damit du"
+        ],
+        "answer": [
+          "Ich",
+          "schreibe",
+          "dir die Adresse",
+          "auf",
+          "damit du",
+          "sie nicht vergisst"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "否定目的",
+        "explain": "nicht 紧贴 zu wecken 之前。",
+        "options": [
+          "Er spricht leise, um das Kind nicht zu wecken.",
+          "Er spricht leise, um nicht das Kind zu wecken.",
+          "Er spricht leise, damit weckt er das Kind nicht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补连接词",
+        "explain": "deshalb 后倒装 ziehe ich。",
+        "audio": "Es ist kalt, deshalb ziehe ich eine Jacke an.",
+        "display": "Es ist kalt, ＿＿ ziehe ich eine Jacke an.",
+        "answer": "deshalb"
+      },
+      {
+        "type": "fill",
+        "q": "改写填空（weil → deshalb）",
+        "explain": "因果换向，deshalb 引结果。",
+        "display": "Weil es regnet, bleiben wir zu Hause. → Es regnet, ＿＿ bleiben wir zu Hause.",
+        "answer": "deshalb"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "trotzdem 占位 + 倒装。",
+        "tokens": [
+          "wir",
+          "Es regnet",
+          "trotzdem",
+          "spazieren",
+          "gehen"
+        ],
+        "answer": [
+          "Es regnet",
+          "trotzdem",
+          "gehen",
+          "wir",
+          "spazieren"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "同一主语的目的句，哪句对",
+        "explain": "同主语必须 um…zu（damit 多用于异主语）。",
+        "options": [
+          "Sie spart, damit sie ein Haus kauft.",
+          "Sie spart, um ein Haus zu kaufen.",
+          "Sie spart, um sie ein Haus zu kaufen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "结构填空",
+        "explain": "um … zu kommen 完整形。",
+        "display": "Wir fahren früh los, um nicht zu spät zu ＿＿.",
+        "answer": "kommen"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "sonst 的警告句。",
+        "audio": "Komm jetzt, sonst wird es zu spät!",
+        "answer": "Komm jetzt, sonst wird es zu spät!"
+      }
+    ],
+    "reading": {
+      "text": "Viele Leute lernen Deutsch, um in Deutschland zu arbeiten oder zu studieren. Frau Lan lernt Deutsch, damit sie mit ihren Kunden sprechen kann. Sie übt jeden Tag, um besser zu werden. Manchmal ist sie müde, trotzdem lernt sie weiter. „Wenn ich nicht übe, vergesse ich die Wörter\", sagt sie. Deshalb hat sie einen festen Plan: zuerst die neuen Wörter, dann die Grammatik. So macht Lernen Spaß, und sie kommt Schritt für Schritt weiter.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Viele Leute lernen Deutsch, um in Deutschland zu arbeiten oder zu studieren. Frau Lan lernt Deutsch, damit sie mit ihren Kunden sprechen kann. Sie übt jeden Tag, um besser zu werden. Manchmal ist sie müde, trotzdem lernt sie weiter. „Wenn ich nicht übe, vergesse ich die Wörter\", sagt sie. Deshalb hat sie einen festen Plan: zuerst die neuen Wörter, dann die Grammatik. So macht Lernen Spaß, und sie kommt Schritt für Schritt weiter."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①Frau Lan 学德语的目的是什么（damit 句）？（答：为了能和客户交谈——damit sie mit ihren Kunden sprechen kann。）②„trotzdem\" 在文中表达什么逻辑？（答：让步——累了仍然继续学。）"
+    },
+    "writing": {
+      "task": "写 5 句谈「我为什么学德语/我的计划」，至少用 um…zu 1 次、damit 1 次、deshalb 或 trotzdem 1 次。",
+      "sample": "范文：Ich lerne Deutsch, um später in einer deutschen Firma zu arbeiten. Ich übe mit einer App, damit ich die Wörter nicht vergesse. Manchmal habe ich wenig Zeit, trotzdem lerne ich jeden Abend ein bisschen. Es ist nicht immer leicht, deshalb mache ich einen festen Wochenplan.",
+      "selfcheck": "自查：um…zu 的两个分句主语相同 □；damit 从句动词压尾 □；deshalb/trotzdem 后倒装 □。"
+    }
+  },
+  {
+    "id": "t-a2-05",
+    "level": "A2",
+    "order": 24,
+    "title": "表达观点与讲经历",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（观点句型库——从软到硬）",
+      "headers": [
+        "句型",
+        "例"
+      ],
+      "rows": [
+        [
+          "Ich finde, dass …",
+          "Ich finde, dass Sport wichtig ist."
+        ],
+        [
+          "Ich denke / glaube, dass …",
+          "Ich denke, dass die Stadt zu laut ist."
+        ],
+        [
+          "Meiner Meinung nach …（主句倒装）",
+          "Meiner Meinung nach ist Zugfahren besser."
+        ],
+        [
+          "Der Grund ist: … / …, weil …",
+          "Ich fahre Rad, weil es gesund ist."
+        ],
+        [
+          "Ein Vorteil ist, dass … / Ein Nachteil ist, dass …",
+          "Ein Vorteil ist, dass es billig ist."
+        ],
+        [
+          "Ich bin dafür / dagegen, dass …（认读偏多）",
+          "Ich bin dafür, dass man weniger Auto fährt."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（讲经历的叙事骨架——五段）",
+        "headers": [
+          "段",
+          "信号词",
+          "例"
+        ],
+        "rows": [
+          [
+            "背景",
+            "Letzten Sommer / Damals / Es war …",
+            "Letzten Sommer war ich in Berlin."
+          ],
+          [
+            "起因",
+            "Eines Tages … / Zuerst …",
+            "Eines Tages sind wir ans Meer gefahren."
+          ],
+          [
+            "经过",
+            "Dann / Danach / Später",
+            "Dann haben wir ein kleines Hotel gefunden."
+          ],
+          [
+            "高潮",
+            "Plötzlich / Auf einmal",
+            "Plötzlich hat es stark geregnet."
+          ],
+          [
+            "结尾感受",
+            "Am Ende / Zum Schluss + 感受句",
+            "Am Ende war ich müde, aber glücklich."
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "finde/denke/glaube 后面 dass 从句动词压尾：Ich finde, dass der Film gut ist. 漏 dass 时口语可直陈（Ich finde, der Film ist gut. 认读），产出按带 dass 的稳妥版。",
+      "Meiner Meinung nach 是状语占位：后面倒装（Meiner Meinung nach ist das falsch.），别写成 „…nach das ist falsch\"。",
+      "讲经历的时态分工（和 g-a2-03 的口径一致）：口头讲述用 Perfekt 为主 + war/hatte/情态过去式；高潮句用 plötzlich 提速；结尾必须有感受或结果，否则故事「没讲完」。",
+      "观点文结构：立场句（finde/dass）→ 理由 1（weil）→ 理由 2 或例子（Zum Beispiel）→ 结论（Deshalb finde ich …）。四步走完就是 A2 写作测的满分骨架。"
+    ],
+    "examples": [
+      {
+        "de": "Ich finde, dass Kinder mehr draußen spielen sollten.",
+        "zh": ""
+      },
+      {
+        "de": "Meiner Meinung nach ist das Auto in der Stadt zu laut.",
+        "zh": ""
+      },
+      {
+        "de": "Ich denke, dass ein Handy wichtig ist, weil man damit arbeiten kann.",
+        "zh": ""
+      },
+      {
+        "de": "Ein Nachteil ist, dass Fliegen teuer ist.",
+        "zh": ""
+      },
+      {
+        "de": "Letzten Sommer bin ich mit Freunden ans Meer gefahren.",
+        "zh": ""
+      },
+      {
+        "de": "Plötzlich war unser Auto kaputt.",
+        "zh": ""
+      },
+      {
+        "de": "Am Ende sind wir mit dem Zug nach Hause gefahren.",
+        "zh": ""
+      },
+      {
+        "de": "Zum Schluss war ich sehr müde, aber froh.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "dass 从句动词不压尾：„dass der Film ist gut\" 错。",
+      "Meinung nach 后不倒装。",
+      "叙事全程现在时：讲过去的经历，时态必须落到过去（Perfekt/Präteritum 混用按口径），别用现在时平铺。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Ich finde, dass der Film gut ＿＿.\"",
+        "explain": "dass 从句 ist 压尾。",
+        "options": [
+          "ist",
+          "ist gut am Ende",
+          "gut ist Ende"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "观点句型填空",
+        "explain": "固定短语 Meiner Meinung nach。",
+        "display": "＿＿ Meinung nach ist Zugfahren besser.",
+        "answer": "Meiner"
+      },
+      {
+        "type": "fill",
+        "q": "语序填空",
+        "explain": "Meiner Meinung nach 占第一位，ist 紧跟。",
+        "display": "Meiner Meinung nach ＿＿ das zu teuer.",
+        "answer": "ist"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "dass 从句 ist 压尾。",
+        "tokens": [
+          "finde",
+          "Ich",
+          "Sport",
+          "dass",
+          "ist",
+          "wichtig"
+        ],
+        "answer": [
+          "Ich",
+          "finde",
+          "dass",
+          "Sport",
+          "wichtig",
+          "ist"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选立场",
+        "explain": "gegen = 反对（dafür = 支持）。",
+        "audio": "Ich bin gegen Autos in der Stadt.",
+        "options": [
+          "说话人支持城里开车",
+          "说话人反对城里开车",
+          "说话人没有立场"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "choice",
+        "q": "叙事的正确顺序信号",
+        "explain": "背景起因 → 经过 → 高潮 → 结尾。",
+        "options": [
+          "Zuerst …",
+          "Am Ende …",
+          "Plötzlich …",
+          "Dann … 排成讲述顺序应为"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "理由句填空",
+        "explain": "weil 引理由，ist 压尾。",
+        "display": "Ich fahre Rad, ＿＿ es gesund ist.",
+        "answer": "weil"
+      },
+      {
+        "type": "classify",
+        "q": "句子按功能分筐",
+        "explain": "观点句谈看法，叙事句讲事件。",
+        "groups": [
+          "观点",
+          "叙事"
+        ],
+        "items": [
+          {
+            "text": "Ich finde, dass Sport wichtig ist.",
+            "group": 0
+          },
+          {
+            "text": "Meiner Meinung nach ist das zu teuer.",
+            "group": 0
+          },
+          {
+            "text": "Plötzlich hat es geregnet.",
+            "group": 1
+          },
+          {
+            "text": "Am Ende war ich müde.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句（叙事）",
+        "explain": "时间状语占位 + 倒装。",
+        "tokens": [
+          "sind",
+          "Letzten Sommer",
+          "wir",
+          "ans Meer",
+          "gefahren"
+        ],
+        "answer": [
+          "Letzten Sommer",
+          "sind",
+          "wir",
+          "ans Meer",
+          "gefahren"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "高潮信号填空",
+        "explain": "叙事高潮的标志词。",
+        "display": "＿＿ war unser Auto kaputt!（突然）",
+        "answer": "Plötzlich"
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补结构词",
+        "explain": "优缺点句型 Ein Vorteil/Nachteil ist, dass …",
+        "audio": "Ein Vorteil ist, dass es billig ist.",
+        "display": "Ein ＿＿ ist, dass es billig ist.",
+        "answer": "Vorteil"
+      },
+      {
+        "type": "choice",
+        "q": "哪句是规范的观点句",
+        "explain": "ist 压尾。",
+        "options": [
+          "Ich denke, dass die Stadt ist zu laut.",
+          "Ich denke, dass die Stadt zu laut ist.",
+          "Ich denke, die Stadt zu laut ist dass."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "dass 从句 ist 压尾（两个 ist 各就其位）。",
+        "tokens": [
+          "ist",
+          "Ein Nachteil",
+          "dass",
+          "teuer",
+          "Fliegen",
+          "ist"
+        ],
+        "answer": [
+          "Ein Nachteil",
+          "ist",
+          "dass",
+          "Fliegen",
+          "teuer",
+          "ist"
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "结尾句填空",
+        "explain": "叙事收尾信号。",
+        "display": "＿＿ war ich müde, aber glücklich.（最后）",
+        "answer": "Am Ende"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "nach 后倒装 ist das。",
+        "audio": "Meiner Meinung nach ist das falsch.",
+        "answer": "Meiner Meinung nach ist das falsch."
+      },
+      {
+        "type": "choice",
+        "q": "给理由的完整句",
+        "explain": "weil 从句 bin 压尾。",
+        "options": [
+          "Ich bleibe zu Hause, weil ich krank bin.",
+          "Ich bleibe zu Hause, weil ich bin krank.",
+          "Ich bleibe zu Hause, deshalb ich krank bin."
+        ],
+        "answer": 0
+      }
+    ],
+    "reading": {
+      "text": "Ich finde, dass man in der Stadt kein Auto braucht. Meiner Meinung nach sind Bus und Bahn genug. Ein Vorteil ist, dass man kein Geld für Benzin braucht. Aber es gibt auch Nachteile: Manchmal muss man lange warten, und im Winter ist es kalt an der Haltestelle. Letzten Monat war mein Bus einmal zwei Stunden zu spät. Plötzlich hat es auch noch geregnet! Am Ende bin ich zu Fuß nach Hause gegangen. Trotzdem bleibe ich bei meiner Meinung: Die Stadt ist ohne Autos ruhiger und besser.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Ich finde, dass man in der Stadt kein Auto braucht. Meiner Meinung nach sind Bus und Bahn genug. Ein Vorteil ist, dass man kein Geld für Benzin braucht. Aber es gibt auch Nachteile: Manchmal muss man lange warten, und im Winter ist es kalt an der Haltestelle. Letzten Monat war mein Bus einmal zwei Stunden zu spät. Plötzlich hat es auch noch geregnet! Am Ende bin ich zu Fuß nach Hause gegangen. Trotzdem bleibe ich bei meiner Meinung: Die Stadt ist ohne Autos ruhiger und besser."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①作者的立场和两个理由是什么？（答：城里不需要汽车；理由：省油钱、城市更安静更好。）②文中叙事部分讲了什么事？（答：上个月公交晚点两小时，又赶上下雨，最后走路回家。）"
+    },
+    "writing": {
+      "task": "二选一写 5–6 句：(a) 观点小文「Handys für Kinder?»（立场 + 两个理由 + 结论）；(b) 讲一次经历（背景 → 经过 → 高潮 → 结尾感受）。",
+      "sample": "范文 (b)：Letzten Sommer bin ich mit meiner Schwester ans Meer gefahren. Zuerst war das Wetter schön, und wir haben im Meer gebadet. Dann ist plötzlich ein starker Wind gekommen. Alle Leute sind schnell ins Hotel gelaufen. Am Ende waren wir nass, aber wir haben viel gelacht. Es war ein lustiger Tag.",
+      "selfcheck": "自查：dass 从句动词压尾 □；Meiner Meinung nach 后倒装（选 a 时）□；叙事有高潮和结尾感受（选 b 时）□。"
+    }
+  },
+  {
+    "id": "g-a2-19",
+    "level": "A2",
+    "order": 25,
+    "title": "被动语态（现在时）",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表（Vorgangspassiv Präsens = werden 变位 + 分词压尾）",
+      "headers": [
+        "人称",
+        "werden",
+        "例句骨架"
+      ],
+      "rows": [
+        [
+          "ich",
+          "werde",
+          "Ich werde eingeladen.（我受邀请）"
+        ],
+        [
+          "du",
+          "wirst",
+          "Du wirst angerufen."
+        ],
+        [
+          "er/sie/es",
+          "wird",
+          "Das Auto wird repariert."
+        ],
+        [
+          "wir",
+          "werden",
+          "Wir werden abgeholt."
+        ],
+        [
+          "ihr",
+          "werdet",
+          "Ihr werdet informiert."
+        ],
+        [
+          "sie/Sie",
+          "werden",
+          "Die Briefe werden gebracht."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [],
+    "rules": [
+      "被动的逻辑：宾格变主语。主动：Der Mann repariert das Auto. → 被动：Das Auto wird (von dem Mann) repariert. 动作的执行者可省；要说出来用 von + 与格。",
+      "什么时候用被动：执行者不重要、不知道、或显而易见时（说明书、新闻、公告、流程描述）。„Hier wird Deutsch gesprochen.\" 的重点是「这里通行德语」，不是谁在说。",
+      "主动 man 与被动可互换：Man spricht hier Deutsch. = Hier wird Deutsch gesprochen.",
+      "被动的否定与疑问照常：Wird das Auto heute repariert? / Das Auto wird nicht repariert.",
+      "过去被动认读：wurde + 分词（Das Haus wurde 1900 gebaut.），见到认得出即可；无人称被动认读：Es wird getanzt.（人们在跳舞，没有具体主语）。"
+    ],
+    "examples": [
+      {
+        "de": "Das Auto wird heute repariert.",
+        "zh": ""
+      },
+      {
+        "de": "Der Brief wird von der Sekretärin geschrieben.",
+        "zh": ""
+      },
+      {
+        "de": "Hier wird nicht geraucht!",
+        "zh": ""
+      },
+      {
+        "de": "Die Gäste werden am Bahnhof abgeholt.",
+        "zh": ""
+      },
+      {
+        "de": "Das Essen wird um zwölf serviert.",
+        "zh": ""
+      },
+      {
+        "de": "Ich werde oft gefragt.",
+        "zh": ""
+      },
+      {
+        "de": "Das Haus wurde vor hundert Jahren gebaut.（认读）",
+        "zh": ""
+      },
+      {
+        "de": "In diesem Büro wird viel gearbeitet.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "werden 变位用现在时词干别套 Futur 混淆：本单元 werden 是被动助动词，和 g-a2-20 的将来 werden 同形——看句尾：分词 = 被动，不定式 = 将来。",
+      "von 后面用与格：von dem Mann（口语 vom Mann），不是 von den Mann。",
+      "分词没压尾：„Das Auto wird repariert heute\" 错——分词在句尾，时间状语在中段。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Das Auto ＿＿ heute repariert.\"",
+        "explain": "单数 wird + 分词 repariert。",
+        "options": [
+          "wird",
+          "werden",
+          "wurdest"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "被动填空",
+        "explain": "复数 werden。",
+        "display": "Die Briefe ＿＿ von der Sekretärin gebracht.",
+        "answer": "werden"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "分词压尾，heute 在中段。",
+        "tokens": [
+          "wird",
+          "Das Auto",
+          "repariert",
+          "heute"
+        ],
+        "answer": [
+          "Das Auto",
+          "wird",
+          "heute",
+          "repariert"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "主动改被动——„Man spricht hier Deutsch.\" 的被动版",
+        "explain": "wird + gesprochen。",
+        "options": [
+          "Hier wird Deutsch gesprochen.",
+          "Hier spricht Deutsch man.",
+          "Hier ist Deutsch gesprochen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "von 短语填空",
+        "explain": "von + 与格 dem。",
+        "display": "Das Bild wurde von ＿＿ Maler gemalt.（认读过去式 + 与格）",
+        "answer": "dem"
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选义",
+        "explain": "被动：客人是被接的对象。",
+        "audio": "Die Gäste werden am Bahnhof abgeholt.",
+        "options": [
+          "客人去车站接人",
+          "有人到车站接客人",
+          "客人在车站等车"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "werden 变位填空",
+        "explain": "du wirst，疑问提前大写。",
+        "display": "＿＿ du morgen angerufen?",
+        "answer": "Wirst"
+      },
+      {
+        "type": "classify",
+        "q": "句子分筐",
+        "explain": "werden + 分词 = 被动。",
+        "groups": [
+          "被动",
+          "主动"
+        ],
+        "items": [
+          {
+            "text": "Das Auto wird repariert.",
+            "group": 0
+          },
+          {
+            "text": "Die Tür wird geschlossen.",
+            "group": 0
+          },
+          {
+            "text": "Hier wird gearbeitet.",
+            "group": 0
+          },
+          {
+            "text": "Der Mann repariert das Auto.",
+            "group": 1
+          },
+          {
+            "text": "Sie schließt die Tür.",
+            "group": 1
+          },
+          {
+            "text": "Man arbeitet hier.",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "可分分词 abgeholt 整体压尾。",
+        "tokens": [
+          "werden",
+          "Die Gäste",
+          "abgeholt",
+          "am Bahnhof"
+        ],
+        "answer": [
+          "Die Gäste",
+          "werden",
+          "am Bahnhof",
+          "abgeholt"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句是被动",
+        "explain": "wird + 分词。",
+        "options": [
+          "Das Essen wird um zwölf serviert.",
+          "Das Essen serviert um zwölf.",
+          "Wir servieren das Essen um zwölf."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补 werden 形",
+        "explain": "ich werde。",
+        "audio": "Ich werde oft gefragt.",
+        "display": "Ich ＿＿ oft gefragt.",
+        "answer": "werde"
+      },
+      {
+        "type": "fill",
+        "q": "主动改被动填空",
+        "explain": "宾格 Regel 变主语，wird + erklärt。",
+        "display": "主动：Der Lehrer erklärt die Regel. → 被动：Die Regel ＿＿ vom Lehrer erklärt.",
+        "answer": "wird"
+      },
+      {
+        "type": "order",
+        "q": "组句（公告）",
+        "explain": "公告被动，nicht 在分词前。",
+        "tokens": [
+          "wird",
+          "Hier",
+          "geraucht",
+          "nicht"
+        ],
+        "answer": [
+          "Hier",
+          "wird",
+          "nicht",
+          "geraucht"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "认读——„Das Haus wurde 1900 gebaut.\" 的时态与语态",
+        "explain": "wurde + 分词 = 过去被动，认读。",
+        "options": [
+          "现在时主动",
+          "过去时被动",
+          "将来时被动"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "被动填空",
+        "explain": "无人称被动：wird + gearbeitet，不需要具体主语。",
+        "display": "In diesem Büro ＿＿ viel gearbeitet.",
+        "answer": "wird"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "分词 serviert 压尾。",
+        "audio": "Das Essen wird um zwölf serviert.",
+        "answer": "Das Essen wird um zwölf serviert."
+      }
+    ],
+    "reading": {
+      "text": "Herzlich willkommen in unserer Fabrik! Hier werden jeden Tag 500 Autos gebaut. Zuerst werden die Teile von Robotern geprüft. Dann wird das Auto in der großen Halle gebaut. Die Farbe wird von einer Maschine gemacht — ein Auto wird in nur zehn Minuten lackiert! Am Ende wird jedes Auto von einem Fahrer getestet. Unsere Autos werden in viele Länder verkauft. Fotografieren ist hier leider nicht erlaubt — es wird gebeten, die Handys auszuschalten.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Herzlich willkommen in unserer Fabrik! Hier werden jeden Tag 500 Autos gebaut. Zuerst werden die Teile von Robotern geprüft. Dann wird das Auto in der großen Halle gebaut. Die Farbe wird von einer Maschine gemacht — ein Auto wird in nur zehn Minuten lackiert! Am Ende wird jedes Auto von einem Fahrer getestet. Unsere Autos werden in viele Länder verkauft. Fotografieren ist hier leider nicht erlaubt — es wird gebeten, die Handys auszuschalten."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①这家工厂每天造多少辆车、流程分哪几步？（答：500 辆；零件由机器人检查 → 大厅组装 → 机器上漆（10 分钟）→ 司机测试 → 销往多国。）②参观时禁止做什么？（答：拍照，并要求关手机。）"
+    },
+    "writing": {
+      "task": "用被动写 5 句描述「一家餐厅/商店里发生的事」，至少 3 句现在时被动、1 句带 von 短语。",
+      "sample": "范文：In diesem Restaurant wird frisch gekocht. Das Essen wird von einem jungen Koch gemacht. Die Gäste werden freundlich begrüßt. Um zwölf Uhr wird das Mittagessen serviert. Die Rechnung wird an der Kasse bezahlt.",
+      "selfcheck": "自查：werden 变位随新主语 □；分词全部压尾 □；von 后是与格 □。"
+    }
+  },
+  {
+    "id": "g-a2-20",
+    "level": "A2",
+    "order": 26,
+    "title": "将来表达",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（Futur I = werden + 不定式压尾）",
+      "headers": [
+        "用途",
+        "例"
+      ],
+      "rows": [
+        [
+          "计划/打算（正式宣布）",
+          "Ich werde nächstes Jahr nach Deutschland reisen."
+        ],
+        [
+          "预测",
+          "Morgen wird es regnen."
+        ],
+        [
+          "承诺",
+          "Ich werde dir helfen, versprochen!"
+        ],
+        [
+          "推测（认读，带 wohl）",
+          "Er wird wohl krank sein.（他大概病了）"
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（将来表达的真实分工——德语口语的常态）",
+        "headers": [
+          "场景",
+          "首选形",
+          "例"
+        ],
+        "rows": [
+          [
+            "已定计划、日程",
+            "现在时 + 时间词",
+            "Morgen fahre ich nach Berlin. / Der Kurs fängt am Montag an."
+          ],
+          [
+            "临时决定",
+            "现在时 / werden 均可",
+            "Ich mache das. / Ich werde das machen."
+          ],
+          [
+            "天气预报、正式预测",
+            "werden",
+            "Es wird morgen kalt werden.（预报口吻）"
+          ],
+          [
+            "承诺强调",
+            "werden",
+            "Ich werde pünktlich sein!"
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            1
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "德语没有「必须用将来时」的场合：有时间词（morgen/nächsten Monat）时现在时就是将来，这是 A1 已经在用的规则；Futur I 的增量价值在预测、承诺、正式计划这三类语气。",
+      "werden 变位复盘：ich werde、du wirst、er wird、wir werden、ihr werdet、sie werden——和被动单元同一个词：句尾是不定式= 将来，句尾是分词= 被动，认清尾巴就不混。",
+      "推测义认读：werden + wohl + 不定式是对现在的推测（Er wird wohl zu Hause sein. = 他多半在家），不是将来，别按时间误读。",
+      "否定与疑问照常：Wirst du kommen? / Ich werde nicht lange bleiben."
+    ],
+    "examples": [
+      {
+        "de": "Morgen wird es regnen.",
+        "zh": ""
+      },
+      {
+        "de": "Ich werde nächstes Jahr eine Ausbildung machen.",
+        "zh": ""
+      },
+      {
+        "de": "Wir werden dir beim Umzug helfen.",
+        "zh": ""
+      },
+      {
+        "de": "Der Zug wird um acht Uhr ankommen.（预报/公告口吻）",
+        "zh": ""
+      },
+      {
+        "de": "Nächste Woche habe ich Urlaub.（现在时表将来，口语常态）",
+        "zh": ""
+      },
+      {
+        "de": "Er wird wohl schon zu Hause sein.（认读推测）",
+        "zh": ""
+      },
+      {
+        "de": "Wirst du am Wochenende arbeiten?",
+        "zh": ""
+      },
+      {
+        "de": "Sie wird bald eine gute Stelle finden.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "每个将来句都套 werden：口语里反而显得书面、预言腔。日程计划优先现在时 + 时间词。",
+      "不定式没压尾：„Ich werde reisen nach Berlin\" 错位——reisen 在句尾：Ich werde nach Berlin reisen.",
+      "把推测句按将来翻译：„Er wird wohl krank sein.\" 不是「他将会生病」，是「他大概病了」。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Morgen ＿＿ es regnen.\"",
+        "explain": "预测用 wird + regnen。",
+        "options": [
+          "wird",
+          "werde",
+          "ist"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "不定式位置填空",
+        "explain": "不定式压尾。",
+        "display": "Ich werde nächstes Jahr nach Deutschland ＿＿.",
+        "answer": "reisen"
+      },
+      {
+        "type": "fill",
+        "q": "werden 变位填空",
+        "explain": "du wirst，疑问提前。",
+        "display": "＿＿ du am Wochenende arbeiten?",
+        "answer": "Wirst"
+      },
+      {
+        "type": "choice",
+        "q": "已定日程的自然说法",
+        "explain": "日程用现在时最自然（werden 版不算错，但本题选常态形）。",
+        "options": [
+          "Morgen fahre ich nach Berlin.",
+          "Morgen werde ich nach Berlin fahren müssen gestern.",
+          "Morgen ich werde fahren nach Berlin."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "两个 werden 各就其位（助动词 wird + 主动词 werden 原形）。",
+        "tokens": [
+          "wird",
+          "Es",
+          "morgen",
+          "kalt",
+          "werden"
+        ],
+        "answer": [
+          "Es",
+          "wird",
+          "morgen",
+          "kalt",
+          "werden"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句选语气",
+        "explain": "versprochen 标记承诺。",
+        "audio": "Ich werde dir helfen, versprochen!",
+        "options": [
+          "这是预测",
+          "这是承诺",
+          "这是命令"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "q": "承诺句填空",
+        "explain": "ich werde。",
+        "display": "Ich ＿＿ pünktlich sein, versprochen!",
+        "answer": "werde"
+      },
+      {
+        "type": "classify",
+        "q": "按表达方式分筐",
+        "explain": "看时间词与 wohl。",
+        "groups": [
+          "现在时表将来",
+          "Futur I",
+          "推测（认读）"
+        ],
+        "items": [
+          {
+            "text": "Morgen fahre ich weg.",
+            "group": 0
+          },
+          {
+            "text": "Der Kurs fängt am Montag an.",
+            "group": 0
+          },
+          {
+            "text": "Es wird regnen.",
+            "group": 1
+          },
+          {
+            "text": "Ich werde dir helfen.",
+            "group": 1
+          },
+          {
+            "text": "Er wird wohl krank sein.",
+            "group": 2
+          },
+          {
+            "text": "Sie wird wohl zu Hause sein.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "helfen 压尾。",
+        "tokens": [
+          "werden",
+          "Wir",
+          "helfen",
+          "dir",
+          "beim Umzug"
+        ],
+        "answer": [
+          "Wir",
+          "werden",
+          "dir",
+          "beim Umzug",
+          "helfen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "认读——„Sie wird wohl im Büro sein.\" 的意思",
+        "explain": "wird wohl + sein 是对现在的推测。",
+        "options": [
+          "她将来会在办公室",
+          "她多半（现在）在办公室",
+          "她应该去办公室"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补 werden 形",
+        "explain": "公告口吻的预测。",
+        "audio": "Der Zug wird um acht Uhr ankommen.",
+        "display": "Der Zug ＿＿ um acht Uhr ankommen.",
+        "answer": "wird"
+      },
+      {
+        "type": "fill",
+        "q": "否定句填空",
+        "explain": "不定式 bleiben 压尾。",
+        "display": "Ich werde nicht lange ＿＿.",
+        "answer": "bleiben"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "W 问 + wirst 第二位。",
+        "tokens": [
+          "wirst",
+          "du",
+          "kommen",
+          "Wann"
+        ],
+        "answer": [
+          "Wann",
+          "wirst",
+          "du",
+          "kommen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句是 Futur I 的预测",
+        "explain": "wird + schneien。",
+        "options": [
+          "Morgen wird es schneien.",
+          "Morgen schneit es gestern.",
+          "Es hat morgen geschneit."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "计划宣布填空",
+        "explain": "正式计划宣布用 Futur I。",
+        "display": "Nächstes Jahr ＿＿ ich eine Ausbildung machen.",
+        "answer": "werde"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "werden + helfen 压尾。",
+        "audio": "Wir werden dir beim Umzug helfen.",
+        "answer": "Wir werden dir beim Umzug helfen."
+      }
+    ],
+    "reading": {
+      "text": "Wetterbericht: Morgen wird es im Norden regnen. Die Temperaturen werden auf 12 Grad fallen. Am Wochenende wird die Sonne wieder scheinen. Viele Leute werden das schöne Wetter nutzen: Frau Lan wird mit ihrer Familie an den See fahren. „Wir werden früh losfahren\", sagt sie. Ihr Bruder wird wohl zu Hause bleiben — er muss für eine Prüfung lernen. Aber am Sonntag werden alle zusammen grillen.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Wetterbericht: Morgen wird es im Norden regnen. Die Temperaturen werden auf 12 Grad fallen. Am Wochenende wird die Sonne wieder scheinen. Viele Leute werden das schöne Wetter nutzen: Frau Lan wird mit ihrer Familie an den See fahren. „Wir werden früh losfahren\", sagt sie. Ihr Bruder wird wohl zu Hause bleiben — er muss für eine Prüfung lernen. Aber am Sonntag werden alle zusammen grillen."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①周末天气如何、气温明天有什么变化？（答：周末放晴；明天降到 12 度。）②哥哥周末大概做什么？（答：多半留在家里复习考试——wird wohl 推测句。）"
+    },
+    "writing": {
+      "task": "写 5 句「我下个月的计划」，至少 2 句 Futur I（预测/承诺/正式计划）、2 句现在时表将来。",
+      "sample": "范文：Nächsten Monat werde ich einen neuen Kurs anfangen. Der Kurs beginnt am 5. und ist jeden Dienstag. Ich werde jeden Tag üben, das verspreche ich. Am Wochenende fahre ich zu meinen Eltern. Das Wetter wird dann hoffentlich gut sein.",
+      "selfcheck": "自查：Futur I 的不定式压尾 □；日程句用了现在时 □；没有把推测句当将来写 □。"
+    }
+  },
+  {
+    "id": "g-a2-21",
+    "level": "A2",
+    "order": 27,
+    "title": "代词扩展",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（一词代名词：einer / keiner / welcher 家族）",
+      "headers": [
+        "提问/指代",
+        "阳性",
+        "阴性",
+        "中性",
+        "复数"
+      ],
+      "rows": [
+        [
+          "哪个/这一个（主格）",
+          "welcher / einer",
+          "welche / eine",
+          "welches / eins",
+          "welche / —"
+        ],
+        [
+          "宾格",
+          "welchen / einen",
+          "welche / eine",
+          "welches / eins",
+          "welche / —"
+        ],
+        [
+          "否定「一个也没有」主格",
+          "keiner",
+          "keine",
+          "keins",
+          "keine"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（indefinit 扩展，认读为主）",
+        "headers": [
+          "词",
+          "例"
+        ],
+        "rows": [
+          [
+            "derselbe / dieselbe / dasselbe（认读）",
+            "Er fährt dasselbe Auto wie ich.（同一辆）"
+          ],
+          [
+            "irgend- 家族（认读→轻产出）",
+            "irgendwas（某事）、irgendwo（某处）、irgendjemand（某人）、irgendwann（某时）"
+          ],
+          [
+            "jeder / alle 复盘",
+            "Jeder braucht Zeit. / Alle sind da."
+          ],
+          [
+            "man 的场合复盘",
+            "Man spricht hier Deutsch.（人们/有人）"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "einer 家族的用途：名词刚说过、第二次不重复：„Brauchst du einen Stift?\" — „Ja, hast du einen?\" 它带名词的性与格，词尾 = 强变化（和 welcher 同步）。",
+      "keiner 是否定版 einer：„Hast du einen Stift?\" — „Nein, ich habe keinen.\" 答句里省掉名词是常态。",
+      "welcher 作代词单用时同理：„Welcher Mantel ist deiner?\" — „Der rote.\" 或 „Dieser.\"（指代回答常用指示词，不必硬套 welcher）。",
+      "irgend- 是「某…」的模糊指代：不知道/不在乎具体是哪个时用：Ich muss irgendwas essen. 口语高频，产出只需这四个词的整体使用。",
+      "derselbe 强调「同一个本体」，verschieden/der gleiche（认读）强调「同款不同个」：dasselbe Auto（就是那辆）vs das gleiche Auto（同型号另一辆）——先认读，进阶区别留 B1 细化。"
+    ],
+    "examples": [
+      {
+        "de": "Hast du einen Stift? — Ja, hier ist einer.",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe keinen Stift, aber sie hat einen.",
+        "zh": ""
+      },
+      {
+        "de": "Welches Kleid nimmst du? — Das blaue.",
+        "zh": ""
+      },
+      {
+        "de": "Er fährt dasselbe Auto wie sein Bruder.（认读）",
+        "zh": ""
+      },
+      {
+        "de": "Ich muss irgendwas essen.",
+        "zh": ""
+      },
+      {
+        "de": "Irgendjemand hat angerufen, aber ich weiß nicht, wer.",
+        "zh": ""
+      },
+      {
+        "de": "Jeder muss einen Ausweis zeigen.",
+        "zh": ""
+      },
+      {
+        "de": "Keiner war zu Hause.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "回答时重复全名词显得生硬，但省错格更糟：„Ich habe einen\"（宾格阳性 einen）别省成 einer。",
+      "eins 的主格/宾格中性：„Hast du ein Handy?\" — „Ja, ich habe eins.\"（不是 eines）。",
+      "irgendwas 不能加名词：„irgendwas Buch\" 错，它独立成词。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Hast du einen Kuli?\" — „Ja, hier ist ＿＿.\"",
+        "explain": "主格阳性 einer（递笔给对方，笔作主语）。",
+        "options": [
+          "einer",
+          "einem",
+          "eines"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代词填空",
+        "explain": "宾格阳性 einen 代 Stift。",
+        "display": "Ich habe keinen Stift, aber sie hat ＿＿.",
+        "answer": "einen"
+      },
+      {
+        "type": "fill",
+        "q": "否定代词填空",
+        "explain": "keiner 主格，句首大写。",
+        "display": "＿＿ war zu Hause.（一个人也没有）",
+        "answer": "Keiner"
+      },
+      {
+        "type": "choice",
+        "q": "中性回答",
+        "explain": "中性用 eins。",
+        "options": [
+          "„Hast du ein Handy?\" — „Ja, ich habe eins.\"",
+          "„Ja, ich habe eines.\"",
+          "\"Ja, ich habe einer.\""
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "keinen/einen 各自代指前文的名词。",
+        "tokens": [
+          "habe",
+          "keinen",
+          "Ich",
+          "aber",
+          "sie",
+          "einen",
+          "hat"
+        ],
+        "answer": [
+          "Ich",
+          "habe",
+          "keinen",
+          "aber",
+          "sie",
+          "hat",
+          "einen"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听对话选回答含义",
+        "explain": "Das blaue 指代回答。",
+        "audio": "Welches Kleid nimmst du? — Das blaue.",
+        "options": [
+          "她选了蓝色的那件",
+          "她有两件蓝的",
+          "她不喜欢蓝色"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代词填空（阴性）",
+        "explain": "阴性 eine。",
+        "display": "Brauchst du eine Tasche? — Ja, hast du ＿＿?",
+        "answer": "eine"
+      },
+      {
+        "type": "classify",
+        "q": "按家族分筐",
+        "explain": "肯定指代、否定指代、模糊指代三家。",
+        "groups": [
+          "einer 家族",
+          "keiner 家族",
+          "irgend- 家族"
+        ],
+        "items": [
+          {
+            "text": "einer",
+            "group": 0
+          },
+          {
+            "text": "eine",
+            "group": 0
+          },
+          {
+            "text": "eins",
+            "group": 0
+          },
+          {
+            "text": "einen",
+            "group": 0
+          },
+          {
+            "text": "keiner",
+            "group": 1
+          },
+          {
+            "text": "keine",
+            "group": 1
+          },
+          {
+            "text": "keins",
+            "group": 1
+          },
+          {
+            "text": "keinen",
+            "group": 1
+          },
+          {
+            "text": "irgendwas",
+            "group": 2
+          },
+          {
+            "text": "irgendwo",
+            "group": 2
+          },
+          {
+            "text": "irgendjemand",
+            "group": 2
+          },
+          {
+            "text": "irgendwann",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "irgendwas 独立作宾语。",
+        "tokens": [
+          "muss",
+          "Ich",
+          "essen",
+          "irgendwas"
+        ],
+        "answer": [
+          "Ich",
+          "muss",
+          "irgendwas",
+          "essen"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "认读——„Er fährt dasselbe Auto wie ich.\" 的意思",
+        "explain": "derselbe = 同一本体。",
+        "options": [
+          "他开的车和我是同一辆",
+          "他开的车和我是同款另一辆",
+          "他想买我的车"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补代词",
+        "explain": "某人打来电话。",
+        "audio": "Irgendjemand hat angerufen.",
+        "display": "＿＿ hat angerufen.",
+        "answer": "Irgendjemand"
+      },
+      {
+        "type": "fill",
+        "q": "代词填空",
+        "explain": "jeder 配单数动词 muss（本空练主谓一致）。",
+        "display": "Jeder ＿＿ einen Ausweis zeigen.",
+        "answer": "muss"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "keiner 主语。",
+        "tokens": [
+          "war",
+          "Keiner",
+          "Hause",
+          "zu"
+        ],
+        "answer": [
+          "Keiner",
+          "war",
+          "zu",
+          "Hause"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "welcher 的宾格阳性",
+        "explain": "宾格阳性 welchen。",
+        "options": [
+          "welchen",
+          "welchem",
+          "welcher"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "代词填空",
+        "explain": "den blauen 指代回答（形容词名词化）。",
+        "display": "Nimmst du den roten Mantel oder den blauen? — Ich nehme ＿＿.（蓝的那个，用指示代词）",
+        "answer": "den blauen"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "keinen/einen 的格别听混。",
+        "audio": "Ich habe keinen, aber sie hat einen.",
+        "answer": "Ich habe keinen, aber sie hat einen."
+      }
+    ],
+    "reading": {
+      "text": "„Guten Tag! Ich suche einen Rucksack.\" — „Wir haben viele. Welchen möchten Sie? Einen großen oder einen kleinen?\" — „Einen kleinen, bitte. Aber nicht den schwarzen. Haben Sie einen in Blau?\" — „Natürlich, hier ist einer in Blau. Und dieser hier ist derselbe in Grün.\" — „Der blaue ist gut. Ich nehme ihn. Ach, und ich brauche noch irgendwas für den Regen — einen Schirm vielleicht.\" — „Einen Moment, ich hole Ihnen einen.\"",
+      "parts": [
+        {
+          "label": "",
+          "text": "„Guten Tag! Ich suche einen Rucksack.\" — „Wir haben viele. Welchen möchten Sie? Einen großen oder einen kleinen?\" — „Einen kleinen, bitte. Aber nicht den schwarzen. Haben Sie einen in Blau?\" — „Natürlich, hier ist einer in Blau. Und dieser hier ist derselbe in Grün.\" — „Der blaue ist gut. Ich nehme ihn. Ach, und ich brauche noch irgendwas für den Regen — einen Schirm vielleicht.\" — „Einen Moment, ich hole Ihnen einen.\""
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①顾客想要什么样的背包、最后选了什么？（答：小号、不要黑色，最后选了蓝色的。）②顾客还想买什么、店员怎么回应？（答：防雨的东西，比如伞；店员去给他拿一把。）"
+    },
+    "writing": {
+      "task": "写 5 句购物/日常对话体短文，至少用 einer 家族 2 次、keiner 家族 1 次、irgend- 1 次。",
+      "sample": "范文：„Hast du einen Regenschirm?\" fragt Sara. „Nein, ich habe keinen. Aber mein Bruder hat einen.\" „Kann er mir seinen leihen?\" — „Ich glaube schon. Irgendwo in seiner Wohnung liegt auch ein zweiter.\" „Perfekt, dann brauche ich keinen neuen zu kaufen.\"",
+      "selfcheck": "自查：einer 家族的格随角色 □；keiner 家族用在否定回答 □；irgend- 后面没乱加名词 □。"
+    }
+  },
+  {
+    "id": "g-a2-22",
+    "level": "A2",
+    "order": 28,
+    "title": "语序综合与叙事链",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（全部从句的语序总图——A2 收官盘点）",
+      "headers": [
+        "从句类型",
+        "连接词",
+        "动词位置",
+        "例"
+      ],
+      "rows": [
+        [
+          "原因",
+          "weil",
+          "压尾",
+          "…, weil ich krank bin."
+        ],
+        [
+          "陈述",
+          "dass",
+          "压尾",
+          "…, dass er morgen kommt."
+        ],
+        [
+          "是否",
+          "ob",
+          "压尾",
+          "…, ob sie Zeit hat."
+        ],
+        [
+          "时间",
+          "als / wenn / bevor / bis",
+          "压尾",
+          "Als ich kam, …"
+        ],
+        [
+          "关系",
+          "der/die/das/dem…",
+          "压尾",
+          "der Mann, der dort steht"
+        ],
+        [
+          "目的（异主语）",
+          "damit",
+          "压尾",
+          "…, damit alle es verstehen."
+        ],
+        [
+          "条件/愿望",
+          "wenn + KII",
+          "压尾",
+          "Wenn ich Zeit hätte, …"
+        ]
+      ],
+      "hl": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ]
+      ]
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（主句的弹性——前置成分与倒装）",
+        "headers": [
+          "第一位可以放什么",
+          "例（动词恒第二）"
+        ],
+        "rows": [
+          [
+            "时间",
+            "Morgen fahre ich weg."
+          ],
+          [
+            "地点",
+            "In Berlin wohne ich."
+          ],
+          [
+            "从句整句",
+            "Als ich kam, war er weg."
+          ],
+          [
+            "连接副词",
+            "Deshalb bleibe ich hier."
+          ],
+          [
+            "状语组合（时间-方式-地点序）",
+            "Ich fahre morgen mit dem Zug nach Berlin.（TeKaMoLo 复盘）"
+          ]
+        ],
+        "hl": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      }
+    ],
+    "rules": [
+      "A2 语序只剩一条总纲：变位动词的位置由句子类型决定——主句第二位（前置任何成分都要倒装），从句压尾（连接词领队），疑问句第一位或 W 词后第二位。其余成分都是围着这条纲在排队。",
+      "长句拆解法：读/写长句时先找变位动词，再找连接词切块：[主句前半], [从句], [主句后半]。写作时反过来用：先定主句骨架，再把从句挂到对应名词或位置上。",
+      "叙事链成篇：背景从句（als）→ 事件主句链（zuerst/dann/plötzlich）→ 结果从句（deshalb 主句式 / weil 从句式）→ 收尾感受。一个自然段把 A2 的连接手段用齐，就是出口写作的标准形态。",
+      "代词位置复盘：句子中段代词宾语靠前（Ich gebe es ihm morgen.），名词宾语按与→宾、时间→方式→地点排。"
+    ],
+    "examples": [
+      {
+        "de": "Als ich gestern nach Hause kam, war das Essen schon fertig, weil meine Mutter früh gekocht hatte.（认读 hatte 过去完成）",
+        "zh": ""
+      },
+      {
+        "de": "Ich weiß, dass er morgen kommt, aber ich weiß nicht, wann genau.",
+        "zh": ""
+      },
+      {
+        "de": "Der Kollege, der mir geholfen hat, arbeitet jetzt in Berlin.",
+        "zh": ""
+      },
+      {
+        "de": "Zuerst haben wir eingekauft, dann gekocht, und am Ende haben wir zusammen gegessen.",
+        "zh": ""
+      },
+      {
+        "de": "Wenn ich mehr Zeit hätte, würde ich jeden Tag Sport machen.",
+        "zh": ""
+      },
+      {
+        "de": "Morgen fahre ich mit dem Zug nach Hamburg, damit ich am Abend dort bin.",
+        "zh": ""
+      },
+      {
+        "de": "Sie gab es ihm gestern im Büro.",
+        "zh": ""
+      },
+      {
+        "de": "Weil das Wetter schlecht war, sind wir zu Hause geblieben.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "从句前置后主句忘了倒装（本级第一高频错，g-a2-12 已立，此处收官再犯率最高）。",
+      "长句里从句动词被主句带跑：„…, weil ich bin krank\" ——连接词一出，动词必须沉底。",
+      "状语顺序散架：„Ich fahre nach Berlin morgen mit dem Zug.\" 应为 morgen（时间）→ mit dem Zug（方式）→ nach Berlin（地点）。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "„Als ich kam, ＿＿ er schon weg.\"",
+        "explain": "从句前置，主句动词紧跟逗号：war er…",
+        "options": [
+          "war",
+          "er war",
+          "war er am Ende"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "压尾填空",
+        "explain": "dass 从句动词压尾。",
+        "display": "Ich weiß, dass er morgen ＿＿.",
+        "answer": "kommt"
+      },
+      {
+        "type": "order",
+        "q": "组句（复合）",
+        "explain": "倒装 war das。",
+        "tokens": [
+          "war",
+          "Als ich kam",
+          "fertig",
+          "das Essen"
+        ],
+        "answer": [
+          "Als ich kam",
+          "war",
+          "das Essen",
+          "fertig"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "状语顺序正确的一句",
+        "explain": "时间-方式-地点。",
+        "options": [
+          "Ich fahre morgen mit dem Zug nach Berlin.",
+          "Ich fahre nach Berlin morgen mit dem Zug.",
+          "Ich fahre mit dem Zug morgen nach Berlin gestern."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听长句选结构",
+        "explain": "两个从句并存。",
+        "audio": "Ich weiß, dass er morgen kommt, aber ich weiß nicht, wann er genau kommt.",
+        "options": [
+          "句中有 dass 从句和 wann 从句",
+          "句中只有 dass 从句",
+          "句中没有从句"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "连接词与语序填空",
+        "explain": "weil 从句前置 + 主句倒装 sind wir。",
+        "display": "＿＿ das Wetter schlecht war, sind wir zu Hause geblieben.",
+        "answer": "Weil"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "KII 条件句 + 主句 würde（注：„Wenn ich mehr Zeit hätte\" 为整体意群块）。",
+        "tokens": [
+          "würde",
+          "Wenn ich mehr Zeit hätte",
+          "ich",
+          "jeden Tag",
+          "Sport machen"
+        ],
+        "answer": [
+          "Wenn ich mehr Zeit hätte",
+          "würde",
+          "ich",
+          "jeden Tag",
+          "Sport machen"
+        ]
+      },
+      {
+        "type": "classify",
+        "q": "从句按连接词类型分筐",
+        "explain": "连接词领队压尾 vs 连接副词占位倒装。",
+        "groups": [
+          "动词压尾的从句",
+          "主句式连接（倒装）"
+        ],
+        "items": [
+          {
+            "text": "weil ich krank bin",
+            "group": 0
+          },
+          {
+            "text": "dass er kommt",
+            "group": 0
+          },
+          {
+            "text": "ob sie Zeit hat",
+            "group": 0
+          },
+          {
+            "text": "der dort steht",
+            "group": 0
+          },
+          {
+            "text": "deshalb bleibe ich",
+            "group": 1
+          },
+          {
+            "text": "trotzdem geht er",
+            "group": 1
+          },
+          {
+            "text": "dann fahren wir",
+            "group": 1
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "q": "代词位置填空",
+        "explain": "代词宾语 es 靠前，es ihm 序。",
+        "display": "Sie gab ＿＿ ihm gestern im Büro.（es）",
+        "answer": "es"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "叙事链两段（注：意群块拼读）。",
+        "tokens": [
+          "gekocht",
+          "Zuerst haben wir",
+          "dann",
+          "eingekauft",
+          "haben wir"
+        ],
+        "answer": [
+          "Zuerst haben wir",
+          "eingekauft",
+          "dann",
+          "haben wir",
+          "gekocht"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句语序全对",
+        "explain": "压尾 + 倒装双对。",
+        "options": [
+          "Weil ich krank bin, bleibe ich zu Hause.",
+          "Weil ich bin krank, ich bleibe zu Hause.",
+          "Weil ich krank bin, ich bleibe zu Hause."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_fill",
+        "q": "听长句补连接词",
+        "explain": "damit 引导目的从句，bin 压尾。",
+        "audio": "Morgen fahre ich nach Hamburg, damit ich am Abend dort bin.",
+        "display": "Morgen fahre ich nach Hamburg, ＿＿ ich am Abend dort bin.",
+        "answer": "damit"
+      },
+      {
+        "type": "fill",
+        "q": "倒装填空",
+        "explain": "地点前置，动词第二位 wohne。",
+        "display": "In Berlin ＿＿ ich seit zwei Jahren.（wohnen）",
+        "answer": "wohne"
+      },
+      {
+        "type": "order",
+        "q": "组句（关系从句嵌入）",
+        "explain": "主句被关系从句抱住。",
+        "tokens": [
+          "arbeitet",
+          "Der Kollege",
+          "jetzt in Berlin",
+          "der mir geholfen hat"
+        ],
+        "answer": [
+          "Der Kollege",
+          "der mir geholfen hat",
+          "arbeitet",
+          "jetzt in Berlin"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "叙事链顺序正确的一组",
+        "explain": "叙事五段序。",
+        "options": [
+          "zuerst → dann → plötzlich → am Ende",
+          "am Ende → zuerst → dann → plötzlich",
+          "plötzlich → zuerst → am Ende → dann"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写长句",
+        "explain": "从句 + 倒装一次到位。",
+        "audio": "Als ich gestern nach Hause kam, war das Essen schon fertig.",
+        "answer": "Als ich gestern nach Hause kam, war das Essen schon fertig."
+      },
+      {
+        "type": "fill",
+        "q": "综合填空",
+        "explain": "weil 引理由从句，will 压尾。",
+        "display": "Sie lernt Deutsch, ＿＿ sie in Deutschland arbeiten will.（理由）",
+        "answer": "weil"
+      },
+      {
+        "type": "order",
+        "q": "组句（收官复合句）",
+        "explain": "weil 前置 + sind wir 倒装 + geblieben 尾。",
+        "tokens": [
+          "sind",
+          "Weil das Wetter schlecht war",
+          "zu Hause",
+          "wir",
+          "geblieben"
+        ],
+        "answer": [
+          "Weil das Wetter schlecht war",
+          "sind",
+          "wir",
+          "zu Hause",
+          "geblieben"
+        ]
+      }
+    ],
+    "reading": {
+      "text": "Als ich vor zwei Jahren nach Deutschland kam, konnte ich kein Deutsch. Ich weiß noch, dass ich am ersten Tag nichts verstanden habe. Aber die Leute, die mir begegnet sind, waren geduldig. Zuerst habe ich nur mit Händen und Füßen gesprochen. Dann habe ich einen Kurs gemacht, damit ich schneller lerne. Wenn ich heute einen Brief bekomme, lese ich ihn allein. Deshalb bin ich stolz: Die Sprache, die am Anfang so schwer war, ist jetzt mein Alltag.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Als ich vor zwei Jahren nach Deutschland kam, konnte ich kein Deutsch. Ich weiß noch, dass ich am ersten Tag nichts verstanden habe. Aber die Leute, die mir begegnet sind, waren geduldig. Zuerst habe ich nur mit Händen und Füßen gesprochen. Dann habe ich einen Kurs gemacht, damit ich schneller lerne. Wenn ich heute einen Brief bekomme, lese ich ihn allein. Deshalb bin ich stolz: Die Sprache, die am Anfang so schwer war, ist jetzt mein Alltag."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①作者两年前的情况和现在有什么不同？（答：两年前不会德语、第一天什么都听不懂；现在能自己读信，德语成了日常。）②文中出现了哪几种从句？（答：als 时间从句、dass 从句、关系从句（die mir begegnet sind / die so schwer war）、damit 目的从句、wenn 条件从句。）"
+    },
+    "writing": {
+      "task": "写一段 6 句的叙事（背景从句开头，含 1 个关系从句、1 个理由或目的从句，叙事链收尾）。",
+      "sample": "范文：Als ich letztes Jahr umgezogen bin, kannte ich niemanden in der neuen Stadt. Die Nachbarin, die unter mir wohnt, hat mir am ersten Tag geholfen. Zuerst haben wir nur kurz gesprochen, dann hat sie mich zum Tee eingeladen. Ich habe einen Kuchen gebacken, damit wir zusammen sitzen und reden können. Plötzlich war die fremde Stadt nicht mehr fremd. Am Ende war ich froh und dankbar.",
+      "selfcheck": "自查：前置从句后主句倒装 □；所有从句动词压尾 □；叙事链信号词齐全 □。"
+    }
+  },
+  {
+    "id": "t-a2-04",
+    "level": "A2",
+    "order": 29,
+    "title": "投诉与协商",
+    "titleDe": "",
+    "table": {
+      "caption": "彩色总表 1（投诉句型库——先陈述事实，再提出诉求）",
+      "headers": [
+        "环节",
+        "句型"
+      ],
+      "rows": [
+        [
+          "开场",
+          "Entschuldigung, ich habe ein Problem mit … / Ich möchte mich beschweren.（正式）"
+        ],
+        [
+          "陈述问题",
+          "Das Produkt funktioniert nicht. / Die Ware ist beschädigt. / Der Reißverschluss ist kaputt. / Im Zimmer war es laut und schmutzig."
+        ],
+        [
+          "出示依据",
+          "Ich habe die Quittung dabei. / Die Garantie ist noch gültig."
+        ],
+        [
+          "诉求",
+          "Ich möchte das Produkt gern umtauschen. / Ich hätte gern mein Geld zurück. / Könnten Sie mir ein anderes Zimmer geben?"
+        ],
+        [
+          "对方方案回应·接受",
+          "Ja, damit bin ich einverstanden. / Das ist in Ordnung."
+        ],
+        [
+          "回应·拒绝",
+          "Das geht für mich leider nicht. / Ich hätte lieber eine andere Lösung."
+        ]
+      ],
+      "hl": []
+    },
+    "extraTables": [
+      {
+        "caption": "彩色总表 2（语气控制——坚定但礼貌的零件）",
+        "headers": [
+          "零件",
+          "作用"
+        ],
+        "rows": [
+          [
+            "Entschuldigung / Es tut mir leid, aber …",
+            "缓冲开场（后面跟事实，不是认错）"
+          ],
+          [
+            "Könnten Sie …? / Ich hätte gern …",
+            "KII 提诉求（g-a2-16/17 的实战）"
+          ],
+          [
+            "leider",
+            "标明不满意但保持礼貌"
+          ],
+          [
+            "trotzdem / aber",
+            "转折时不丢礼貌"
+          ]
+        ],
+        "hl": []
+      }
+    ],
+    "rules": [
+      "投诉顺序铁律：事实 → 依据 → 诉求。先说情绪、不说事实的投诉在德国服务场景基本无效；按顺序来，店员才有抓手。",
+      "umtauschen（换货）与 zurückgeben / Geld zurück（退货退款）是两条不同诉求线，开口要选清：换还是退。",
+      "酒店场景：问题多用过去时陈述（Das Zimmer war zu laut.），诉求用现在时的 KII（Könnten Sie mir ein anderes Zimmer geben?）。",
+      "拒绝对方方案时给替代：„Das geht leider nicht. Ich hätte lieber …\"——只拒绝不提案，协商就断了。"
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigung, die Jacke ist kaputt. Der Reißverschluss geht nicht.",
+        "zh": ""
+      },
+      {
+        "de": "Ich habe sie gestern hier gekauft. Hier ist die Quittung.",
+        "zh": ""
+      },
+      {
+        "de": "Ich möchte die Jacke gern umtauschen.",
+        "zh": ""
+      },
+      {
+        "de": "Das Zimmer war sehr laut. Könnten Sie mir ein anderes Zimmer geben?",
+        "zh": ""
+      },
+      {
+        "de": "Ich hätte gern mein Geld zurück.",
+        "zh": ""
+      },
+      {
+        "de": "Ja, damit bin ich einverstanden. Vielen Dank.",
+        "zh": ""
+      },
+      {
+        "de": "Das geht für mich leider nicht. Ich hätte lieber eine andere Lösung.",
+        "zh": ""
+      },
+      {
+        "de": "Es tut mir leid, aber das Essen war kalt.",
+        "zh": ""
+      }
+    ],
+    "pitfalls": [
+      "上来就用命令式要钱：„Geben Sie mir mein Geld!\" ——诉求用 hätte gern / möchte gern。",
+      "beschweren 不带 sich：投诉是 sich beschweren（反身），„Ich beschwere\" 不完整。",
+      "kaputt 与 beschädigt 混用无伤大雅，但对衣物拉链类小损坏 kaputt 更自然，货物包装/运输损坏用 beschädigt。"
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "投诉开场的礼貌说法",
+        "explain": "缓冲开场 + 陈述。",
+        "options": [
+          "Entschuldigung, ich habe ein Problem mit dieser Jacke.",
+          "Hey! Die Jacke ist kaputt!",
+          "Geben Sie mir eine neue Jacke!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "诉求填空",
+        "explain": "umtauschen = 换货。",
+        "display": "Ich möchte die Jacke gern ＿＿.（换一件）",
+        "answer": "umtauschen"
+      },
+      {
+        "type": "fill",
+        "q": "反身填空",
+        "explain": "sich beschweren 是反身动词。",
+        "display": "Ich möchte ＿＿ beschweren.",
+        "answer": "mich"
+      },
+      {
+        "type": "choice",
+        "q": "想要退款",
+        "explain": "hätte gern 提诉求。",
+        "options": [
+          "Ich hätte gern mein Geld zurück.",
+          "Ich will mein Geld jetzt!",
+          "Geben Sie Geld zurück!"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "q": "组句（顺序）",
+        "explain": "先总述损坏，再说具体部件。",
+        "tokens": [
+          "ist",
+          "Die Jacke",
+          "kaputt",
+          "Der Reißverschluss",
+          "geht nicht"
+        ],
+        "answer": [
+          "Die Jacke",
+          "ist",
+          "kaputt",
+          "Der Reißverschluss",
+          "geht nicht"
+        ]
+      },
+      {
+        "type": "listen_choice",
+        "q": "听投诉选问题",
+        "explain": "laut + kaltes Wasser。",
+        "audio": "Das Zimmer war sehr laut, und das Wasser war kalt.",
+        "options": [
+          "房间太吵、水是冷的",
+          "房间太小、床不舒服",
+          "没有早餐"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "依据句填空",
+        "explain": "Quittung 是投诉凭证。",
+        "display": "Ich habe die ＿＿ dabei.（购物小票）",
+        "answer": "Quittung"
+      },
+      {
+        "type": "classify",
+        "q": "按投诉环节分筐",
+        "explain": "事实→诉求→协商回应。",
+        "groups": [
+          "陈述问题",
+          "提出诉求",
+          "回应方案"
+        ],
+        "items": [
+          {
+            "text": "Das Produkt funktioniert nicht.",
+            "group": 0
+          },
+          {
+            "text": "Die Ware ist beschädigt.",
+            "group": 0
+          },
+          {
+            "text": "Ich möchte das gern umtauschen.",
+            "group": 1
+          },
+          {
+            "text": "Ich hätte gern mein Geld zurück.",
+            "group": 1
+          },
+          {
+            "text": "Damit bin ich einverstanden.",
+            "group": 2
+          },
+          {
+            "text": "Das geht für mich leider nicht.",
+            "group": 2
+          }
+        ]
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "KII 礼貌诉求。",
+        "tokens": [
+          "Sie",
+          "Könnten",
+          "geben",
+          "mir",
+          "ein anderes Zimmer"
+        ],
+        "answer": [
+          "Könnten",
+          "Sie",
+          "mir",
+          "ein anderes Zimmer",
+          "geben"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "拒绝方案并提案",
+        "explain": "拒绝 + 替代方案才是协商。",
+        "options": [
+          "Nein.",
+          "Das geht leider nicht. Ich hätte lieber ein anderes Zimmer.",
+          "Ich will nicht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen_fill",
+        "q": "听一句补诉求词",
+        "explain": "Geld zurück = 退款。",
+        "audio": "Ich hätte gern mein Geld zurück.",
+        "display": "Ich hätte gern mein Geld ＿＿.",
+        "answer": "zurück"
+      },
+      {
+        "type": "fill",
+        "q": "酒店投诉填空",
+        "explain": "过去发生的问题用 war 陈述。",
+        "display": "Das Zimmer ＿＿ sehr laut.（当时）",
+        "answer": "war"
+      },
+      {
+        "type": "order",
+        "q": "组句",
+        "explain": "接受方案的固定句，damit 占位倒装。",
+        "tokens": [
+          "bin",
+          "Damit",
+          "einverstanden",
+          "ich"
+        ],
+        "answer": [
+          "Damit",
+          "bin",
+          "ich",
+          "einverstanden"
+        ]
+      },
+      {
+        "type": "choice",
+        "q": "哪句顺序对（完整投诉）",
+        "explain": "事实→依据→诉求是有效投诉的顺序。",
+        "options": [
+          "事实（坏了）→ 依据（小票）→ 诉求（换货）",
+          "诉求 → 情绪 → 事实",
+          "先骂人 → 再事实"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "缓冲句填空",
+        "explain": "Es tut mir leid, aber … 缓冲转折。",
+        "display": "Es tut mir leid, ＿＿ das Essen war kalt.",
+        "answer": "aber"
+      },
+      {
+        "type": "listen_dictation",
+        "q": "听写",
+        "explain": "funktioniert nicht 是商品投诉的标志句。",
+        "audio": "Entschuldigung, das Produkt funktioniert nicht.",
+        "answer": "Entschuldigung, das Produkt funktioniert nicht."
+      }
+    ],
+    "reading": {
+      "text": "Kundin: Entschuldigung, ich habe ein Problem mit diesem Mixer. Er funktioniert nicht. Verkäufer: Haben Sie die Quittung dabei? Kundin: Ja, hier ist sie. Ich habe den Mixer letzte Woche gekauft. Verkäufer: Ich kann Ihnen ein neues Gerät geben. Kundin: Vielen Dank, aber ich hätte lieber mein Geld zurück. Der alte Mixer zu Hause funktioniert wieder. Verkäufer: Natürlich, das geht auch. Einen Moment, bitte. Kundin: Danke für Ihre Hilfe.",
+      "parts": [
+        {
+          "label": "",
+          "text": "Kundin: Entschuldigung, ich habe ein Problem mit diesem Mixer. Er funktioniert nicht. Verkäufer: Haben Sie die Quittung dabei? Kundin: Ja, hier ist sie. Ich habe den Mixer letzte Woche gekauft. Verkäufer: Ich kann Ihnen ein neues Gerät geben. Kundin: Vielen Dank, aber ich hätte lieber mein Geld zurück. Der alte Mixer zu Hause funktioniert wieder. Verkäufer: Natürlich, das geht auch. Einen Moment, bitte. Kundin: Danke für Ihre Hilfe."
+        }
+      ],
+      "questions": [],
+      "tasks": "任务：①顾客的问题和凭证是什么？（答：搅拌机不工作；有上周购物的小票。）②店员先提出什么方案、顾客为什么选了另一个？（答：店员先提出换新机；顾客家里旧搅拌机又能用了，所以选择退款。）"
+    },
+    "writing": {
+      "task": "写一封简短投诉邮件或一段店内投诉（5–6 句）：开场、问题事实、依据、诉求、（如有）对方案的回应、致谢。",
+      "sample": "范文：Sehr geehrte Damen und Herren, ich habe am Montag bei Ihnen eine Jacke gekauft. Leider ist der Reißverschluss kaputt. Die Quittung habe ich noch. Ich möchte die Jacke gern umtauschen. Wenn das nicht geht, hätte ich gern mein Geld zurück. Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen, Lan Wang",
+      "selfcheck": "自查：顺序是事实→依据→诉求 □；诉求用 KII 礼貌形 □；sich beschweren（如用）带了反身代词 □。"
+    }
+  }
+]

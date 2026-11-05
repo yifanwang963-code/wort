@@ -1,0 +1,8 @@
+{
+  "name": "验收词包",
+  "level": "A1",
+  "words": [
+    { "german": "Tisch", "article": "der", "chinese": "桌子", "partOfSpeech": "名词" },
+    { "german": "Fenster", "article": "das", "chinese": "窗户", "partOfSpeech": "名词" }
+  ]
+}

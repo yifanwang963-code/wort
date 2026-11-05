@@ -1,0 +1,1287 @@
+{
+  "grammar": [
+    {
+      "number": 1,
+      "type": "choice",
+      "q": "Die Brücke ＿＿ gerade gebaut.",
+      "group": "被动与时态综合",
+      "explain": "现在时被动 wird + 分词。",
+      "options": [
+        "wird",
+        "ist",
+        "hat"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 2,
+      "type": "fill",
+      "q": "被动过去",
+      "group": "被动与时态综合",
+      "explain": "过去时被动 wurde。",
+      "display": "Das Fenster ＿＿ vom Wind geöffnet.",
+      "answer": "wurde"
+    },
+    {
+      "number": 3,
+      "type": "choice",
+      "q": "情态被动",
+      "group": "被动与时态综合",
+      "explain": "情态动词后用 werden 原形。",
+      "display": "Das Auto muss repariert ＿＿.",
+      "options": [
+        "werden",
+        "wird",
+        "worden"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 4,
+      "type": "fill",
+      "q": "状态被动",
+      "group": "被动与时态综合",
+      "explain": "ist + 分词是状态被动。",
+      "display": "Die Tür ist schon ＿＿.（schließen）",
+      "answer": "geschlossen"
+    },
+    {
+      "number": 5,
+      "type": "choice",
+      "q": "书面叙事时态",
+      "group": "被动与时态综合",
+      "explain": "书面叙事用 Präteritum 的 kam。",
+      "display": "报告里写：Der Zug ＿＿ um 8 Uhr in Hamburg an.",
+      "options": [
+        "kam",
+        "kommt",
+        "ist gekommen an"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 6,
+      "type": "order",
+      "q": "组句",
+      "group": "被动与时态综合",
+      "explain": "被动过去时框架。",
+      "tokens": [
+        "wurde",
+        "Das Paket",
+        "gestern",
+        "geliefert"
+      ],
+      "answer": [
+        "Das Paket",
+        "wurde",
+        "gestern",
+        "geliefert"
+      ],
+      "displayAnswer": "Das Paket wurde gestern geliefert."
+    },
+    {
+      "number": 7,
+      "type": "choice",
+      "q": "哪句是被动",
+      "group": "被动与时态综合",
+      "explain": "wurde + 分词。",
+      "options": [
+        "Der Brief wurde gestern geschrieben.",
+        "Man schrieb den Brief gestern.",
+        "Sie schrieb den Brief gestern."
+      ],
+      "answer": 0
+    },
+    {
+      "number": 8,
+      "type": "fill",
+      "q": "被动将来指向",
+      "group": "被动与时态综合",
+      "explain": "wird + 分词表将被处理。",
+      "display": "Morgen wird das Haus ＿＿.（verkaufen）",
+      "answer": "verkauft"
+    },
+    {
+      "number": 9,
+      "type": "choice",
+      "q": "man 改被动",
+      "group": "被动与时态综合",
+      "explain": "宾语变主语，wird + 分词。",
+      "display": "Man baut hier ein Krankenhaus. →",
+      "options": [
+        "Hier wird ein Krankenhaus gebaut.",
+        "Hier baut wird ein Krankenhaus.",
+        "Ein Krankenhaus baut hier."
+      ],
+      "answer": 0
+    },
+    {
+      "number": 10,
+      "type": "fill",
+      "q": "情态被动",
+      "group": "被动与时态综合",
+      "explain": "kann … behoben werden。",
+      "display": "Der Fehler kann leicht behoben ＿＿.",
+      "answer": "werden"
+    },
+    {
+      "number": 11,
+      "type": "classify",
+      "q": "形式分筐",
+      "group": "被动与时态综合",
+      "explain": "werden/wurde + 分词是被动的标志。",
+      "groups": [
+        "主动",
+        "被动",
+        "man"
+      ],
+      "items": [
+        {
+          "text": "1. Das Auto wurde repariert.",
+          "group": 1
+        },
+        {
+          "text": "2. Der Mechaniker reparierte das Auto.",
+          "group": 0
+        },
+        {
+          "text": "3. Man reparierte das Auto.",
+          "group": 2
+        },
+        {
+          "text": "4. Das Fenster wird geputzt.",
+          "group": 1
+        },
+        {
+          "text": "5. Sie putzte das Fenster.",
+          "group": 0
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "type": "choice",
+      "q": "叙事中 haben 的过去式",
+      "group": "被动与时态综合",
+      "explain": "叙事真实过去用 hatte；hätte 是虚拟。",
+      "display": "Sie ＿＿ keine Zeit und ging früher.",
+      "options": [
+        "hatte",
+        "hat",
+        "hätte (als reale Vergangenheit)"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 13,
+      "type": "fill",
+      "q": "von 短语",
+      "group": "被动与时态综合",
+      "explain": "被动施动者用 von + 与格。",
+      "display": "Das Lied wurde ＿＿ einer Frau gesungen.",
+      "answer": "von"
+    },
+    {
+      "number": 14,
+      "type": "choice",
+      "q": "状态还是过程",
+      "group": "被动与时态综合",
+      "explain": "ist + 分词 = 状态被动。",
+      "display": "„Das Geschäft ist geschlossen.\" 表达的是",
+      "options": [
+        "状态（已经关了）",
+        "过程（正在关）",
+        "命令"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 15,
+      "type": "order",
+      "q": "组句",
+      "group": "被动与时态综合",
+      "explain": "被动完成时：ist + 分词 + worden。",
+      "tokens": [
+        "ist",
+        "Der Brief",
+        "worden",
+        "geschrieben"
+      ],
+      "answer": [
+        "Der Brief",
+        "ist",
+        "geschrieben",
+        "worden"
+      ],
+      "displayAnswer": "Der Brief ist geschrieben worden."
+    },
+    {
+      "number": 1,
+      "type": "choice",
+      "q": "愿望",
+      "group": "虚拟式",
+      "explain": "hätte gern 是愿望式。",
+      "display": "Ich ＿＿ gern mehr Zeit.",
+      "options": [
+        "hätte",
+        "habe",
+        "hatte (real)"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 2,
+      "type": "fill",
+      "q": "条件虚拟",
+      "group": "虚拟式",
+      "explain": "sein 的 KII 是 wäre。",
+      "display": "Wenn ich reich ＿＿, würde ich reisen.",
+      "answer": "wäre"
+    },
+    {
+      "number": 3,
+      "type": "choice",
+      "q": "礼貌请求",
+      "group": "虚拟式",
+      "explain": "Könnten Sie …? 是最高礼貌级。",
+      "display": "＿＿ Sie mir bitte helfen?",
+      "options": [
+        "Könnten",
+        "Können Sie mir helfen sofort",
+        "Könntet"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 4,
+      "type": "fill",
+      "q": "虚拟过去",
+      "group": "虚拟式",
+      "explain": "hätte + 不定式双连（sollen 在尾）。",
+      "display": "Er hätte das nicht sagen ＿＿.",
+      "answer": "sollen"
+    },
+    {
+      "number": 5,
+      "type": "choice",
+      "q": "哪句没发生",
+      "group": "虚拟式",
+      "explain": "wäre fast = 差一点，未发生。",
+      "options": [
+        "Ich wäre fast gefallen.",
+        "Ich bin gefallen.",
+        "Ich falle oft."
+      ],
+      "answer": 0
+    },
+    {
+      "number": 6,
+      "type": "classify",
+      "q": "真实/虚拟分筐",
+      "group": "虚拟式",
+      "explain": "hätte/wäre + 愿望或责备信号是虚拟。",
+      "groups": [
+        "真实",
+        "虚拟"
+      ],
+      "items": [
+        {
+          "text": "1. Er ist gestern gekommen.",
+          "group": 0
+        },
+        {
+          "text": "2. Er wäre gern gekommen.",
+          "group": 1
+        },
+        {
+          "text": "3. Das hättest du wissen müssen!",
+          "group": 1
+        },
+        {
+          "text": "4. Wir haben gegessen.",
+          "group": 0
+        },
+        {
+          "text": "5. Ich wünschte, ich hätte mehr Zeit.",
+          "group": 1
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": "fill",
+      "q": "愿望句",
+      "group": "虚拟式",
+      "explain": "wünschte 引出虚拟愿望。",
+      "display": "Ich wünschte, ich ＿＿ mehr Zeit.",
+      "answer": "hätte"
+    },
+    {
+      "number": 8,
+      "type": "order",
+      "q": "组句",
+      "group": "虚拟式",
+      "explain": "虚拟过去：hätte + 双不定式。",
+      "tokens": [
+        "hätte",
+        "Ich",
+        "das",
+        "früher",
+        "wissen müssen"
+      ],
+      "answer": [
+        "Ich",
+        "hätte",
+        "das",
+        "früher",
+        "wissen müssen"
+      ],
+      "displayAnswer": "Ich hätte das früher wissen müssen."
+    },
+    {
+      "number": 9,
+      "type": "choice",
+      "q": "als ob",
+      "group": "虚拟式",
+      "explain": "als ob 后用 KII（wüsste）。",
+      "display": "Er tut so, als ob er alles ＿＿.",
+      "options": [
+        "wüsste",
+        "weiß",
+        "wissen tut"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 10,
+      "type": "fill",
+      "q": "虚拟过去 sein 类",
+      "group": "虚拟式",
+      "explain": "kommen 用 wäre + gekommen。",
+      "display": "Ohne deine Hilfe wäre ich nicht weiter ＿＿.（kommen）",
+      "answer": "gekommen"
+    },
+    {
+      "number": 11,
+      "type": "choice",
+      "q": "过去的建议",
+      "group": "虚拟式",
+      "explain": "hättest … müssen 是责备式。",
+      "display": "Du hättest früher losfahren ＿＿.",
+      "options": [
+        "müssen",
+        "musst",
+        "gemusst (als alleiniges Partizip am Ende)"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 12,
+      "type": "fill",
+      "q": "KII 现在时",
+      "group": "虚拟式",
+      "explain": "könnte 表现在虚拟的可能。",
+      "display": "Ich ＿＿ dir gern helfen, aber ich habe keine Zeit.",
+      "answer": "könnte"
+    },
+    {
+      "number": 13,
+      "type": "choice",
+      "q": "KI 认读",
+      "group": "虚拟式",
+      "explain": "报道转述的标志。",
+      "display": "„Er sagt, er sei krank.\" 里的 sei 是",
+      "options": [
+        "Konjunktiv I（转述）",
+        "命令式",
+        "过去时"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 14,
+      "type": "fill",
+      "q": "虚拟感叹",
+      "group": "虚拟式",
+      "explain": "wäre + 分词构成虚拟过去感叹。",
+      "display": "Wäre ich doch früher ＿＿!（aufstehen）",
+      "answer": "aufgestanden"
+    },
+    {
+      "number": 15,
+      "type": "classify",
+      "q": "KII 时间分筐",
+      "group": "虚拟式",
+      "explain": "带分词或责备过去信号的是虚拟过去。",
+      "groups": [
+        "虚拟现在",
+        "虚拟过去"
+      ],
+      "items": [
+        {
+          "text": "1. Ich hätte gern einen Tee.",
+          "group": 0
+        },
+        {
+          "text": "2. Ich hätte den Tee gern getrunken (gestern).",
+          "group": 1
+        },
+        {
+          "text": "3. Könntest du kommen?",
+          "group": 0
+        },
+        {
+          "text": "4. Du hättest anrufen sollen!",
+          "group": 1
+        },
+        {
+          "text": "5. Er wäre fast gefallen.",
+          "group": 1
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "type": "choice",
+      "q": "让步",
+      "group": "连接与逻辑",
+      "explain": "累了还帮忙，让步用 obwohl。",
+      "display": "＿＿ er müde war, half er mir.",
+      "options": [
+        "Obwohl",
+        "Weil",
+        "Damit"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 2,
+      "type": "fill",
+      "q": "dass 填空",
+      "group": "连接与逻辑",
+      "explain": "wissen 后的宾语从句。",
+      "display": "Ich weiß, ＿＿ er morgen kommt.",
+      "answer": "dass"
+    },
+    {
+      "number": 3,
+      "type": "choice",
+      "q": "结果",
+      "group": "连接与逻辑",
+      "explain": "结果从句 sodass。",
+      "display": "Es war sehr laut, ＿＿ ich nicht schlafen konnte.",
+      "options": [
+        "sodass",
+        "obwohl",
+        "indem"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 4,
+      "type": "fill",
+      "q": "方式",
+      "group": "连接与逻辑",
+      "explain": "通过坐火车省时间，indem。",
+      "display": "Man spart Zeit, ＿＿ man den Zug nimmt.",
+      "answer": "indem"
+    },
+    {
+      "number": 5,
+      "type": "classify",
+      "q": "逻辑分筐",
+      "group": "连接与逻辑",
+      "explain": "按连接词的逻辑对号入座。",
+      "groups": [
+        "目的",
+        "原因",
+        "让步",
+        "时间"
+      ],
+      "items": [
+        {
+          "text": "1. Er spart, um ein Haus zu kaufen.",
+          "group": 0
+        },
+        {
+          "text": "2. Er bleibt zu Hause, weil er krank ist.",
+          "group": 1
+        },
+        {
+          "text": "3. Obwohl er krank ist, geht er arbeiten.",
+          "group": 2
+        },
+        {
+          "text": "4. Als ich Kind war, wohnten wir in Köln.",
+          "group": 3
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "fill",
+      "q": "um…zu",
+      "group": "连接与逻辑",
+      "explain": "目的不定式。",
+      "display": "Er lernt jeden Tag, ＿＿ die Prüfung zu bestehen.",
+      "answer": "um"
+    },
+    {
+      "number": 7,
+      "type": "choice",
+      "q": "statt",
+      "group": "连接与逻辑",
+      "explain": "本该学却玩，是替代关系。",
+      "display": "＿＿ zu lernen, spielte er am Handy.",
+      "options": [
+        "Statt",
+        "Um",
+        "Ohne"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 8,
+      "type": "fill",
+      "q": "was 关系词",
+      "group": "连接与逻辑",
+      "explain": "alles 后用 was。",
+      "display": "Alles, ＿＿ er sagt, stimmt.",
+      "answer": "was"
+    },
+    {
+      "number": 9,
+      "type": "choice",
+      "q": "间接问句",
+      "group": "连接与逻辑",
+      "explain": "是非问的间接形式用 ob。",
+      "display": "Ich weiß nicht, ＿＿ er heute kommt.",
+      "options": [
+        "ob",
+        "dass",
+        "weil"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 10,
+      "type": "fill",
+      "q": "weder 搭档",
+      "group": "连接与逻辑",
+      "explain": "weder…noch。",
+      "display": "Er trinkt weder Kaffee ＿＿ Tee.",
+      "answer": "noch"
+    },
+    {
+      "number": 11,
+      "type": "order",
+      "q": "组句",
+      "group": "连接与逻辑",
+      "explain": "dessen + 名词无冠词，从句动词在尾。",
+      "tokens": [
+        "dessen",
+        "Der Mann",
+        "Auto",
+        "alt ist"
+      ],
+      "answer": [
+        "Der Mann",
+        "dessen",
+        "Auto",
+        "alt ist"
+      ],
+      "displayAnswer": "Der Mann, dessen Auto alt ist."
+    },
+    {
+      "number": 12,
+      "type": "choice",
+      "q": "während 两义",
+      "group": "连接与逻辑",
+      "explain": "两地对照是对比义；同时做饭听歌是时间义。",
+      "display": "哪句的 während 是对比义",
+      "options": [
+        "Während Berlin groß ist, ist mein Dorf klein.",
+        "Während ich kochte, hörte er Musik."
+      ],
+      "answer": 0
+    },
+    {
+      "number": 13,
+      "type": "fill",
+      "q": "je…desto",
+      "group": "连接与逻辑",
+      "explain": "je 引导从句，desto 引主句且倒装。",
+      "display": "Je mehr er übt, ＿＿ besser wird er.",
+      "answer": "desto"
+    },
+    {
+      "number": 14,
+      "type": "choice",
+      "q": "damit（主语不同）",
+      "group": "连接与逻辑",
+      "explain": "主语不同（ich/er）不能用 um…zu，用 damit 从句。",
+      "display": "Ich gebe ihm Geld, ＿＿ er ein Buch kaufen kann.",
+      "options": [
+        "damit",
+        "um",
+        "ohne"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 15,
+      "type": "fill",
+      "q": "als/wenn",
+      "group": "连接与逻辑",
+      "explain": "过去单次时段用 als。",
+      "display": "＿＿ ich ein Kind war, wohnten wir auf dem Land.",
+      "answer": "Als"
+    },
+    {
+      "number": 1,
+      "type": "fill",
+      "q": "形容词词尾",
+      "group": "形式准确",
+      "explain": "einen + 阳性宾格，词尾 -en。",
+      "display": "Er kauft einen ＿＿ Wagen.（neu）",
+      "answer": "neuen"
+    },
+    {
+      "number": 2,
+      "type": "fill",
+      "q": "二格冠词",
+      "group": "形式准确",
+      "explain": "中性名词二格 des。",
+      "display": "Wegen ＿＿ Wetters fällt das Spiel aus.",
+      "answer": "des"
+    },
+    {
+      "number": 3,
+      "type": "choice",
+      "q": "代副词指物",
+      "group": "形式准确",
+      "explain": "指物回指用 darauf。",
+      "display": "— Wartest du auf den Zug? — Ja, ich warte ＿＿.",
+      "options": [
+        "darauf",
+        "auf ihm",
+        "auf es"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 4,
+      "type": "fill",
+      "q": "分词定语",
+      "group": "形式准确",
+      "explain": "被打破的门，P II + 词尾 -e。",
+      "display": "Die ＿＿ Tür ist kaputt.（zerbrechen）",
+      "answer": "zerbrochene"
+    },
+    {
+      "number": 5,
+      "type": "classify",
+      "q": "双格介词分筐",
+      "group": "形式准确",
+      "explain": "静位与格，动位宾格。",
+      "groups": [
+        "Wo → 与格",
+        "Wohin → 宾格"
+      ],
+      "items": [
+        {
+          "text": "1. Das Bild hängt an der Wand.",
+          "group": 0
+        },
+        {
+          "text": "2. Er hängt das Bild an die Wand.",
+          "group": 1
+        },
+        {
+          "text": "3. Der Hund liegt unter dem Tisch.",
+          "group": 0
+        },
+        {
+          "text": "4. Der Hund läuft unter den Tisch.",
+          "group": 1
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "fill",
+      "q": "最高级",
+      "group": "形式准确",
+      "explain": "gut 的最高级 best-，定冠词后词尾 -e。",
+      "display": "Das ist der ＿＿ Film des Jahres.（gut）",
+      "answer": "beste"
+    },
+    {
+      "number": 7,
+      "type": "choice",
+      "q": "与格复数词尾",
+      "group": "形式准确",
+      "explain": "定冠词 + 复数与格，词尾 -en。",
+      "display": "Sie spielt mit den klein＿ Kindern.",
+      "options": [
+        "kleinen",
+        "kleine",
+        "kleiner"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 8,
+      "type": "fill",
+      "q": "动词介词搭配",
+      "group": "形式准确",
+      "explain": "sich bewerben um + 宾格。",
+      "display": "Er bewirbt sich ＿＿ die Stelle.",
+      "answer": "um"
+    },
+    {
+      "number": 9,
+      "type": "choice",
+      "q": "反身与格",
+      "group": "形式准确",
+      "explain": "身体部位用与格反身 mir。",
+      "display": "Ich wasche ＿＿ die Hände.",
+      "options": [
+        "mir",
+        "mich",
+        "sich (für ich)"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 10,
+      "type": "order",
+      "q": "组句",
+      "group": "形式准确",
+      "explain": "双代词顺序：宾格 es 在与格 ihm 前。",
+      "tokens": [
+        "gebe",
+        "Ich",
+        "es",
+        "ihm"
+      ],
+      "answer": [
+        "Ich",
+        "gebe",
+        "es",
+        "ihm"
+      ],
+      "displayAnswer": "Ich gebe es ihm."
+    },
+    {
+      "number": 11,
+      "type": "fill",
+      "q": "比较级",
+      "group": "形式准确",
+      "explain": "groß 的比较级带变音 größer。",
+      "display": "Berlin ist ＿＿ als München.（groß）",
+      "answer": "größer"
+    },
+    {
+      "number": 12,
+      "type": "choice",
+      "q": "阴性二格",
+      "group": "形式准确",
+      "explain": "阴性二格冠词 der。",
+      "display": "Wegen ＿＿ Krankheit bleibt sie zu Hause.",
+      "options": [
+        "der",
+        "des",
+        "den"
+      ],
+      "answer": 0
+    },
+    {
+      "number": 13,
+      "type": "fill",
+      "q": "wo- 提问",
+      "group": "形式准确",
+      "explain": "问事用 wo(r)- 形式，über 元音开头加 r。",
+      "display": "＿＿ freust du dich?（问一件开心的事，sich freuen über）",
+      "answer": "Worüber"
+    },
+    {
+      "number": 14,
+      "type": "classify",
+      "q": "词尾分筐",
+      "group": "形式准确",
+      "explain": "按性、数、格三维定位词尾。",
+      "groups": [
+        "阳性宾格 -en",
+        "阴性主格 -e",
+        "复数与格 -en"
+      ],
+      "items": [
+        {
+          "text": "1. den neuen Wagen",
+          "group": 0
+        },
+        {
+          "text": "2. die neue Schule",
+          "group": 1
+        },
+        {
+          "text": "3. mit den neuen Schülern",
+          "group": 2
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "type": "choice",
+      "q": "找对句",
+      "group": "形式准确",
+      "explain": "Auto 中性单数 das + 词尾 -e。",
+      "options": [
+        "das reparierte Auto",
+        "der reparierte Auto",
+        "das reparierte Autos"
+      ],
+      "answer": 0
+    }
+  ],
+  "listening": [
+    {
+      "id": "听力1",
+      "title": "车站广播",
+      "text": "Achtung, eine Durchsage: Der ICE 573 nach München hat heute etwa 40 Minuten Verspätung. Der Zug fährt nicht wie geplant von Gleis 7, sondern von Gleis 12 ab. Wir bitten um Ihr Verständnis.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "choice",
+          "q": "火车晚点多久",
+          "explain": "etwa 40 Minuten Verspätung。",
+          "options": [
+            "约 40 分钟",
+            "约 14 分钟",
+            "约 4 分钟"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 2,
+          "type": "choice",
+          "q": "从几站台开",
+          "explain": "改到 Gleis 12。",
+          "options": [
+            "12 站台",
+            "7 站台",
+            "2 站台"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 3,
+          "type": "choice",
+          "q": "这趟车去哪",
+          "explain": "ICE 573 nach München。",
+          "options": [
+            "慕尼黑",
+            "汉堡",
+            "科隆"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "听力2",
+      "title": "诊所改期电话",
+      "text": "— Praxis Dr. Sommer, guten Tag.\n— Guten Tag, hier spricht Lan Wang. Ich habe am Donnerstag einen Termin, aber ich muss ihn leider verschieben.\n— Kein Problem. Wie wäre es mit Freitag um 10 Uhr?\n— Freitag passt mir gut. Vielen Dank.",
+      "questions": [
+        {
+          "number": 4,
+          "type": "choice",
+          "q": "打电话的人想做什么",
+          "explain": "Termin verschieben。",
+          "options": [
+            "改期",
+            "取消",
+            "第一次预约"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 5,
+          "type": "choice",
+          "q": "新时间是",
+          "explain": "Freitag um 10 Uhr。",
+          "options": [
+            "周五 10 点",
+            "周四 10 点",
+            "周五 11 点"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "听力3",
+      "title": "播客片段",
+      "text": "Ich war früher Lehrerin. Vor fünf Jahren habe ich gekündigt und ein Café eröffnet. Am Anfang war es schwer, ich hatte wenig Geld und viele Sorgen. Heute läuft das Café gut. Ich hätte es bereut, wenn ich in der Schule geblieben wäre.",
+      "questions": [
+        {
+          "number": 6,
+          "type": "choice",
+          "q": "说话人以前做什么",
+          "explain": "früher Lehrerin。",
+          "options": [
+            "老师",
+            "医生",
+            "记者"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 7,
+          "type": "choice",
+          "q": "开店初期怎么样",
+          "explain": "wenig Geld und viele Sorgen。",
+          "options": [
+            "很难，钱少忧虑多",
+            "很顺利",
+            "马上盈利"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 8,
+          "type": "choice",
+          "q": "她对转行的态度",
+          "explain": "hätte es bereut, wenn … geblieben wäre 是反事实，即不后悔。",
+          "options": [
+            "不后悔，庆幸离开了",
+            "后悔开店",
+            "想回学校"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "听力4",
+      "title": "房东语音信箱",
+      "text": "Guten Tag, Herr Berger, hier ist Ihre Vermieterin, Frau Klein. Der Handwerker kommt am Dienstag zwischen 9 und 12 Uhr wegen der Heizung. Bitte seien Sie zu Hause oder geben Sie den Schlüssel der Nachbarin. Rufen Sie mich bitte kurz zurück.",
+      "questions": [
+        {
+          "number": 9,
+          "type": "choice",
+          "q": "师傅什么时候来",
+          "explain": "Dienstag zwischen 9 und 12 Uhr。",
+          "options": [
+            "周二 9 到 12 点",
+            "周二下午",
+            "周三上午"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 10,
+          "type": "choice",
+          "q": "房客不在家时怎么办",
+          "explain": "Schlüssel der Nachbarin geben。",
+          "options": [
+            "把钥匙给邻居",
+            "取消维修",
+            "自己修理"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "听力5",
+      "title": "同事讨论",
+      "text": "— Ich bin dafür, dass wir zwei Tage pro Woche im Homeoffice arbeiten.\n— Das sehe ich anders. Im Büro können wir schneller sprechen.\n— Das stimmt zwar, aber zu Hause kann ich mich besser konzentrieren.\n— Einverstanden, versuchen wir es einen Monat.",
+      "questions": [
+        {
+          "number": 11,
+          "type": "choice",
+          "q": "第一位说话人的提议",
+          "explain": "zwei Tage pro Woche Homeoffice。",
+          "options": [
+            "每周两天居家办公",
+            "每周五天居家",
+            "不居家"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 12,
+          "type": "choice",
+          "q": "最后结论",
+          "explain": "versuchen wir es einen Monat。",
+          "options": [
+            "先试一个月",
+            "马上永久实行",
+            "完全放弃"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "听力6",
+      "title": "新闻简报",
+      "text": "Die Stadt plant neue Radwege. Bis 2028 sollen 50 Kilometer gebaut werden. Wegen der Bauarbeiten wird die Hauptstraße im Sommer für Autos gesperrt. Viele Bürger begrüßen den Plan, einige Händler machen sich Sorgen um ihre Kunden.",
+      "questions": [
+        {
+          "number": 13,
+          "type": "choice",
+          "q": "计划修多少公里自行车道",
+          "explain": "50 Kilometer bis 2028。",
+          "options": [
+            "50 公里",
+            "15 公里",
+            "5 公里"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 14,
+          "type": "choice",
+          "q": "谁有顾虑",
+          "explain": "einige Händler machen sich Sorgen。",
+          "options": [
+            "一些商家",
+            "所有市民",
+            "市政府"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "阅读1",
+      "title": "语言学校广告",
+      "text": "Deutschkurse am Abend! Unsere Sprachschule bietet Kurse von A1 bis B1 an. Neu: B1-Abendkurs ab September, immer dienstags und donnerstags von 18 bis 20 Uhr. Maximal 10 Teilnehmer pro Kurs. Die Anmeldung ist ab sofort im Büro oder online möglich. Der Kurs kostet 240 Euro, Bücher sind inklusive.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "choice",
+          "q": "B1 晚班什么时候上课",
+          "explain": "原文 dienstags und donnerstags von 18 bis 20 Uhr。",
+          "options": [
+            "周二和周四 18–20 点",
+            "周一和周三 18–20 点",
+            "每天晚上"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 2,
+          "type": "choice",
+          "q": "240 欧元包含什么",
+          "explain": "Bücher sind inklusive。",
+          "options": [
+            "包含教材",
+            "只含考试费",
+            "不含任何东西"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "阅读2",
+      "title": "论坛帖：居家办公",
+      "text": "Ich arbeite seit einem Jahr zwei Tage pro Woche im Homeoffice. Meiner Meinung nach ist das ein großer Vorteil: Ich spare jeden Tag eine Stunde Fahrt. Aber es gibt auch Nachteile: Ich sehe meine Kollegen seltener, und manchmal arbeite ich länger als im Büro. Trotzdem möchte ich nicht zurück ins alte Modell. Wie ist das bei euch?",
+      "questions": [
+        {
+          "number": 3,
+          "type": "choice",
+          "q": "作者对居家办公的总态度",
+          "explain": "Trotzdem möchte ich nicht zurück。",
+          "options": [
+            "总体支持，尽管有缺点",
+            "完全反对",
+            "无所谓"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 4,
+          "type": "choice",
+          "q": "文中给的缺点之一是",
+          "explain": "sehe meine Kollegen seltener。",
+          "options": [
+            "见同事更少",
+            "工资更低",
+            "电脑太旧"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 5,
+          "type": "choice",
+          "q": "居家办公让作者每天省什么",
+          "explain": "spare jeden Tag eine Stunde Fahrt。",
+          "options": [
+            "一小时路途",
+            "一小时会议",
+            "一小时午休"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "阅读3",
+      "title": "新闻短讯：新图书馆",
+      "text": "Die Stadtbibliothek hat ein neues Gebäude eröffnet. Auf drei Etagen gibt es jetzt mehr Platz für Leser, einen Raum für Kinder und Arbeitsplätze mit Computern. Die Leiterin sagte, die Bibliothek sei nun ein Ort zum Lernen und Treffen. Am ersten Wochenende kamen über 2.000 Besucher.",
+      "questions": [
+        {
+          "number": 6,
+          "type": "choice",
+          "q": "新馆多了什么（文中提到）",
+          "explain": "Raum für Kinder und Arbeitsplätze mit Computern。",
+          "options": [
+            "儿童区和电脑工位",
+            "游泳池",
+            "餐厅"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 7,
+          "type": "choice",
+          "q": "馆长的话在文中是",
+          "explain": "sagte, die Bibliothek sei … 是 KI 转述。",
+          "options": [
+            "被转述的（Konjunktiv I: sei）",
+            "馆长亲笔写的",
+            "作者猜测的"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "阅读4",
+      "title": "小区告示",
+      "text": "Information für alle Mieter: Wegen Reparaturarbeiten wird das Wasser am Mittwoch, den 12. November, von 8 bis 13 Uhr abgestellt. Bitte speichern Sie vorher genug Wasser. Die Heizung funktioniert in dieser Zeit normal. Bei Fragen wenden Sie sich an den Hausmeister, Herrn Peters.",
+      "questions": [
+        {
+          "number": 8,
+          "type": "choice",
+          "q": "周三停什么、几点到几点",
+          "explain": "Wasser wird von 8 bis 13 Uhr abgestellt。",
+          "options": [
+            "停水，8 到 13 点",
+            "停电，8 到 13 点",
+            "停水，13 到 18 点"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 9,
+          "type": "choice",
+          "q": "暖气会受影响吗",
+          "explain": "Die Heizung funktioniert normal。",
+          "options": [
+            "不会，正常工作",
+            "会停",
+            "只停一半时间"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "阅读5",
+      "title": "面试邀请邮件",
+      "text": "Sehr geehrte Frau Wang, vielen Dank für Ihre Bewerbung als Marketing-Assistentin. Wir möchten Sie gern zu einem Gespräch einladen. Es findet am Montag, den 17. November, um 10 Uhr in unserem Büro statt. Bitte bringen Sie Ihren Lebenslauf und Ihre Zeugnisse mit. Wenn der Termin nicht passt, melden Sie sich bitte bei uns. Mit freundlichen Grüßen\nPersonalabteilung",
+      "questions": [
+        {
+          "number": 10,
+          "type": "choice",
+          "q": "面试在什么时候",
+          "explain": "Montag, den 17. November, um 10 Uhr。",
+          "options": [
+            "11 月 17 日周一 10 点",
+            "11 月 17 日 11 点",
+            "11 月 7 日周一"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 11,
+          "type": "choice",
+          "q": "要带什么",
+          "explain": "Lebenslauf und Zeugnisse。",
+          "options": [
+            "简历和证书",
+            "护照和照片",
+            "工资单"
+          ],
+          "answer": 0
+        },
+        {
+          "number": 12,
+          "type": "choice",
+          "q": "时间不合时怎么办",
+          "explain": "melden Sie sich bitte bei uns。",
+          "options": [
+            "联系公司另约",
+            "直接不来",
+            "带朋友来"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "title": "论坛帖：市中心该不该禁止汽车？",
+      "prompt": "任务要点（须全覆盖）：①你的观点；②理由一（带例子）；③理由二或让步一点；④互动收尾。",
+      "sample": "参考范文：Ich bin der Meinung, dass Autos im Stadtzentrum verboten sein sollten. Erstens ist die Luft in der Stadt schlecht, und Kinder leiden darunter. Zum Beispiel ist es in meiner Straße so laut, dass man die Fenster nicht öffnen kann. Zwar brauchen Geschäfte Lieferungen, aber das kann man nachts organisieren. Zusammenfassend: Eine Stadt ohne Autos ist leiser und gesünder. Wie seht ihr das?",
+      "checks": [
+        "第一句就表态了",
+        "有两个理由且至少一个带例子",
+        "有一句 zwar 让步",
+        "结尾抛了问题"
+      ]
+    },
+    {
+      "title": "正式信：向语言学校咨询 B1 考试课程",
+      "prompt": "任务要点（须全覆盖）：①主题行与称呼；②你的情况与目标（何时考试）；③问两个具体问题（时间/价格/是否有模拟考）；④礼貌结尾与规范落款。",
+      "sample": "参考范文：Betreff: Anfrage: Vorbereitungskurs für die B1-Prüfung\nSehr geehrte Damen und Herren,\nich lerne seit einem Jahr Deutsch und möchte im März die B1-Prüfung machen. Ich interessiere mich für Ihren Vorbereitungskurs und hätte zwei Fragen: Findet der Kurs auch am Wochenende statt? Und gibt es eine Probeprüfung im Kurs? Der Preis ist auf Ihrer Website leider nicht angegeben. Könnten Sie mir diese Informationen schicken? Ich wäre Ihnen sehr dankbar.\nMit freundlichen Grüßen\nLan Wang",
+      "checks": [
+        "主题行带 Anfrage",
+        "称呼后正文小写开头",
+        "两个问题都问了",
+        "落款 Grüßen 无逗号、姓名另行"
+      ]
+    }
+  ],
+  "speaking": [
+    {
+      "title": "讲述经历（Erfahrung erzählen）",
+      "task": "题目卡（二选一）：A 一次旅行中的意外经历；B 一次你学新东西的经历。\n达成标准：有时间顺序的完整叙述（Präteritum/Perfekt 混用正确）；至少 1 句 hätte 虚拟或 obwohl 让步；长度约 1 分钟。\n提示句：Zuerst …, dann …, am Ende … / Das war überraschend, weil … / Ich hätte nicht gedacht, dass …"
+    },
+    {
+      "title": "展示（Präsentation）",
+      "task": "题目卡（二选一）：A „Mein Heimatland / meine Heimatstadt\"；B „Sport im Alltag\"。\n达成标准：五段结构齐（报题/结构预告/经历/利弊/观点+结尾邀问）；利弊成对；长度约 2 分钟。"
+    },
+    {
+      "title": "共同计划（Gemeinsam planen）",
+      "task": "情景卡（二选一）：A 和朋友计划一次周末郊游；B 和同事计划办公室圣诞派对。\n达成标准：四要素谈妥（做什么/何时/何地/谁负责什么）；至少一次「拒绝 + 替代」；有定案复述句。\n---"
+    }
+  ],
+  "vocabulary": {
+    "coreCount": 1070,
+    "recognitionCount": 670,
+    "coreSample": 120,
+    "recognitionSample": 120,
+    "corePass": 102,
+    "recognitionPass": 108
+  }
+}

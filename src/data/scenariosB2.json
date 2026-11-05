@@ -1,0 +1,2020 @@
+[
+  {
+    "id": "s-b2-01",
+    "level": "B2",
+    "order": 1,
+    "title": "研讨课发言与答疑",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "大学研讨课上做 10 分钟 Referat 并接受提问。考点：结构预告、被打断时的衔接、用 KI 复述问题、不会答时体面存档。",
+    "dialogue": [
+      {
+        "speaker": "主持（教师）",
+        "text": "Frau Lindqvist, Sie haben das Wort.",
+        "audio": "Frau Lindqvist, Sie haben das Wort."
+      },
+      {
+        "speaker": "Lena",
+        "text": "Guten Morgen, mein Vortrag gliedert sich in drei Teile: Zuerst stelle ich die Klimaziele der Stadt vor, dann die Maßnahmen, und zum Schluss diskutiere ich die Kritik daran.",
+        "audio": "Guten Morgen, mein Vortrag gliedert sich in drei Teile: Zuerst stelle ich die Klimaziele der Stadt vor, dann die Maßnahmen, und zum Schluss diskutiere ich die Kritik daran."
+      },
+      {
+        "speaker": "（讲至第二部分）Lena",
+        "text": "Die wichtigste Maßnahme ist der Ausbau des Radwegenetzes, dessen Kosten sich auf zwölf Millionen Euro belaufen.",
+        "audio": "Die wichtigste Maßnahme ist der Ausbau des Radwegenetzes, dessen Kosten sich auf zwölf Millionen Euro belaufen."
+      },
+      {
+        "speaker": "学生 Max",
+        "text": "Zwischenfrage: Woher stammen diese Zahlen?",
+        "audio": "Zwischenfrage: Woher stammen diese Zahlen?"
+      },
+      {
+        "speaker": "Lena",
+        "text": "Gute Frage. Die Zahlen stammen aus dem Haushaltsplan der Stadt für 2026; die Quelle finden Sie auf der letzten Folie.",
+        "audio": "Gute Frage. Die Zahlen stammen aus dem Haushaltsplan der Stadt für 2026; die Quelle finden Sie auf der letzten Folie."
+      },
+      {
+        "speaker": "教师",
+        "text": "Eine Frage hätte ich noch: Sie sagten, die Anwohner seien mehrheitlich dafür. Worauf stützen Sie das?",
+        "audio": "Eine Frage hätte ich noch: Sie sagten, die Anwohner seien mehrheitlich dafür. Worauf stützen Sie das?"
+      },
+      {
+        "speaker": "Lena",
+        "text": "Wenn ich Ihre Frage richtig verstehe, geht es um die Datengrundlage. Die stützt sich auf eine Umfrage der Universität mit 2.000 Teilnehmern.",
+        "audio": "Wenn ich Ihre Frage richtig verstehe, geht es um die Datengrundlage. Die stützt sich auf eine Umfrage der Universität mit 2.000 Teilnehmern."
+      },
+      {
+        "speaker": "Max",
+        "text": "Und was ist mit den Gewerbetreibenden, die Parkplätze verlieren?",
+        "audio": "Und was ist mit den Gewerbetreibenden, die Parkplätze verlieren?"
+      },
+      {
+        "speaker": "Lena",
+        "text": "Darauf komme ich im dritten Teil ausführlich zurück – dort behandle ich genau diese Kritik.",
+        "audio": "Darauf komme ich im dritten Teil ausführlich zurück – dort behandle ich genau diese Kritik."
+      },
+      {
+        "speaker": "（结尾）Lena",
+        "text": "Zusammenfassend lässt sich sagen: Die Ziele sind ehrgeizig, aber erreichbar, sofern die Finanzierung gesichert ist. Vielen Dank – ich freue mich auf Ihre Fragen.",
+        "audio": "Zusammenfassend lässt sich sagen: Die Ziele sind ehrgeizig, aber erreichbar, sofern die Finanzierung gesichert ist. Vielen Dank – ich freue mich auf Ihre Fragen."
+      },
+      {
+        "speaker": "教师",
+        "text": "Vielen Dank, Frau Lindqvist. Wer möchte beginnen?",
+        "audio": "Vielen Dank, Frau Lindqvist. Wer möchte beginnen?"
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Mein Vortrag gliedert sich in … Teile.",
+          "结构预告"
+        ],
+        [
+          "Wenn ich Ihre Frage richtig verstehe, geht es um …",
+          "复述确认"
+        ],
+        [
+          "Darauf komme ich im … Teil zurück.",
+          "存档问题"
+        ],
+        [
+          "Die Zahlen stammen aus … / Die Quelle finden Sie …",
+          "出处兜底"
+        ],
+        [
+          "Zusammenfassend lässt sich sagen …",
+          "收束"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "结构预告合格的是？",
+        "explain": "预告分点是研讨发言的第一规矩。",
+        "options": [
+          "Mein Vortrag gliedert sich in drei Teile: Ausgangslage, Maßnahmen, Kritik.",
+          "Ich erzähle einfach mal drauflos, wird schon passen.",
+          "Zuerst das Ende, dann der Anfang, dann die Mitte."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "出处句：„Die Zahlen ＿＿ aus dem Haushaltsplan 2026.\"",
+        "explain": "stammen aus 是数据出处的标配套句。",
+        "answer": "stammen"
+      },
+      {
+        "type": "choice",
+        "q": "不会当场答的问题，体面处理是？",
+        "explain": "存档 + 书面补答，是答疑的专业兜底。",
+        "options": [
+          "Darauf komme ich im dritten Teil zurück; falls nicht, reiche ich die Antwort schriftlich nach.",
+          "Keine Ahnung, nächste Frage bitte.",
+          "Das weiß doch jeder, oder nicht?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "复述确认：„Wenn ich Ihre Frage richtig ＿＿, geht es um die Kosten.\"",
+        "explain": "复述句先行，避免答非所问。",
+        "answer": "verstehe"
+      },
+      {
+        "type": "choice",
+        "q": "被打断时的衔接语是？",
+        "explain": "把打断转成过渡是发言者的控场术。",
+        "options": [
+          "Gern, Ihre Frage passt genau zu meinem nächsten Punkt.",
+          "Nicht unterbrechen, ich rede noch!",
+          "Fragen sind hier nicht vorgesehen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨功能",
+        "explain": "答疑时指向来源页是标准兜底句。",
+        "options": [
+          "出处兜底",
+          "结构预告",
+          "结束致谢"
+        ],
+        "answer": 0,
+        "audio": "Die Quelle finden Sie auf der letzten Folie."
+      },
+      {
+        "type": "fill",
+        "q": "收束句：„＿＿ lässt sich sagen: Die Ziele sind erreichbar.\"",
+        "explain": "展示/发言收束的标配开头。",
+        "answer": "Zusammenfassend"
+      },
+      {
+        "type": "choice",
+        "q": "KI 在答疑中的作用是？",
+        "explain": "转述他人数据用 KI，是学术答疑的规范动作。",
+        "options": [
+          "复述数据来源方的说法时拉开距离（Die Stadt behauptet, die Kosten seien gedeckt.)",
+          "让句子更难懂",
+          "代替所有动词变位"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "提问邀请：„Ich freue mich auf Ihre ＿＿.\"",
+        "explain": "结尾邀请提问是 Referat 的收尾礼节。",
+        "answer": "Fragen"
+      },
+      {
+        "type": "order",
+        "q": "排发言顺序",
+        "explain": "发言骨架的固定次序。",
+        "tokens": [
+          "三部分预告",
+          "致谢与邀请提问",
+          "正文第二部分的措施",
+          "收束总结",
+          "正文第一部分的现状"
+        ],
+        "answer": [
+          "三部分预告",
+          "正文第一部分的现状",
+          "正文第二部分的措施",
+          "收束总结",
+          "致谢与邀请提问"
+        ]
+      }
+    ],
+    "speaking": "做一段 1 分钟微型 Referat（主题：我所在城市的一项新变化）：预告两部分 → 讲一个数据（带出处）→ 收束一句 → 邀请提问。",
+    "speakingSample": "Mein Kurzvortrag gliedert sich in zwei Teile: die Ausgangslage und die Pläne. Seit März gibt es in meiner Stadt einen neuen Nachtbus. Laut Angaben der Verkehrsbetriebe nutzen ihn am Wochenende rund 800 Fahrgäste pro Nacht. Diese Zahl zeigt: Der Bedarf war da. Zusammenfassend lässt sich sagen, dass der Nachtbus ein voller Erfolg ist. Vielen Dank, ich freue mich auf Ihre Fragen.",
+    "speakingSelfcheck": "自查：预告与收束各出现一次 □；数据带了出处 □；结尾邀请了提问 □。",
+    "sceneWords": [
+      "ehrgeizig",
+      "die Quelle",
+      "sofern"
+    ]
+  },
+  {
+    "id": "s-b2-02",
+    "level": "B2",
+    "order": 2,
+    "title": "年度谈话与晋升协商",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "年度绩效谈话，员工提出晋升与加薪诉求。考点：用数字陈述业绩、先肯定再提要求、谈判让步交换、把口头承诺钉成时间表。",
+    "dialogue": [
+      {
+        "speaker": "Chefin Frau Berger",
+        "text": "Vielen Dank, dass Sie sich Zeit nehmen, Herr Yilmaz. Wie schätzen Sie Ihr Jahr selbst ein?",
+        "audio": "Vielen Dank, dass Sie sich Zeit nehmen, Herr Yilmaz. Wie schätzen Sie Ihr Jahr selbst ein?"
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Insgesamt positiv. Ich habe die Kampagnen für unsere zwei größten Kunden übernommen; deren Umsatz ist um 18 Prozent gestiegen. Außerdem habe ich die beiden neuen Kolleginnen eingearbeitet.",
+        "audio": "Insgesamt positiv. Ich habe die Kampagnen für unsere zwei größten Kunden übernommen; deren Umsatz ist um 18 Prozent gestiegen. Außerdem habe ich die beiden neuen Kolleginnen eingearbeitet."
+      },
+      {
+        "speaker": "Berger",
+        "text": "Das deckt sich mit meiner Einschätzung. Ihre Kundenbindung ist vorbildlich.",
+        "audio": "Das deckt sich mit meiner Einschätzung. Ihre Kundenbindung ist vorbildlich."
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Das freut mich. Genau deshalb möchte ich heute über meine Perspektive sprechen: Ich strebe die Position des Senior-Managers an und eine Anpassung meines Gehalts.",
+        "audio": "Das freut mich. Genau deshalb möchte ich heute über meine Perspektive sprechen: Ich strebe die Position des Senior-Managers an und eine Anpassung meines Gehalts."
+      },
+      {
+        "speaker": "Berger",
+        "text": "Die Position ist im Moment nicht frei, das wissen Sie.",
+        "audio": "Die Position ist im Moment nicht frei, das wissen Sie."
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Das weiß ich. Mir geht es um einen konkreten Plan: Welche Ziele muss ich bis wann erreichen, damit die Beförderung im nächsten Jahr möglich ist?",
+        "audio": "Das weiß ich. Mir geht es um einen konkreten Plan: Welche Ziele muss ich bis wann erreichen, damit die Beförderung im nächsten Jahr möglich ist?"
+      },
+      {
+        "speaker": "Berger",
+        "text": "Fairer Ansatz. Wenn Sie das neue Produktsegment aufbauen und die Teamleitung im Projekt X übernehmen, sehe ich gute Chancen.",
+        "audio": "Fairer Ansatz. Wenn Sie das neue Produktsegment aufbauen und die Teamleitung im Projekt X übernehmen, sehe ich gute Chancen."
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Damit bin ich einverstanden. Beim Gehalt würde ich mir eine Zwischenstufe wünschen – sagen wir sechs Prozent ab Januar als Anerkennung der erweiterten Aufgaben.",
+        "audio": "Damit bin ich einverstanden. Beim Gehalt würde ich mir eine Zwischenstufe wünschen – sagen wir sechs Prozent ab Januar als Anerkennung der erweiterten Aufgaben."
+      },
+      {
+        "speaker": "Berger",
+        "text": "Sechs Prozent ist in diesem Jahr nicht drin, vier sind möglich, plus die Projektleitung als sichtbarer Schritt.",
+        "audio": "Sechs Prozent ist in diesem Jahr nicht drin, vier sind möglich, plus die Projektleitung als sichtbarer Schritt."
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Vier Prozent und die Projektleitung – und wir halten die Ziele für die Beförderung schriftlich fest. Einverstanden.",
+        "audio": "Vier Prozent und die Projektleitung – und wir halten die Ziele für die Beförderung schriftlich fest. Einverstanden."
+      },
+      {
+        "speaker": "Berger",
+        "text": "Einverstanden. Ich lasse Ihnen die Zielvereinbarung bis Freitag zukommen.",
+        "audio": "Einverstanden. Ich lasse Ihnen die Zielvereinbarung bis Freitag zukommen."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich strebe … an / Mir geht es um einen konkreten Plan.",
+          "提诉求"
+        ],
+        [
+          "Welche Ziele muss ich bis wann erreichen, damit …?",
+          "把门槛问具体"
+        ],
+        [
+          "… als Anerkennung der erweiterten Aufgaben.",
+          "给要求找名分"
+        ],
+        [
+          "Wir halten das schriftlich fest.",
+          "钉承诺"
+        ],
+        [
+          "Ich lasse Ihnen … bis Freitag zukommen.",
+          "对方给出交付"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "提加薪最有力的是？",
+        "explain": "业绩数字 + 请求，谈判桌上唯一硬通货。",
+        "options": [
+          "Seit ich die beiden Großkunden betreue, ist deren Umsatz um 18 Prozent gestiegen; ich bitte um eine Anpassung meines Gehalts.",
+          "Ich brauche mehr Geld, alles ist teurer geworden.",
+          "Die Kollegen verdienen bestimmt mehr als ich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "目标句：„Ich ＿＿ die Position des Teamleiters an.\"",
+        "explain": "anstreben 是「争取（职位）」的正式动词。",
+        "answer": "strebe"
+      },
+      {
+        "type": "choice",
+        "q": "对方说岗位没空缺，最佳回应是？",
+        "explain": "把「没有」谈成「何时、凭什么有」，是协商的核心动作。",
+        "options": [
+          "Dann lassen Sie uns einen konkreten Plan mit Zielen und Zeitpunkt festlegen.",
+          "Dann kündige ich eben, ganz einfach.",
+          "Ach so, na dann vergessen wir das Thema für immer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "书面钉死：„Wir halten die Ziele ＿＿ fest.\"",
+        "explain": "口头承诺必须落纸，schriftlich festhalten。",
+        "answer": "schriftlich"
+      },
+      {
+        "type": "choice",
+        "q": "让步交换合格的是？",
+        "explain": "让步必须换回对价（职责、头衔、时间表）。",
+        "options": [
+          "Vier Prozent und die Projektleitung, dafür übernehme ich das neue Segment.",
+          "Vier Prozent ist zu wenig, ich will acht, sonst gehe ich.",
+          "Mir egal, machen Sie, was Sie wollen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨动作",
+        "explain": "zukommen lassen + 期限是管理层的交付承诺句。",
+        "options": [
+          "对方承诺交付文件",
+          "对方拒绝一切",
+          "对方要求请假"
+        ],
+        "answer": 0,
+        "audio": "Ich lasse Ihnen die Zielvereinbarung bis Freitag zukommen."
+      },
+      {
+        "type": "fill",
+        "q": "业绩陈述：„Deren Umsatz ist um 18 ＿＿ gestiegen.\"",
+        "explain": "数字 + Prozent 是业绩句的标配收尾。",
+        "answer": "Prozent"
+      },
+      {
+        "type": "choice",
+        "q": "谈话开头合格的是？",
+        "explain": "顺序决定成败：证据在前，要求在后。",
+        "options": [
+          "先陈述可核查的业绩，再提出诉求",
+          "先哭穷讲房贷",
+          "先威胁有别家 offer"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "名分句：„… als ＿＿ der erweiterten Aufgaben.\"",
+        "explain": "把加薪包装成对扩责的 Anerkennung，管理层好批。",
+        "answer": "Anerkennung"
+      },
+      {
+        "type": "order",
+        "q": "排谈判顺序",
+        "explain": "协商的标准五拍。",
+        "tokens": [
+          "提出诉求",
+          "让步交换",
+          "把目标与时间表书面化",
+          "陈述业绩数字",
+          "对方提出条件"
+        ],
+        "answer": [
+          "陈述业绩数字",
+          "提出诉求",
+          "对方提出条件",
+          "让步交换",
+          "把目标与时间表书面化"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒晋升陈述：一句业绩（带数字）→ 一句诉求 → 一句钉时间表的话。",
+    "speakingSample": "In diesem Jahr habe ich die Ausfallquote in meinem Bereich von neun auf vier Prozent gesenkt und zwei neue Kollegen eingearbeitet. Ich strebe im nächsten Jahr die Teamleitung an. Damit das gelingt, bitte ich Sie, mit mir heute die Ziele und den Zeitplan schriftlich festzuhalten.",
+    "speakingSelfcheck": "自查：业绩带数字 □；诉求说得明确 □；落点在书面目标上 □。",
+    "sceneWords": [
+      "die Anerkennung",
+      "die Anpassung",
+      "der Ansatz",
+      "die Beförderung",
+      "die Kundenbindung",
+      "die Perspektive",
+      "der Umsatz"
+    ]
+  },
+  {
+    "id": "s-b2-03",
+    "level": "B2",
+    "order": 3,
+    "title": "租赁纠纷交涉",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "公寓卫生间出现霉斑，多次口头报修无果，租户与房屋管理公司正式交涉。考点：事实陈述不带情绪、援引权利（Minderung)、设定修复期限、预告升级路径。",
+    "dialogue": [
+      {
+        "speaker": "Frau Costa",
+        "text": "Guten Tag, Herr Neumann. Ich komme wegen des Schimmels in meinem Bad. Ich habe den Schaden vor drei Wochen gemeldet, bisher ist nichts geschehen.",
+        "audio": "Guten Tag, Herr Neumann. Ich komme wegen des Schimmels in meinem Bad. Ich habe den Schaden vor drei Wochen gemeldet, bisher ist nichts geschehen."
+      },
+      {
+        "speaker": "Neumann",
+        "text": "Guten Tag, Frau Costa. Der Handwerker war doch letzte Woche da?",
+        "audio": "Guten Tag, Frau Costa. Der Handwerker war doch letzte Woche da?"
+      },
+      {
+        "speaker": "Costa",
+        "text": "Er hat sich den Schaden nur angesehen und gesagt, ich solle mehr lüften. Der Schimmel breitet sich aber weiter aus; hier sind Fotos mit Datum.",
+        "audio": "Er hat sich den Schaden nur angesehen und gesagt, ich solle mehr lüften. Der Schimmel breitet sich aber weiter aus; hier sind Fotos mit Datum."
+      },
+      {
+        "speaker": "Neumann",
+        "text": "Mehr Lüften ist bei dieser Bausubstanz oft die Ursache …",
+        "audio": "Mehr Lüften ist bei dieser Bausubstanz oft die Ursache …"
+      },
+      {
+        "speaker": "Costa",
+        "text": "Bei allem Respekt: Das Gutachten des Mietervereins, das ich Ihnen geschickt habe, sieht die Ursache in der defekten Abdichtung. Ich bitte Sie, den Mangel bis zum 15. des nächsten Monats fachgerecht beheben zu lassen.",
+        "audio": "Bei allem Respekt: Das Gutachten des Mietervereins, das ich Ihnen geschickt habe, sieht die Ursache in der defekten Abdichtung. Ich bitte Sie, den Mangel bis zum 15. des nächsten Monats fachgerecht beheben zu lassen."
+      },
+      {
+        "speaker": "Neumann",
+        "text": "Der Termin ist sportlich, aber ich versuche es.",
+        "audio": "Der Termin ist sportlich, aber ich versuche es."
+      },
+      {
+        "speaker": "Costa",
+        "text": "Ich hoffe es. Bis zur Behebung werde ich die Miete um zehn Prozent mindern – das ist mein Recht, und ich habe es dem Verein entsprechend angekündigt. Sollte die Frist verstreichen, behalte ich mir weitere Schritte vor.",
+        "audio": "Ich hoffe es. Bis zur Behebung werde ich die Miete um zehn Prozent mindern – das ist mein Recht, und ich habe es dem Verein entsprechend angekündigt. Sollte die Frist verstreichen, behalte ich mir weitere Schritte vor."
+      },
+      {
+        "speaker": "Neumann",
+        "text": "Das ist Ihr gutes Recht. Ich setze den Auftrag heute auf, Sie bekommen die Bestätigung schriftlich bis Freitag.",
+        "audio": "Das ist Ihr gutes Recht. Ich setze den Auftrag heute auf, Sie bekommen die Bestätigung schriftlich bis Freitag."
+      },
+      {
+        "speaker": "Costa",
+        "text": "Vielen Dank. Dann fasse ich zusammen: Reparatur bis 15., Bestätigung bis Freitag, Minderung ab sofort. So ist es besprochen.",
+        "audio": "Vielen Dank. Dann fasse ich zusammen: Reparatur bis 15., Bestätigung bis Freitag, Minderung ab sofort. So ist es besprochen."
+      },
+      {
+        "speaker": "Neumann",
+        "text": "Genau so. Ich melde mich, sobald der Handwerker den Termin bestätigt.",
+        "audio": "Genau so. Ich melde mich, sobald der Handwerker den Termin bestätigt."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich bitte Sie, den Mangel bis zum … beheben zu lassen.",
+          "设定期限"
+        ],
+        [
+          "Das Gutachten … sieht die Ursache in …",
+          "证据压情绪"
+        ],
+        [
+          "Ich werde die Miete um … Prozent mindern – das ist mein Recht.",
+          "援引权利"
+        ],
+        [
+          "Sollte die Frist verstreichen, behalte ich mir weitere Schritte vor.",
+          "预告升级"
+        ],
+        [
+          "Ich fasse zusammen: …",
+          "复述钉死共识"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "开场陈述合格的是？",
+        "explain": "时间 + 事实 + 证据，交涉开场的三件套。",
+        "options": [
+          "Ich habe den Schaden vor drei Wochen gemeldet; bisher ist keine Reparatur erfolgt. Hier sind Fotos mit Datum.",
+          "Ihre Firma ignoriert mich seit Wochen, das ist eine Frechheit!",
+          "Irgendwas mit Schimmel im Bad, schauen Sie mal vorbei."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Ich bitte Sie, den ＿＿ bis zum 15. beheben zu lassen.\"",
+        "explain": "Mangel 是租赁法里「缺陷」的术语词。",
+        "answer": "Mangel"
+      },
+      {
+        "type": "choice",
+        "q": "援引权利最规范的是？",
+        "explain": "按比例 Minderung 是法定权利；停付全部与威胁媒体都越界。",
+        "options": [
+          "Bis zur Behebung mindere ich die Miete um zehn Prozent.",
+          "Ich zahle ab sofort gar nichts mehr, Punkt.",
+          "Ich rufe die Zeitung an, dann werden Sie schon sehen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Das ＿＿ des Mietervereins sieht die Ursache in der Abdichtung.\"",
+        "explain": "Gutachten（鉴定报告）是交涉桌上的重证据。",
+        "answer": "Gutachten"
+      },
+      {
+        "type": "choice",
+        "q": "对方推给「多通风」，最佳回应是？",
+        "explain": "用证据回击归因，不接情绪战。",
+        "options": [
+          "Das Gutachten sieht die Ursache in der defekten Abdichtung, nicht im Lüftungsverhalten.",
+          "Sie wollen mir also die Schuld geben? Typisch!",
+          "Dann lüfte ich halt den ganzen Tag bei offenem Fenster."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨性质",
+        "explain": "behalte mir vor 是交涉升级的标准预告式（与 t-b2-06 同源）。",
+        "options": [
+          "预告升级（保留权利）",
+          "最后通牒已经执行",
+          "日常道别"
+        ],
+        "answer": 0,
+        "audio": "Sollte die Frist verstreichen, behalte ich mir weitere Schritte vor."
+      },
+      {
+        "type": "fill",
+        "q": "收尾复述：„Dann ＿＿ ich zusammen: Reparatur bis 15., Bestätigung bis Freitag.\"",
+        "explain": "zusammenfassen 的复述钉死是口头协议的封印。",
+        "answer": "fasse"
+      },
+      {
+        "type": "choice",
+        "q": "证据链最完整的是？",
+        "explain": "书面记录 + 影像 + 第三方鉴定，层层可核查。",
+        "options": [
+          "报修日期记录 + 带日期照片 + 第三方 Gutachten",
+          "我感觉霉越来越多了",
+          "邻居也说闻到味道"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Der Schimmel breitet sich weiter ＿＿.\"",
+        "explain": "sich ausbreiten 是「蔓延」的固定动词。",
+        "answer": "aus"
+      },
+      {
+        "type": "order",
+        "q": "排交涉顺序",
+        "explain": "交涉的五拍：事实、期限、权利、升级、封印。",
+        "tokens": [
+          "预告升级路径",
+          "陈述事实与证据",
+          "设定期限",
+          "复述共识",
+          "援引减租权利"
+        ],
+        "answer": [
+          "陈述事实与证据",
+          "设定期限",
+          "援引减租权利",
+          "预告升级路径",
+          "复述共识"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒报修交涉：报事实（含日期）→ 出示证据 → 设定期限 → 预告一步升级。",
+    "speakingSample": "Guten Tag, ich melde den Wasserschaden in meiner Küche zum zweiten Mal; die erste Meldung war am 3. Oktober, hier ist die Bestätigung. Der Fleck an der Decke wächst, wie die Fotos zeigen. Ich bitte um Behebung bis zum Ende des Monats. Sollte die Frist verstreichen, wende ich mich an den Mieterverein.",
+    "speakingSelfcheck": "自查：事实带日期 □；期限是具体日期 □；升级只预告了一步、且合法 □。",
+    "sceneWords": []
+  },
+  {
+    "id": "s-b2-04",
+    "level": "B2",
+    "order": 4,
+    "title": "治疗同意与风险说明",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "膝关节手术前，医生向患者说明方案、风险与替代选项，患者提问并签署同意书。考点：概率表述、分层风险（常见/罕见/严重）、替代方案对照、患者复述确认。",
+    "dialogue": [
+      {
+        "speaker": "Dr. Sommer",
+        "text": "Herr Klein, ich erkläre Ihnen jetzt den Eingriff. Wir ersetzen einen Teil Ihres Kniegelenks durch eine Prothese. Die Operation dauert etwa eine Stunde.",
+        "audio": "Herr Klein, ich erkläre Ihnen jetzt den Eingriff. Wir ersetzen einen Teil Ihres Kniegelenks durch eine Prothese. Die Operation dauert etwa eine Stunde."
+      },
+      {
+        "speaker": "Klein",
+        "text": "Und was kann dabei schiefgehen, Frau Doktor?",
+        "audio": "Und was kann dabei schiefgehen, Frau Doktor?"
+      },
+      {
+        "speaker": "Sommer",
+        "text": "Jeder Eingriff birgt Risiken. Häufig sind vorübergehende Schmerzen und Schwellungen. Seltener, bei etwa zwei von hundert Patienten, kommt es zu einer Infektion. Sehr selten sind Thrombosen oder eine Verletzung von Nerven.",
+        "audio": "Jeder Eingriff birgt Risiken. Häufig sind vorübergehende Schmerzen und Schwellungen. Seltener, bei etwa zwei von hundert Patienten, kommt es zu einer Infektion. Sehr selten sind Thrombosen oder eine Verletzung von Nerven."
+      },
+      {
+        "speaker": "Klein",
+        "text": "Gibt es denn eine Alternative zur Operation?",
+        "audio": "Gibt es denn eine Alternative zur Operation?"
+      },
+      {
+        "speaker": "Sommer",
+        "text": "Alternativ könnten wir es weiter mit Physiotherapie und Medikamenten versuchen. Ihre Beschwerden würden dann aber voraussichtlich zunehmen, weil der Knorpel weiter abnutzt.",
+        "audio": "Alternativ könnten wir es weiter mit Physiotherapie und Medikamenten versuchen. Ihre Beschwerden würden dann aber voraussichtlich zunehmen, weil der Knorpel weiter abnutzt."
+      },
+      {
+        "speaker": "Klein",
+        "text": "Wie lange dauert es, bis ich wieder laufen kann?",
+        "audio": "Wie lange dauert es, bis ich wieder laufen kann?"
+      },
+      {
+        "speaker": "Sommer",
+        "text": "Die meisten Patienten stehen am Tag nach der Operation auf. Nach sechs Wochen können Sie in der Regel wieder normal gehen; die Reha hilft dabei.",
+        "audio": "Die meisten Patienten stehen am Tag nach der Operation auf. Nach sechs Wochen können Sie in der Regel wieder normal gehen; die Reha hilft dabei."
+      },
+      {
+        "speaker": "Klein",
+        "text": "Und wenn ich mich gegen den Eingriff entscheide?",
+        "audio": "Und wenn ich mich gegen den Eingriff entscheide?"
+      },
+      {
+        "speaker": "Sommer",
+        "text": "Das ist selbstverständlich Ihre Entscheidung. Nehmen Sie die Unterlagen mit nach Hause, lesen Sie sie in Ruhe und unterschreiben Sie erst, wenn alle Fragen geklärt sind.",
+        "audio": "Das ist selbstverständlich Ihre Entscheidung. Nehmen Sie die Unterlagen mit nach Hause, lesen Sie sie in Ruhe und unterschreiben Sie erst, wenn alle Fragen geklärt sind."
+      },
+      {
+        "speaker": "Klein",
+        "text": "Dann fasse ich zusammen: Operation eine Stunde, Infektionsrisiko zwei Prozent, Alternative wäre Therapie ohne Aussicht auf Besserung. Ich unterschreibe morgen nach dem Gespräch mit meiner Frau.",
+        "audio": "Dann fasse ich zusammen: Operation eine Stunde, Infektionsrisiko zwei Prozent, Alternative wäre Therapie ohne Aussicht auf Besserung. Ich unterschreibe morgen nach dem Gespräch mit meiner Frau."
+      },
+      {
+        "speaker": "Sommer",
+        "text": "So ist es. Und wenn noch Fragen auftauchen, rufen Sie uns jederzeit an.",
+        "audio": "So ist es. Und wenn noch Fragen auftauchen, rufen Sie uns jederzeit an."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Jeder Eingriff birgt Risiken.",
+          "风险总述"
+        ],
+        [
+          "Bei etwa zwei von hundert Patienten …",
+          "概率口径"
+        ],
+        [
+          "Alternativ könnten wir …",
+          "替代方案"
+        ],
+        [
+          "Nehmen Sie sich Zeit / unterschreiben Sie erst, wenn …",
+          "不施压"
+        ],
+        [
+          "Dann fasse ich zusammen: …",
+          "患者复述确认"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "风险表述合格的是？",
+        "explain": "概率给出分母，是风险说明的专业口径。",
+        "options": [
+          "Bei etwa zwei von hundert Patienten kommt es zu einer Infektion.",
+          "Infektionen gibt es praktisch nie, keine Sorge.",
+          "Infektionen sind total häufig und gefährlich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Jeder Eingriff ＿＿ Risiken.\"",
+        "explain": "bergen（birgt）是「蕴含（风险）」的医学正式用词。",
+        "answer": "birgt"
+      },
+      {
+        "type": "choice",
+        "q": "替代方案说明合格的是？",
+        "explain": "替代 + 其预期后果，患者才能知情选择。",
+        "options": [
+          "Alternativ könnten wir es mit Physiotherapie versuchen; Ihre Beschwerden würden dann aber voraussichtlich zunehmen.",
+          "Es gibt keine Alternative, Sie müssen operieren.",
+          "Tabletten helfen sowieso nie, glauben Sie mir."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "分层词：„＿＿ sind vorübergehende Schmerzen, selten Infektionen.\"（häufig 的副词形式）",
+        "explain": "Häufig/selten/sehr selten 是风险分层的三级刻度。",
+        "answer": "Häufig"
+      },
+      {
+        "type": "choice",
+        "q": "医生施压的错误做法是？",
+        "explain": "催签违背知情同意的自愿原则。",
+        "options": [
+          "Unterschreiben Sie am besten gleich hier, sonst wird der Termin knapp.",
+          "Nehmen Sie die Unterlagen mit nach Hause.",
+          "Fragen Sie gern jederzeit nach."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨内容",
+        "explain": "这句讲术后恢复进程，不是风险。",
+        "options": [
+          "恢复时间信息",
+          "风险概率",
+          "费用说明"
+        ],
+        "answer": 0,
+        "audio": "Die meisten Patienten stehen am Tag nach der Operation wieder auf."
+      },
+      {
+        "type": "fill",
+        "q": "患者确认：„Dann ＿＿ ich zusammen: Eingriff eine Stunde, Risiko zwei Prozent.\"",
+        "explain": "患者用 zusammenfassen 复述，是理解到位的标志。",
+        "answer": "fasse"
+      },
+      {
+        "type": "choice",
+        "q": "概率换算正确的是？",
+        "explain": "von hundert 即百分之，口径一致才可比。",
+        "options": [
+          "zwei von hundert = 2 Prozent",
+          "zwei von hundert = 20 Prozent",
+          "zwei von hundert = 0,2 Prozent"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "拒绝权：„Es ist selbstverständlich Ihre ＿＿.\"",
+        "explain": "说明患者有最终决定权是同意谈话的法定要素。",
+        "answer": "Entscheidung"
+      },
+      {
+        "type": "order",
+        "q": "排说明顺序",
+        "explain": "知情同意的标准次序：方案、风险、替代、确认、签署。",
+        "tokens": [
+          "替代方案",
+          "手术方案本身",
+          "签署同意",
+          "风险分层",
+          "患者提问与复述"
+        ],
+        "answer": [
+          "手术方案本身",
+          "风险分层",
+          "替代方案",
+          "患者提问与复述",
+          "签署同意"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒风险说明（自选一个小情境，如拔牙）：总述风险 → 一个带概率的常见风险 → 一个罕见风险 → 一句替代方案。",
+    "speakingSample": "Bei dieser Zahnbehandlung gibt es, wie bei jedem Eingriff, Risiken. Häufig sind leichte Schmerzen für ein bis zwei Tage. Bei etwa einem von hundert Patienten kommt es zu einer Nachblutung. Sehr selten wird ein Nerv gereizt. Alternativ könnten wir den Zahn zunächst beobachten und erst bei Beschwerden behandeln.",
+    "speakingSelfcheck": "自查：概率带了分母 □；风险分了层 □；给了替代选项 □。",
+    "sceneWords": [
+      "die Beschwerden",
+      "der Eingriff",
+      "ersetzen",
+      "die Physiotherapie",
+      "die Prothese"
+    ]
+  },
+  {
+    "id": "s-b2-05",
+    "level": "B2",
+    "order": 5,
+    "title": "创业路演与投资人问答",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "创业者向投资人路演一款维修师傅预约平台，并接受尖锐追问。考点：一分钟讲清产品、数字答辩（市场、增长、单位经济）、承认短板、把融资用途说具体。",
+    "dialogue": [
+      {
+        "speaker": "Sara",
+        "text": "Guten Tag, ich bin Sara, Mitgründerin von Fixda. Unser Problem kennt jeder: Ein Handwerkertermin dauert in Deutschland im Schnitt drei Wochen. Fixda vermittelt geprüfte Handwerker innerhalb von 48 Stunden.",
+        "audio": "Guten Tag, ich bin Sara, Mitgründerin von Fixda. Unser Problem kennt jeder: Ein Handwerkertermin dauert in Deutschland im Schnitt drei Wochen. Fixda vermittelt geprüfte Handwerker innerhalb von 48 Stunden."
+      },
+      {
+        "speaker": "Investor",
+        "text": "Wie groß ist Ihr Markt?",
+        "audio": "Wie groß ist Ihr Markt?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Allein in Deutschland geben Haushalte jährlich 60 Milliarden Euro für Reparaturen aus. Wir konzentrieren uns zunächst auf die fünf größten Städte.",
+        "audio": "Allein in Deutschland geben Haushalte jährlich 60 Milliarden Euro für Reparaturen aus. Wir konzentrieren uns zunächst auf die fünf größten Städte."
+      },
+      {
+        "speaker": "Investor",
+        "text": "Und Ihre Zahlen bisher?",
+        "audio": "Und Ihre Zahlen bisher?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Wir sind seit einem Jahr live, mit 12.000 vermittelten Aufträgen. Unser Umsatz ist im letzten Quartal um 40 Prozent gewachsen, und 30 Prozent unserer Kunden buchen ein zweites Mal.",
+        "audio": "Wir sind seit einem Jahr live, mit 12.000 vermittelten Aufträgen. Unser Umsatz ist im letzten Quartal um 40 Prozent gewachsen, und 30 Prozent unserer Kunden buchen ein zweites Mal."
+      },
+      {
+        "speaker": "Investor",
+        "text": "Was unterscheidet Sie von den großen Plattformen?",
+        "audio": "Was unterscheidet Sie von den großen Plattformen?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Zwei Dinge: die garantierte Zeit von 48 Stunden und unsere eigene Prüfung der Betriebe. Beides kostet uns Marge, schafft aber Vertrauen – und genau das ist in dieser Branche die Währung.",
+        "audio": "Zwei Dinge: die garantierte Zeit von 48 Stunden und unsere eigene Prüfung der Betriebe. Beides kostet uns Marge, schafft aber Vertrauen – und genau das ist in dieser Branche die Währung."
+      },
+      {
+        "speaker": "Investor",
+        "text": "Wie viel Kapital suchen Sie, und wofür?",
+        "audio": "Wie viel Kapital suchen Sie, und wofür?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Wir suchen 800.000 Euro. Sechzig Prozent fließen in den Vertrieb in zwei neuen Städten, der Rest in die Technik – vor allem in die Terminlogik.",
+        "audio": "Wir suchen 800.000 Euro. Sechzig Prozent fließen in den Vertrieb in zwei neuen Städten, der Rest in die Technik – vor allem in die Terminlogik."
+      },
+      {
+        "speaker": "Investor",
+        "text": "Ihr schwächster Punkt?",
+        "audio": "Ihr schwächster Punkt?"
+      },
+      {
+        "speaker": "Sara",
+        "text": "Ehrlich gesagt: die Abhängigkeit von wenigen Großstädten. Darum expandieren wir ja. In zwei Jahren wollen wir in zwölf Städten aktiv sein und die Gewinnzone erreichen.",
+        "audio": "Ehrlich gesagt: die Abhängigkeit von wenigen Großstädten. Darum expandieren wir ja. In zwei Jahren wollen wir in zwölf Städten aktiv sein und die Gewinnzone erreichen."
+      },
+      {
+        "speaker": "Investor",
+        "text": "Überzeugt mich vorläufig. Schicken Sie mir die Unterlagen, dann sprechen wir über die Konditionen.",
+        "audio": "Überzeugt mich vorläufig. Schicken Sie mir die Unterlagen, dann sprechen wir über die Konditionen."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Im Schnitt / jährlich … Euro",
+          "市场口径"
+        ],
+        [
+          "Unser Umsatz ist um … gewachsen; … Prozent buchen ein zweites Mal.",
+          "增长与复购"
+        ],
+        [
+          "Was unterscheidet Sie von …?",
+          "差异化问答"
+        ],
+        [
+          "Wir suchen … Euro; … Prozent fließen in …",
+          "融资额与用途"
+        ],
+        [
+          "Ehrlich gesagt: …",
+          "主动亮短板"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "开场一分钟合格的是？",
+        "explain": "路演开场三拍：痛点、方案、证据。",
+        "options": [
+          "问题（等三周）→ 方案（48 小时）→ 证明（已上线数据）",
+          "先讲自己的求学经历十分钟",
+          "先问投资人想投多少"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Unser Umsatz ist im Quartal um 40 Prozent ＿＿.\"",
+        "explain": "gewachsen 是增长答辩的核心分词。",
+        "answer": "gewachsen"
+      },
+      {
+        "type": "choice",
+        "q": "被问到短板，最佳打法是？",
+        "explain": "亮短板 + 对策是可信度投资，不是示弱。",
+        "options": [
+          "承认一个真实短板，并给出正在执行的对策",
+          "我们没有任何 Schwächen",
+          "这是商业秘密，不能说"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "融资用途：„Sechzig Prozent ＿＿ in den Vertrieb.\"（fließen)",
+        "explain": "fließen in 是资金投向的地道说法（FVG 族）。",
+        "answer": "fließen"
+      },
+      {
+        "type": "choice",
+        "q": "单位经济意识体现在哪句？",
+        "explain": "复购率是投资人眼中的单位经济信号。",
+        "options": [
+          "30 Prozent unserer Kunden buchen ein zweites Mal.",
+          "Wir sind ein tolles Team mit viel Herz.",
+          "Der Markt ist riesig, glauben Sie mir."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨问题类型",
+        "explain": "unterscheiden von 是竞品差异的问法。",
+        "options": [
+          "差异化追问",
+          "市场规模追问",
+          "团队背景追问"
+        ],
+        "answer": 0,
+        "audio": "Was unterscheidet Sie von den großen Plattformen?"
+      },
+      {
+        "type": "fill",
+        "q": "„Allein in Deutschland geben Haushalte ＿＿ 60 Milliarden Euro aus.\"",
+        "explain": "jährlich 给市场数字加时间口径。",
+        "answer": "jährlich"
+      },
+      {
+        "type": "choice",
+        "q": "融资额表述合格的是？",
+        "explain": "金额 + 分配比例 + 用途，三件齐全。",
+        "options": [
+          "800.000 Euro, davon 60 Prozent für Vertrieb in zwei Städten, Rest für Technik.",
+          "So viel wie möglich, wir schauen dann.",
+          "Eine Million, plus/minus, für alles Mögliche."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "收官句：„In zwei Jahren wollen wir die ＿＿ erreichen.\"（Gewinnzone)",
+        "explain": "给出到达盈利区的时间表是路演收官标配。",
+        "answer": "Gewinnzone"
+      },
+      {
+        "type": "order",
+        "q": "排路演顺序",
+        "explain": "路演骨架：问题先行，钱的问题放在证据之后。",
+        "tokens": [
+          "融资额与用途",
+          "痛点",
+          "答辩追问",
+          "方案",
+          "增长数据"
+        ],
+        "answer": [
+          "痛点",
+          "方案",
+          "增长数据",
+          "融资额与用途",
+          "答辩追问"
+        ]
+      }
+    ],
+    "speaking": "给一个自选小生意做 40 秒路演：痛点一句、方案一句、一个数据、融资/下一步一句。",
+    "speakingSample": "Jeder kennt es: Gute Nachhilfe in Mathematik ist auf dem Land kaum zu finden. Unsere Plattform vermittelt geprüfte Tutorinnen live per Video, zum Festpreis pro Stunde. Nach sechs Monaten haben wir 900 Schüler, und 70 Prozent bleiben länger als drei Monate. Jetzt suchen wir Partner in drei weiteren Bundesländern, um zu wachsen.",
+    "speakingSelfcheck": "自查：痛点与方案各只用一句 □；至少一个可核查数字 □；结尾有明确诉求 □。",
+    "sceneWords": [
+      "die Branche",
+      "expandieren",
+      "der Umsatz",
+      "der Vertrieb",
+      "die Währung"
+    ]
+  },
+  {
+    "id": "s-b2-06",
+    "level": "B2",
+    "order": 6,
+    "title": "市政听证会发言",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "市政听证会上，居民代表就绕城公路发表三分钟陈述。考点：表明身份与资格、承认对方合理点、核心诉求单一、结尾提出可执行请求（与 t-b2-03 主持课互为镜像）。",
+    "dialogue": [
+      {
+        "speaker": "Moderatorin",
+        "text": "Herr Wolf, Sie haben drei Minuten. Bitte.",
+        "audio": "Herr Wolf, Sie haben drei Minuten. Bitte."
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Meine Damen und Herren, ich spreche hier als Anwohner der Hauptstraße und als Vater zweier Kinder, die diese Straße täglich auf dem Schulweg überqueren.",
+        "audio": "Meine Damen und Herren, ich spreche hier als Anwohner der Hauptstraße und als Vater zweier Kinder, die diese Straße täglich auf dem Schulweg überqueren."
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Um eines vorwegzunehmen: Dass der Verkehr in der Ortsmitte abnehmen muss, darüber sind wir uns alle einig. Die Frage ist nur, ob die geplante Trasse die richtige Antwort ist.",
+        "audio": "Um eines vorwegzunehmen: Dass der Verkehr in der Ortsmitte abnehmen muss, darüber sind wir uns alle einig. Die Frage ist nur, ob die geplante Trasse die richtige Antwort ist."
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Die Trasse führt durch das einzige Naherholungsgebiet unserer Gemeinde und zerschneidet den Lebensraum zweier geschützter Arten. Die Stadt selbst hat dieses Gebiet noch vor fünf Jahren als schützenswert eingestuft.",
+        "audio": "Die Trasse führt durch das einzige Naherholungsgebiet unserer Gemeinde und zerschneidet den Lebensraum zweier geschützter Arten. Die Stadt selbst hat dieses Gebiet noch vor fünf Jahren als schützenswert eingestuft."
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Es gibt eine Alternative: die Nordvariante entlang der Bahnlinie. Sie ist nach dem Gutachten des Planungsbüros nur vier Prozent teurer, erspart aber das Schutzgebiet vollständig.",
+        "audio": "Es gibt eine Alternative: die Nordvariante entlang der Bahnlinie. Sie ist nach dem Gutachten des Planungsbüros nur vier Prozent teurer, erspart aber das Schutzgebiet vollständig."
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Ich bitte den Rat daher: Lassen Sie beide Varianten mit denselben Maßstäben prüfen, bevor Sie entscheiden. Eine Entscheidung, die auf ungleichen Daten beruht, wird die Gemeinde noch lange spalten.",
+        "audio": "Ich bitte den Rat daher: Lassen Sie beide Varianten mit denselben Maßstäben prüfen, bevor Sie entscheiden. Eine Entscheidung, die auf ungleichen Daten beruht, wird die Gemeinde noch lange spalten."
+      },
+      {
+        "speaker": "Moderatorin",
+        "text": "Ihre drei Minuten sind um, Herr Wolf. Ein Satz noch.",
+        "audio": "Ihre drei Minuten sind um, Herr Wolf. Ein Satz noch."
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Mein letzter Satz: Wir wollen den Verkehr raus aus der Ortsmitte – aber nicht um den Preis, unser einziges Grün zu verlieren. Vielen Dank.",
+        "audio": "Mein letzter Satz: Wir wollen den Verkehr raus aus der Ortsmitte – aber nicht um den Preis, unser einziges Grün zu verlieren. Vielen Dank."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich spreche hier als …",
+          "身份资格"
+        ],
+        [
+          "Um eines vorwegzunehmen: …",
+          "先认共识"
+        ],
+        [
+          "Es gibt eine Alternative: …",
+          "给出替代"
+        ],
+        [
+          "Ich bitte den Rat daher: Lassen Sie … prüfen, bevor …",
+          "可执行请求"
+        ],
+        [
+          "Mein letzter Satz: …",
+          "限时收尾"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "听证开场合格的是？",
+        "explain": "身份 = 发言资格，是听证的第一句。",
+        "options": [
+          "Ich spreche als Anwohner der Hauptstraße und Vater zweier Schulkinder.",
+          "Ich bin absolut gegen alles, was hier geplant wird!",
+          "Also ich fange einfach mal an, ja?"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Um ＿＿ vorwegzunehmen: Dass der Verkehr abnehmen muss, ist unstrittig.\"",
+        "explain": "Um eines vorwegzunehmen 是「先说清一点」的正式开场。",
+        "answer": "eines"
+      },
+      {
+        "type": "choice",
+        "q": "核心动作合格的是？",
+        "explain": "替代方案 + 数据差，是陈述的说服力核心。",
+        "options": [
+          "指出问题后立即给出可比较的替代方案与造价差",
+          "只列十条反对理由",
+          "质疑官员的动机"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "请求句：„Ich bitte den Rat, beide Varianten prüfen zu ＿＿.\"",
+        "explain": "lassen + 不定式把请求变成可执行的行政动作。",
+        "answer": "lassen"
+      },
+      {
+        "type": "choice",
+        "q": "限时收尾合格的是？",
+        "explain": "最后一句只能收束，不能开新战场。",
+        "options": [
+          "一句话重述立场的核心对立（Verkehr raus – aber nicht um den Preis des Grüns)",
+          "继续展开第三个新论点",
+          "抱怨时间太短不公平"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨功能",
+        "explain": "这句是请求背后的后果论证。",
+        "options": [
+          "警告后果",
+          "提出替代",
+          "自我介绍"
+        ],
+        "answer": 0,
+        "audio": "Eine Entscheidung, die auf ungleichen Daten beruht, wird die Gemeinde noch lange spalten."
+      },
+      {
+        "type": "fill",
+        "q": "资格自述：„Ich spreche hier ＿＿ Anwohner.\"",
+        "explain": "als 引出说话身份，听证套语。",
+        "answer": "als"
+      },
+      {
+        "type": "choice",
+        "q": "陈述与辩论的边界是？",
+        "explain": "听证发言是 monologue，答辩另有环节。",
+        "options": [
+          "陈述只给立场与依据，不与台下吵答",
+          "现场与提问者逐句争论",
+          "把三分钟全用在感谢名单上"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "事实钉子：„Die Stadt hat das Gebiet vor fünf Jahren als ＿＿ eingestuft.\"（schützenswert)",
+        "explain": "引用官方旧定性是最有力的一种证据。",
+        "answer": "schützenswert"
+      },
+      {
+        "type": "order",
+        "q": "排陈述顺序",
+        "explain": "听证陈述五拍：资格、共识、问题、方案、请求。",
+        "tokens": [
+          "可执行请求",
+          "身份与资格",
+          "先认共识",
+          "替代方案",
+          "问题与证据"
+        ],
+        "answer": [
+          "身份与资格",
+          "先认共识",
+          "问题与证据",
+          "替代方案",
+          "可执行请求"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒听证发言（主题自选本地议题）：身份句 → 认共识句 → 一个证据 → 一个请求。",
+    "speakingSample": "Meine Damen und Herren, ich spreche als Anwohnerin der Bergstraße. Dass unsere Straße saniert werden muss, ist unstrittig. Aber die geplante Vollsperrung für acht Monate würde 40 Haushalte vom einzigen Zufahrtsweg abschneiden, wie die Liste der Anlieger zeigt. Ich bitte die Verwaltung daher, eine halbseitige Sperrung zu prüfen, bevor die Bauarbeiten beginnen.",
+    "speakingSelfcheck": "自查：身份与资格说清 □；先认了一个共识点 □；请求是对方能执行的具体动作 □。",
+    "sceneWords": [
+      "die Gemeinde",
+      "der Lebensraum"
+    ]
+  },
+  {
+    "id": "s-b2-07",
+    "level": "B2",
+    "order": 7,
+    "title": "保险理赔争议升级",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "水管爆裂的理赔被保险公司以「老化磨损」拒赔，客户电话交涉并启动书面复核。考点：逐条拆解拒赔理由、要求书面依据、提出复核与鉴定、预告 Ombudsmann 路径。",
+    "dialogue": [
+      {
+        "speaker": "Herr Osei",
+        "text": "Guten Tag, mein Name ist Osei, Schadensnummer 4471. Ich habe Ihren Ablehnungsbescheid erhalten und bitte um Erläuterung.",
+        "audio": "Guten Tag, mein Name ist Osei, Schadensnummer 4471. Ich habe Ihren Ablehnungsbescheid erhalten und bitte um Erläuterung."
+      },
+      {
+        "speaker": "Sachbearbeiterin",
+        "text": "Guten Tag. Die Ablehnung beruht darauf, dass der Schaden durch Verschleiß entstanden ist, und der ist nicht versichert.",
+        "audio": "Guten Tag. Die Ablehnung beruht darauf, dass der Schaden durch Verschleiß entstanden ist, und der ist nicht versichert."
+      },
+      {
+        "speaker": "Osei",
+        "text": "Das sehe ich anders. Das Rohr ist nicht langsam verschlissen, es ist in der Nacht zum 12. geplatzt – das Wasser stand morgens zehn Zentimeter hoch in der Küche. Hier liegt ein plötzliches, unvorhersehbares Ereignis vor, und genau das deckt mein Tarif.",
+        "audio": "Das sehe ich anders. Das Rohr ist nicht langsam verschlissen, es ist in der Nacht zum 12. geplatzt – das Wasser stand morgens zehn Zentimeter hoch in der Küche. Hier liegt ein plötzliches, unvorhersehbares Ereignis vor, und genau das deckt mein Tarif."
+      },
+      {
+        "speaker": "Sachbearbeiterin",
+        "text": "Unsere Gutachterin hat Fotos ausgewertet und Korrosion festgestellt.",
+        "audio": "Unsere Gutachterin hat Fotos ausgewertet und Korrosion festgestellt."
+      },
+      {
+        "speaker": "Osei",
+        "text": "Dann bitte ich um zwei Dinge: erstens die Zusendung des Gutachtens, zweitens eine erneute Prüfung mit einem Vor-Ort-Termin. Fotos allein können den Zustand im Wandinneren nicht beurteilen.",
+        "audio": "Dann bitte ich um zwei Dinge: erstens die Zusendung des Gutachtens, zweitens eine erneute Prüfung mit einem Vor-Ort-Termin. Fotos allein können den Zustand im Wandinneren nicht beurteilen."
+      },
+      {
+        "speaker": "Sachbearbeiterin",
+        "text": "Eine erneute Prüfung kann ich veranlassen, das Gutachten schicke ich Ihnen zu.",
+        "audio": "Eine erneute Prüfung kann ich veranlassen, das Gutachten schicke ich Ihnen zu."
+      },
+      {
+        "speaker": "Osei",
+        "text": "Danke. Ich werde zusätzlich schriftlich Widerspruch einlegen und die Stellungnahme meines Installateurs beilegen, der den Schaden vor Ort aufgenommen hat. Ich bitte um Antwort innerhalb von drei Wochen.",
+        "audio": "Danke. Ich werde zusätzlich schriftlich Widerspruch einlegen und die Stellungnahme meines Installateurs beilegen, der den Schaden vor Ort aufgenommen hat. Ich bitte um Antwort innerhalb von drei Wochen."
+      },
+      {
+        "speaker": "Sachbearbeiterin",
+        "text": "Das nehme ich so auf. Sie erhalten die Eingangsbestätigung per E-Mail.",
+        "audio": "Das nehme ich so auf. Sie erhalten die Eingangsbestätigung per E-Mail."
+      },
+      {
+        "speaker": "Osei",
+        "text": "Und nur der Vollständigkeit halber: Sollte die Prüfung erneut negativ ausfallen, werde ich mich an den Versicherungsombudsmann wenden. Ich hoffe aber, dass wir es vorher klären.",
+        "audio": "Und nur der Vollständigkeit halber: Sollte die Prüfung erneut negativ ausfallen, werde ich mich an den Versicherungsombudsmann wenden. Ich hoffe aber, dass wir es vorher klären."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich bitte um Erläuterung / Zusendung des Gutachtens.",
+          "要依据"
+        ],
+        [
+          "Hier liegt ein plötzliches, unvorhersehbares Ereignis vor.",
+          "定性之争"
+        ],
+        [
+          "eine erneute Prüfung mit einem Vor-Ort-Termin",
+          "复核形式"
+        ],
+        [
+          "schriftlich Widerspruch einlegen",
+          "书面异议"
+        ],
+        [
+          "mich an den Ombudsmann wenden",
+          "终极台阶，先预告"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "开场合格的是？",
+        "explain": "编号开场是保险交涉的通行证。",
+        "options": [
+          "姓名 + Schadensnummer + 请求说明",
+          "你们 haben meinen Antrag einfach abgelehnt, das ist empörend!",
+          "Ich will sofort den Chef sprechen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Ich lege gegen diesen Bescheid schriftlich ＿＿ ein.\"",
+        "explain": "Widerspruch einlegen 是对拒赔的正式异议动作。",
+        "answer": "Widerspruch"
+      },
+      {
+        "type": "choice",
+        "q": "拆解拒赔理由的核心动作是？",
+        "explain": "保险争议赢在定性，不在音量。",
+        "options": [
+          "把「磨损」与「突发爆裂」的定性之争点明，并以事实（夜间爆裂、积水高度）支撑",
+          "提高音量反复说「unfair」",
+          "威胁立即在网上发帖曝光"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Bitte senden Sie mir das ＿＿ Ihrer Gutachterin zu.\"",
+        "explain": "索取对方鉴定原件是复核的前提。",
+        "answer": "Gutachten"
+      },
+      {
+        "type": "choice",
+        "q": "复核形式要求合理的是？",
+        "explain": "隐蔽工程的照片证据不足，上门鉴定是合理诉求。",
+        "options": [
+          "Vor-Ort-Termin statt reiner Fotoauswertung",
+          "只接受电话口头结论",
+          "让邻居来作证即可"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨性质",
+        "explain": "先礼后兵的预告式，与交涉阶梯同源。",
+        "options": [
+          "体面的升级预告",
+          "已经投诉",
+          "放弃理赔"
+        ],
+        "answer": 0,
+        "audio": "Der Vollständigkeit halber: Sollte die Prüfung erneut negativ ausfallen, werde ich mich an den Ombudsmann wenden."
+      },
+      {
+        "type": "fill",
+        "q": "„Hier liegt ein plötzliches, unvorhersehbares ＿＿ vor.\"",
+        "explain": "Ereignis 是保险条款里「保险事件」的核心词。",
+        "answer": "Ereignis"
+      },
+      {
+        "type": "choice",
+        "q": "期限设置合格的是？",
+        "explain": "三周期限在保险复核里是合理且正式的口径。",
+        "options": [
+          "Ich bitte um Antwort innerhalb von drei Wochen.",
+          "Antworten Sie irgendwann mal.",
+          "Ich erwarte die Antwort morgen früh um acht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "证据补强：„Ich lege die ＿＿ meines Installateurs bei.\"",
+        "explain": "己方的专业 Stellungnahme 与对方 Gutachten 对位。",
+        "answer": "Stellungnahme"
+      },
+      {
+        "type": "order",
+        "q": "排升级顺序",
+        "explain": "争议升级的五级次序，一级不跳。",
+        "tokens": [
+          "Ombudsmann 预告",
+          "电话交涉要依据",
+          "书面 Widerspruch",
+          "索取 Gutachten 与复核",
+          "对方出具 Bescheid"
+        ],
+        "answer": [
+          "对方出具 Bescheid",
+          "电话交涉要依据",
+          "索取 Gutachten 与复核",
+          "书面 Widerspruch",
+          "Ombudsmann 预告"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒理赔交涉：编号自报 → 点明定性之争 → 提两个具体要求（文件 + 复核）。",
+    "speakingSample": "Guten Tag, Osei, Schadensnummer 4471. Ihr Bescheid spricht von Verschleiß, aber das Rohr ist nachts geplatzt – ein plötzliches Ereignis, das mein Tarif deckt. Ich bitte Sie um zwei Dinge: Senden Sie mir das Gutachten zu, und veranlassen Sie eine erneute Prüfung mit einem Vor-Ort-Termin. Meine schriftliche Stellungnahme dazu geht Ihnen heute noch zu.",
+    "speakingSelfcheck": "自查：带了 Schadensnummer □；定性之争说清 □；要求具体到文件与形式 □。",
+    "sceneWords": [
+      "die Ablehnung",
+      "beurteilen",
+      "die Stellungnahme",
+      "der Verschleiß",
+      "der Widerspruch"
+    ]
+  },
+  {
+    "id": "s-b2-08",
+    "level": "B2",
+    "order": 8,
+    "title": "团队冲突调解会",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "两位同事因工作量分配争执数周，组长主持调解会。考点：调解人规则宣告、用 Ich-Botschaften 替代指责、把情绪翻译成需求、达成可检验的协议。",
+    "dialogue": [
+      {
+        "speaker": "Mediatorin Frau Lindt",
+        "text": "Vielen Dank, dass Sie beide da sind. Unser Ziel ist eine Vereinbarung, mit der Sie beide arbeiten können. Zwei Regeln: Wir lassen uns ausreden, und wir sprechen über Verhalten, nicht über Charakter.",
+        "audio": "Vielen Dank, dass Sie beide da sind. Unser Ziel ist eine Vereinbarung, mit der Sie beide arbeiten können. Zwei Regeln: Wir lassen uns ausreden, und wir sprechen über Verhalten, nicht über Charakter."
+      },
+      {
+        "speaker": "Tim",
+        "text": "Dann fange ich an. Ich fühle mich ungerecht behandelt: Die Wochenenddienste landen seit Monaten fast immer bei mir. Wenn ein Dienst kurzfristig ausfällt, werde ich angerufen – nie Jana.",
+        "audio": "Dann fange ich an. Ich fühle mich ungerecht behandelt: Die Wochenenddienste landen seit Monaten fast immer bei mir. Wenn ein Dienst kurzfristig ausfällt, werde ich angerufen – nie Jana."
+      },
+      {
+        "speaker": "Jana",
+        "text": "Das stimmt so nicht. Ich habe im letzten Monat zwei Dienste übernommen. Aber ich höre: Du fühlst dich mit den Wochenenden allein gelassen.",
+        "audio": "Das stimmt so nicht. Ich habe im letzten Monat zwei Dienste übernommen. Aber ich höre: Du fühlst dich mit den Wochenenden allein gelassen."
+      },
+      {
+        "speaker": "Tim",
+        "text": "Ja, genau. Und es geht nicht nur um die Anzahl, sondern darum, dass ich nie gefragt werde.",
+        "audio": "Ja, genau. Und es geht nicht nur um die Anzahl, sondern darum, dass ich nie gefragt werde."
+      },
+      {
+        "speaker": "Lindt",
+        "text": "Frau Sommer, was brauchen Sie, damit es für Sie funktioniert?",
+        "audio": "Frau Sommer, was brauchen Sie, damit es für Sie funktioniert?"
+      },
+      {
+        "speaker": "Jana",
+        "text": "Ich brauche Planbarkeit. Kurzfristige Anrufe gehen bei mir wegen der Kinder oft nicht. Wenn Dienste vier Wochen vorher feststehen, kann ich mich eintragen – auch am Wochenende.",
+        "audio": "Ich brauche Planbarkeit. Kurzfristige Anrufe gehen bei mir wegen der Kinder oft nicht. Wenn Dienste vier Wochen vorher feststehen, kann ich mich eintragen – auch am Wochenende."
+      },
+      {
+        "speaker": "Lindt",
+        "text": "Dann lassen Sie uns konkret werden: Vorschlag – der Dienstplan wird vier Wochen im Voraus veröffentlicht; Wochenenden werden abwechselnd vergeben; kurzfristige Ausfälle übernimmt zuerst, wer in der Liste dran ist, nicht immer dieselbe Person.",
+        "audio": "Dann lassen Sie uns konkret werden: Vorschlag – der Dienstplan wird vier Wochen im Voraus veröffentlicht; Wochenenden werden abwechselnd vergeben; kurzfristige Ausfälle übernimmt zuerst, wer in der Liste dran ist, nicht immer dieselbe Person."
+      },
+      {
+        "speaker": "Tim",
+        "text": "Damit kann ich leben, wenn die Liste wirklich für alle gilt.",
+        "audio": "Damit kann ich leben, wenn die Liste wirklich für alle gilt."
+      },
+      {
+        "speaker": "Jana",
+        "text": "Und ich kann mich auf die frühen Pläne eintragen. Einverstanden.",
+        "audio": "Und ich kann mich auf die frühen Pläne eintragen. Einverstanden."
+      },
+      {
+        "speaker": "Lindt",
+        "text": "Dann halte ich fest: Plan vier Wochen vorher, Wochenenden im Wechsel, Ausfallliste für alle. Wir prüfen in sechs Wochen, ob es funktioniert. Danke für die offene Aussprache.",
+        "audio": "Dann halte ich fest: Plan vier Wochen vorher, Wochenenden im Wechsel, Ausfallliste für alle. Wir prüfen in sechs Wochen, ob es funktioniert. Danke für die offene Aussprache."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Wir sprechen über Verhalten, nicht über Charakter.",
+          "调解规则"
+        ],
+        [
+          "Ich fühle mich …, wenn …",
+          "Ich-Botschaft"
+        ],
+        [
+          "Ich höre: Du fühlst dich …",
+          "调解式复述"
+        ],
+        [
+          "Was brauchen Sie, damit es funktioniert?",
+          "问需求"
+        ],
+        [
+          "Wir prüfen in sechs Wochen, ob …",
+          "协议带复查"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "合格的开场规则是？",
+        "explain": "调解人定程序规则，不裁对错。",
+        "options": [
+          "Wir lassen uns ausreden und sprechen über Verhalten, nicht über Charakter.",
+          "Wer lauter ist, gewinnt hier schon gar nicht.",
+          "Ich entscheide am Ende allein, wer recht hat."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Ich ＿＿ mich ungerecht behandelt, wenn Dienste immer bei mir landen.\"",
+        "explain": "Ich fühle mich 是 Ich-Botschaft 的骨架句型。",
+        "answer": "fühle"
+      },
+      {
+        "type": "choice",
+        "q": "指责句改成 Ich-Botschaft，合格的是？",
+        "explain": "Ich-Botschaft 陈述自身感受与事实，不给对方贴性格标签。",
+        "options": [
+          "Ich komme zu kurz, wenn Wochenenden fast nie bei mir angefragt, sondern mir einfach zugeteilt werden.",
+          "Du bist einfach egoistisch und denkst nur an dich.",
+          "Man merkt ja, wer hier der Liebling der Chefin ist."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "调解复述：„Ich ＿＿: Du fühlst dich allein gelassen.\"",
+        "explain": "Ich höre … 是调解人确认理解的信号句。",
+        "answer": "höre"
+      },
+      {
+        "type": "choice",
+        "q": "把情绪翻译成需求的是哪句？",
+        "explain": "问需求是调解的核心动作，评情绪只会升级。",
+        "options": [
+          "Was brauchen Sie, damit es für Sie funktioniert?",
+          "Warum sind Sie denn so empfindlich?",
+          "Jetzt beruhigen Sie sich erst mal beide."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨动作",
+        "explain": "带复查日期的协议才是可检验的协议。",
+        "options": [
+          "协议复查约定",
+          "立即处罚",
+          "会议取消"
+        ],
+        "answer": 0,
+        "audio": "Wir prüfen in sechs Wochen, ob die Vereinbarung funktioniert."
+      },
+      {
+        "type": "fill",
+        "q": "„Damit kann ich ＿＿, wenn die Liste für alle gilt.\"",
+        "explain": "mit etwas leben können 是「可以接受」的协商口语。",
+        "answer": "leben"
+      },
+      {
+        "type": "choice",
+        "q": "调解人的中立性体现在？",
+        "explain": "复述双方 + 协议双含，是中立的可观察证据。",
+        "options": [
+          "双方诉求都被复述、都被写进协议",
+          "明显偏向先发言的一方",
+          "私下向一方透露另一方的底线"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "协议落纸：„Dann halte ich ＿＿: Plan vier Wochen vorher, Wochenenden im Wechsel.\"",
+        "explain": "festhalten 在此是「记录确认」的会议用语。",
+        "answer": "fest"
+      },
+      {
+        "type": "order",
+        "q": "排调解顺序",
+        "explain": "调解五拍：规则、感受、需求、方案、协议。",
+        "tokens": [
+          "达成协议并定复查日",
+          "规则宣告",
+          "双方陈述感受",
+          "翻译成需求",
+          "具体方案磋商"
+        ],
+        "answer": [
+          "规则宣告",
+          "双方陈述感受",
+          "翻译成需求",
+          "具体方案磋商",
+          "达成协议并定复查日"
+        ]
+      }
+    ],
+    "speaking": "把三句指责改写成 Ich-Botschaften 并读出来：①Du hörst nie zu! ②Immer bleibe ich auf der Arbeit sitzen! ③Du bist total unzuverlässig!",
+    "speakingSample": "①Ich fühle mich nicht ernst genommen, wenn meine Vorschläge ohne Antwort bleiben. ②Ich bin frustriert, wenn Überstunden fast immer bei mir landen. ③Ich brauche verlässliche Absprachen, weil ich meine Termine sonst nicht planen kann.",
+    "speakingSelfcheck": "自查：每句都以 Ich + 感受开头 □；没有性格标签词 □；至少一句带出了自己的需求 □。",
+    "sceneWords": [
+      "der Dienstplan",
+      "gelassen"
+    ]
+  },
+  {
+    "id": "s-b2-09",
+    "level": "B2",
+    "order": 9,
+    "title": "大学学业咨询与规划",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "大二学生想从经济学转到心理学，向学业咨询老师问清后果与路径。考点：把纠结说成可决策的问题、问清学分认定与期限、拿到书面信息、约定下一步。",
+    "dialogue": [
+      {
+        "speaker": "Student",
+        "text": "Guten Tag, Frau Arslan. Ich studiere im dritten Semester Wirtschaft, aber ich überlege ernsthaft, zu Psychologie zu wechseln.",
+        "audio": "Guten Tag, Frau Arslan. Ich studiere im dritten Semester Wirtschaft, aber ich überlege ernsthaft, zu Psychologie zu wechseln."
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Guten Tag. Das ist ein großer Schritt – erzählen Sie mir: Was genau zieht Sie zur Psychologie, und was stört Sie an Ihrem jetzigen Fach?",
+        "audio": "Guten Tag. Das ist ein großer Schritt – erzählen Sie mir: Was genau zieht Sie zur Psychologie, und was stört Sie an Ihrem jetzigen Fach?"
+      },
+      {
+        "speaker": "Student",
+        "text": "In Wirtschaft geht es mir zu sehr um Modelle. Ich habe ein Praktikum in einer Beratungsstelle gemacht und gemerkt: Ich will mit Menschen arbeiten. Meine Noten sind gut, es ist keine Flucht.",
+        "audio": "In Wirtschaft geht es mir zu sehr um Modelle. Ich habe ein Praktikum in einer Beratungsstelle gemacht und gemerkt: Ich will mit Menschen arbeiten. Meine Noten sind gut, es ist keine Flucht."
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Das klingt durchdacht. Dann zu den Fakten: Ein Wechsel ist zum Wintersemester möglich, Bewerbungsschluss ist der 15. Juli. Ihre Statistik- und Methodenmodule können wir für Psychologie anerkennen, das sind etwa 12 Leistungspunkte.",
+        "audio": "Das klingt durchdacht. Dann zu den Fakten: Ein Wechsel ist zum Wintersemester möglich, Bewerbungsschluss ist der 15. Juli. Ihre Statistik- und Methodenmodule können wir für Psychologie anerkennen, das sind etwa 12 Leistungspunkte."
+      },
+      {
+        "speaker": "Student",
+        "text": "Und der Rest? Verliere ich ein ganzes Jahr?",
+        "audio": "Und der Rest? Verliere ich ein ganzes Jahr?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Realistisch verlieren Sie ein Semester, nicht mehr. Wichtig ist: BAföG wird beim ersten Wechsel in der Regel weitergezahlt, wenn Sie es im dritten Semester tun und die Gründe darlegen. Später wird es schwieriger.",
+        "audio": "Realistisch verlieren Sie ein Semester, nicht mehr. Wichtig ist: BAföG wird beim ersten Wechsel in der Regel weitergezahlt, wenn Sie es im dritten Semester tun und die Gründe darlegen. Später wird es schwieriger."
+      },
+      {
+        "speaker": "Student",
+        "text": "Gibt es eine Möglichkeit, erst mal in Psychologie hineinzuschnuppern?",
+        "audio": "Gibt es eine Möglichkeit, erst mal in Psychologie hineinzuschnuppern?"
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Ja. Sie können im Sommersemester zwei Vorlesungen als Gasthörerin besuchen und sogar eine Prüfung mitschreiben; die wird bei einem Wechsel angerechnet.",
+        "audio": "Ja. Sie können im Sommersemester zwei Vorlesungen als Gasthörerin besuchen und sogar eine Prüfung mitschreiben; die wird bei einem Wechsel angerechnet."
+      },
+      {
+        "speaker": "Student",
+        "text": "Dann ist mein Plan: Sommersemester schnuppern, Entscheidung bis Juni, Bewerbung bis 15. Juli.",
+        "audio": "Dann ist mein Plan: Sommersemester schnuppern, Entscheidung bis Juni, Bewerbung bis 15. Juli."
+      },
+      {
+        "speaker": "Beraterin",
+        "text": "Genau. Ich gebe Ihnen die Checkliste mit den Fristen mit, und wir machen für Juni einen Folgetermin aus, um die Entscheidung zu besprechen.",
+        "audio": "Genau. Ich gebe Ihnen die Checkliste mit den Fristen mit, und wir machen für Juni einen Folgetermin aus, um die Entscheidung zu besprechen."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Ich überlege ernsthaft, zu … zu wechseln.",
+          "摆明纠结"
+        ],
+        [
+          "Es ist keine Flucht.",
+          "排除误判"
+        ],
+        [
+          "Module anerkennen / Leistungspunkte",
+          "学分认定"
+        ],
+        [
+          "Bewerbungsschluss ist der …",
+          "期限钉子"
+        ],
+        [
+          "hineinschnuppern / einen Folgetermin ausmachen",
+          "试水与下一步"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "咨询开场合格的是？",
+        "explain": "把纠结转成「后果 + 期限」的可决策问题。",
+        "options": [
+          "Ich überlege ernsthaft, das Fach zu wechseln, und möchte die Folgen und Fristen verstehen.",
+          "Ich halte es hier nicht mehr aus, egal was kommt.",
+          "Sagen Sie mir einfach, was ich tun soll."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Meine Module können für Psychologie ＿＿ werden.\"（anerkennen 被动分词）",
+        "explain": "Anerkennung von Leistungen 是学分认定的官方说法。",
+        "answer": "anerkannt"
+      },
+      {
+        "type": "choice",
+        "q": "BAföG 关键信息是？",
+        "explain": "时机与理由决定助学金存续，是咨询的硬信息。",
+        "options": [
+          "第三学期的第一次转专业通常可继续领取，但要说明理由，越晚越难",
+          "转专业后 BAföG 一律停发",
+          "BAföG 与转专业完全无关"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Bewerbungsschluss ist der 15. ＿＿.\"",
+        "explain": "期限必须具体到日期，咨询谈话的钉子句。",
+        "answer": "Juli"
+      },
+      {
+        "type": "choice",
+        "q": "最低成本的试水方式是？",
+        "explain": "旁听 + 试考是零风险验证兴趣的路径。",
+        "options": [
+          "以 Gasthörerin 身份先听两门课并参加一门考试，成绩可认定",
+          "立即退学再重新申请",
+          "先休学一年再说"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨性质",
+        "explain": "咨询师的职责是给真实代价，不给鸡汤。",
+        "options": [
+          "后果的实事求是评估",
+          "鼓励性安慰",
+          "拒绝咨询"
+        ],
+        "answer": 0,
+        "audio": "Realistisch verlieren Sie ein Semester, nicht mehr."
+      },
+      {
+        "type": "fill",
+        "q": "„Es ist keine ＿＿, meine Noten sind gut.\"",
+        "explain": "主动排除「逃避」误判，显示决定是趋向而非逃离。",
+        "answer": "Flucht"
+      },
+      {
+        "type": "choice",
+        "q": "咨询收尾合格的是？",
+        "explain": "书面清单 + 复谈日期，咨询成果才落袋。",
+        "options": [
+          "拿到 Fristen-Checkliste 并约定 Folgetermin",
+          "口头聊完就走，日后再说",
+          "当场就签退学表"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Wir machen für Juni einen ＿＿ aus.\"",
+        "explain": "Folgetermin ausmachen 是把决定放进日历的动作。",
+        "answer": "Folgetermin"
+      },
+      {
+        "type": "order",
+        "q": "排决策顺序",
+        "explain": "大决策的降险次序：先信息、再试水、后落槌。",
+        "tokens": [
+          "Bewerbung bis 15. Juli",
+          "咨询问清后果",
+          "Schnuppersemester",
+          "Entscheidung im Juni",
+          "Folgetermin zur Besprechung"
+        ],
+        "answer": [
+          "咨询问清后果",
+          "Schnuppersemester",
+          "Folgetermin zur Besprechung",
+          "Entscheidung im Juni",
+          "Bewerbung bis 15. Juli"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒咨询提问：说清现状与意向 → 问三个具体问题（学分、期限、资助）→ 复述下一步。",
+    "speakingSample": "Guten Tag, ich studiere im dritten Semester Geschichte und überlege, zu Soziologie zu wechseln. Drei Fragen habe ich: Welche meiner Module werden anerkannt? Bis wann muss die Bewerbung vorliegen? Und was bedeutet der Wechsel für mein BAföG? Wenn ich das weiß, entscheide ich mich bis Ende des Semesters.",
+    "speakingSelfcheck": "自查：三个问题都是可答的具体问题 □；没有让对方替你做决定 □；结尾给了自己的决策时间点 □。",
+    "sceneWords": []
+  },
+  {
+    "id": "s-b2-10",
+    "level": "B2",
+    "order": 10,
+    "title": "媒体采访应答",
+    "recommended": "",
+    "prerequisites": [],
+    "sceneIntro": "电台采访一位研究远程办公的专家，记者问题里藏着诱导与陷阱。考点：先接问题再转核心信息（bridging)、用数据立论、纠正错误前提、留一句可引用的金句。",
+    "dialogue": [
+      {
+        "speaker": "Moderator",
+        "text": "Frau Professor Yilmaz, Homeoffice – Fluch oder Segen?",
+        "audio": "Frau Professor Yilmaz, Homeoffice – Fluch oder Segen?"
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Weder noch. Unsere Daten zeigen ein differenzierteres Bild: Produktiv ist es dort, wo die Aufgaben klar sind und die Teams sich regelmäßig sehen.",
+        "audio": "Weder noch. Unsere Daten zeigen ein differenzierteres Bild: Produktiv ist es dort, wo die Aufgaben klar sind und die Teams sich regelmäßig sehen."
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Aber viele Chefs sagen doch: Zu Hause wird nur gefaulenzt.",
+        "audio": "Aber viele Chefs sagen doch: Zu Hause wird nur gefaulenzt."
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Diese Behauptung lässt sich mit unseren Zahlen nicht belegen. In unserer Studie mit 4.000 Beschäftigten war die Leistung im Homeoffice gleich hoch, die Krankmeldungen sogar niedriger. Entscheidend ist nicht der Ort, sondern die Führung.",
+        "audio": "Diese Behauptung lässt sich mit unseren Zahlen nicht belegen. In unserer Studie mit 4.000 Beschäftigten war die Leistung im Homeoffice gleich hoch, die Krankmeldungen sogar niedriger. Entscheidend ist nicht der Ort, sondern die Führung."
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Also fordern Sie ein Recht auf Homeoffice für alle?",
+        "audio": "Also fordern Sie ein Recht auf Homeoffice für alle?"
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Lassen Sie mich das präzisieren: Ich fordere kein Recht für alle, sondern verbindliche Absprachen in jedem Betrieb. Eine Verkäuferin kann nicht von zu Hause arbeiten – ein Programmierer oft schon.",
+        "audio": "Lassen Sie mich das präzisieren: Ich fordere kein Recht für alle, sondern verbindliche Absprachen in jedem Betrieb. Eine Verkäuferin kann nicht von zu Hause arbeiten – ein Programmierer oft schon."
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Kritiker warnen vor der Vereinsamung der Mitarbeiter.",
+        "audio": "Kritiker warnen vor der Vereinsamung der Mitarbeiter."
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Das ist ein berechtigter Punkt. Deshalb empfehlen wir hybride Modelle: zwei bis drei Tage im Büro für den Austausch, der Rest flexibel. Wer nur noch allein zu Hause sitzt, verliert auf Dauer den Anschluss.",
+        "audio": "Das ist ein berechtigter Punkt. Deshalb empfehlen wir hybride Modelle: zwei bis drei Tage im Büro für den Austausch, der Rest flexibel. Wer nur noch allein zu Hause sitzt, verliert auf Dauer den Anschluss."
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Ihr Fazit in einem Satz?",
+        "audio": "Ihr Fazit in einem Satz?"
+      },
+      {
+        "speaker": "Yilmaz",
+        "text": "Gern: Die Frage ist nicht, ob wir im Büro oder zu Hause arbeiten – sondern ob wir gut geführt und sinnvoll arbeiten, wo immer wir sind.",
+        "audio": "Gern: Die Frage ist nicht, ob wir im Büro oder zu Hause arbeiten – sondern ob wir gut geführt und sinnvoll arbeiten, wo immer wir sind."
+      },
+      {
+        "speaker": "Moderator",
+        "text": "Ein starker Schlusssatz. Vielen Dank für das Gespräch, Frau Professor Yilmaz.",
+        "audio": "Ein starker Schlusssatz. Vielen Dank für das Gespräch, Frau Professor Yilmaz."
+      }
+    ],
+    "table": {
+      "caption": "重点表达",
+      "headers": [
+        "德语",
+        "用途"
+      ],
+      "rows": [
+        [
+          "Weder noch. / ein differenzierteres Bild",
+          "拒绝二选一"
+        ],
+        [
+          "Diese Behauptung lässt sich mit unseren Zahlen nicht belegen.",
+          "数据驳斥"
+        ],
+        [
+          "Lassen Sie mich das präzisieren: …",
+          "纠正诱导提问"
+        ],
+        [
+          "Das ist ein berechtigter Punkt. Deshalb …",
+          "先认后转"
+        ],
+        [
+          "Die Frage ist nicht …, sondern …",
+          "金句框架"
+        ]
+      ],
+      "hl": []
+    },
+    "exercises": [
+      {
+        "type": "choice",
+        "q": "开场二选一陷阱的最佳回应是？",
+        "explain": "拒绝框架 + 亮出数据立场，是专家应答的第一招。",
+        "options": [
+          "Weder noch – unsere Daten zeigen ein differenzierteres Bild.",
+          "Ganz klar ein Segen, nur Segen!",
+          "Das kann man so pauschal nicht sagen, äh, ja, schwierig."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Diese Behauptung ＿＿ sich mit unseren Zahlen nicht belegen.\"",
+        "explain": "sich lassen + 不定式是「无法被…」的正式驳斥句型。",
+        "answer": "lässt"
+      },
+      {
+        "type": "choice",
+        "q": "被诱导表态时的 bridging 是？",
+        "explain": "先纠正前提，再给自己的精确版本。",
+        "options": [
+          "Lassen Sie mich das präzisieren: Ich fordere kein Recht für alle, sondern verbindliche Absprachen.",
+          "Ja genau, Recht für alle, haben Sie gut gesagt!",
+          "Dazu sage ich lieber gar nichts."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "„Das ist ein ＿＿ Punkt. Deshalb empfehlen wir hybride Modelle.\"",
+        "explain": "先认对方合理点再转折，是采访里的高段位句式。",
+        "answer": "berechtigter"
+      },
+      {
+        "type": "choice",
+        "q": "金句的构造是？",
+        "explain": "nicht …, sondern … 框架天生适合被引用。",
+        "options": [
+          "Die Frage ist nicht X, sondern Y.",
+          "Also ich finde das Thema total interessant und so.",
+          "Dazu könnte man jetzt sehr viel sagen, wirklich sehr viel."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen_choice",
+        "q": "听句辨动作",
+        "explain": "这是把复杂数据压缩成一句立场的提炼动作。",
+        "options": [
+          "提炼核心论点",
+          "回避问题",
+          "结束采访"
+        ],
+        "answer": 0,
+        "audio": "Entscheidend ist nicht der Ort, sondern die Führung."
+      },
+      {
+        "type": "fill",
+        "q": "数据立论：„In unserer Studie mit 4.000 ＿＿ war die Leistung gleich hoch.\"",
+        "explain": "样本量 + 人群是采访数据的基本口径。",
+        "answer": "Beschäftigten"
+      },
+      {
+        "type": "choice",
+        "q": "記者问到不愿答的内部信息时，合格回应是？",
+        "explain": "划界 + 给可说的部分，绝不编数（与全线「数字不编」铁律一致）。",
+        "options": [
+          "Zu internen Zahlen äußere ich mich nicht; was ich sagen kann: Der Trend ist positiv.",
+          "Ich tue so, als hätte ich die Frage nicht gehört.",
+          "Ich erfinde schnell eine plausibel klingende Zahl."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "q": "混合模式建议：„Wir empfehlen ＿＿ Modelle: zwei bis drei Tage Büro, der Rest flexibel.\"",
+        "explain": "hybride Modelle 是远程办公讨论的术语核心。",
+        "answer": "hybride"
+      },
+      {
+        "type": "order",
+        "q": "排应答顺序",
+        "explain": "专家应答五拍：破框、立据、纳异、明位、金句。",
+        "tokens": [
+          "给出自己的精确立场",
+          "拒绝二选一框架",
+          "以金句收尾",
+          "用数据支撑",
+          "承认对方合理点"
+        ],
+        "answer": [
+          "拒绝二选一框架",
+          "用数据支撑",
+          "承认对方合理点",
+          "给出自己的精确立场",
+          "以金句收尾"
+        ]
+      }
+    ],
+    "speaking": "模拟 40 秒采访应答（自选话题，如「该不该禁止学生用手机」）：拒绝二选一一句 → 一个数据或事实 → 一句金句收尾。",
+    "speakingSample": "Fluch oder Segen? Weder noch. Studien zeigen, dass ein pauschales Verbot die Nutzung nicht senkt, sie nur in die Pausen verlagert. Schulen mit klaren Absprachen und medienfreien Zeiten schneiden besser ab. Die Frage ist also nicht, ob Handys erlaubt sind – sondern ob eine Schule Regeln hat, die alle mittragen.",
+    "speakingSelfcheck": "自查：破框句出现 □；有一个可核查的事实支撑 □；金句用了 nicht …, sondern … 框架 □。",
+    "sceneWords": [
+      "die Behauptung",
+      "belegen",
+      "das Fazit",
+      "das Homeoffice",
+      "der Kritiker",
+      "präzisieren"
+    ]
+  }
+]
