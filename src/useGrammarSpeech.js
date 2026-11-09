@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
+import { applyGermanVoice } from './speech-voices.js'
 
 export function useGrammarSpeech() {
   const epoch=useRef(0)
@@ -8,9 +9,8 @@ export function useGrammarSpeech() {
 
   function prepare(text,rate,token,onEnd) {
     const utterance=new SpeechSynthesisUtterance(text)
-    utterance.lang='de-DE';utterance.rate=rate
-    const voices=speechSynthesis.getVoices()
-    utterance.voice=voices.find((voice)=>voice.lang==='de-DE'&&voice.localService)||voices.find((voice)=>voice.lang==='de-DE')||null
+    utterance.rate=rate
+    applyGermanVoice(utterance)
     utterance.onend=()=>{if(epoch.current===token)onEnd()}
     utterance.onerror=(event)=>{
       if(epoch.current!==token)return

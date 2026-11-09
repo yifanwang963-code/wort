@@ -1,7 +1,7 @@
 import { dayKey } from './learning.js'
 import { wordKey } from './word-model.js'
 
-export const DEFAULT_STUDY_OPTIONS = { newOrder: 'sequential', reviewOrder: 'due', autoSpeak: false, speechRate: 1 }
+export const DEFAULT_STUDY_OPTIONS = { newOrder: 'sequential', reviewOrder: 'due', autoSpeak: false, speechRate: 1, voiceURI: 'auto' }
 
 export function chooseNewWords(words, limit, keys = null, order = 'sequential', random = Math.random) {
   const indexed = keys ? new Map(keys.map((key, index) => [key,index])) : null

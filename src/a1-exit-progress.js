@@ -1,3 +1,5 @@
+import { announceDataChange } from './data-events.js'
+
 export const A1_EXIT_KEY='wort-a1-exit-v1'
 export const A1_EXIT_GATES=['grammar','listening','reading','writing','speaking','vocabulary']
 
@@ -19,9 +21,9 @@ export function getA1ExitProgress(){
 }
 export function replaceA1ExitProgress(value){
   const valid=validateA1ExitProgress(value)
-  globalThis.localStorage?.setItem(A1_EXIT_KEY,JSON.stringify(valid))
+  if(globalThis.localStorage){localStorage.setItem(A1_EXIT_KEY,JSON.stringify(valid));announceDataChange()}
 }
-export function clearA1ExitProgress(){globalThis.localStorage?.removeItem(A1_EXIT_KEY)}
+export function clearA1ExitProgress(){if(globalThis.localStorage){localStorage.removeItem(A1_EXIT_KEY);announceDataChange()}}
 export function saveA1ExitResult(gate,result,now=new Date()){
   if(!A1_EXIT_GATES.includes(gate)||typeof result?.passed!=='boolean'||!Number.isFinite(result.score))throw new Error('A1 出口成绩无效。')
   const prior=getA1ExitProgress()

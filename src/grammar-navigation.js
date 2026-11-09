@@ -1,6 +1,7 @@
 import {findGrammarUnits,grammarUnits} from './grammar.js'
 import {grammarComparisons} from './grammar-expansion.js'
 import {grammarScenarios} from './grammar-scenarios.js'
+import {announceDataChange} from './data-events.js'
 
 export const GRAMMAR_LEVEL_KEY='wort-grammar-level'
 
@@ -55,6 +56,6 @@ export function readGrammarLevel(){
 
 export function saveGrammarLevel(level){
   if(!availableGrammarLevels().includes(level))return
-  try{globalThis.localStorage?.setItem(GRAMMAR_LEVEL_KEY,level)}
+  try{globalThis.localStorage?.setItem(GRAMMAR_LEVEL_KEY,level);announceDataChange()}
   catch{/* Selection remains usable for this visit. */}
 }

@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Volume2 } from 'lucide-react'
+import { applyGermanVoice } from './speech-voices.js'
 
 let activeKey = null
 let activeCancel = null
@@ -41,11 +42,8 @@ export default function ExampleAudioButton({ text, rate = 1, className = 'icon-b
     window.speechSynthesis.cancel()
     publish(null)
     const utterance = new SpeechSynthesisUtterance(text)
-    utterance.lang = 'de-DE'
     utterance.rate = rate
-    const voices = window.speechSynthesis.getVoices()
-    utterance.voice = voices.find((voice) => voice.lang === 'de-DE' && voice.localService)
-      || voices.find((voice) => voice.lang === 'de-DE') || null
+    applyGermanVoice(utterance)
     const key = text
     const finish = () => {
       if (activeKey === key) {

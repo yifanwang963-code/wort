@@ -1,3 +1,5 @@
+import { announceDataChange } from './data-events.js'
+
 export const GRAMMAR_KEY = 'wort-grammar-v1'
 
 function isRecord(value) { return value !== null && typeof value === 'object' && !Array.isArray(value) }
@@ -21,6 +23,7 @@ export function getGrammarProgress() {
     if(progress['g-a1-00']?.done && !progress['g-a1-p1']) {
       progress['g-a1-p1']={...progress['g-a1-00']}
       localStorage.setItem(GRAMMAR_KEY,JSON.stringify(progress))
+      announceDataChange()
     }
     return progress
   }
@@ -29,11 +32,11 @@ export function getGrammarProgress() {
 
 export function replaceGrammarProgress(progress) {
   const valid = validateGrammarProgress(progress)
-  if (globalThis.localStorage) localStorage.setItem(GRAMMAR_KEY, JSON.stringify(valid))
+  if (globalThis.localStorage) { localStorage.setItem(GRAMMAR_KEY, JSON.stringify(valid)); announceDataChange() }
 }
 
 export function clearGrammarProgress() {
-  globalThis.localStorage?.removeItem(GRAMMAR_KEY)
+  if(globalThis.localStorage){localStorage.removeItem(GRAMMAR_KEY);announceDataChange()}
 }
 
 export function saveGrammarResult(unitId, score) {

@@ -110,3 +110,23 @@ Manifest 名称 **Wort**，`display: standalone`。`public/icons/wort-192.png`�
 ## 自动检查
 
 `npm test` 覆盖旧数据库迁移、导入去重与回滚、每日额度、闪卡评分、完整备份往返、错误备份保护、整库恢复回滚、离线外壳及 PNG 尺寸。`npm run build` 检查生产构建。
+
+## Optional account sync (Supabase)
+
+The app remains usable as a local guest without these variables. For local account testing, put `VITE_SUPABASE_URL` and `VITE_SUPABASE_PUBLISHABLE_KEY` in the ignored `.env.local` file. For Cloudflare Pages, add the same two variables to both Production and Preview environments, then trigger a new build. Never put a `sb_secret_` key in the frontend.
+
+Before enabling accounts, run [`supabase/user_data.sql`](supabase/user_data.sql) in the Supabase project's SQL Editor. It creates the single per-user snapshot table and restricts all row operations to `auth.uid() = user_id`. Keep email confirmation disabled if registration should immediately start a session. Set the password recovery redirect URL to the deployed site origin in Supabase Auth URL configuration.
+
+Account sync stores the existing complete Wort backup plus the grammar-level selection in one JSON row. It waits five seconds after local changes, retries on reconnect, and flushes when the page is hidden. First-time devices prompt before replacing different local/cloud datasets. Logout leaves local data untouched.
+
+### Release checks for account sync
+
+1. Create/login to account A on device A. Login on device B with the same account; confirm the same words, SRS state, grammar progress and exit scores appear.
+2. Review five due words on B; refresh A and confirm the new due dates and review count.
+3. Disconnect A, complete a learning round, reconnect, wait for “已同步”, then confirm the new progress on B.
+4. In a clean browser, use the site without logging in; adding words, learning, backup and restore must work locally.
+5. Logout, continue seeing the local library, then login again and confirm the cloud snapshot is restored.
+
+RLS verification is available in `supabase/rls_self_test.sql`: it uses a synthetic authenticated claim and a temporary row inside a transaction, asserts that user A cannot see user B's row, then rolls back. The project check should show four policies and zero rows left behind.
+
+Build and output directory for Cloudflare Pages: `npm run build` and `dist`.

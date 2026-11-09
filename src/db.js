@@ -5,6 +5,7 @@ import { BACKUP_FORMAT, BACKUP_VERSION, validateBackup } from './backup.js'
 import { OUTPUT_MODES, outputCandidates, cardMode, answerMatches, expectedAnswer } from './output.js'
 import { parseLocalDate, isVacationDay, vacationContains, redistributeVacation, backupReminderDue } from './continuity.js'
 import { DEFAULT_STUDY_OPTIONS, chooseNewWords, orderReviews } from './study-options.js'
+import { announceDataChange } from './data-events.js'
 import { clearGrammarProgress, getGrammarProgress, replaceGrammarProgress } from './grammar-progress.js'
 import {clearA1ExitProgress,getA1ExitProgress,replaceA1ExitProgress} from './a1-exit-progress.js'
 import {clearA2ExitProgress,getA2ExitProgress,replaceA2ExitProgress} from './a2-exit-progress.js'
@@ -73,7 +74,7 @@ async function transact(mode, operation) {
   return new Promise((resolve, reject) => {
     const transaction = db.transaction(STORE, mode)
     const request = operation(transaction.objectStore(STORE))
-    transaction.oncomplete = () => resolve(request.result)
+    transaction.oncomplete = () => { if(mode==='readwrite') announceDataChange(); resolve(request.result) }
     transaction.onabort = () => reject(new Error(mode === 'readwrite'
       ? '保存失败，可能是存储空间不足。填写内容已保留，请重试。'
       : '读取本地词库失败，请重试。'))
@@ -116,7 +117,7 @@ export async function restoreBackup(data) {
   replaceB2ExitProgress(snapshot.b2Exit)
   return new Promise((resolve, reject) => {
     const transaction = db.transaction(['words','settings','packs'], 'readwrite')
-    transaction.oncomplete = () => resolve({ words: snapshot.words.length, packs: snapshot.packs.length })
+    transaction.oncomplete = () => { announceDataChange(); resolve({ words: snapshot.words.length, packs: snapshot.packs.length }) }
     transaction.onabort = () => {
       replaceGrammarProgress(previousGrammar)
       replaceA1ExitProgress(previousExit)
@@ -167,7 +168,7 @@ async function writeWords(prepare) {
         }
       }
     }
-    transaction.oncomplete = () => resolve(result)
+    transaction.oncomplete = () => { announceDataChange(); resolve(result) }
     transaction.onabort = () => reject(failure || new Error('保存失败，未写入任何单词。请检查存储空间后重试。'))
     transaction.onerror = () => {}
   })
@@ -212,7 +213,7 @@ export async function setDailyLimit(value) {
         transaction.abort()
       } else store.put({ key: 'dailyLimit', value })
     }
-    transaction.oncomplete = resolve
+    transaction.oncomplete = () => { announceDataChange(); resolve() }
     transaction.onabort = () => reject(failure || new Error('设置保存失败，请重试。'))
   })
 }
@@ -221,7 +222,8 @@ export function setStudyOptions(patch) {
   return studyTransaction(({settings,settingsStore})=>{
     const next = {...DEFAULT_STUDY_OPTIONS,...(settings.get('studyOptions') ?? {}),...patch}
     if (!['sequential','random'].includes(next.newOrder) || !['due','random'].includes(next.reviewOrder)
-      || typeof next.autoSpeak !== 'boolean' || !Number.isFinite(next.speechRate) || next.speechRate < 0.5 || next.speechRate > 1.5)
+      || typeof next.autoSpeak !== 'boolean' || !Number.isFinite(next.speechRate) || next.speechRate < 0.5 || next.speechRate > 1.5
+      || typeof next.voiceURI !== 'string')
       throw new Error('学习设置无效，请检查选项和语速。')
     settingsStore.put({key:'studyOptions',value:next})
     return next
@@ -245,7 +247,7 @@ export async function clearAllData() {
     const settings = transaction.objectStore('settings')
     settings.put({key:'dailyLimit',value:10})
     settings.put({key:'importOrder',value:0})
-    transaction.oncomplete = () => {clearGrammarProgress();clearA1ExitProgress();clearA2ExitProgress();clearB1ExitProgress();clearB2ExitProgress();resolve()}
+    transaction.oncomplete = () => {clearGrammarProgress();clearA1ExitProgress();clearA2ExitProgress();clearB1ExitProgress();clearB2ExitProgress();announceDataChange();resolve()}
     transaction.onabort = () => reject(new Error('清除失败，原有数据保持不变。'))
   })
 }
@@ -292,7 +294,7 @@ export async function savePack(pack) {
         }
       } else if (!exists) store.add(pack)
     }
-    transaction.oncomplete = () => resolve({ exists, upgraded })
+    transaction.oncomplete = () => { if(!exists||upgraded) announceDataChange(); resolve({ exists, upgraded }) }
     transaction.onabort = () => reject(failure || new Error('词包保存失败，请重试。'))
   })
 }
@@ -319,12 +321,12 @@ export async function setCurrentWordbook(packId) {
         settings.put({key:'currentWordbook',value:selected})
       }
     }
-    transaction.oncomplete = () => resolve(selected)
+    transaction.oncomplete = () => { announceDataChange(); resolve(selected) }
     transaction.onabort = () => reject(failure || new Error('当前词书保存失败，请重试。'))
   })
 }
 
-async function studyTransaction(operation, mode = 'readwrite') {
+async function studyTransaction(operation, mode = 'readwrite', shouldNotify = () => mode === 'readwrite') {
   const db = await openDatabase()
   return new Promise((resolve, reject) => {
     const transaction = db.transaction(['words', 'settings'], mode)
@@ -344,7 +346,7 @@ async function studyTransaction(operation, mode = 'readwrite') {
         }
       }
     }
-    transaction.oncomplete = () => resolve(result)
+    transaction.oncomplete = () => { if(shouldNotify()) announceDataChange(); resolve(result) }
     transaction.onabort = () => reject(failure || new Error('学习进度保存失败，本次操作未生效，请重试。'))
     transaction.onerror = () => {}
   })
@@ -365,11 +367,13 @@ function settleVacation({words,settings,wordsStore,settingsStore},now) {
 }
 
 export function getStudyState(now = new Date()) {
+  let changed = false
   return studyTransaction((context) => {
     const {settings,settingsStore} = context
+    if (settings.get('vacation') && dayKey(now) > settings.get('vacation').end) changed = true
     const words = settleVacation(context,now)
     const baseline = settings.get('backupReminderSince') ?? now.getTime()
-    if (!settings.has('backupReminderSince')) settingsStore.put({key:'backupReminderSince',value:baseline})
+    if (!settings.has('backupReminderSince')) { changed = true; settingsStore.put({key:'backupReminderSince',value:baseline}) }
     return {
     words: words.sort((a, b) => b.importOrder - a.importOrder),
     dailyLimit: settings.get('dailyLimit') ?? 10,
@@ -389,7 +393,7 @@ export function getStudyState(now = new Date()) {
       activityDays: [...settings.keys()].filter((key) => (key.startsWith('activity:') && settings.get(key)) || (key.startsWith('learned:') && settings.get(key)?.length)).map((key) => key.slice(key.indexOf(':') + 1)),
     },
   }
-  })
+  }, 'readwrite', () => changed)
 }
 
 export function setVacation(start,end,now = new Date()) {

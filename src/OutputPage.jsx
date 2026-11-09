@@ -35,10 +35,8 @@ export default function OutputPage({ onChanged, studyOptions }) {
     setSpeechError('')
     if (!window.speechSynthesis || !window.SpeechSynthesisUtterance) { setSpeechError('当前浏览器不支持语音朗读。'); return }
     const utterance = new SpeechSynthesisUtterance([value.article,value.german].filter(Boolean).join(' '))
-    utterance.lang = 'de-DE'
     utterance.rate = studyOptions?.speechRate ?? 1
-    const voices = window.speechSynthesis.getVoices()
-    utterance.voice = voices.find((voice) => voice.lang === 'de-DE' && voice.localService) || voices.find((voice) => voice.lang === 'de-DE') || null
+    applyGermanVoice(utterance)
     utterance.onerror = (event) => { if (!['canceled','interrupted'].includes(event.error)) setSpeechError('德语发音暂不可用，请检查设备语音设置。') }
     window.speechSynthesis.cancel(); window.speechSynthesis.speak(utterance)
   }

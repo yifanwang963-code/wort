@@ -11,3 +11,7 @@ dist/
 *.pfx
 .wrangler/
 ui2-screenshots/
+
+# Local Supabase credentials
+.env.local
+.env.*.local

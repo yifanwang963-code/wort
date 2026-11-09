@@ -3,6 +3,7 @@ import { ArrowRight, CheckCheck, RotateCcw, Volume2 } from 'lucide-react'
 import { startStudy, rateStudy } from './db.js'
 import { reviewProgress } from './learning.js'
 import ExampleAudioButton, { cancelExampleSpeech } from './ExampleAudioButton.jsx'
+import { applyGermanVoice } from './speech-voices.js'
 
 export default function StudyPage({ mode, onChanged, studyOptions }) {
   const [state, setState] = useState(null)
@@ -56,12 +57,8 @@ export default function StudyPage({ mode, onChanged, studyOptions }) {
     }
     const text = learn || (!frontOnly && flipped) ? [word.article, word.german].filter(Boolean).join(' ') : word.german
     const utterance = new SpeechSynthesisUtterance(text)
-    utterance.lang = 'de-DE'
     utterance.rate = studyOptions?.speechRate ?? 1
-    const voices = window.speechSynthesis.getVoices()
-    const german = voices.filter((voice) => voice.lang.toLowerCase().startsWith('de'))
-    const voice = german.find((item) => item.localService && item.lang === 'de-DE') || german.find((item) => item.lang === 'de-DE') || german[0]
-    if (voice) utterance.voice = voice
+    applyGermanVoice(utterance)
     utterance.onerror = (event) => { if (!['canceled', 'interrupted'].includes(event.error)) setSpeechError('德语发音暂不可用，请检查设备音量和德语语音包后重试。') }
     window.speechSynthesis.cancel()
     window.speechSynthesis.speak(utterance)

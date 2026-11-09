@@ -1,3 +1,5 @@
+import { announceDataChange } from './data-events.js'
+
 import {A2_EXIT_GATES} from './a2-exit.js'
 
 export const A2_EXIT_KEY='wort-a2-exit-v1'
@@ -18,9 +20,9 @@ export function getA2ExitProgress(){
   catch{return {}}
 }
 export function replaceA2ExitProgress(value){
-  globalThis.localStorage?.setItem(A2_EXIT_KEY,JSON.stringify(validateA2ExitProgress(value)))
+  if(globalThis.localStorage){localStorage.setItem(A2_EXIT_KEY,JSON.stringify(validateA2ExitProgress(value)));announceDataChange()}
 }
-export function clearA2ExitProgress(){globalThis.localStorage?.removeItem(A2_EXIT_KEY)}
+export function clearA2ExitProgress(){if(globalThis.localStorage){localStorage.removeItem(A2_EXIT_KEY);announceDataChange()}}
 export function saveA2ExitResult(gate,result,now=new Date()){
   if(!A2_EXIT_GATES.includes(gate)||typeof result?.passed!=='boolean'||!Number.isFinite(result.score))throw new Error('A2 出口成绩无效。')
   const prior=getA2ExitProgress()

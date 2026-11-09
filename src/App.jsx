@@ -24,6 +24,8 @@ import B2ExitPage, {B2ExitSummary} from './B2ExitPage.jsx'
 import {getGrammarProgress} from './grammar-progress.js'
 import {completedScenarioWordKeys} from './grammar-scenarios.js'
 import {currentStreak} from './overview.js'
+import { setPreferredVoiceURI } from './speech-voices.js'
+import { useCloudSync } from './cloud-sync.js'
 
 const pageLabels={study:'学习',wordbooks:'词书',data:'数据',grammar:'语法',a1exit:'A1 出口',a2exit:'A2 出口',b1exit:'B1 出口',b2exit:'B2 出口',settings:'设置',learn:'学新词',review:'复习',output:'强化训练'}
 function pageFromHash() {
@@ -51,6 +53,7 @@ function reviewSources(dueWords,packs) {
 }
 
 export default function App(){
+  const cloudSync=useCloudSync()
   const [page,setPage]=useState(pageFromHash),[dataTab,setDataTab]=useState(dataTabFromHash)
   const [route,setRoute]=useState(()=>location.hash.slice(1))
   const [words,setWords]=useState([]),[packs,setPacks]=useState([]),[loading,setLoading]=useState(true),[error,setError]=useState('')
@@ -70,12 +73,17 @@ export default function App(){
       const [state,storedPacks]=await Promise.all([getStudyState(),getPacks()])
       setWords(state.words);setPacks(storedPacks);setDailyLimitState(state.dailyLimit);setLearnedToday(state.learnedToday)
       setPausedToday(state.pausedToday);setVacation(state.vacation);setVacationHistory(state.vacationHistory)
-      setCurrentWordbook(state.currentWordbook);setStudyOptionsState(state.studyOptions);setBackupReminder(state.backupReminder)
+      setCurrentWordbook(state.currentWordbook);setStudyOptionsState(state.studyOptions);setPreferredVoiceURI(state.studyOptions.voiceURI);setBackupReminder(state.backupReminder)
       setMetrics(state.metrics);setActiveSession(state.session);setOutputPassedIds(state.outputPassedIds);setNow(new Date())
     }catch(err){setError(err.message||'读取本地数据失败。')}
     finally{setLoading(false)}
   }
   useEffect(()=>{loadWords()},[])
+  useEffect(()=>{
+    const refreshAfterRemoteRestore=()=>loadWords(true)
+    window.addEventListener('wort-cloud-restored',refreshAfterRemoteRestore)
+    return()=>window.removeEventListener('wort-cloud-restored',refreshAfterRemoteRestore)
+  },[])
   useEffect(()=>{
     if(!route.startsWith('data-library?'))return
     const params=new URLSearchParams(route.split('?',2)[1])
@@ -155,7 +163,7 @@ export default function App(){
       {page==='grammar'&&<GrammarPage key={location.hash} route={location.hash.slice(1)} speechRate={studyOptions.speechRate}/>}
       {page==='a1exit'&&<A1ExitPage key={location.hash} route={location.hash.slice(1)} speechRate={studyOptions.speechRate}/>}
       {page==='a2exit'&&<A2ExitPage key={location.hash} route={location.hash.slice(1)} speechRate={studyOptions.speechRate}/>}{page==='b1exit'&&<B1ExitPage key={location.hash} route={location.hash.slice(1)} speechRate={studyOptions.speechRate}/>}{page==='b2exit'&&<B2ExitPage key={location.hash} route={location.hash.slice(1)} speechRate={studyOptions.speechRate}/>}
-      {page==='settings'&&<SettingsPage dailyLimit={dailyLimit} pausedToday={pausedToday} vacation={vacation} now={now} studyOptions={studyOptions} onChanged={()=>loadWords(true)} onRestored={afterRestore}/>}
+      {page==='settings'&&<SettingsPage dailyLimit={dailyLimit} pausedToday={pausedToday} vacation={vacation} now={now} studyOptions={studyOptions} onChanged={()=>loadWords(true)} onRestored={afterRestore} sync={cloudSync}/>}
       {['learn','review'].includes(page)&&<StudyPage key={page} mode={page} studyOptions={studyOptions} onChanged={()=>loadWords(true)}/>}
       {page==='output'&&<OutputPage studyOptions={studyOptions} onChanged={()=>loadWords(true)}/>}
     </>}

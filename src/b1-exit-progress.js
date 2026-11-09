@@ -1,3 +1,5 @@
+import { announceDataChange } from './data-events.js'
+
 import {B1_EXIT_GATES} from './b1-exit.js'
 
 export const B1_EXIT_KEY='wort-b1-exit-v1'
@@ -20,8 +22,8 @@ export function getB1ExitProgress(){
   try{return validateB1ExitProgress(JSON.parse(localStorage.getItem(B1_EXIT_KEY)||'{}'))}
   catch{return {}}
 }
-export function replaceB1ExitProgress(value){globalThis.localStorage?.setItem(B1_EXIT_KEY,JSON.stringify(validateB1ExitProgress(value)))}
-export function clearB1ExitProgress(){globalThis.localStorage?.removeItem(B1_EXIT_KEY)}
+export function replaceB1ExitProgress(value){if(globalThis.localStorage){localStorage.setItem(B1_EXIT_KEY,JSON.stringify(validateB1ExitProgress(value)));announceDataChange()}}
+export function clearB1ExitProgress(){if(globalThis.localStorage){localStorage.removeItem(B1_EXIT_KEY);announceDataChange()}}
 export function b1ExitComplete(progress){return B1_EXIT_GATES.every((gate)=>progress[gate]?.passedEver===true)}
 export function saveB1ExitResult(gate,result,now=new Date()){
   if(!B1_EXIT_GATES.includes(gate)||typeof result?.passed!=='boolean'||!Number.isFinite(result.score)||!Number.isFinite(result.total))throw new Error('B1 出口成绩无效。')

@@ -1,3 +1,5 @@
+import { announceDataChange } from './data-events.js'
+
 import {B2_EXIT_GATES} from './b2-exit.js'
 
 export const B2_EXIT_KEY='wort-b2-exit-v1'
@@ -20,8 +22,8 @@ export function getB2ExitProgress(){
   if(!globalThis.localStorage)return {}
   try{return validateB2ExitProgress(JSON.parse(localStorage.getItem(B2_EXIT_KEY)||'{}'))}catch{return {}}
 }
-export function replaceB2ExitProgress(value){globalThis.localStorage?.setItem(B2_EXIT_KEY,JSON.stringify(validateB2ExitProgress(value)))}
-export function clearB2ExitProgress(){globalThis.localStorage?.removeItem(B2_EXIT_KEY)}
+export function replaceB2ExitProgress(value){if(globalThis.localStorage){localStorage.setItem(B2_EXIT_KEY,JSON.stringify(validateB2ExitProgress(value)));announceDataChange()}}
+export function clearB2ExitProgress(){if(globalThis.localStorage){localStorage.removeItem(B2_EXIT_KEY);announceDataChange()}}
 export function b2ExitComplete(progress){return B2_EXIT_GATES.every(gate=>progress[gate]?.passedEver===true)}
 export function saveB2ExitResult(gate,result,now=new Date()){
   if(!B2_EXIT_GATES.includes(gate)||typeof result?.passed!=='boolean'||!Number.isFinite(result.score)||!Number.isFinite(result.total))throw new Error('B2 出口成绩无效。')
