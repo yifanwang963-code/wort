@@ -3,7 +3,10 @@ export function registerServiceWorker() {
   if (!import.meta.env.PROD || !('serviceWorker' in navigator)) return
   const register = async () => {
     try {
-      await navigator.serviceWorker.register('/sw.js', { updateViaCache: 'none' })
+      await navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`, {
+        scope: import.meta.env.BASE_URL,
+        updateViaCache: 'none',
+      })
       await navigator.serviceWorker.ready
       document.documentElement.dataset.offlineReady = 'true'
     } catch (error) { console.warn('离线资源未准备完成，请联网重新打开 Wort。', error) }

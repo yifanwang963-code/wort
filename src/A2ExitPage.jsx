@@ -63,7 +63,7 @@ function A2Speaking({onDone}){
 function A2Vocabulary({onDone}){
   const [test,setTest]=useState(null),[error,setError]=useState(''),[index,setIndex]=useState(0)
   const [coreAnswers,setCoreAnswers]=useState([]),[recognitionAnswers,setRecognitionAnswers]=useState([]),[input,setInput]=useState('')
-  useEffect(()=>{let active=true;fetch('/wordbooks/goethe-a2.json').then((response)=>{if(!response.ok)throw new Error('A2 词书读取失败。');return response.json()})
+  useEffect(()=>{let active=true;fetch(`${import.meta.env.BASE_URL}wordbooks/goethe-a2.json`).then((response)=>{if(!response.ok)throw new Error('A2 词书读取失败。');return response.json()})
     .then((book)=>{if(active)setTest(createA2VocabularyTest(book.words))}).catch((err)=>{if(active)setError(err.message)});return()=>{active=false}},[])
   if(error)return <p role="alert" className="error-message">{error}</p>
   if(!test)return <p role="status">正在读取 A2 词汇…</p>

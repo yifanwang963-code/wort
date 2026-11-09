@@ -78,9 +78,17 @@ A1 总纲的初始差距见 [A1_COVERAGE_AUDIT.md](A1_COVERAGE_AUDIT.md)。发�
 
 数据只属于当前浏览器的当前站点；不同域名、端口、浏览器或设备不共享。清除网站数据会删除词库和缓存。迁移到 Cloudflare 域名时，先从原地址导出备份，再到新地址恢复。备份文件由你保存，不上传服务器。
 
-## Cloudflare Pages 部署
+## 部署
 
-项目已准备好静态部署，尚未发布到 Cloudflare。
+项目通过 GitHub Actions 发布到 GitHub Pages：推送 `main` 后自动运行 `npm run build`，输出目录为 `dist`。发布地址：<https://yifanwang963-code.github.io/wort/>。
+
+GitHub 仓库需允许 Pages，Pages 的 Build and deployment 来源选 **GitHub Actions**。账号同步构建变量需在仓库 Settings → Secrets and variables → Actions 中配置为 `VITE_SUPABASE_URL` 和 `VITE_SUPABASE_PUBLISHABLE_KEY`；不配置时仍可使用本地学习功能，但账号同步不可用。
+
+项目根目录配置了 GitHub Pages 子路径 `/wort/`，Cloudflare Pages 构建仍使用根路径 `/`。PWA manifest 与 Service Worker 会跟随部署路径设置作用域和缓存地址。
+
+### Cloudflare Pages
+
+Cloudflare Pages 仍保留自动部署；推送 `main` 会同时更新 Cloudflare Pages。
 
 | 配置项 | 值 |
 | --- | --- |

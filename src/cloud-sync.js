@@ -193,7 +193,7 @@ export function useCloudSync() {
     if (!data.session) throw new Error('注册已提交，但当前 Supabase 仍要求邮箱确认；请检查项目的邮箱确认开关。')
   }
   const resetPassword = async (email) => {
-    const { error: authError } = await supabase.auth.resetPasswordForEmail(email, { redirectTo: `${location.origin}/#settings` })
+    const { error: authError } = await supabase.auth.resetPasswordForEmail(email, { redirectTo: `${location.origin}${import.meta.env.BASE_URL}#settings` })
     if (authError) throw authError
   }
   const updatePassword = async (password) => {

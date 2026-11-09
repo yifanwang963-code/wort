@@ -1,4 +1,5 @@
 const CACHE_NAME = __CACHE_NAME__
+const BASE_PATH = __BASE_PATH__
 const SHELL = __SHELL__
 const SHELL_PATHS = new Set(SHELL)
 
@@ -19,8 +20,8 @@ self.addEventListener('fetch', (event) => {
   const { request } = event
   const url = new URL(request.url)
   if (request.method !== 'GET' || url.origin !== self.location.origin) return
-  const path = request.mode === 'navigate' ? '/index.html' : url.pathname
-  if (/^\/wordbooks\/[^/]+\.json$/.test(path)) {
+  const path = request.mode === 'navigate' ? `${BASE_PATH}index.html` : url.pathname
+  if (path.startsWith(`${BASE_PATH}wordbooks/`) && /^.+\.json$/.test(path.slice(`${BASE_PATH}wordbooks/`.length))) {
     event.respondWith((async () => {
       const cache = await caches.open(CACHE_NAME)
       const saved = await cache.match(path)

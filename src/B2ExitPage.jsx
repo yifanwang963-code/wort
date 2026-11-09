@@ -61,7 +61,7 @@ function B2Speaking({onDone}){
 function B2Vocabulary({onDone}){
   const [test,setTest]=useState(null),[error,setError]=useState(''),[index,setIndex]=useState(0)
   const [coreAnswers,setCoreAnswers]=useState([]),[recognitionAnswers,setRecognitionAnswers]=useState([]),[input,setInput]=useState('')
-  useEffect(()=>{let active=true;fetch('/wordbooks/b2.json').then((response)=>{if(!response.ok)throw new Error('B2 词书读取失败。');return response.json()})
+  useEffect(()=>{let active=true;fetch(`${import.meta.env.BASE_URL}wordbooks/b2.json`).then((response)=>{if(!response.ok)throw new Error('B2 词书读取失败。');return response.json()})
     .then((book)=>{if(active)setTest(createB2VocabularyTest(book.words))}).catch((err)=>{if(active)setError(err.message)});return()=>{active=false}},[])
   if(error)return <p role="alert" className="error-message">{error}</p>
   if(!test)return <p role="status">正在读取 B2 词汇…</p>
